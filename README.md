@@ -53,9 +53,9 @@ Eventually the code for this POC will be uploaded to this repository.  However, 
 
 ## Disclaimers
 
-No guarantee is provided that any files within this repository are accurate representations of the original transcripts.
-
+* No guarantee is provided that any files within this repository are accurate representations of the original transcripts.
 The original transcripts hosted at https://pdfs.nycourts.gov/PeopleVs.DTrump-71543/transcripts/ are the source of truth and any reference to the transcripts should cite these instead of anything in this repository.
+* No guarantee is given that the directory structure or file formats will remain the same.  The location of, name of, and content of any files within this repository may change at any time without notice.  The files within this repository should therefore not be treated as a API for any system outside of this repository.
 
 ## Additional information
 
