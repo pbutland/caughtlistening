@@ -2,7 +2,7 @@
 
 This repository contains transcript data from the Trump New York trial, indictment #71543/2023 (https://pdfs.nycourts.gov/PeopleVs.DTrump-71543/transcripts/).
 
-The first transcript provided by the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) was originally in PDF format.  However, this was almost immediately taken down and replaced by, what can only be described as, an utterly retarded and almost unusable alternative.  I'm sure that they have their reasons.  Being American probably the most obvious one.
+The first transcript provided by the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) was originally in PDF format.  However, this was almost immediately taken down and replaced by, what can only be described as, an utterly retarded and almost unusable alternative.  I'm sure that they have their reasons.  Being American probably chief among them.
 
 The way that the transcripts have been published is that each page of a transcript is a separate HTML page and within this page an embedded image displays the text.  As an image!!!
 
@@ -25,7 +25,7 @@ Within each directory for each trial there are the following directories:
 * `images` - the images that are embedded in the above mentioned HTML files.
 * `text` - contains a text file for each of the image files mentioned above.
 
-That describes the "raw" data.  However, at the top directory level of each trial directory there is a file that combines all of the individual text files.  It attempts to format the text so that it can be easily read as input for another program (see What's next?).
+That describes the "raw" data.  However, at the top directory level of each trial directory there is a file that combines all of the individual text files.  It attempts to format the text so that it can be easily read as input for another program (see [What's next?](#what-next)).
 
 ## Generated text
 
