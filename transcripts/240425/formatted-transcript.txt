@@ -153,7 +153,8 @@ Q How would you describe his tone?
 A Michael was very agitated. Why is this taking so long? Why didn't we acquire —— why didn't we buy the story yet? Why didn't we finish the agreement? So he was pretty agitated.
 Q Did you discuss with Michael Cohen the manner of who would be paying Karen McDougal?
 A Yes. Now that we had the price, that it was $150,000, I said: "Who is going to pay for this?" So he said: "You should pay." I said: "Michael" —— I said —— "why would I pay? I just paid $30,000 for the doorman story." I said: "Now you're asking me to pay $150,000 for the Karen story, plus all of these other additional items that she wants to do." "I don't have a problem in doing everything else that she requested about writing for the magazines, to be on the cover of the books —— of the fitness titles. That's not an issue. That I don't have a problem with." "The $150,000, who is going to reimburse me for this?" So he said, again: "Don't worry about it. I'm your friend. The Boss will take care of it."
-Q And, again, not to beat a dead horse, but when you have —— when Michael Cohen told you: "Don't worry, The Boss will take care of it," what did you understand that to mean? A "The Boss" would have been Donald Trump.
+Q And, again, not to beat a dead horse, but when you have —— when Michael Cohen told you: "Don't worry, The Boss will take care of it," what did you understand that to mean?
+A "The Boss" would have been Donald Trump.
 Q And "take care of it" means what?
 A That either —— that I would be reimbursed either from the Trump Organization or from Donald Trump.
 Q Okay.
@@ -163,14 +164,16 @@ Q You can start with Page 1.
 **********
 Q Is this a series of texts between you and Dylan Howard from 2016 regarding Karen McDougal?
 A Yes, it is.
-Q And I should just clarify. Are portions of phone numbers and email addresses redacted in this exhibit to protect personal information of the parties to this text chain? A (No response.)
+Q And I should just clarify. Are portions of phone numbers and email addresses redacted in this exhibit to protect personal information of the parties to this text chain?
+A (No response.)
 Q Did you understand my question?
 A Can you repeat it? I'm sorry.
 Q Yeah, of course. My question was: Are portions of the phone numbers and email addresses redacted on this exhibit to protect personal information of the parties to this text chain?
 A Yes, that's correct.
 Q Okay. So I want to zoom in on the last column of the lines marked DOC 47—240 to 241. Let me first ask you, is this last column basically a summary of the date, the time of the text, who it's from, who it's to, as well as the body of the text itself?
 A Yes, it is.
-Q If you look at the —— what does the date and time marked say on this top text? A 2016/07/23, 19:21:45 UTC.
+Q If you look at the —— what does the date and time marked say on this top text?
+A 2016/07/23, 19:21:45 UTC.
 Q Now, do you understand that to mean July 23rd, 2016, at 7:21 p.m. UTC time?
 A Yes.
 Q Do you know what UTC time is?
@@ -199,7 +202,8 @@ Q Okay. Can you read us the substance of that text. Oh, I'm sorry, one more thin
 A It's from Dylan Howard.
 Q Okay. And who is it to?
 A It's to me.
-Q Okay. And can you read us the substance of the text, please? A "Spoke to Michael Cohen about that other issue. Obviously concerned that it is proceeding with filming dates, etc., and wants me to handle. I'm on it."
+Q Okay. And can you read us the substance of the text, please?
+A "Spoke to Michael Cohen about that other issue. Obviously concerned that it is proceeding with filming dates, etc., and wants me to handle. I'm on it."
 Q What did you understand Dylan Howard to be referring to when he said "that other issue?"
 A I don't recollect. Can we —— can you clarify that?
 Q Well, I can't testify.
@@ -256,7 +260,8 @@ MR. STEINGLASS: And I'm going to ask that paragraphs 1 and 2 be blown up.
 (Displayed.)
 *******
 Q I'm not going to ask you to read this entire thing, but can you just give us some of the highlights of what the deal involved?
-A Yes. It was a two—year agreement. And McDougal was going to get a monthly column on aging and fitness for Star Magazine; a monthly column on aging and fitness in OK Magazine. She was going to post on aging and fitness on Radar. AMI was going to hire ghost writers. A ghost writer is someone who would write the article for them and then Karen McDougal would approve it, and —— which was an important point. And that any time Karen's photo was used in any digital site or in the magazine, she had to have approval of her image.
+A Yes. It was a two—year agreement. And McDougal was going to get a monthly column on aging and fitness for Star Magazine; a monthly column on aging and fitness in OK Magazine. She was going to post on aging and fitness on Radar. AMI was going to hire ghost writers.
+A ghost writer is someone who would write the article for them and then Karen McDougal would approve it, and —— which was an important point. And that any time Karen's photo was used in any digital site or in the magazine, she had to have approval of her image.
 Q Okay. So now I'm going to blow up Paragraph 3.
 (Displayed.)
 **********
@@ -293,7 +298,8 @@ Q So this was the price?
 A Yes.
 Q Okay. I want to display Page 2, Paragraph 6. l (Displayed.)
 **********
-Q Can you read this to the jury and tell us what it means, please? A "All decisions whatsoever, whether of a creative or business nature, regarding any of the rights granted by McDougal to AMI herein, or any rights derived or ancillary thereto, shall be made by AMI in its sole discretion."
+Q Can you read this to the jury and tell us what it means, please?
+A "All decisions whatsoever, whether of a creative or business nature, regarding any of the rights granted by McDougal to AMI herein, or any rights derived or ancillary thereto, shall be made by AMI in its sole discretion."
 Q Can you explain to us what that means?
 A That means that AMI would make the decision whether we would publish anything —— any story on Karen McDougal.
 Q So by purchasing her life rights, you were not obligated to actually print them?
@@ -364,10 +370,12 @@ Q And who is the vendor, and what does vendor mean?
 A Vendor is the accounts payable for services for the contracts that we purchased, and Keith Davidson is Karen McDougal's attorney.
 Q So, in laymen's terms, this is a bill from Keith Davidson to AMI?
 A It's a bill from Keith Davidson to AMI for Karen's lifetime rights, and we sent a wire transfer, $150,000, to his escrow account.
-Q We will get to that in one minute. What's the invoice date? A 8/9/2016, which is two days, I guess, four days from the date they signed, that we had the signed agreement.
+Q We will get to that in one minute. What's the invoice date?
+A 8/9/2016, which is two days, I guess, four days from the date they signed, that we had the signed agreement.
 Q With the effective date?
 A Yes, the effective date.
-Q What's the invoice amount? A $150,000.
+Q What's the invoice amount?
+A $150,000.
 Q Okay. I am going to move down this exhibit a little bit and just ask you, what is the account?
 A The account is where we —— where it would be coded in the general ledger. This would be coded to the general administration, and it says, outside services. And the outside services, we take it one more, this is the President's Department.
 Q So, is it fair to say that this line that we have l blown up has the account information —— the account information, et cetera? That's AMI's internal recordkeeping of how they are kind of recording this expense in their own books?
@@ -406,11 +414,14 @@ Q Briefly, for the jury, what is a payment voucher?
 A A payment voucher is when all of the —— the documents for a payment are approved. The invoice, the contracts are prepared. The contract was approved. The invoice from Keith Davidson was approved for over $150,000. The next step would be to create a payment voucher so you can actually wire a check.
 Q Okay. Who is the payee listed here?
 A Keith Davidson and Associates.
-Q And, again, what is the amount billed? A $150,000.
-Q Date of the bill? A 8/9, August 9th.
+Q And, again, what is the amount billed?
+A $150,000.
+Q Date of the bill?
+A 8/9, August 9th.
 Q The date of the payment?
 A The date of the payment would have been August 10.
-Q That's 2016? A 2016.
+Q That's 2016?
+A 2016.
 Q Turning your attention to page two of the same document, do you know what this is?
 A Yes.
 Q What is it?
@@ -506,8 +517,7 @@ THE COURT: I am going to allow it. Are you asking for a limiting instruction reg
 MR. BOVE: Judge, we would ask just to make sure that a foundation is laid that Mr. Pecker saw this contemporaneously.
 THE COURT: Sure .
 MR. BOVE: Thank you.
-(Discussion at side—bar concluded, and the following occurred in open court.)
-BY MR. STEINGLASS:
+(Discussion at side—bar concluded, and the following occurred in open court.) BY MR. STEINGLASS:
 Q So you told us, I believe, Mr. Pecker, that there was an invoice prepared for this reimbursement, is that right?
 A Yes, that's correct.
 Q I would like to show what is in evidence and is being displayed as People's Exhibit 161. Do you recognize this document?
@@ -517,8 +527,7 @@ A That is an invoice from Investment Advisory Services. This is not an American 
 THE COURT: I am going to instruct the jury, Mr. l Steinglass?
 MR . STE INGLASS : Sure .
 THE COURT: Jurors, so, this document has been accepted into evidence. I direct you to not consider this document for the truth of its contents. It is being accepted into evidence for the fact that this invoice was created, not for the truth of what it says.
-MR. STEINGLASS: Thank you, Judge.
-BY MR. STEINGLASS:
+MR. STEINGLASS: Thank you, Judge. BY MR. STEINGLASS:
 Q Let me ask you this, is it fair to say that you asked Daniel Rotstein to be the middle man to disguise the fact that money would be flowing from Michael Cohen to AMI?
 MR. BOVE: Objection.
 MR. STEINGLASS: Sustained.
@@ -526,7 +535,8 @@ Q I am not trying to be offensive. Can you just give us a shorter answer, a shor
 A I used Daniel Rotstein to create the invoice because I did not want to have a payment received in the AMI finance department from the Trump Organization or Michael Cohen.
 Q Why not?
 A Because I believed that that payment would raise a lot of questions and issues and be communicated to the rest of the editors which is something I didn't want to happen.
-Q Okay. So I am going to blow up the top of this invoice, and I am going to ask you a few questions about it. First, of all what is the date of this invoice? A 9/21/16.
+Q Okay. So I am going to blow up the top of this invoice, and I am going to ask you a few questions about it. First, of all what is the date of this invoice?
+A 9/21/16.
 Q Who is being billed?
 A Resolution Consultants LLC.
 Q And I think you alluded to this a few minutes ago, but what was your understanding of the purpose of using Resolution Consultants to reimburse AMI for the Karen McDougal payment?
@@ -580,7 +590,8 @@ A It was the first week of October of 2016.
 Q Tell us about that conversation.
 A Yes. I called Michael Cohen, and I said to him that the agreement, the assignment deal is off. I am not going forward. It is a bad idea, and I want you to rip up the agreement. He was very, very, angry. Very upset. Screaming, basically, at me. And I said, I am not going forward with this agreement. Rip it up. And he said, excuse me, Michael Cohen said, The Boss is going to be very angry at you. I said, I am sorry. I am not going forward. The deal is off. And he said, I can't believe it. I am a lawyer. I am your friend. I don't understand why you are so concerned. I said, I am very concerned, and I am not going forward, period. And I said, are you going to rip it up or not? And he said, I will take care of it.
 Q To be clear, Mr. Pecker, did AMI ever get reimbursed for the money ——
-A No. Q —— let me finish the question. Did AMI ever get reimbursed for the money it spent to acquire the exclusive rights to Ms. McDougal's story about her affair with Mr. Trump?
+A No.
+Q —— let me finish the question. Did AMI ever get reimbursed for the money it spent to acquire the exclusive rights to Ms. McDougal's story about her affair with Mr. Trump?
 A No. No, we never did.
 MR. STEINGLASS: I am not sure how we are doing, but is this a good time for our morning break?
 THE COURT: Okay, Jurors. Let's take our morning recess. We will take about 20 minutes or so.
@@ -678,7 +689,8 @@ A. It was December 2016.
 Q. Do you remember the actual date?
 A. It was the first week.
 Q. Take a look at the exhibit in front of you see if it refreshes your recollection as to the date that Mr. Sajudin was released.
-A. December 9th is the date of the email. Q. 2016?
+A. December 9th is the date of the email.
+Q. 2016?
 A. December 9, 2016.
 Q. Thank you. I want to now direct your attention to October of 2016. Did you come to learn about a video and audio recording of then candidate Donald Trump that was released by Access Hollywood?
 A. Yes.
@@ -866,7 +878,8 @@ A. Yes, it is.
 Q. Does it refresh your recollection as to the date that your three—way call with Michael Cohen and Dylan Howard took place?
 A. No, I don't think it does.
 Q. Does it ——
-A. There is no date. Q. 302B, Page 5. You said you used the Signal app to make this call?
+A. There is no date.
+Q. 302B, Page 5. You said you used the Signal app to make this call?
 A. That's correct.
 Q. Why did you use the Signal app?
 A. Michael Cohen requested that every time we have a conversation, that I should use the Signal app. And the way he explained it to me, the call is deleted after a period of time, and it's encrypted, there are no messages.
@@ -973,7 +986,8 @@ Q What "deal" do you understand that to mean?
 A That was my original question I asked Dylan to determine, whether she's still going to comply with the agreement.
 Q The Confidentiality Agreement?
 A The Confidentiality Agreement.
-Q How did you respond to Dylan Howard when he told you that? A "Excellent news."
+Q How did you respond to Dylan Howard when he told you that?
+A "Excellent news."
 Q Did you then send another text a little bit later?
 A Yes.
 Q What is the text that you sent?
@@ -990,12 +1004,14 @@ Q Okay.
 A Yeah.
 Q So, is it fair to say that the UTC time is either four or five hours ——
 A Yeah. It's four or five hours ——
-Q That's correct? A —— ahead of the time of New York.
+Q That's correct?
+A —— ahead of the time of New York.
 Q That's correct. When you asked for "any updates", how did Dylan Howard respond?
 A He responded back: "Status quo. Moving forward. No DV mentions. One day of discomfort and back to the campaign issues.
 Q What did you understand that to mean?
 A That there was no mention on cable news or broadcasts about the Karen McDougal story. And he was saying, "one day of discomfort," that would be one day of a lot of bad press. And, um —— and, um, that the press was just reporting campaign issues, not anything related to Karen McDougal.
-Q And how did you respond? A "Thank you. Thanks."
+Q And how did you respond?
+A "Thank you. Thanks."
 Q After the Wall Street Journal article, did AMI also amend its agreement with Karen McDougal?
 A Yes.
 Q In what way?
@@ -1018,7 +1034,8 @@ A This is the amendment to the licensing agreement of Karen McDougal to allow he
 Q Why did you want to allow Ms. McDougal to speak to the press at this point?
 A I felt that the —— The Wall Street Journal article already set the stage and the tone of what the story is. And I wanted to try and keep some form of control on —— around the story, so —— so it's not gonna go any further than where it already was out in the public marketplace. That was one. Two, I wanted to have a —— a —— a representative of the press —— representative, I should say —— a PR representative for Karen who reported to American Media, so we would have some type of contact. And I felt that Karen having somebody to speak to the press in her behalf, with all the calls she was getting, would make her feel more comfortable.
 Q And the press —— so, did you get a press consultant ——
-A Yes. Q —— for Karen McDougal?
+A Yes.
+Q —— for Karen McDougal?
 A Yes.
 Q And that was a press consultant who reported to you?
 A Yes.
@@ -1030,7 +1047,8 @@ Q Who signed on behalf of Karen McDougal?
 A On the American Media side?
 Q On Karen McDougal's side?
 A Karen McDougal signed it on November 29, 2016.
-Q And who signed it on behalf of American Media? A (No response).
+Q And who signed it on behalf of American Media?
+A (No response).
 Q Do you recognize that signature?
 A Signature? I —— I don't know if that signature —— it could be two people. It's either Dylan Howard or Cam Stracher. I believe it's Dylan Howard.
 Q All right. And what was the date that it was signed on behalf of American Media?
@@ -1065,14 +1083,16 @@ Q So, directing your attention to January 6th of 2017, did you attend another me
 A Yes, I did.
 Q How did you come to be there?
 A I received a call from Rhona Graff, saying to me that, "The President—Elect would like to see you for a meeting" ——
-Q And what did you say? A —— "at Trump Tower." And I said yes. And she gave me the date and time.
+Q And what did you say?
+A —— "at Trump Tower." And I said yes. And she gave me the date and time.
 Q Did you go?
 A Yes. I went to Trump Tower.
 Q What happened when you got there?
 A When I arrived at the building, I never saw any type of security like that in my —— in my lifetime. And I couldn't get close to the building. So, as I was walking outside, Jared Kushner, who is Donald Trump's son—in—law, and at that time he was going to be an adviser at the —— to the Administration, tapped me on the shoulder; and he said, "I'll get you upstairs." And we walked —— we went through the resident area of Trump Tower. We took the elevator to the resident —— to the 24th floor, if I recall correctly, and then we walked over to Mr. Trump's office.
 Q Just to be clear, this is —— at this time, Mr. Trump was the President—Elect?
 A That's correct. President—Elect.
-Q This was early January 2016 —— 2017? A 2017.
+Q This was early January 2016 —— 2017?
+A 2017.
 Q So, you said you went to Mr. Trump's office?
 A Yes.
 Q Tell us about it. What happened when you got to Mr. Trump's office?
@@ -1100,7 +1120,8 @@ Q Now, did he ever say anything to you that made you think that his concern abou
 A I thought it was for the campaign.
 Q What makes you say that?
 A Every time we —— the conversations that I had with Michael Cohen with respect to both of these stories, the family was —— his family was never mentioned; and the conversations that I had directly with Mr. Trump, his family wasn't mentioned. So, I made the assumption it was the —— the concern was the campaign.
-Q And was —— withdrawn. Did there come a time when you perceived that Donald Trump's concern shifted in some way? A (No response).
+Q And was —— withdrawn. Did there come a time when you perceived that Donald Trump's concern shifted in some way?
+A (No response).
 Q You don't know what I'm talking about?
 A I don't know.
 Q Let me show you 302B, Pages 6 and 7.
@@ -1113,7 +1134,8 @@ Q Take a look at Page 6, the bottom of Page 6. Read it to yourself. Don't read i
 Q Tell me when you're ready for the next page.
 A Yes, I am.
 Q Ready for the next page. Okay. Showing to you Page 7.
-(Whereupon, another exhibit is shown to the witness on his screen, and the witness reviews the exhibit.) A (Nods).
+(Whereupon, another exhibit is shown to the witness on his screen, and the witness reviews the exhibit.)
+A (Nods).
 Q Does that refresh your recollection as to whether you believed that Donald Trump's focus shifted at some point?
 MR. BOVE: Judge, I am going to object.
 THE COURT: Please approach.
@@ -1172,7 +1194,8 @@ MR. STEINGLASS: No problem.
 MR. STEINGLASS: Whenever the Court is ready, I would like to be heard on that.
 THE COURT: Okay.
 MR. STEINGLASS: First of all, in response to Counsels' objections, we removed a portion of the exchange that post—dated the conspiracy; and so, we're only seeking to admit the texts that go up through October of 2016. These are, first off, admissible as a business record, insofar as it was the regular course of AMI's business to purchase stories such as Ms. Daniels' story; and Howard conducted that business as part of the regular job responsibilities and was under the business duty to do so truthfully. Again, even if the underlying content isn't admissible as a business record, the Court has determined Mr. Howard is a co—conspirator; and these are core statements in furtherance of the conspiracy, insofar as they involve discussions with Ms. Rodriguez involving the acquisition of the Stormy Daniels story. I do agree with Mr. Bove, the factual statements contained in Ms. Rodriguez's texts should not be considered for the truth, and her portion of the conversation should only be admitted to contextualize Mr. Howard's conversations with her.
-MR. BOVE: I think we're basically on the same page. Our point here is, admittedly, somewhat new on this one. Judge, in exercising your discretion about what's going to come in and how at this trial there is a tipping point where there are factual assertions in these documents that are being put in front of the jury, we appreciate the limiting instructions. At some point, cumulatively, it becomes cumulatively prejudicial. It becomes extremely hard during deliberations where the juror sorts through what is the truth, what is not. They can sort through the exhibits. These texts messages, when you look at the assertions Ms. Rodriguez is making, these are very, very substantive and go directly to what's going on. And we're not going to have an opportunity to cross—examine her. That's why we think for these messages, in light of that, they should not come in. They are, admittedly, her statements; are not in furtherance of the conspiracy; and, therefore, to offer them not for their truth is unduly prejudicial to us.
+MR. BOVE: I think we're basically on the same page. Our point here is, admittedly, somewhat new on this one. Judge, in exercising your discretion about what's going to come in and how at this trial there is a tipping point where there are factual assertions in these documents that are being put in front of the jury, we appreciate the limiting instructions.
+At some point, cumulatively, it becomes cumulatively prejudicial. It becomes extremely hard during deliberations where the juror sorts through what is the truth, what is not. They can sort through the exhibits. These texts messages, when you look at the assertions Ms. Rodriguez is making, these are very, very substantive and go directly to what's going on. And we're not going to have an opportunity to cross—examine her. That's why we think for these messages, in light of that, they should not come in. They are, admittedly, her statements; are not in furtherance of the conspiracy; and, therefore, to offer them not for their truth is unduly prejudicial to us.
 MR. STEINGLASS: If you want me to say anything more?
 THE COURT: It's up to you.
 MR. STEINGLASS: We don't think they're too prejudicial in any way, shape or form. This is core, the conspiracy being enacted in real time in terms of this is the effort to buy up the Stormy Daniels story, discussions about the Stormy Daniels story. It is really a core part of the conspiracy. So, I think any possibility of prejudice can be cured, as it has with several other documents, by instructing the jury that any factual assertions in the Rodriguez portions of those texts should not be considered for the truth, but only to contextualize Mr. Howard's responses. If there's one or two lines that are not necessary to contextualize Ms. Rodriguez's —— Mr. Howard's communications, and Defense Counsel wants to bring those one or two lines to our attention, we can consider whether it's appropriate to redact them. We are not looking to prove the truth of what Ms. Rodriguez is saying. However, what she's saying is semi—important in terms of what AMI's motivation was in terms of buying up that story and preventing it from being released.
@@ -1187,8 +1210,7 @@ THE COURT: Good afternoon, Mr. Pecker. You're still under oath, sir.
 COURT OFFICER: All rise. Jury entering.
 (whereupon, the jurors and the alternate jurors are present and properly seated.)
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties and all jurors are present.
-CONTINUED DIRECT EXAMINATION
-BY BY MR . STE INGLASS :
+CONTINUED DIRECT EXAMINATION BY BY MR . STE INGLASS :
 Q Good afternoon, Mr. Pecker.
 A Good afternoon.
 Q When we broke before lunch, we just finished talking about a meeting you had in Trump Tower on January 6, 2017; do you remember that?
@@ -1202,7 +1224,8 @@ A He said it was a thank you dinner, and he invited myself and my wife.
 Q And what did you say?
 A I said that, "I'll speak to my wife and I'll get right back to you."
 Q And did you do that?
-A I did. And my wife didn't want to go to Washington. And I called back Mr. Trump and explained to him. And he said, "Look. Business friends, business associates. It's your dinner." Q "Your dinner" meaning?
+A I did. And my wife didn't want to go to Washington. And I called back Mr. Trump and explained to him. And he said, "Look. Business friends, business associates. It's your dinner."
+Q "Your dinner" meaning?
 A My thank you dinner.
 Q So, who did you bring —— did you go?
 A Yes. Yes.
@@ -1218,7 +1241,8 @@ Q So, what happened when you went?
 A When we arrived at the White House, I was taken —— we were all taken to the Oval Office. And in the Oval Office, Jared Kushner was there, Sean Spicer was there. And each of the people that I brought to the White House was able to take a photo with Mr. Trump in the Oval Office.
 Q Did the subject of Karen McDougal come up at all?
 A At the time to have dinner, Mr. Trump asked me to join him in a walk from the Oval Office to the —— to the dining area. We passed the Rose Garden. And as we walked out, President Trump asked me, "How is" —— "How is Karen doing?" He said, "How's Karen doing?" So, I said, "She's doing well. She's quiet. Everything is going good."
-Q And who do you understand "Karen" to be a reference to? A "Karen" was Karen McDougal.
+Q And who do you understand "Karen" to be a reference to?
+A "Karen" was Karen McDougal.
 Q Now, you mentioned that you and Dylan Howard posed for photos in the White House that day?
 A Yes, we did.
 Q I'm showing you and the jury what's in evidence as People's 179. And I just want to ask you if you recognize this series of documents. You can scroll through a little bit, if you want.
@@ -1226,7 +1250,8 @@ Q I'm showing you and the jury what's in evidence as People's 179. And I just wa
 A Yes.
 Q And are these a series of texts between Dylan Howard and Keith Davidson, produced in response to a subpoena served on AMI?
 A Yes, it was.
-Q And does the exhibit include separate photos of yourself and Dylan Howard in the White House? A (No response).
+Q And does the exhibit include separate photos of yourself and Dylan Howard in the White House?
+A (No response).
 Q Do you need to see?
 A I haven't seen these.
 Q Let me show you Page 4 of this exhibit.
@@ -1237,7 +1262,8 @@ A Yes. That's Dylan Howard.
 Q Okay. Do you know where that photo was taken?
 A It was in the White House. I don't know which room that was.
 Q All right. Let me show you Page 3 of this exhibit ——
-(Whereupon, an exhibit is shown on the screens.) Q —— and ask you if you recognize the people depicted in this photo?
+(Whereupon, an exhibit is shown on the screens.)
+Q —— and ask you if you recognize the people depicted in this photo?
 A Yes. That's myself and President Trump. We were walking to the dinner.
 Q And is this when you had the conversation about Karen?
 A Yes.
@@ -1267,7 +1293,8 @@ Q Why did you want her to believe that?
 A I wanted her to remain within our —— family; I should say, whereby she was comfortable that we were complying with what we promised her in the original agreement and that she was —— she would not go out and speak to the press. After what happened after The Washington —— after The Wall Street Journal article and all the press that came out of that. So, I wanted to see how comfortable she was.
 Q So, now, I want to direct your attention to January of 2008. You just reminded us about the article that came out about Karen McDougal in The Wall Street Journal in —— on November 4th of 2016. Did another article come out in The Wall Street Journal in January of 2018, in which the press publicly reported that Michael Cohen paid Stormy Daniels not to discuss her sexual relationship with Mr. Trump?
 A Yes.
-Q Do you remember when that was? A (No response).
+Q Do you remember when that was?
+A (No response).
 Q What date it was?
 A I thought it was either early January...
 Q All right. Let me show you, privately, People's Exhibit 181.
@@ -1303,7 +1330,8 @@ Q So, my question is, did Mr. Trump call you in connection with Karen McDougal's
 A Yes, he did.
 Q Now, please, tell us what he told you about that.
 A So, Mr. Trump said when he called me that, he said, "Did you see the Anderson Cooper interview with Karen McDougal?" I said, "Yes." He said, "I thought you had and we had an agreement with Karen McDougal that she can't give any interviews or —— or be on any television shows." So, I said, "Yes." I said, "We have an agreement, but I amended it to allow her to speak to the press." So, Mr. Trump got very aggravated when he heard that I amended it, and he couldn't understand why. I said, "Karen has a two—year agreement. She was flooded with requests from the press for interviews. And I amended her agreement at that time." He said, "Well, then you paid her?" I said, "Yes, I paid her, and I amended the agreement." So, he with was very upset. He couldn't understand why I did it. And that was, basically, the conversation.
-Q When you said "he was very upset", "he couldn't" believe that you "did it", who is the "he" you're referring to? A "He", referring to Donald Trump.
+Q When you said "he was very upset", "he couldn't" believe that you "did it", who is the "he" you're referring to?
+A "He", referring to Donald Trump.
 Q Did there come a time after that when you spoke with Mr. Trump and other members of his White House staff?
 A Yes.
 Q When in relation to the call that you had with Mr. Trump alone?
@@ -1412,8 +1440,7 @@ A Donald Trump.
 (Whereupon, Senior Court Reporter Laurie Eisenberg is relieved by Senior Court Reporter Lisa Kramsky, and the transcript continues on the following page.)          
 (The following proceedings are continued from the previous page.)
 ******
-CONTINUED DIRECT EXAMINATION
-BY MR. STEINGLASS:
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 Q Okay. I'm now going to skip to the statement of admitted facts, which is on Page 4. It starts on Page 4, and I'm going to ask you to walk us through some of these paragraphs, please, most of these paragraphs, actually, starting with Paragraph 2. Go ahead.
 A To read the ——
 Q Just read it.
@@ -1422,33 +1449,40 @@ Q And, once again, is that candidate Donald Trump?
 A Yes.
 Q Okay. Paragraph 3, please.
 (Displayed.)
-******* A "In or about August 2015, David Pecker, the Chairman and Chief Executive Officer of AMI, met with Michael Cohen, an attorney for a presidential candidate, and at least one other member of the campaign." "At the meeting, Pecker offered to help deal with negative stories about that presidential candidate's relationships with women by, among other things, assisting the campaign by identifying such stories so they could be purchased and their publication avoided." "Pecker agreed to keep Cohen apprised of any such negative stories."
+*******
+A "In or about August 2015, David Pecker, the Chairman and Chief Executive Officer of AMI, met with Michael Cohen, an attorney for a presidential candidate, and at least one other member of the campaign." "At the meeting, Pecker offered to help deal with negative stories about that presidential candidate's relationships with women by, among other things, assisting the campaign by identifying such stories so they could be purchased and their publication avoided." "Pecker agreed to keep Cohen apprised of any such negative stories."
 Q Paragraph 4.
 (Displayed.)
 *******
 Q I'm sorry. Before you read Paragraph 4, did you understand Paragraph 3 to be a reference to that August 2015 meeting that you described several times at Trump Tower involving yourself, Mr. Cohen and Mr. Trump?
 A That's correct.
-Q Okay. I'm sorry. Paragraph 4. A "In or about June 2016, an attorney representing a model and actress attempting to sell her story of her alleged extramarital affair with the aforementioned presidential candidate, contacted an editor of the National Enquirer." "Pecker and the editor called Cohen and informed him of the story." "At Cohen's urging and subject to Cohen's promise that AMI would be reimbursed, the editor began negotiating for the purchase of the story." "On June 20th, 2016, the editor interviewed the model about her story." "Following the interview, AMI communicated to Cohen that it would acquire the story to prevent its publication."
+Q Okay. I'm sorry. Paragraph 4.
+A "In or about June 2016, an attorney representing a model and actress attempting to sell her story of her alleged extramarital affair with the aforementioned presidential candidate, contacted an editor of the National Enquirer." "Pecker and the editor called Cohen and informed him of the story." "At Cohen's urging and subject to Cohen's promise that AMI would be reimbursed, the editor began negotiating for the purchase of the story." "On June 20th, 2016, the editor interviewed the model about her story." "Following the interview, AMI communicated to Cohen that it would acquire the story to prevent its publication."
 Q And who did you understand that model, when that paragraph refers to a model, who did you understand that to be a reference to?
 A Karen McDougal.
 Q Thank you. Paragraph 5, please.
 (Displayed.)
-******* A "On or about August 5th, 2016, AMI entered into an agreement with the model to acquire her limited life rights to the story of her relationship with any then—married man, in exchange for $150,000.” "It was also agreed that AMI would feature her on two magazine covers and could publish over 100 magazine articles authorized by her." "AMI agreed to pay the model $150,000 —— substantially more money than AMI otherwise would have paid to acquire the story —— because of Cohen's assurances to Pecker that AMI would ultimately be reimbursed for the payment." "Despite the cover and article features to the agreement, AMI's principle purpose in entering into the agreement was to suppress the model's story so as to prevent it from influencing the election." "At no time during the negotiation for or acquisition of the model's story did AMI intend to publish the story or disseminate information about it publicly." On or about August 10th, 2016, AMI sent $150,000 to an attorney representing the model."
+*******
+A "On or about August 5th, 2016, AMI entered into an agreement with the model to acquire her limited life rights to the story of her relationship with any then—married man, in exchange for $150,000.” "It was also agreed that AMI would feature her on two magazine covers and could publish over 100 magazine articles authorized by her." "AMI agreed to pay the model $150,000 —— substantially more money than AMI otherwise would have paid to acquire the story —— because of Cohen's assurances to Pecker that AMI would ultimately be reimbursed for the payment." "Despite the cover and article features to the agreement, AMI's principle purpose in entering into the agreement was to suppress the model's story so as to prevent it from influencing the election." "At no time during the negotiation for or acquisition of the model's story did AMI intend to publish the story or disseminate information about it publicly." On or about August 10th, 2016, AMI sent $150,000 to an attorney representing the model."
 Q Okay. Paragraph 6, please.
 (Displayed.)
-******* A "Between in or about late August 2016 and September 2016, Cohen called Pecker and stated that he wanted to be assigned to the limited life rights portion of AMI's agreement with the model, which included the requirement that the model not otherwise disclose her story." "Pecker agreed to assign the rights to Cohen for $125,000." "Pecker instructed a consultant who works for AMI to complete the assignment through a company unaffiliated with AMI. " "On September 30th, 2016, Pecker signed" ——
+*******
+A "Between in or about late August 2016 and September 2016, Cohen called Pecker and stated that he wanted to be assigned to the limited life rights portion of AMI's agreement with the model, which included the requirement that the model not otherwise disclose her story." "Pecker agreed to assign the rights to Cohen for $125,000." "Pecker instructed a consultant who works for AMI to complete the assignment through a company unaffiliated with AMI. " "On September 30th, 2016, Pecker signed" ——
 Q Let me just stop you for one second. That consultant, who is that?
 A That is Daniel Rotstein.
-Q Okay. Keep going. A "On September 30th, 2016, Pecker signed an Assignment Agreement, which contemplated the transfer of the limited life rights portion of AMI's agreement to an entity that had been set up by Cohen for $125,000." "The consultant delivered the signed Assignment Agreement to Cohen, along with an invoice from a shell corporation incorporated by the consultant for the payment of $125,000, which falsely stated the payment was for an 'agreed upon' 'flat fee' for advisory services." "However, in or about early October 2016, after the Assignment Agreement was signed, but before Cohen had paid the $125,000, Pecker contacted Cohen and told him that the deal was off and that Cohen should tear up the Assignment Agreement."
+Q Okay. Keep going.
+A "On September 30th, 2016, Pecker signed an Assignment Agreement, which contemplated the transfer of the limited life rights portion of AMI's agreement to an entity that had been set up by Cohen for $125,000." "The consultant delivered the signed Assignment Agreement to Cohen, along with an invoice from a shell corporation incorporated by the consultant for the payment of $125,000, which falsely stated the payment was for an 'agreed upon' 'flat fee' for advisory services." "However, in or about early October 2016, after the Assignment Agreement was signed, but before Cohen had paid the $125,000, Pecker contacted Cohen and told him that the deal was off and that Cohen should tear up the Assignment Agreement."
 Q And Paragraph 7.
-(Displayed.) A "Following the 2016 presidential election, AMI published articles written by the model in OK! Magazine and Star Magazine, featured on the cover of Muscle and Fitness, Hers, and published articles in Radar Online featuring the model." "The publication of these articles was intended, at least in part, to keep the model from commenting publicly about her story and her agreement with AMI."
+(Displayed.)
+A "Following the 2016 presidential election, AMI published articles written by the model in OK! Magazine and Star Magazine, featured on the cover of Muscle and Fitness, Hers, and published articles in Radar Online featuring the model." "The publication of these articles was intended, at least in part, to keep the model from commenting publicly about her story and her agreement with AMI."
 Q Paragraph 8, please.
 (Displayed.)
 *******
 A At all relevant times, AMI knew that corporations such as AMI are subject to Federal Campaign Finance Laws, and that expenditures by corporations, made for purposes of influencing an election and in coordination with or at the request of a candidate or campaign are unlawful." "At no time did AMI report to the Federal Election Commission that it had made the $150,000 payment to the model."
 Q And, lastly, Paragraph 9, please.
 (Displayed.)
-******* A "AMI has cooperated with the United States Attorney's Office for the Southern District of New York and the Federal Bureau of Investigation during its investigation and provided substantial and important assistance to the investigating agents and prosecutors during the course of the Grand Jury investigation in the Southern District of New York." "Among other things, AMI has made various personnel from AMI available for numerous interviews, engaged outside counsel to ensure the integrity of its compliance with and responses to subpoenas, and responded to numerous requests from Prosecutors for various specific items of information." AMI has also agreed in connection with the Non—Prosecution Agreement to implement specific improvements to its internal compliance to prevent future violations of the Federal Campaign Finance Laws."
+*******
+A "AMI has cooperated with the United States Attorney's Office for the Southern District of New York and the Federal Bureau of Investigation during its investigation and provided substantial and important assistance to the investigating agents and prosecutors during the course of the Grand Jury investigation in the Southern District of New York." "Among other things, AMI has made various personnel from AMI available for numerous interviews, engaged outside counsel to ensure the integrity of its compliance with and responses to subpoenas, and responded to numerous requests from Prosecutors for various specific items of information." AMI has also agreed in connection with the Non—Prosecution Agreement to implement specific improvements to its internal compliance to prevent future violations of the Federal Campaign Finance Laws."
 Q Thank you. Now ——
 MR. STEINGLASS: You can take that down. Thank you. Oh, actually, I'm sorry, I jumped the gun.
 Q I was just going to ask you ——
@@ -1502,12 +1536,14 @@ Q Okay. Thank you. I'm going to skip to the bottom of Page 2 and the top of Page
 (Displayed.)
 **********
 MR. STEINGLASS: Thank you.
-Q Can you read that part, please? A "Examples of materially false or incompetent information or testimony include, but are not limited to the following:"
+Q Can you read that part, please?
+A "Examples of materially false or incompetent information or testimony include, but are not limited to the following:"
 Q Can I just stop you for a second before you answer that. Was it your understanding that you were obligated to tell the truth or you could face perjury charges?
 A Yes, I do.
 Q And does this portion that you are about to read give you examples of what would be considered not being truthful?
 A Yes.
-Q I'm sorry. Now you can go back and read them. A "One. Withholding the name of a person involved in criminal activity;” "Two. Identifying as a participant a person who is not involved in criminal activity.” "Three. Transposing the roles of participants in criminal activity." "Four. Knowingly giving incorrect or misleading information about his participation or the participation of others in criminal activity." "Five. Misrepresenting the source of his knowledge."
+Q I'm sorry. Now you can go back and read them.
+A "One. Withholding the name of a person involved in criminal activity;” "Two. Identifying as a participant a person who is not involved in criminal activity.” "Three. Transposing the roles of participants in criminal activity." "Four. Knowingly giving incorrect or misleading information about his participation or the participation of others in criminal activity." "Five. Misrepresenting the source of his knowledge."
 Q And, Mr. Pecker, was it your understanding that if you did any of these five things, you would be breaching your agreement with the New York County District Attorney's office?
 A Yes, I understand that.
 Q And as part of your agreement, were you also required to attend meetings as requested?
@@ -1550,7 +1586,8 @@ Q And as part of that Agreement, did AMI agree, quote, "not to the contest that 
 A Yes.
 Q Did you read that Conciliation Agreement at the time?
 A I did.
-Q And what did you understand 52 USC Section 30118 (a) to prohibit? A (Pause.)
+Q And what did you understand 52 USC Section 30118 (a) to prohibit?
+A (Pause.)
 Q Do you want me to re—ask that question again?
 A Yes, please.
 Q I think that you just testified that you —— let me ask you the question. What did you understand 52 USC Section 30118 (a) to prohibit?
@@ -1603,8 +1640,7 @@ MR. STEINGLASS: Thank you.
 THE COURT: You may inquire.
 MR. BOVE: Thank you, Judge.
 *******
-CROSS—EXAMINATION
-BY MR. BOVE:
+CROSS—EXAMINATION BY MR. BOVE:
 Q Mr. Pecker, my name is Emil Bove. And I represent President Trump. Now, you testified that you were an executive at AMI from about '99 to 2020; right?
 A That's correct.
 Q And, though, your title in that period were President ——
@@ -1693,7 +1729,8 @@ Q And in all of the scenarios that we just talked about, your ability as an exec
 A Yes.
 Q Standard operating procedure at AMI between 1999 and 2020?
 A Yes.
-Q And, in fact, AMI had predecessors, right, it has been around for a long, long, time? A 85 years plus.
+Q And, in fact, AMI had predecessors, right, it has been around for a long, long, time?
+A 85 years plus.
 Q And AMI has used hundreds of thousands of Source Agreements in the ways that we just talked about; correct?
 A Yes.
 Q Now, you've talked both on Tuesday and today about employees at AMI who help you do those things; right?
@@ -2135,7 +2172,8 @@ Q And no issues with any other regulators; correct?
 A No.
 Q And the story was, in fact, suppressed at that time because AMI purchased the rights; correct?
 A Yes.
-Q How much did that cost? A $20,000.
+Q How much did that cost?
+A $20,000.
 Q Now, you testified on Tuesday about a meeting at Trump Tower that you said happened in August of 2015. Do you remember that?
 A Yes.
 Q And on Tuesday you said that the meeting took place in the middle of August. Do you remember that?
@@ -2150,7 +2188,8 @@ THE COURT: Overruled.
 Q You can answer.
 A I didn't know he was out —— he was at a debate. I wasn't informed of that.
 Q And in fairness ——
-A Yes. Q —— these are things that happened a long time ago; right?
+A Yes.
+Q —— these are things that happened a long time ago; right?
 A Yes.
 Q And so in preparation for your testimony, the People have brought to your attention certain events that helps place your memory within dates; right?
 A Well, any time I have spoken to a Prosecutor, they asked me —— when they asked me any of these questions, they always said: Do you remember, to the best of your knowledge, and to be as truthful as you can.
@@ -2216,7 +2255,8 @@ Q You met with the Prosecutors who are here?
 A Yes.
 Q To prepare your testimony; right?
 A I met with Prosecutors here; that's correct.
-Q When was the most recent meetings that you had with the Prosecutors? A 2 or 3 weeks ago.
+Q When was the most recent meetings that you had with the Prosecutors?
+A 2 or 3 weeks ago.
 Q And how many —— how many meetings would you say that you had this year with the Prosecutors?
 A Over the year, maybe three or four meetings, maybe five in total.
 Q It sounds like a lot. Do you remember when they were?
@@ -2281,7 +2321,8 @@ MR. STEINGLASS: Objection.
 THE COURT: Sustained as to form. Please rephrase.
 Q There are things that you did not remember very well that you testified about today that you used other documents to refresh yourself on; correct?
 A Yes.
-Q Things that you, independently, don't have a strong recollection of, so you're going based on what you said previously? A (Pause). Um —— any documents that I reviewed, I was consistent to what I said when I —— when I'm going back to the original grand jury testimonies that I had.
+Q Things that you, independently, don't have a strong recollection of, so you're going based on what you said previously?
+A (Pause). Um —— any documents that I reviewed, I was consistent to what I said when I —— when I'm going back to the original grand jury testimonies that I had.
 Q And that was important, right, to be consistent with what you had said previously?
 A No. Just refresh my memory.
 Q But, you also understood that you couldn't say anything different than what you said under oath previously; right?
@@ -2338,7 +2379,8 @@ Q You've had to describe this meeting to law enforcement several times; right?
 A Yes.
 Q Getting back to all these meetings that we talked about a moment ago; correct?
 A Yes.
-Q And one of the first times you were asked about this meeting was in July of 2018; right? A (Pause). Yes.
+Q And one of the first times you were asked about this meeting was in July of 2018; right?
+A (Pause). Yes.
 Q And that was a meeting with federal prosecutors; correct?
 A Yes.
 Q Here in Manhattan; right?
@@ -2461,7 +2503,8 @@ THE COURT: Is it anywhere that he was asked there?
 MR. BOVE: This is a report. It isn't memorializing the questions.
 THE COURT: Well, then how can he answer the question? The question is: Were you asked?
 MR. BOVE: I am entitled to put questions to this witness that he went into the meeting, that he would have had the ability to correct if he remembered ——
-THE COURT: The question is, you're asking him: At no time did you say —— at no time did you say that Hope Hicks was there; and you handed him the document. Right?
+THE COURT: The question is, you're asking him:
+At no time did you say —— at no time did you say that Hope Hicks was there; and you handed him the document. Right?
 MR . BOVE: Uh—huh .
 THE COURT: Presumably, to refresh his recollection. So, I just asked you, is there anything in that document that says you were asked that question. Your answer is, well, they don't write down the questions. So, it's a bit disingenuous to hand the witness a document to refresh his recollection. I take it we're not going to finish today?
 MR . BOVE: NO . I have a little more on this topic.

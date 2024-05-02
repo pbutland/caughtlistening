@@ -1,7 +1,8 @@
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. Appearances, starting with the People.
 MR. STEINGLASS: For the People, ADA Joshua Steinglass, Susan Hoffinger, Matthew Colangelo, Christopher Conroy, Becky Mangold, and Katherine Ellis.
 MR. BOVE: Emil Bove for President Trump, seated to my left. I'm joined by Todd Blanche, Susan Necheles, and Gedalia Stern.
-THE COURT: Good morning. A couple of things to go over. Regarding next week’s hearing, I think you received my email, we’re changing the time of that from Wednesday at 2:15 to Thursday at 9:30. I also wanted to go over the issue regarding the text from Dylan Howard you wanted me to look at. We spoke about it yesterday.
+THE COURT: Good morning.
+A couple of things to go over. Regarding next week’s hearing, I think you received my email, we’re changing the time of that from Wednesday at 2:15 to Thursday at 9:30. I also wanted to go over the issue regarding the text from Dylan Howard you wanted me to look at. We spoke about it yesterday.
 MR. STEINGLASS: To the extent that it may inform your Honor's opinion, we sent counsel, last night, some proposed redactions to remove what I think were their concerns, and I believe they’re —— you’ll review those.
 THE COURT: I read the submissions, including all the legal authority that was handed up. I also read the relevant portions of the transcript, which were Pages 1221 through 1226. I note on Page 123, Mr. Bove, at Line 20, says, "I think we’re basically on the same page." And then, on 1224, you express your concern. And your concern is, "At some point, cumulatively, it becomes cumulatively prejudicial." So, I appreciate your concern, and I agree that there could come a point where it will possibly become prejudicial. The difficulty is, I don't know at this point what that’s going to be. So we’re just going to have to keep going through it. You'll make your objections. I'll consider the objections. And at some point, we may get there. I am relying, primarily, on People v. Settles, S—E—T—T—L—E—S, 46 N.Y.2d 154, at Page 169. This is a Court of Appeals decision. "Naturally, there can be no precise demarkation or formulation of the proof which will constitute sufficient support of evidence of a declaration against penal interests. By its very nature, the determination involves a delicate balance of diverse factors and is entrusted to the sound judgment of the trial court which is aptly suited to weigh the circumstances surrounding the declaration and the evidence used to bolster its reliability." So, that's really what’s going to guide this Court. But, the fact that you said you’re pretty much on the same page, we're in agreement with who is a co—conspirator in this case: Dylan Howard. We’re in agreement that at least some, if not most, of the responses are coming in for some purpose. And we’re also in agreement that there will be redactions to that.
 MR. BOVE: Yes, Judge. Thank you. I appreciate and understand all of that. Just for the record, when you said we’re in agreement about who’s a co—conspirator, we understand the Court’s ruling, and we’re abiding by it. Our objection has been noted. And I will confer with Mr. Steinglass and the Government over the weekend about the proposed redactions, and we’ll get back to the Court on Tuesday.
@@ -37,7 +38,8 @@ THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties and 
 THE COURT: Good morning, jurors. Jurors, before we continue with the cross of Mr. Pecker, I wanted to give you an instruction regarding yesterday’s testimony. You heard testimony yesterday about the prosecution speaking to Mr. Pecker about the case before the witness testified at this trial. The law permits the prosecution or an attorney to speak to a witness about a case before the witness testifies and permits the prosecution or an attorney to review with the witness the questions that will or may be asked at trial, including questions that may be asked on cross—examination. You have also heard testimony that a witness, Mr. Pecker, read or reviewed certain materials pertaining to this case before he testified at trial. The law permits a witness to do so. Speaking to a witness about his or her testimony and permitting a witness to review materials pertaining to the case before the witness testifies is a normal part of preparing for trial. It is not improper, as long as it is not suggested that the witness depart from the truth. Mr. Bove.
 MR. BOVE: Thank you, Judge.
 MR. BOVE: May I inquire, Judge?
-THE COURT: Yes. CONTINUED CROSS—EXAMINATION BY MR. BOVE:
+THE COURT: Yes.
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
 Q Good morning, Mr. Pecker.
 A Good morning.
 Q When we were talking at the end of the day yesterday, we were speaking about a meeting with the federal prosecutors in August of 2018. Do you remember that?
@@ -526,9 +528,11 @@ Q What do you remember about the phone call?
 A Mr. Trump called my —— my office in —— either it was in New York or Florida. And since I was in Chatham, New Jersey, my assistant transferred the call to —— to Chatham. And when the call came in, the assistant in the office —— small office —— came over and asked me to come out, that Donald Trump was on the phone. And when I spoke to Mr. Trump, he said that he wanted to know what was —— he asked me —— he said, "I spoke to Michael. And I wanted to talk to you about Karen McDougal." So, he said: Is it true that there's a Mexican group that's looking to buy the story for $8 million?" And I said, "No, I don't believe that's true." Two, he said that —— that —— (pause) —— um —— (pause) —— I want to recollect it completely.
 Q Thank you.
 A He said that, um —— (pause) —— he normally —— oh. I said that —— that, "This story about Karen, since she's claiming that she has a relationship with you, should be taken off the market." And Mr. Trump said, "I don't normally —— I don't buy stories because it always gets out." And then I said, "I still think you should buy the story." And Mr. Trump said to me, "I'll speak to Michael, and he'll get back to you."
-Q And so, as you sit here today, you remember that during that conversation, you said to President Trump: It is my understanding that she doesn't want her story published? A (Pause). Yes. I did. I remember saying that.
+Q And so, as you sit here today, you remember that during that conversation, you said to President Trump: It is my understanding that she doesn't want her story published?
+A (Pause). Yes. I did. I remember saying that.
 Q And you testified about that ——
-A Yes. Q —— at this trial; right?
+A Yes.
+Q —— at this trial; right?
 A Yes.
 Q On April 23rd?
 A Yes. I just wanted to make sure and remember.
@@ -539,7 +543,8 @@ A Okay.
 Q There was later a lawsuit involving Chatham, relating to some of those events in the Summer of 2016; right?
 MR. STEINGLASS: Objection.
 THE COURT: Overruled.
-A Can you clarify about with respect to lawsuits? Q iPayments sued Chatham Asset Management; correct?
+A Can you clarify about with respect to lawsuits?
+Q iPayments sued Chatham Asset Management; correct?
 A The former chairman of iPayment, the company. Not the company itself.
 Q And you were named as a defendant in that lawsuit; right?
 A Yes.
@@ -567,9 +572,12 @@ MR. BOVE: The relevance is that Cohen and Mr. Pecker were working together perso
 THE COURT: I'll allow it.
 MR. BOVE: Thank you, Judge.
 (Whereupon, the following proceedings were held in open court:)
-(whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.)          *******
+(whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.)         
+*******
 (The following proceedings are continued from previous page.)
-THE COURT: Thank you. The objection is overruled. ******* CROSS—EXAMINATION BY MR . BOVE:
+THE COURT: Thank you. The objection is overruled.
+*******
+CROSS—EXAMINATION BY MR . BOVE:
 Q So before that break, we were talking about iPayments; right?
 A Yes.
 Q And my question had been: Did you and Mr. Cohen discuss Cohen getting a job at iPayments; right?
@@ -602,13 +610,15 @@ A Michael Cohen never said that to me.
 Q My question is whether you understood that publishing photographs like that, even if it wasn't going to be harmful, could put a little pressure on President Trump; right?
 A Yes.
 MR. BOVE: And, Mr. Bernik, could we take a look at People's 156 in evidence.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And this is the Agreement between AMI and Ms. McDougal from August of 2016; right?
 A That's correct.
 Q And this Agreement looks a little bit different in terms of formatting from the one with Mr. Sajudin; right?
 A Yes.
 MR. BOVE: And, Mr. Bernik, can you please zoom in on Paragraph 3.
-(Displayed.) *******
+(Displayed.)
+*******
 Q And you were asked some questions by Mr. Steinglass about this provision of the Agreement; right? Do you remember that?
 A Yes.
 Q And I think that one of the questions was whether this document was set up so that it would disguise the other provisions in the Agreement. Do you remember that question?
@@ -631,7 +641,8 @@ Q And you didn't tell the Federal Prosecutors that this was a disguise; correct?
 MR. STEINGLASS: Objection.
 THE COURT: Sustained.
 MR. BOVE: Mr. Bernik, could you please zoom in on Paragraph 1.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And, so, do you see at the start of this paragraph, there is a reference to two years from the effective date?
 A Yes.
 Q And, so, that's basically a 24—month period on this part of the Agreement?
@@ -645,7 +656,8 @@ A Yes.
 Q That's 96 columns over two years; right?
 A That's correct.
 MR. BOVE: And if you could zoom in, please, now on Paragraph 2.
-(Displayed.) **********
+(Displayed.)
+**********
 Q This relates to magazine covers; right?
 A Yes.
 Q And so these are other things that AMI purchased from Ms. McDougal in connection with this agreement; right?
@@ -687,7 +699,8 @@ A Yes.
 Q When AMI signed this agreement, the one that's on the screen, you believed it had a legitimate business purpose; correct?
 A I did.
 MR. BOVE: You can take that down. Thank you. Can we now take a look at People's 158, which is in evidence.
-(Displayed.) **********
+(Displayed.)
+**********
 Q Do you recall talking to Mr. Steinglass about this document yesterday?
 A Yes.
 Q And I think you said that this is an invoice from Keith Davidson; right?
@@ -703,7 +716,8 @@ A Yes.
 Q And as far as you understood it, the standard operating procedure was for the employee to take the information from the invoice and put it in the system?
 A That is correct.
 MR. BOVE: And, Mr. Bernik, if we could zoom in on the bottom row, please.
-(Displayed.) *******
+(Displayed.)
+*******
 Q Do you see that, the headers on these columns: Account, Department, and Operating Unit?
 A Yes.
 Q There were people at AMI and the accounting department who completed that information; right?
@@ -717,7 +731,8 @@ A I did.
 Q And that was AMI's standard operating procedure?
 A Yes.
 MR. BOVE: Mr. Bernik, can we please take a look at Government Exhibit 159, which is also in evidence.
-(Displayed.) **********
+(Displayed.)
+**********
 Q You testified about this one yesterday also?
 A I did.
 Q And I think you said that it is a general ledger detail for the $150,000 transaction with Mr. Davidson?
@@ -731,7 +746,8 @@ A Yes.
 Q And that you trusted your accounting people to input; correct?
 A I did.
 MR. BOVE: If we could zoom in on the right side of this so that we can catch the date column, please.
-(Displayed.) *******
+(Displayed.)
+*******
 Q It's a little blurry there, but do you see the column heading that says ”Date Due"?
 A Yes.
 Q And I think —— I think there is an 8/9/2018 after that. Do you see that?
@@ -749,9 +765,11 @@ A Yes.
 Q And you trusted their work?
 A Yes.
 MR. BOVE: Can we take a look at People's Exhibit 160, please.
-(Displayed.) **********
+(Displayed.)
+**********
 MR. BOVE: I'm sorry. I think it's 161.
-(Displayed.) **********
+(Displayed.)
+**********
 MR. BOVE: Let me correct myself for one minute. It's my fault. People's Exhibit 160, Page 2.
 Q You remember this from yesterday; right?
 A Yes.
@@ -762,7 +780,8 @@ A Yes.
 Q He was AMI's CFO at the time?
 A That's correct.
 MR. BOVE: And, Mr. Bernik, can you zoom in on the bottom third of the document.
-(Displayed.) *********
+(Displayed.)
+*********
 Q There are some other approval signatures here; right?
 A Yes.
 Q It looks like there is a signature by a Controller, with the last name "Brady." Do you know who that is?
@@ -779,7 +798,8 @@ Q And there are no false entries in any of these records; are there?
 A No.
 MR. BOVE: You can take that down, please.
 Q And if we go back now to People's 156 in evidence. This is the agreement with Ms. McDougal.
-(Displayed.) ********
+(Displayed.)
+********
 Q You testified that you consulted a campaign attorney about this agreement; right?
 A Yes.
 Q And you also said that you consulted AMI's general counsel; correct?
@@ -792,9 +812,11 @@ Q That's what you said when —— that's what you meant when you said "Bulletpr
 A Yes.
 Q And I would like to take a look at the trial transcript.
 MR. BOVE: And this is for everybody, please, Mr. Bernik. Page 1128, lines 1 through 18.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And if you can take a look at that, Mr. Pecker, and let me know when you are done, please.
-(Pause.) **********
+(Pause.)
+**********
 A I'm done.
 Q And, so, do you see the questions beginning at Line 12? And I will read it: "And was that all the campaign attorney reviewed, as far as you know?" Do you see that?
 A Yes.
@@ -853,7 +875,8 @@ Q I'm sorry?
 A No, I'm saying the first time I heard —— I heard Keith Davidson's name was June 20th. The time —— to answer your question, the time that I heard about that he knew Michael Cohen, I didn't know that until around the end of July or early August.
 Q So, in June 2016, you learned that Dylan Howard was using an attorney as a major source of information for National Enquirer articles; correct?
 A I wouldn't classify him as a major attorney.
-(Laughter from the audience.) *******
+(Laughter from the audience.)
+*******
 Q Exactly. What I am getting at is whether Mr. Davidson was a major source for Dylan Howard?
 A We had hundreds of sources. He was one of many.
 Q You recall testifying in the Grand Jury with the District Attorney; correct?
@@ -881,7 +904,8 @@ A That's correct.
 Q And you don't know what Cohen and Davidson were working on the side; do you?
 A I don't.
 MR. BOVE: Can we take a look at People's 161 in evidence, please.
-(Displayed.) **********
+(Displayed.)
+**********
 Q This is that invoice that we've looked at a couple of times; right?
 A Yes.
 Q And this is not an AMI record; is it?
@@ -936,14 +960,17 @@ Q Do you recall that during that meeting, you told the Prosecutors that: "The fi
 A Can I trouble you? Could I see that?
 Q Yes.
 MR. BOVE: Mr. Bernik, this is for the parties, Mr. Pecker and the Court, please. Defense A108.
-(Shown to the witness.) *******
+(Shown to the witness.)
+*******
 Q And, so, I want to start just by orienting you to look at the top, just the date and the participants.
-(Pause.) **********
+(Pause.)
+**********
 A Yes. I can see the top. I reviewed the top.
 MR. BOVE: And, now, if we could go to the page with Bates ending 061.
 A Yes.
 MR. BOVE: And zoom in on the top half, please.
-(Displayed.) ********
+(Displayed.)
+********
 Q And do you see the question says: "Why was it called a flat fee for advisory services by somebody named Walsh?"
 A Yes.
 Q And so that's a phrase from the invoice; right?
@@ -959,7 +986,8 @@ A That was the first time.
 Q And just so the record is clear, the mistake that was made is that you testified yesterday that you saw the invoice in 2016; right?
 A Yes. I made an error. I would have seen it when —— what it says here.
 MR. BOVE: We can take that down, please. And if we could bring up People's 180 in evidence.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And I'm —— this is the Wall Street Journal article that we looked at earlier; right?
 A Yes.
 Q And it relates to Ms. McDougal; correct?
@@ -1104,7 +1132,8 @@ MR. STEINGLASS: Objection.
 THE COURT: Sustained.
 MR. BOVE: Your Honor, can we have a sidebar, please?
 THE COURT: Sure.
-(At Sidebar.) ******
+(At Sidebar.)
+******
 THE COURT: I want to hear what the objection is.
 MR. STEINGLASS: I'm finding it hard to see what the relevance is.
 MR. BOVE: I want to lay a foundation so I can ask —— can we do this out of the presence of the witness, Judge?
@@ -1114,17 +1143,21 @@ MR. BOVE: I intend to lay a foundation, Judge, that Mr. Pecker was well aware of
 THE COURT: That's an awful lot of information to bring out just to get to the point that he misremembered something.
 MR. BOVE: This witness is a critical witness, and his memory ——
 THE COURT: I think you are doing a good job with his memory. I don't think you need to go there.
-(Sidebar concluded.) *******
+(Sidebar concluded.)
+*******
 THE COURT: The objection is sustained.
 MR. BOVE: Mr. Bernik, can we just take a look at Page 1213 of the transcript.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And ——
 MR. BOVE: Thank you. Can you please zoom in. I think it's lines 21 through 24.
-(Displayed.) *******
+(Displayed.)
+*******
 Q And, Mr. Pecker, this is testimony that you gave of ——
 MR. STEINGLASS: Objection, Judge. I think this is being displayed —— this is the transcript being displayed to the jury here.
 THE COURT: Can you take that down, please. Please approach.
-(At Sidebar.) ******
+(At Sidebar.)
+******
 THE COURT: All right.
 MR. BOVE: I don't mean to run afoul of your rules; I have done that this morning already.
 THE COURT: You did do that this morning already. I found it really unusual. There was no objection, so I allowed it, but there is an objection now.
@@ -1133,8 +1166,10 @@ THE COURT: Why can't you just asked the question.
 MR. BOVE: But I want to make my point.
 THE COURT: Just ask the question. If he doesn't remember, then you can put that up, all right.
 MR. BOVE: All right. I understand.
-(Sidebar concluded.) *******
-THE COURT: Sustained. ******* l 1 BY MR . BOVE:
+(Sidebar concluded.)
+*******
+THE COURT: Sustained.
+******* l 1 BY MR . BOVE:
 Q So you recall being asked some questions about this meeting yesterday by Mr. Steinglass; right?
 A Yes.
 Q And when I say "this meeting," I mean the meeting on January 6th of 2017; correct?
@@ -1168,9 +1203,11 @@ A Yes; that's correct?
 Q And do you recall saying during that meeting: "Trump did not express any gratitude to Pecker or AMI during the conversation on January 6th, 2017?”
 A I don't recall.
 MR. BOVE: Mr. Bernik, if we could bring up for Mr. Pecker, the parties, and the Court Defense Exhibit A101.
-(Displayed.) *******
+(Displayed.)
+*******
 Q And just to get oriented, I would like you to look at the bottom paragraph and under the date, investigation.
-(Pause.) *******
+(Pause.)
+*******
 Q Were you able to take a look? I just want to make clear that this is the report of the meeting that we were just talking about?
 A This is —— I'm sorry, can you clarify what this is again.
 Q If you look at the bottom, you see the date July 26th, 2018. l A I see July 31st there, at the bottom.
@@ -1184,15 +1221,18 @@ Q And do you recognize that address as the Federal Prosecutor's address?
 A Yes.
 Q And so if you take a look at Page 20 of Defense Exhibit A101, please.
 MR. BOVE: And zoom in on the top half when you get there.
-(Displayed.) **********
+(Displayed.)
+**********
 Q And so you were —— this is —— well, take a look and let me know when you've had a chance to read it.
-(Pause.) **********
+(Pause.)
+**********
 Q Did you have a chance to look at it?
 A You wanted to know if this is the meeting? Is that what you were saying?
 Q Right. If you look at the top paragraph, you see that this is a portion of the interview where you were discussing that January 6th, 2017 meeting; right?
 A Yes.
 Q And take a look at the last paragraph on the screen. Do you see that?
-(Pause.) *******
+(Pause.)
+*******
 Q And so I want to direct your attention to the paragraph that says "Trump then asked Becker." Do you see that?
 A Yes.
 Q And do you see the last sentence of that paragraph?
@@ -1224,16 +1264,19 @@ A Yes.
 MR. BOVE: Judge, I have a couple more topics. I don't know if there is a mid morning break planned.
 THE COURT: Sure. All right. Jurors, let's go ahead and take our mid morning recess. I will see you in about 15 minutes. Can you step out.
 THE COURT OFFICER: Leave your note pads on the chairs. All rise.
-(Jury exits.) **********
+(Jury exits.)
+**********
 THE COURT: Thank you. Please have a seat. Mr. Pecker, you may step down and take a recess too.
-(Witness exits.) **********
+(Witness exits.)
+**********
 THE COURT: Mr. Bove, I'm not trying to rush you, but I just want to get a sense of where we stand?
 MR. BOVE: Thank you, Judge. I appreciate that. I think I have less than an hour left, that's my best guess.
 THE COURT: And I imagine that there would be redirect after that?
 MR. STEINGLASS: I imagine.
 THE COURT: All right. I will see you all in a few minutes.
 MR. STEINGLASS: Thank you.
-(Recess taken, after which time Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.) **********      
+(Recess taken, after which time Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.)
+**********      
 (Continued from the previous page.)
 THE CLERK: Continued case on trial, People versus Donald J. Trump. Parties are present.
 THE COURT: Let's get the witness, please.
@@ -1244,7 +1287,8 @@ SERGEANT: All rise. Jury entering.
 THE COURT: Please be seated.
 THE CLERK: Case on trial continued, People versus Donald J. Trump. All parties and jurors are present.
 THE COURT: Mr. Bove.
-MR. BOVE: Thank you, Judge. CONTINUED CROSS—EXAMINATION BY MR. BOVE:
+MR. BOVE: Thank you, Judge.
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
 Q Mr. Pecker, I think you testified yesterday that in early 2018 FBI agents came to you?
 A Yes.
 Q Can you describe what happened?
@@ -1711,7 +1755,8 @@ Q And, ultimately, they will decide whether you complied with the agreement, rig
 A Yes.
 MR. BOVE: Nothing further, Judge.
 THE COURT: Thank you. People, any redirect?
-MR. STEINGLASS: Yes, Judge. REDIRECT EXAMINATION BY MR. STEINGLASS:
+MR. STEINGLASS: Yes, Judge.
+REDIRECT EXAMINATION BY MR. STEINGLASS:
 Q Good afternoon, Mr. Pecker.
 A Good afternoon.
 Q I want to show you People's 161 in evidence. We can show it to everybody. It's in evidence. Do you remember being asked about this by Mr. Bove on cross—examination?
@@ -1724,7 +1769,8 @@ Q When AMI gets an invoice, even from a third—party, do they keep it as part o
 A Yes, they do.
 Q And is it kept by AMI to justify expenditures?
 A Yes.
-Q So were you mistaken about anything when you testified earlier in this trial that this document was made and kept or made or kept by AMI? A 1——
+Q So were you mistaken about anything when you testified earlier in this trial that this document was made and kept or made or kept by AMI?
+A 1——
 Q My question was a bad one. Do you want me to rephrase it?
 A Please.
 Q Was this document kept by AMI in the regular course of business?
@@ -1825,7 +1871,8 @@ MR. BOVE: Can I have one minute to consult with Mr. Steinglass, please?
 Q Thank you. On direct examination you testified about a Conciliation Agreement that AMI entered into, correct?
 A Yes.
 Q Can we show privately, please, that agreement, specifically page seven? This is the same page that Mr. Bove showed you ——
-A Yes. Q —— on cross—examination, right?
+A Yes.
+Q —— on cross—examination, right?
 A That's correct.
 Q And he asked you whether your understanding was that AMI had admitted to a campaign finance violation, correct?
 A Correct.
@@ -1849,7 +1896,8 @@ Q I apologize, Mr. Pecker. I don't remember the question, so I am going to ask t
 A Yes.
 Q You testified on direct examination that after you entered into the agreement with Karen McDougal, you formulated a plan to sell the life rights to Mr. Cohen, sell her life rights to Mr. Cohen for a sum of money, correct?
 A That's correct.
-Q What was the sum of money that you were selling her life rights for? A $125,000.
+Q What was the sum of money that you were selling her life rights for?
+A $125,000.
 Q And, in fact, I believe you testified that you only entered into the agreement with Karen McDougal in the first place because Mr. Cohen had promised to reimburse you?
 A Yes, that's correct.
 Q So, prior to —— withdrawn. You testified on direct, I can show it to you if you like, there was an agreement, a transfer agreement where you were —— had signed and Michael Cohen had signed, and this was the process of transferring the life rights. Do you remember that document?
@@ -1971,7 +2019,8 @@ Q Prior to the August 2015 meeting in Trump Tower, did AMI ever agree to be the 
 A No.
 Q Prior to that meeting, did you ever agree to use your network of sources to actively seek out potentially damaging stories, to report them to Mr. Trump so that he could prevent their publication?
 A No.
-Q You were asked a lot about this by Mr. Bove on cross—examination. Let's be very clear here. At that meeting, what is your understanding of what you agreed to with respect to —— withdrawn. Let me come at this a different way. Did you ever, specifically, use the term, catch and kill, in that meeting?
+Q You were asked a lot about this by Mr. Bove on cross—examination. Let's be very clear here.
+At that meeting, what is your understanding of what you agreed to with respect to —— withdrawn. Let me come at this a different way. Did you ever, specifically, use the term, catch and kill, in that meeting?
 A No, I did not.
 Q What was your understanding about the part of the agreement that involved money?
 A It was my understanding that I would use the company's sources, geared toward any information that would be coming out on Mr. Trump or the campaign relating to, specifically, women who would be selling their stories, similar to what I experienced with Schwarzenegger 13 years ago. So I notified —— it is my understanding I would, for those stories that come up, I would speak to Michael Cohen and tell him that these are the stories that are going to be for sale; that if we don't buy them, somebody else will; and that Michael Cohen would handle, buy them or try to make sure to get —— that they don't ever get published. That was my understanding from that meeting.
@@ -2017,13 +2066,16 @@ THE CLERK: Continued case on trial, Donald J. Trump. All parties are present.
 THE COURT: Good afternoon. Is there anything we need to cover before we bring out Mr. Pecker?
 MR. STEINGLASS: I don't believe so.
 THE COURT: Let's get the witness.
-(Witness entering courtroom.) ***
+(Witness entering courtroom.)
+***
 THE COURT: I remind you that you are still under oath.
-(Jury entering.) ***
+(Jury entering.)
+***
 THE COURT: Please be seated.
 THE CLERK: Continuing case on trial, People versus Donald J. Trump. All parties and all jurors are present.
 THE COURT: Good afternoon. Mr. Steinglass.
-MR. STEINGLASS: Thank you, Judge. CONTINUED REDIRECT EXAMINATION BY MR. STEINGLASS:
+MR. STEINGLASS: Thank you, Judge.
+CONTINUED REDIRECT EXAMINATION BY MR. STEINGLASS:
 Q. Good afternoon, Mr. Pecker.
 A. Good afternoon.
 Q. I am not going to try to keep you here too much longer. You testified on cross—examination that the National Enquirer's circulation was around 350,000 in 2016; is that right?
@@ -2047,7 +2099,8 @@ Q. And as CEO, you were certainly familiar with this article?
 A. Yes.
 Q. You certainly read it?
 A. I did.
-Q. I want to turn to Page 2 for a minute and direct your attention to a phrase on Page 2. Can you read that line out loud, please? A. "Squashing stories, that was known in the tabloid world as catch and kill.”
+Q. I want to turn to Page 2 for a minute and direct your attention to a phrase on Page 2. Can you read that line out loud, please?
+A. "Squashing stories, that was known in the tabloid world as catch and kill.”
 Q. So is it more likely, Mr. Pecker, that you did not first hear this term because prosecutors somehow fed it to you?
 A. I first heard it from the press —— read to the press.
 Q. As Mr. Bove noted during cross—examination, you did not use the phrase "catch and kill" during your direct testimony in this case, did you?
@@ -2166,7 +2219,8 @@ Q. What did we tell you?
 A. I was told to be truthful on any questions that were asked of me, only be truthful.
 MR. STEINGLASS: Thank you very much, Mr. Pecker.
 THE COURT: Mr. Bove.
-MR. BOVE: Thank you, Judge. RECROSS EXAMINATION BY MR . BOVE:
+MR. BOVE: Thank you, Judge.
+RECROSS EXAMINATION BY MR . BOVE:
 Q. Mr. Pecker, before lunch you were asked some questions by Mr. Steinglass about "attack ads;" do you recall those questions?
 A. Yes, I do.
 Q. The National Enquirer didn't run any attack ads relating to President Trump's opponents, correct?
@@ -2242,7 +2296,8 @@ MR. STEINGLASS: First of all, if he is putting in this as a prior inconsistent s
 MR. BOVE: This is being offered in response to the redirect.
 THE COURT: Assuming it's an inconsistency, if it's conceded, that is the end of it. That is the end of it.
 (Whereupon, the following occurred in open court:)
-THE COURT: Objection sustained. CONTINUED RECROSS EXAMINATION 9 BY MR . BOVE:
+THE COURT: Objection sustained.
+CONTINUED RECROSS EXAMINATION 9 BY MR . BOVE:
 Q. Mr. Pecker, at the end of your testimony yesterday, you told a story about an Anthrax incident at AMI?
 A. That's correct.
 Q. You said that President Trump was one of the first people to reach out to you to see if you were doing okay?
@@ -2263,10 +2318,12 @@ THE COURT: Anything else?
 MR. STEINGLASS: NO.
 THE COURT: Thank you, sir. You can step down.
 THE WITNESS: Thank you.
-(Witness excused.) ***
+(Witness excused.)
+***
 THE COURT: People, your next witness, please.
 MS. HOFFINGER: The People call Rhona Graff.
-(Witness entering courtroom.) ***
+(Witness entering courtroom.)
+***
 COURT OFFICER: Step this way. Remain standing. Raise your right hand and face the clerk.
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth; do you so swear or affirm?
 THE WITNESS: I do. R—H—O—N—A G—R—A—F—F, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
@@ -2276,7 +2333,8 @@ THE WITNESS: Rhona Graff. Last name, G—R—A—F—F.
 COURT OFFICER: County of residence?
 THE WITNESS: New York County.
 THE COURT: Good afternoon. You may inquire.
-MS. HOFFINGER: Thank you. DIRECT EXAMINATION BY MS. HOFFINGER:
+MS. HOFFINGER: Thank you.
+DIRECT EXAMINATION BY MS. HOFFINGER:
 Q. Good afternoon. Ms. Graff, are you currently employed?
 A. No, I'm not.
 Q. Were you previously employed?
@@ -2483,7 +2541,8 @@ Q. Okay.
 A. That denotes the anticipated wheels—up time from LaGuardia to D.C. Airport in Washington. That is for January 19, 2017, at 1 p.m.
 Q. Was January 19, 2017, the day before Mr. Trump's inauguration in Washington D.C. on January 20 of 2017?
 A. I believe it was.
-MS. HOFFINGER: Nothing further. CROSS EXAMINATION BY MS . NECHELES:
+MS. HOFFINGER: Nothing further.
+CROSS EXAMINATION BY MS . NECHELES:
 Q. Good afternoon. How are you today?
 A. Good afternoon.
 Q. You were asked on direct examination about working for President Trump, right?
@@ -2694,7 +2753,8 @@ THE COURT: Jurors, we're going to take our recess. You can step out.
 (Whereupon, the jurors and the alternate jurors are excused.)
 THE COURT: Let's take 15 minutes.
 MS. HOFFINGER: Thank you.
-(Whereupon, a recess is taken.) *************************************
+(Whereupon, a recess is taken.)
+*************************************
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties are present.
 THE COURT: Call your next witness.
 MS. MANGOLD: The People call Gary Farro.
@@ -2713,7 +2773,8 @@ COURT OFFICER: Your county of residence.
 THE WITNESS: I live in Monmouth County, New Jersey.
 THE COURT: Good afternoon, Mr. Farro.
 MS. MANGOLD: May I inquire?
-THE COURT: You may inquire. DIRECT EXAMINATION BY MS . MANGOLD:
+THE COURT: You may inquire.
+DIRECT EXAMINATION BY MS . MANGOLD:
 Q Good afternoon, Mr. Farro.
 A Good afternoon.
 Q I'm going to ask you to speak into the microphone and slowly so the court reporter can take down what you're saying. Where do you work?
@@ -2803,7 +2864,8 @@ A It would delay an account opening or delay a wire, yes.
 Q Could the bank refuse to process a transaction altogether?
 A Yes. We have the right to not do any transaction we don't feel comfortable with.
 Q And could a bank shut down the client's entire account if they found something that —— in the paperwork that ran afoul of one of the regulations?
-A To receive a bank account, yes. An existing account that's open already on the lending side, no.
+A To receive a bank account, yes.
+An existing account that's open already on the lending side, no.
 Q Can you explain what you mean by that?
 A Well, if someone has a mortgage already, we can't just close out a mortgage once it's agreed to.
 Q Have you heard the term "shell corporation"?
@@ -2819,7 +2881,8 @@ A As a Senior Managing Director, I led a team of people who did the same job as 
 Q Was that part of First Republic Bank's private bank?
 A Well, First Republic Bank is a unique entity in that it only is a private bank. There is no real retail. Although there is branches on the ground level, it was focused more on working with affluent and high—net—worth individuals.
 Q Can you just explain at a very high level the difference between private banking and retail banking?
-A A retail banking relationship would be someone who, essentially, walks into the branch, does most of the transactions themselves, and does not really look for too much advice except outside a mortgage. A private banking relationship is when you're assigned to someone who is a Relationship Manager who would, essentially, help you and be your point of contact for all things that you need.
+A A retail banking relationship would be someone who, essentially, walks into the branch, does most of the transactions themselves, and does not really look for too much advice except outside a mortgage.
+A private banking relationship is when you're assigned to someone who is a Relationship Manager who would, essentially, help you and be your point of contact for all things that you need.
 Q Were most of your clients —— were all of your clients high—net—worth individuals?
 A No. Actually, the good thing about working for First Republic is we never set a barrier to entry. Most private banks have a minimum barrier to entry, which would be you have to have a certain amount in liquid assets at the firm. We never set any barrier of entry. So I had a very wide range of clients of various different levels of wealth.
 Q About how many clients would you say you worked with while you were at First Republic Bank?
@@ -2915,7 +2978,8 @@ A Yes.
 Q And was the information that was redacted personal identifying information?
 A Can you explain the question, please?
 Q Sure. Was the people's personal phone numbers, email addresses and the like ——
-A Yes. Because it's documentation, yes. Q —— redacted?
+A Yes. Because it's documentation, yes.
+Q —— redacted?
 A Yes.
 Q All right. Turning to the emails in the files marked for identification as People's Exhibits 361 through 364 and 366 through 379, did First Republic Bank use emails in the regular course of its business?
 A Yes.
@@ -2936,7 +3000,9 @@ A Yes.
 Q Did the servers record the content of the messages, the senders, recipients, dates and times for each email sent or received using that server?
 A For everything I reviewed, yes.
 (Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.)                
-(The following proceedings are continued from the previous page.) ****** CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
+(The following proceedings are continued from the previous page.)
+******
+CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
 Q And, to your knowledge, did the email server record and store that information accurately?
 A Yes.
 Q Did First Republic Bank rely on that information being accurately recorded and maintained?
@@ -2984,7 +3050,8 @@ A Yes.
 MS. MANGOLD: I would now offer People's Exhibit 361 through 364, and 366 through 379 into evidence.
 THE COURT: Any objections?
 MR. BLANCHE: Just one moment.
-(Counsel confer.) *******
+(Counsel confer.)
+*******
 MR. BLANCHE: Thank you, your Honor. No objection.
 THE COURT: People's 361 through 364 and 366 through 379 are accepted into evidence.
 (So marked in evidence.)
@@ -3005,7 +3072,8 @@ Q And who was it sent from?
 A It was sent from Liz Rappaport, who is my assistant.
 Q And did she go by any other names?
 A Lizzie.
-Q What's the subject of the email? A "Missed call from Michael Cohen."
+Q What's the subject of the email?
+A "Missed call from Michael Cohen."
 Q And can you read the text of the email without the phone number information, please.
 A Sure. "Michael Cohen just called for you. I let him know that you were out of the office and were unavailable. He asked that you please return his call as soon as you are available at 3212 or on his cell 0114."
 MS. MANGOLD: And can we pull up People's Exhibit 362 in evidence.
@@ -3017,8 +3085,10 @@ Q What date was this sent?
 A On 10/13/2016.
 Q And who was it sent from?
 A It was sent from Elizabeth Rappaport to me.
-Q And what is the subject of this email? A "Missed call, Michael Cohen, Regarding: Important."
-Q And can you read the content of the email to the jury? A "Please return Michael Cohen's call when you are available today regarding an important matter."
+Q And what is the subject of this email?
+A "Missed call, Michael Cohen, Regarding: Important."
+Q And can you read the content of the email to the jury?
+A "Please return Michael Cohen's call when you are available today regarding an important matter."
 Q Do you recall what these two emails related to?
 A Yes, I do.
 Q And did you ultimately connect with Mr. Cohen in response to these messages?
@@ -3044,7 +3114,8 @@ MS. MANGOLD: Can we also pull up the date and time of the top email.
 (Displayed.)
 Q Now, traditionally, the top email is a later email in the chain; right?
 A It is the later email in the chain, yes.
-Q And what is the date and time stamp on the top email in this chain? A 10/13/2016, 7:48 a.m. What they failed to notice there is that's Pacific time.
+Q And what is the date and time stamp on the top email in this chain?
+A 10/13/2016, 7:48 a.m. What they failed to notice there is that's Pacific time.
 Q Yeah, can you explain how you sent an email before the email that you received?
 A Well, I am not in the business of being in Back to the Future, so this was definitely the way that it's pulled through our server in San Francisco, so that would be the time in Pacific.
 Q So the bottom email on the chain is in Eastern Standard Time and the top email on the chain is in Pacific Time?
@@ -3066,14 +3137,17 @@ A I can't tell by looking at this.
 Q If you look at the top most ——
 A Oh, yes, yes, there is, based upon the —— there is an attachment, a PDF attached to it.
 MS. MANGOLD: Can we flip to the second and third page of the PDF.
-(Displayed.) **********
+(Displayed.)
+**********
 Q Can you see those?
 A Yes.
 Q What type of document is this?
 A This is a document that is provided by the IRS that gives an Employee Identification Number for a new account, a new business that's being opened.
 MS. MANGOLD: Can we zoom in on the top left where it shows the address line.
-(Displayed.) *******
-Q What does it say there? A "Resolution Consultants LLC. Michael Cohen, sole member."
+(Displayed.)
+*******
+Q What does it say there?
+A "Resolution Consultants LLC. Michael Cohen, sole member."
 Q Do you have an understanding of what Resolution Consultants LLC was?
 A It was —— my understanding was it was a real estate consulting company.
 Q And was that the LLC that Mr. Cohen referred to in the phone call to you earlier in that day?
@@ -3107,7 +3181,8 @@ Q Is this another First Republic Bank email?
 A Yes, it is.
 Q And what's the date of this email?
 A The date on this email is 10/13/2016.
-Q And what's the time stamp here? A 8:43 a.m.
+Q And what's the time stamp here?
+A 8:43 a.m.
 Q And does that mean in New York it was 11:43 a.m.?
 A That's correct.
 Q Who is the email to and from?
@@ -3116,7 +3191,8 @@ Q And are you also copied on the email?
 A I am cc'd on it, yes.
 Q And can you read the substance of the email to the jury?
 A The entirety of it?
-Q Just the first paragraph. I'm sorry. A "Please find the attached paperwork to establish the account for Resolution Consultants LLC. Please complete all of the highlighted areas and sign where indicated. Please review the information in the business information to ensure that it is accurate."
+Q Just the first paragraph. I'm sorry.
+A "Please find the attached paperwork to establish the account for Resolution Consultants LLC. Please complete all of the highlighted areas and sign where indicated. Please review the information in the business information to ensure that it is accurate."
 Q Can you explain what was going on in this email?
 A Yes. The —— obviously, Olivia and Michael had spoken and she was sending him the paperwork to establish the LLC account for Resolution Consultants.
 Q And this is in response to his request in the phone call to you earlier that same day?
@@ -3125,7 +3201,8 @@ Q All right. Turning now to People's Exhibit 366 in evidence.
 (Displayed.)
 Q And pulling up the top portion of this email. Who is this email to and from?
 A To Olivia Cassin from Michael Cohen.
-Q What's the date of the email? A 10/13/2016, at 6:19 p.m.
+Q What's the date of the email?
+A 10/13/2016, at 6:19 p.m.
 Q And that's Pacific?
 A That's Pacific.
 Q What's the subject of the email?
@@ -3143,7 +3220,8 @@ MS. MANGOLD: And can we look now at the top third of the page, at the box that s
 (Displayed.)
 Q What entity is this an account opening document for?
 A Resolution Consultants LLC.
-Q And directing you now to the bottom row of that same box where it says, "Type of Business." What does it say in "Type of Business?” A "Management consulting including HR and marketing."
+Q And directing you now to the bottom row of that same box where it says, "Type of Business." What does it say in "Type of Business?”
+A "Management consulting including HR and marketing."
 Q For people who may not know, what is management consulting?
 A Management consulting is pretty encompassing. It would be work that you are consulting on for a number of different types of businesses. In this case, through my understanding through conversations with Michael, it was for real estate.
 Q And it says "including HR." Do you know —— do you have an understanding of what "HR" means there?
@@ -3166,7 +3244,8 @@ Q Okay. Turning now to the next page. Is there a signature on this page?
 A Yes.
 Q Do you recognize that signature?
 A Yes, Michael Cohen's.
-Q And what's the date? A 10/13/2016.
+Q And what's the date?
+A 10/13/2016.
 Q Going one page forward. What type of document is this?
 A So this is the Addendum. It's an agreement to open an accounts and services. And this is the information that we would gather on each of the signers. In this case there is only one signer, so this is completed by Michael.
 Q This is another required account opening document?
@@ -3177,7 +3256,8 @@ Q And is this document also signed?
 A Yes, it is.
 Q And whose signature is that?
 A Michael Cohen's.
-Q And what date was it signed? A 10/13/2016.
+Q And what date was it signed?
+A 10/13/2016.
 Q All right. Turning now to the following page, is this another bank opening document?
 A It is.
 Q What is the purpose of this bank opening document?
@@ -3186,7 +3266,8 @@ Q And taking a look at the top third of the page. In the top box that says "Busi
 A Resolution Consultants LLC.
 Q And in the box below that, can you describe —— I'm sorry, we will take that down.
 (Displayed.)
-Q Where it says: "Describe the type of business being l conducted," what description is provided for Resolution Consultants LLC? A "Resolution Consultants LLC is a consulting firm. Michael Cohen provides individuals and businesses, including financial services, law firms, technology firms, et cetera, advice on strategy, PR, marketing, best practices and procedures, et cetera. All of his clients are in the USA."
+Q Where it says: "Describe the type of business being l conducted," what description is provided for Resolution Consultants LLC?
+A "Resolution Consultants LLC is a consulting firm. Michael Cohen provides individuals and businesses, including financial services, law firms, technology firms, et cetera, advice on strategy, PR, marketing, best practices and procedures, et cetera. All of his clients are in the USA."
 Q And is this consistent with the description that Mr. Cohen gave you on the phone call earlier that day about the type of account he wanted to open?
 A It's consistent with it, yes.
 Q All right.
@@ -3194,8 +3275,10 @@ MS. MANGOLD: Turning two pages ahead. I'm sorry, three pages ahead.
 (Displayed.)
 Q Do you see a series of questions and check boxes?
 A Uh—huh.
-Q Looking now at the question in —— labeled number 12. What does that say? A "Is the entity associated with political fundraising/political action committee PAC."
-Q And what answer is checked? A "No."
+Q Looking now at the question in —— labeled number 12. What does that say?
+A "Is the entity associated with political fundraising/political action committee PAC."
+Q And what answer is checked?
+A "No."
 Q And do you know why the form includes a question about political fundraising?
 A Because it would be something the bank would want to know.
 Q And if somebody checked "yes," is that something that would require additional review by the bank?
@@ -3216,14 +3299,16 @@ MS. MANGOLD: Let's pull up People's Exhibit 367 in evidence.
 (Displayed.)
 Q Is this another First Republic Bank email?
 A Yes, it is.
-Q What date was it sent? A 10/26/2016.
+Q What date was it sent?
+A 10/26/2016.
 Q And how long after the Resolution Consultants account opening day was this?
 A Thirteen days, I believe.
 Q And, again, it's sent at 6:34 a.m. in the time stamp. Does that mean that it was 9:34 a.m. in New York time?
 A Yes, it does.
 Q Who is the email to and from?
 A It's from my assistant, Elizabeth Rappaport, to myself.
-Q And what does the email say? A "Please return Michael Cohen's call at 3212."
+Q And what does the email say?
+A "Please return Michael Cohen's call at 3212."
 Q Did you return Mr. Cohen's call in response to this email?
 A I did.
 Q And can you tell the jury what happened on that call?
@@ -3274,7 +3359,8 @@ Q Looking now towards the bottom of the first page where it says "document type 
 A Uh—huh.
 Q Can you explain what this is to the jury?
 A This is the articles or Certificate of Incorporation/Formation. Very similar to the ones that we looked at earlier.
-Q What was the date of formation for Essential Consultants LLC? A 10/17/2016.
+Q What was the date of formation for Essential Consultants LLC?
+A 10/17/2016.
 Q Turning now to the next page.
 (Displayed.)
 Q And looking at the questions towards the top third of the page. In the form does it say —— does this have the same question that we saw in the Resolution Consultants form? It says: "Is the entity associated with political fundraising or political action committee."
@@ -3290,7 +3376,8 @@ Q How did that come about?
 A Well, when Mr. Cohen called me, I was on a golf course, that's very cliche for a banker, I know, but I was on golf course on a day off and, essentially, it was easier for him to walk across the street to open an account than it would be for me to make a series of phone calls to get someone to reach out to him.
 MS. MANGOLD: Your Honor, I'm at a natural stopping point now. ll THE COURT: Sure. Can you approach for a minute?
 MS. MANGOLD: Sure.
-(At Sidebar.) ******
+(At Sidebar.)
+******
 THE COURT: I was just wondering how much more you have with this witness?
 MS. MANGOLD: Probably an hour or so.
 THE COURT: Okay. Do you have that much cross?
@@ -3298,13 +3385,16 @@ MR. BLANCHE: It won't be as long as the direct.
 THE COURT: All right. So we will call it a day.
 MS. MANGOLD: Thank you.
 MR. STEINGLASS: Thank you.
-(Sidebar concluded.) ******
+(Sidebar concluded.)
+******
 THE COURT: All right. Jurors, we are going to go ahead and stop at this time and call it a week. Jurors, please remember what I asked of you, to remember my admonitions: Do not discuss this case either among yourselves or anyone else. You may tell the people with whom you live and your employer that you are a juror, and give them information about when you will be required to be in court, but you may not talk with them or anyone else about anything related to the case. Do not, at any time during the trial, request, accept, agree to accept or discuss with any person, the receipt or acceptance of any payment or benefit in return for supplying any information concerning the trial. You must promptly report directly to me any incident within your knowledge involving an attempt by any person to improperly influence you or any members of the jury. Do not visit or view any of the locations discussed in the testimony. And you must not use internet maps, Google Earth or any other program or device to search for or view any locations discussed in the testimony. Do not read, view or listen to any accounts or discussions of the case reported by newspapers, television, radio, the internet or any other news media. This includes the reading or the listening to the reading of any transcripts. Do not attempt to research any fact, issue or law related to the case, whether by discussion with others, by research in a library or the internet or by any other means or source. This includes visiting any court sites. I emphasize that in addition to not talking face to face with anyone about the case, you must not communicate with anyone about the case by any other means, including by telephone, text messages, email, chat rooms, blogs or social websites. You must not provide any information about the case to anyone by any means whatsoever, and that includes the posting of information about the case or what you are doing on the case on any device or internet site, including blogs, chat rooms, social websites or any other means. Finally, you must also not Google or otherwise search for any information about the case or the law which applies to the case or the people involved in the case, including the defendant, the witnesses, the lawyers or myself. I remind you that we are not meeting on Monday, but we will meet Tuesday at 9:30. I hope you have a good weekend. Take care.
 THE COURT OFFICER: All rise.
-(Jury exits.) **********
+(Jury exits.)
+**********
 THE COURT: Thank you. You may be seated. Mr. Farro, you are excused. Have a good rest of your day.
 THE WITNESS: Thank you, your Honor.
-(Witness excused.) **********
+(Witness excused.)
+**********
 THE COURT: Is there anything more that we need to discuss?
 MR. STEINGLASS: I don't think so, Judge.
 THE COURT: From the defense?
@@ -3312,4 +3402,5 @@ MR. BLANCHE: NO.
 THE COURT: Thank you. Have a good weekend.
 MR. STEINGLASS: Thank you.
 MS. HOFFINGER: Thank you. You too.
-(whereupon, the matter is adjourned to Tuesday, April 30th, 2024, at 9:30 a.m.) ********** 
+(whereupon, the matter is adjourned to Tuesday, April 30th, 2024, at 9:30 a.m.)
+********** 
