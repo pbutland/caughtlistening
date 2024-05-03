@@ -27,6 +27,8 @@ Within each directory for each trial there are the following directories:
 
 That describes the "raw" data.  However, at the top directory level of each trial directory there is a file that combines all of the individual text files.  It attempts to format the text so that it can be easily read as input for another program (see [What's next?](#what-next)).
 
+In addition to this, there is also a PDF file which represents the content of the original transcripts.
+
 ## Generated text
 
 The text was generated using the [Apache Tesseract OCR](https://github.com/tesseract-ocr/tesseract) engine.
