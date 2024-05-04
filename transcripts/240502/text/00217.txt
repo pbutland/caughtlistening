@@ -1,0 +1,29 @@
+D. Daus — Cross/Bove
+2020
+1 A Files. Files. Folders.
+2 Q Right. And this is, again, similar —— if you are
+3 looking at a logical extraction, it’s similar to the way that
+4 you might look at the way you operate your PC from a Windows
+5 environment?
+6 A The same.
+7 Q And so in that way, say you connect the phone to a
+8 piece of equipment in your lab; right?
+9 A That’s correct.
+10 Q And you pull the data off the phone; correct?
+11 A Yes.
+12 Q And it brings the data on in this file folder
+13 structure?
+14 A It does.
+15 Q And is one of the drawbacks to this logical extraction
+16 that it doesn't look at the unallocated space; right?
+17 A That’s correct.
+18 Q The unallocated space is where —— I’m going to use
+19 layman's terms and you will fix it up for me —— it’s where the
+20 deleted stuff goes to reside?
+21 A An artifact, yes.
+22 Q And an artifact is a piece of data of one of these
+23 items that you are examining; right?
+24 A Yes.
+25 Q And when you do a logical extraction, one of the
+Lisa Kramsky,
+Senior Court Reporter

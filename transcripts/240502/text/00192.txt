@@ -1,0 +1,29 @@
+D. Daus — Direct/Conroy
+1995
+1 Q If you look at those, who are those texts between?
+2 A The parties would be the owner of the phone, Michael
+3 Cohen, and Hope Hicks.
+4 Q And can you tell us the last four digits of Hope
+5 Hicks’ phone number?
+6 A 0226.
+7 Q Now, could you just tell us a little bit about each of
+8 the columns that’s blown up there?
+9 First of all, is this format what you would see in one of
+10 the Cellebrite Reports that you were talking about earlier?
+11 A Yes, it is.
+12 Q So, this was data extracted from the phone and then
+13 put into a Cellebrite Report?
+14 A That’s correct.
+15 Q Can you tell us about each of the columns, the header
+16 columns on this exhibit?
+17 A Certainly.
+18 The first one is self—explanatory, the date. Your next
+19 column is the time. Then the parties. The description is the
+20 content of the message. And the source is just what particular
+21 artifact it came from, being the native messaging app.
+22 Q Okay.
+23 That’s sort of where the data lived on the phone?
+24 A Yes.
+25 Q When you say "description", that’s the body of the
+Laurie Eisenberg, CSR, RPR
+Senior Court Reporter
