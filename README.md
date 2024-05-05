@@ -18,16 +18,18 @@ This repository is here simply to make the information in the transcripts easier
 
 ## Directory structure
 
-All transcript data is under the `transcripts` directory and, under this directory, there is a directory for each day of the trial.
+All transcript data can be found in the `transcripts/data` directory and, under this directory, there is a directory for each day of the trial.
 
-Within each directory for each trial there are the following directories:
+Within each directory for each trial there are the following subdirectories:
 * `html` - the content for the original HTML pages as hosted by the NY court system.
 * `images` - the images that are embedded in the above mentioned HTML files.
 * `text` - contains a text file for each of the image files mentioned above.
 
-That describes the "raw" data.  However, at the top directory level of each trial directory there is a file that combines all of the individual text files.  It attempts to format the text so that it can be easily read as input for another program (see [What's next?](#what-next)).
+That describes the "raw" data.  However, at the top `transcripts` directory level, there are files that combine all of the individual text files for each trial.  It attempts to format the text so that it can be easily read as input for another program (see [What's next?](#what-next)).
 
-In addition to this, there is also a PDF file which represents the content of the original transcripts.
+In addition to this, there is also a PDF file which represents the content of each of the original transcripts in PDF format.
+
+The file format for the daily transcripts are `<YY-MM-DD>.txt` and `<YY-MM-DD>.pdf` respectively.
 
 ## Generated text
 
