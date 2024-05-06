@@ -1,0 +1,2797 @@
+[
+    {
+        "page": "Page 818",
+        "lineNumber": "1",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good morning."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "2",
+        "character": "THE CLERK:",
+        "voice": "Gigi",
+        "text": "The People of the State of New York, indictment 71543 of 2023. Appearances, please, starting with the People."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "5",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "For the People, ADA Joshua Steinglass, Matthew Colangelo, Susan Hoffinger, Christopher Conroy, Becky Mangold and Katherine Ellis. Good morning everyone."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "9",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good morning."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "10",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Good morning, your Honor. Todd Blanche. I am joined this morning by President Trump and the rest of the team, Emil Bove, Susan Necheles and Gedalia Stern. Good morning."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "15",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good morning. Good morning, Mr. Trump. So we have a couple of housekeeping matters to take care of before we get started. People, how long do you expect your opening statement to be?"
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "21",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Your Honor, about 40 minutes."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "22",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Okay. Mr. Blanche?"
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "23",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "About 25."
+    },
+    {
+        "page": "Page 818",
+        "lineNumber": "24",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Okay. That's fair. Because, unfortunately, we are going to have to break a little bit earlier or a lot earlier than I anticipated. We were informed this morning by juror number 620, who is alternate number six, you may recall that she had a toothache last week. She was able to make an emergency appointment today at three o'clock. Perhaps because of the holiday, I don't know why, that appointment was moved up to 1:20. So, I told her that we can break at 12:30 and I think that's just something we have to do to make sure we don't lose an alternate."
+    },
+    {
+        "page": "Page 819",
+        "lineNumber": "12",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Can I just ask you a quick question, Judge? Would it be okay, for logistical and bathroom purposes, if after the opening we take a short break to get our witnesses upstairs and to go the bathroom?"
+    },
+    {
+        "page": "Page 819",
+        "lineNumber": "17",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sure, of course. The other issue is, we received a call on Friday from juror number nine, who was juror number 423, and I did not speak with the juror, but my understanding is that the juror was concerned about the media attention and wasn't a hundred percent sure that she wanted to be here. The juror is here today. I think that we should speak with the juror. I see we have a courtroom full of people. We can either —— we can do it in my chambers. I am sorry, in my robing room and I will ask the court reporter to come in. Your client has waived Antommarchi, right?"
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "5",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "If possible, I would ask that not every single one of your colleagues come in with us, just one or two, find out what the issue is and see if this juror can continue to serve."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "10",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "THE FOLLOWING PROCEEDINGS WERE HELD IN JUDGE MERCHAN'S ROBING ROOM."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "12",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Let the record reflect, we are in the robing room. Mr. Bove, Ms. Necheles, Ms. Hoffinger, Mr. Steinglass and Mr. Blanche are present. I would ask those of you who can sit, please sit, so it's less intimidating for the juror and there is another chair here, maybe Mr. Bove can sit in that chair there and then we can bring the juror in and she can stand."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "19",
+        "character": "SERGEANT:",
+        "voice": "Domi",
+        "text": "Would like me to shut the door?"
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "When she comes in, yes."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "21",
+        "character": "SERGEANT:",
+        "voice": "Domi",
+        "text": "Juror entering."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "22",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, juror number nine entered the robing room."
+    },
+    {
+        "page": "Page 820",
+        "lineNumber": "24",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good morning. I apologize for all of this. We need to do everything on the record. I understand that you called on Friday to express some concerns. Do you want to talk about this?"
+    },
+    {
+        "page": "Page 821",
+        "lineNumber": "5",
+        "character": "SWORN JUROR:",
+        "voice": "Mimi",
+        "text": "Yeah, I calmed down now. It was as soon as I left on Thursday people were figuring out it was me based on what was released. I was a little concerned that it was posted that I live by myself. I am a girl that lives by myself. So I feel, I just, I started thinking further into the trial. I started getting nervous that as if —— what if more information comes out? Would I need to be worried for my safety? I was a little uneasy once there were things being posted about me that I didn't necessarily anticipate was going to happen."
+    },
+    {
+        "page": "Page 821",
+        "lineNumber": "17",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "How do you feel today?"
+    },
+    {
+        "page": "Page 821",
+        "lineNumber": "18",
+        "character": "SWORN JUROR:",
+        "voice": "Mimi",
+        "text": "I feel better today. I feel grounded. I, obviously, the gravity kind of set in and I just hope that I can continue to stay as anonymous as possible. I live by myself. It was posted that I live by myself. I had concerns if my name were ever to get out there, obviously, that poses a safety risk to me and that was really my biggest concern, if anyone ever figured out who I was, where I lived, and that I lived by myself that I wouldn't be safe. That was really my only concern."
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I can appreciate that. Just a couple of things that, hopefully, will reassure you. First, the jury was the story last week. Hopefully, I expect that the jury will no longer be the story."
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "9",
+        "character": "SWORN JUROR:",
+        "voice": "Mimi",
+        "text": "Yes, yes."
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "10",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Second, it's not entirely possible to read the description and know who would know that it was you, not surprising, so that works out. You know, if anything were to change, if there ever comes a time when you feel like you can't do this, just bring it to my attention. You should know that after the first day, I did speak to the press from the bench. I expressed my disappointment with how much information got out and since that time it's really been very different. Alright?"
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "2l",
+        "character": "SWORN JUROR:",
+        "voice": "Mimi",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "22",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Anything else you want to tell us?"
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "23",
+        "character": "SWORN JUROR:",
+        "voice": "Mimi",
+        "text": "No, it was just safety concerns. Thank you."
+    },
+    {
+        "page": "Page 822",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you. You can go back to the jury room."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "2",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Juror exits the robing room."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Anything anybody wants to put on the record about that?"
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "5",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "NO."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "6",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "NO."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "7",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Are you comfortable with her staying on the jury?"
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "9",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "10",
+        "character": "MS . HOFFINGER:",
+        "voice": "Serena",
+        "text": "Yes ."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "ll",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "END OF INQUIRY."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "12",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "In open court."
+    },
+    {
+        "page": "Page 823",
+        "lineNumber": "13",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "We are back on the record. Juror number nine is going to remain with us. So that's not going to be an issue. Again, just a couple of housekeeping matters. One of the issues that were raised at the end of last week had to do with the limiting instruction regarding Michael Cohen's guilty plea to FICA violations. The People submitted a version. The defense submitted a version. I reviewed them both and, ultimately, I drafted my own, which is really, it's consistent with what I would normally do. So let me hand it down. You can take a look at it, let me know if you have an objection to it. There is still plenty of time to correct anything that's a problem."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "2",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Thank you."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "You are welcome."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "4",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Document is handed to the attorneys."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "5",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "That's fine."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Anybody wish to be heard on that?"
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "7",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "We have no objection."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "8",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Counsel?"
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "9",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Nothing new, your Honor."
+    },
+    {
+        "page": "Page 824",
+        "lineNumber": "10",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you. There was also an issue regarding at Access Hollywood tape last week and to what extent the People would be permitted to elicit information about it. I promised I would go back and review the transcript. I did. I don't really see the confusion. The issue of the People introducing a transcript was never raised or not raised or what was raised was that the People would be permitted to go into what was discussed in the Access Hollywood tape and that the tape would not be played. If the People were to request and seek to introduce a transcript, I would hear argument of both sides as a matter of evidence, not as a matter of this is the Access Hollywood tape and, therefore, some special rule applies."
+    },
+    {
+        "page": "Page 825",
+        "lineNumber": "4",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Thank you."
+    },
+    {
+        "page": "Page 825",
+        "lineNumber": "5",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I will hear you on that."
+    },
+    {
+        "page": "Page 825",
+        "lineNumber": "6",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Your Honor, we, obviously, objected for the reasons we put in our letter and the reason we talked about last week and continue to object, but your Honor has ruled."
+    },
+    {
+        "page": "Page 825",
+        "lineNumber": "10",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you. Finally, we did have the Sandoval Hearing last week on Friday and I will read my ruling from the bench. This Court conducted a Sandoval Hearing on Friday, April 19, 2024."
+    },
+    {
+        "page": "Page 826",
+        "lineNumber": "24",
+        "character": "A",
+        "voice": "Emily",
+        "text": "defendant can even be impeached with prior acts or prior bad acts that did not result in a criminal charge and that's Gray citing Sandoval. Indeed, a trial court my exclude such evidence entirely, may alternatively limit inquiry to the mere fact that there has been a prior conviction. It may limit the inquiry to the existence and nature of the prior conviction or it may permit examination to the facts and circumstances underlying the prior conviction. People v. Hayes, 97 New York 2d 203. Thus, even a ruling that permits cross—examination regarding a defendant's entire criminal record does not without more indicate an abuse of discretion. People v. Walker, 83 New York 2d at 458. In short, the ultimate question as to whether to permit such impeachment is a matter that rests with the trial judge who exercises a wide range of discretion in ruling on a Sandoval application. That's People v. Contreras 108 AD 2d 627. Moreover, as far as probative crimes —— withdrawn. Moreover, as far as probative crimes go, the mere similarity of a defendant's prior conviction or prior conduct to one of the crimes charged, does not automatically preclude cross—examination. That's People v. Pavao, P—A—V—A—O, New York 2d 282. That case dealt with violence. The principal was the same. The mere fact that the conduct was similar does not in and of itself preclude going into it. It has long been recognized that a defendant cannot shield himself from impeachment on the basis of frequency of his offense or his tendency to specialize in a particular type of crime. People v. Rahman, R—A—H—M—A—N, 62 AD 2d 968. It is settled law that a criminal defendant who chooses to testify on his own behalf may be cross—examined about any prior criminal, vicious or immoral acts that bear logically on his credibility, including those acts by defendant that did not result, again, in a criminal conviction. This Court is not required to preclude the People from asking about the incidents because they might keep the defendant off the stand. People v. Hayes. The Court of Appeals has stated that the alleged singularity of the defendant's testimony does not require the Court to limit otherwise appropriate impeachment material. In fact, Court's have recognized that if the defendant is the only witness, it may be that much more important that the jury be able to access his credibility accurately. Thus, the possible unavailability of other witnesses may cause the trial court to conclude this factor increases the importance of defendant's credibility. Of course, fairness dictates that the Court must be mindful of the potential prejudice to the prosecution in the fact—finding process denying the jury access to probative evidence of the defendant's credibility. People v. Bennette, B—E—N—N—E—T—T—E, 55 New York 2d at 147. Finally, any perceived unfair prejudice by a permitted inquiry may be alleviated by the Court's careful and specific limiting instructions at the time of cross—examination and, again, during final charge. In fact, the Court in clear and forceful language should instruct the jury that they are to consider the defendant's previous conduct only in assessing his credibility and under no such circumstances are to use his prior conduct as proof that he committed the instant crime, given those precise instructions, which the jurors are presumed to follow, People v. Davis 58 New York 2d 1102, the Court is permitted to reach a Sandoval compromise. Upon applying that law, if defendant takes the stand, the Court will permit the People to inquire into the following six determinations involving four separate proceedings. First, as to the proceeding of People by James v. Trump, index number, 452564, document number 1688, the Court will allow the People to elicit that on February 16, 2024, the defendant was found to have violated Executive Law Section 63 (12) by fraudulently misstating the value of his assets for an economic benefit. The Court ordered the defendant to pay penalties and enjoined the defendant from serving as an officer or director of any New York Corporation for a period of three years. Next, document number 1584, the Court will allow the People to elicit that on October 20, 2023, the defendant violated a court order by failing to remove an untrue, disparaging and personally identifying post about the Court's Principal Law Clerk from the website, Donald J. Trump dot com. The Court fined the defendant $5,000. And the third document from that incident, document number 1598, the Court will allow the People to elicit that on October 25, 2023, the defendant was found to have intentionally violated a court order by making public attacks on the Judge's law clerk, despite two prior court orders not to do so. The Court fined the defendant $10,000. Moving on to the next proceeding, and that would be Carroll v. Trump, 22, CV, 7311, and that would be ECF number 214. The Court will allow the People to elicit that on September 6, 2023, the defendant was found to have defamed E. Jean Carroll in public statements in 2019 by making false statements with actual malice."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "ll",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I believe that takes care of all of the preliminary matters. Can we bring the jurors out?"
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "14",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Judge, I wanted to clarify the record on one point. The Sandoval materials, including the chart, was provided to defense counsel pursuant to your ruling back on March 10th of 2024. Other than that, there is no reason we can't bring in the jury."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Okay, let's get the jury, please."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "21",
+        "character": "SERGEANT:",
+        "voice": "Domi",
+        "text": "Jurors entering."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "22",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "All rise."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "23",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "whereupon, the sworn jury entered the courtroom and were properly seated."
+    },
+    {
+        "page": "Page 832",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Please be seated. Good morning jurors. Welcome back. Members of the Jury, we are about to proceed with the trial of the People of the State of New York versus Donald J. Trump."
+    },
+    {
+        "page": "Page 835",
+        "lineNumber": "15",
+        "character": "A",
+        "voice": "Emily",
+        "text": "question by itself is not evidence. It is the question with the answer that is evidence. Sometimes a question will assume, for example, sometimes a question will assume something to be true. You are not, however, to conclude that an assumption in a question is true unless the answer in your judgment confirms it to be true. So you must consider the question and the witness' answer and decide whether you find the answer believable and accurate. Because, again, it is the question with the answer that is the evidence. Next, evidence may come in the form of a stipulation. A stipulation is information which both parties agree to present to the jury as evidence without calling a witness to testify to that information. Thus, evidence may come in the form of physical items such as documents, photographs, clothing or charts. when a lawyer is questioning a witness and in the question refers to a physical object for the first time, the object is normally marked with a number or a letter of the alphabet so that we can more easily identify the object and refer to it. That procedure is very helpful in keeping track of physical objects. Sometimes, depending on the type of physical object, it may be too difficult or inconvenient to mark the object and the object is deemed marked rather than actually marked. Normally, when the object is first referred to a lawyer will ask the Court to have the object marked for identification. If the People make the request and the Court grants the request, the object is indeed marked with a number. If the defendant makes a request and the Court grants the request, the object is deemed or marked with a letter of the alphabet. That just helps us to remember who introduced the Exhibit. Sometimes to save time during the trial we will have certain physical objects deemed or marked for identification before the trial begins and you will then hear the lawyer refer to the object by its number or letter."
+    },
+    {
+        "page": "Page 839",
+        "lineNumber": "13",
+        "character": "A",
+        "voice": "Emily",
+        "text": "reasonable doubt is an honest doubt of the defendant's guilt for which a reason exists based upon the nature and the quality of the evidence. It is an actual doubt, not an imaginary doubt. It is a doubt that a reasonable person acting in a matter of this importance would be likely to entertain because of the evidence that was presented or because of the lack of convincing evidence. The proof of guilt beyond a reasonable doubt is proof that leaves you so firmly convinced of a defendant's guilt that you have no reasonable doubt of the existence of any element of the crime or of the defendant's identity as the person who committed that crime. In determining whether the People have proven the defendant's guilt beyond a reasonable doubt, you should be guided solely by a full and fair evaluation of the evidence. After carefully evaluating the evidence, each of you must decide whether that evidence convinces you beyond a reasonable doubt of the defendant's guilt. Whatever your verdict may be, it must not rest on baseless speculation nor may it by influenced in any way by bias, prejudice, sympathy or by a desire to bring an end to your deliberations or to avoid an unpleasant duty. Again, if you are not convinced beyond a reasonable doubt that the defendant is guilty of the charged crime, you must find the defendant not guilty of the crime. And if you are convinced beyond a reasonable doubt that the defendant is guilty of a charged crime, you must find the defendant guilty of that crime. Now, when each witness, by whomever called, is first examined, that is they are asked questions by the lawyer who calls the witness to testify, that is called direct examination. when the direct examination is completed, the other lawyer is permitted to ask questions of the witness and that is called cross—examination. The lawyers are responsible for questioning the witnesses. The Court may at times ask a witness a question. The jurors may not ask questions of the witnesses. You may, but are not required, to take notes. If you wish to take notes we will provide materials to you for that purpose. If you decide to take notes, you must follow these rules. Remember, every word of each witness is recorded by the court reporter and during deliberations upon your request the testimony will be read back to you in whole or in part. So there is no need to take verbatim notes of a witness' testimony. Notes by definition are a brief written record of something to assist your memory. A note should not take precedence over your own independent recollection. Remember, also, you are the finders of fact who are responsible to evaluate the believability and accuracy of a witness' testimony. It is, thus, important that you be able to both fully comprehend what a witness is saying and how a witness is saying it. Accordingly, you must not permit note taking to distract you from the proceedings. If you make a note, it should be brief and not distract you from what the next question and answer are. Any notes a juror takes are only for that juror's own personal use in refreshing his or her recollection. Thus, jurors who chose not to take notes must rely on their own independent recollection and must not be influenced by any notes another juror may have taken. Also, a juror's notes are not a substitute for the recorded transcript of the testimony or for any exhibit received into evidence. If during your deliberations there is a discrepancy between a juror's recollection and his or her notes regarding the evidence, you should ask to have the relevant testimony read back or the exhibit produced for your inspection."
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "1",
+        "character": "A",
+        "voice": "Emily",
+        "text": "witness usually can testify only about matters the witness has personal knowledge of, that is, something the witness has personally seen, heard, felt, touched or tasted. Thus, a witness is not permitted to guess or speculate or say what he or she thinks another person saw, heard, felt, touched or tasted. Also, a witness is not permitted to give an opinion about matters for which a special expertise is necessary unless, of course, the witness purports to be an expert on the matter he or she is being questioned about."
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "12",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, Principal Court Reporter, Susan Pearce—Bates, was relieved by Senior Court Reporter, Lisa Kramsky."
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "15"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "16"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "17"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "18"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "19"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "20"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "21"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "22"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "23"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "24"
+    },
+    {
+        "page": "Page 844",
+        "lineNumber": "25"
+    },
+    {
+        "page": "Page 845",
+        "lineNumber": "1",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Continued from previous page."
+    },
+    {
+        "page": "Page 845",
+        "lineNumber": "2",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "With some exceptions, what a witness may have been thinking when something has taken place is not relevant evidence. Finally, a witness is often not permitted to testify to hearsay, meaning generally that a witness cannot testify to what the witness may have said before the trial, or what another person may have said to that witness before the trial. But there are many exceptions to the hearsay rule for a variety of sound reasons, too numerous to go into at this time. I will, however, explain a couple of exceptions that frequently arise during a trial. Sometimes, a witness will be permitted to testify that the witness did something because of what someone said in that circumstance. It does not matter who uttered the statement or how the speaker gathered the information for the statement, or even whether the statement is truthful and accurate. It matters only that someone uttered the words and the witness did something upon hearing those words. So in that instance you may not consider what the witness was told for the truth of the words said to the witness. You may consider the words only for the reason they are offered, that is, to explain what the witness did after hearing the statement. During the presentation of evidence, the lawyers for the parties will in turn ask questions of the witnesses, and during that questioning a lawyer is not permitted to make comments on the witness's answers or on the case. That is not allowed. That happens on TV and in the movies, but it doesn't happen in real trials. In a real trial, it is at the end of the case that the lawyers are permitted to address the jurors in what are called a summation. And it is then that the lawyers may comment on the witnesses, the testimony, and any other evidence. During the questioning of a witness, the lawyer may use a question or some other presentation of evidence. If not in accord with a rule of law, that lawyer will object. When an objection is made, I will decide whether the rules permit the question to be asked or the evidence to be introduced. The objection will be one word: Objection. Anything more than that, then a party might gain an unfair edge. Making objections is part of the lawyer's job. You are not to draw any unfavorable inference because objections are made; they take place at every trial."
+    },
+    {
+        "page": "Page 847",
+        "lineNumber": "2",
+        "character": "A",
+        "voice": "Emily",
+        "text": "lawyer may object before a witness answers a question or after a witness answers a question. When an objection is made to a question before the witness answers, if I overrule the objection, the witness will be permitted to answer. If I sustain the objection, there is no answer and, therefore, no evidence. Remember, a question alone is not evidence. If a lawyer objects after the witness has answered the question and I overrule the objection, the answer stands as evidence. If I explain the objection, the answer is not evidence. The question and answer is stricken from the record, and you are to completely disregard that answer as though it were never said. Also, the Court has an obligation under the laws of New York to make sure that fundamental rules are followed, even if one of the lawyers does not actually voice an objection. So, on occasion, you may hear me say sustained or words to that effect, even though no one has actually objected. Any ruling by the Court on an objection of counsel or otherwise is based on our law and expresses no opinion about the facts of the case or whether the defendant is guilty or not guilty. Remember, you are responsible for making that decision. Now, from time to time during the course of the trial, there will be conferences at the bench with counsel and if they become prolonged it may be necessary for the Court to ask the jury to return to the jury room. These conferences that deal with questions and matters of law and scheduling of the trial are my responsibility, so when the occasion arises when there are conferences at the bench or outside of your presence, I ask for your understanding. Upon completion of the presentation of evidence, the lawyers will address you in a closing statement, or what the law calls a summation. What a lawyer says in a summation is not evidence. The summations, however, provide each lawyer an opportunity to review the evidence presented and submit for your consideration the facts, inferences and conclusions which they contend may be properly drawn from the evidence. After summations are concluded, I will instruct you on the rules of law applicable to the case. You must accept and follow those rules. You will then begin your deliberations. During your deliberations, your function as jurors will be to decide what the facts are and to apply the rules of law that I set out. You will determine what the facts are from all of the testimony that you hear, the exhibits that are submitted and any stipulations the parties have agreed to. In other words, you will decide the case on the evidence. The conclusion you reach from determining the facts and applying the law will be your verdict, guilty or not guilty. Remember, you have promised to be a fair juror."
+    },
+    {
+        "page": "Page 849",
+        "lineNumber": "14",
+        "character": "A",
+        "voice": "Emily",
+        "text": "fair juror is a person who will keep their promise to be fair and impartial and who will not permit the verdict to be influenced by bias or prejudice in favor of or against the person who appeared in this trial on account of that person's race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation. And, further, a fair juror must be mindful of any stereotypes or attitudes about people or about groups of people that the juror may have, and must not allow those stereotypes or attitudes to affect their decision."
+    },
+    {
+        "page": "Page 850",
+        "lineNumber": "12",
+        "character": "A",
+        "voice": "Emily",
+        "text": "fair juror must guard against the impact of such stereotypes or attitudes. You can do this by asking yourself during your deliberations whether your views and conclusions would be different if the defendant, witnesses or others that you have heard about or seen in court were of a different race, color, national origin, ancestry, gender, gender identity or expression, religious practice, age, political affiliation or sexual orientation or if they did not have a disability. If the answer is yes, then in keeping with your promise to be fair, reconsider your views and conclusions along with the other jurors, and make sure your decision is based on the evidence and not on stereotypes or attitudes. Justice requires no less. Under our law, Juror Number 1 will serve as the jury's foreperson. During the trial, the foreperson has the same responsibilities as any other juror. During deliberations, the foreperson will sign any note that the jury sends to me, including that the jury has reached a verdict. The foreperson will announce the jury's verdict. Thus, in sum, the stages of the criminal trial are the opening statements, the presentation of evidence, summations, the final instructions of the Court to the jury on the law, and the deliberation of the jury and the verdict. During the trial, if you need to speak with me about something relating to your jury service or the trial, please tell a court officer that you need to speak to me. I will then arrange a meeting with the parties, in the courtroom or in my robing room. Do not discuss with your fellow jurors whatever you feel necessary to bring to my attention. And after we have had our conversation, do not discuss with your fellow jurors whatever it is that we discussed. During the trial we do our best to avoid delay, but from experience I know delays are inevitable for a multitude of reasons, through no one's deliberate fault. When those delays occur, I ask for your understanding and your patience. I assure you your time is important to me. I never take it for granted, and I never want to waste it. I request that you please be here at the times I set so that the absence or lateness of a juror is not the occasion for delay. If an emergency arises that may make you late or prevent you from attending, please call the Court, leave a number where you can be reached and explain the problem so we can minimize everyone's inconvenience. In this case, we have six alternate jurors."
+    },
+    {
+        "page": "Page 857",
+        "lineNumber": "20",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Good morning, your Honor, counsel, members of the jury. This case is about a criminal conspiracy and a cover—up. The defendant, Donald Trump, orchestrated a criminal scheme to corrupt the 2016 presidential election; then he covered up that criminal conspiracy by lying in his New York business records over and over and over again. In June of 2015, Donald Trump announced his candidacy for president in the 2016 election; a few months later this conspiracy began. He invited his friend, David Pecker, to a meeting at Trump Tower here in Manhattan. Mr. Pecker was the CEO of a media company that, among other things, owned and published the National Enquirer tabloid. Michael Cohen was also at that meeting. He worked for the defendant as the defendant's special counsel at his company, the Trump Organization. And those three men formed a conspiracy at that meeting to influence the presidential election by concealing negative information about Mr. Trump in order to help him get elected."
+    },
+    {
+        "page": "Page 885",
+        "lineNumber": "21",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, Senior Court Reporter Lisa Kramsky is relieved by Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page."
+    },
+    {
+        "page": "Page 885",
+        "lineNumber": "25"
+    },
+    {
+        "page": "Page 886",
+        "lineNumber": "1",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Continued from the previous page.) He also pled guilty to and served time for tax crimes and lying to a bank and lying to Congress. And you’ll also learn that Cohen has publicly committed to making sure the Defendant is held accountable for his role in this conspiracy. The evidence will also show why you can credit Michael Cohen's testimony, despite those past mistakes"
+    },
+    {
+        "page": "Page 887",
+        "lineNumber": "22",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you, Mr. Colangelo. Counsel."
+    },
+    {
+        "page": "Page 887",
+        "lineNumber": "24",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Good morning. Good morning, Your Honor."
+    },
+    {
+        "page": "Page 888",
+        "lineNumber": "1",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good morning."
+    },
+    {
+        "page": "Page 888",
+        "lineNumber": "2",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "President Trump is innocent. President Trump did not commit any crimes. The Manhattan District Attorney’s Office should never have brought this case. You've heard this a few times already this morning, and you’re going to hear it a lot more during this trial. The People, the Government, they have the burden of proof to prove President Trump guilty beyond a reasonable doubt. What that means, as Judge Merchan said a few minutes ago, is that President Trump is presumed innocent. He’s cloaked in innocence. And that cloak of innocence does not leave President Trump today. It doesn’t leave him at any day during this trial. And it won't leave him when you all deliberate. You will find that he is not guilty. Now, President Trump, you’ve seen him, of course, for years and years and years. You've seen him on television. You’ve seen photos of him. You've seen articles written about him. He’s in some ways larger than life. But, he’s also here in this courtroom doing what any of us would do: defending himself. You’re going to hear me, as I've done already today, and others, even witnesses, refer to him as \"President Trump\". This is a title that he has earned because he was our 45th President. We will call him \"President Trump\" out of respect for the office that he held from 2017 to 2021. And as everybody knows, it’s the office he’s running for right now. He’s the Republican nominee. But —— and this is important —— he’s not just our former President. He’s not just Donald Trump that you’ve seen on TV and read about and seen photos of. He’s also a man. He’s a husband. He’s a father. And he’s a person, just like you and just like me. What the People just did for about 45 minutes is present to you what appeared to be a very clean, nice story. It is not. It is not \"simple\", as the People just described. For one, and you heard the People admit this, most of what you are going to hear about in this trial, most of the conversations, most of the documents are from 2015, 2016, 2017, years and years ago, pre—COVID. And you’re going to hear witnesses talk about conversations, meetings, people they met with from 2015. The story that you just heard, you will learn, is not true. And at the end of this trial, there will be plenty of reasonable doubt. Here is what I expect that you will learn happened: President Trump, for years, built a very large, successful company. He employs thousands of people. It’s a purely private company. Not like AT&T or FedEx, publicly traded. And when he became President in 2017, he put up a wall between himself and his company, as the People just alluded to. He put his entire company in a Trust. He did this so that he could run the country, and he wouldn’t have anything to do with his company while he was President. But, some of his employees, you’ll learn, continued to help record personal expenses that President Trump incurred while he was President. Not surprising. They had been doing that for many years. You’ll hear they’re still doing that today. So, when —— when President Trump became President, when he took the Office of the Presidency in 2017, in January, Michael Cohen, who you heard the People allude to, assumed the role of President Trump’s personal attorney. And you will learn that each month in 2017, Michael Cohen sent an invoice to some of the employees at the Trump —— at the Trump Tower, right here in Midtown, for $35,000. And on this invoice, Michael Cohen described his work as \"payment to the retainer agreement for legal services rendered\". The invoice was processed. Somebody at Trump Tower generated a check. The check was ultimately signed, and there was a record in a ledger on President Trump's personal records that reflected the invoice. For nine of the checks, the check made its way down to the White House, and President Trump signed it. You’ll hear that he’s the only signatory on his personal checking account, which is why he signed the check. So, what on Earth is a crime? What is a crime about what I just described? This business records violation that the People have brought against President Trump, the 34 counts, ladies and gentlemen, are really just 34 pieces of paper, the 34 counts of the invoices that Mr. Cohen sent to the folks at Trump Tower, the checks that were generated because of that invoice, and then the ledger notation from the invoice that said \"for retainer agreement and legal services\". None of this was a crime. Now, you just heard the People’s theory about that $35,000, that it really wasn't a monthly retainer, that Michael Cohen was actually trying to cover up with President Trump the payback of this $130,000 payment to Stormy Daniels, who also goes by Ms. Clifford, Stephanie Clifford. You’ll hear that Ms. Clifford/Ms. Daniels, did, in fact, sign an NDA in October of 2016 in exchange for $130,000. But, think for a moment of what the People just told you. President Trump did not pay Mr. Cohen back $130,000. President Trump paid Michael Cohen $420,000. And in the same breath, the People told you that President Trump is known as a frugal businessman, that he pinches pennies. Ask yourself: Would a frugal businessman, would a man who pinches pennies repay $130,000 debt to the tune of $420,000? More significantly than that, ladies and gentlemen, you’re going to learn that this was not a payback. The $35,000 a month was not a payback to Mr. Cohen for the money that he gave to Ms. Daniels. He was President Trump’s personal attorney. You will see documents, you will see emails. His signature block, Michael Cohen's signature block in 2017 said \"Michael Cohen, Personal Attorney to President Donald J. Trump\". You will hear that he told people that he served as President Trump’s personal attorney. You will hear that he did legal work for President Trump and the First Lady as his personal attorney. Now, the People talk about the ledger. I mentioned the ledger a few times. Listen, the ledger is just a fancy way of describing how folks at Trump Tower, employees that work for President Trump kept track of the money that came in and the money that went out. There’s nothing fancy about a ledger. It's something, I suppose, like a checkbook, where you keep track of what you're spending money on. And I expect that you will learn that the record, the ledger that was used in this case that President Trump is charged in part with, that the information that was placed in that ledger was done by someone named Deb Tarasoff. I expect she will testify. You will hear that she’s a woman who has worked for President Trump for decades. Nobody is going to say she did anything wrong. I don’t expect the People will say she is part of this scheme. What she will tell you is she had a conversation with another boss, someone who she worked for, another accountant, someone who has nothing to do with this; and she was told when she got the invoice from Mr. Cohen to call it \"legal expense\", which is exactly what the invoice said. And that’s exactly what she did. And then, after recording it, she generated a check, which was her job. And then, again, for nine of the eleven checks, the checks made their way from Trump Tower, here in Midtown, to 230 miles down south to the White House, where they were signed. But —— and you heard this again from the People. I am not saying anything controversial. President Trump had nothing to do, had nothing to do with the invoice, with the check being generated, or with the entry on the ledger. Ms. Tarasoff isn’t going to say she had any conversations with President Trump: Hey, how should I book this? How should I book this to keep it secret and keep it quiet? The invoice says it’s for services rendered. And it's Michael Cohen. He’s a lawyer. He worked for The Trump Organization, you'll learn, for many years. You won’t hear any of that. Her boss, the person who told her how to book it, he's not gonna say he talked to President Trump about it. He's not going to say that he called the White House and interrupted a meeting as President Trump was running the country and said: Hey, we got this invoice, I know we’re trying to cover it up here. Absolutely not. You’ll learn President Trump had nothing to do with any of the 34 pieces of paper, the 34 counts, except he signed on to the checks, in the White House while he was running the country. That's not a crime. So —— and some of you heard this last week during jury selection. What are the People going to do? I don’t expect they’re going to dispute what I just said. I don’t expect they’re going to call a witness that says that President Trump had anything to do with what was written on the ledger, with generating the check, with the invoice coming in. So, you heard last week, and I expect you'll hear it during this trial, this idea of \"accomplice liability\"; the idea that the People can get around the complete lack of knowledge or intent by President Trump. And, look, the reality is, President Trump is not on the hook, is not criminally responsible for something that Mr. Cohen may have done years after the fact. The evidence will prove otherwise. You also heard a lot of —— a lot of communication about the 2016 election. The People just told you that the reason why these invoices were recorded the way they were recorded way after the election —— President Trump was already in office —— was to cover up for Mr. Cohen, suggesting that Mr. Cohen was somehow trying to influence —— \"influence\" is the word they used —— the 2016 election. I have a spoiler alert. There is nothing wrong with trying to influence an election. It’s called democracy. They put something sinister on this idea, as if it was a crime. You’ll learn it’s not. Michael Cohen paying Stormy Daniels or Stephanie Clifford $130,000 in exchange for her agreeing to not publicly spread false —— false claims about President Trump is not illegal. I’m going to say that again. Entering into a non—disclosure agreement ——"
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "18",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "19",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sustained."
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "20",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Entering into a non—disclosure agreement is perfectly legal."
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "22",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "23",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Overruled."
+    },
+    {
+        "page": "Page 896",
+        "lineNumber": "24",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "You will learn that companies do that all the time with some regularity. Executives, people who are wealthy, people who are famous enter into non—disclosure agreements regularly, and there’s nothing illegal about it. I expect that you will learn that when Ms. Daniels threatened to go public with her false claim of a sexual encounter with President Trump back in 2008 [sic], that it was, as the People just said, very close to the election. And it was almost an attempt by Ms. Clifford/Ms. Daniels to extort President Trump."
+    },
+    {
+        "page": "Page 897",
+        "lineNumber": "10",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 897",
+        "lineNumber": "11",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sustained."
+    },
+    {
+        "page": "Page 897",
+        "lineNumber": "12",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "It was sinister. And it was an attempt to try to embarrass President Trump, to embarrass his family. Because, as the People alluded to, at that time there were all kinds of salacious allegations going out, going around about President Trump, and it was damaging to him and damaging to his family. And you heard and you will hear during this trial that President Trump fought back, like he always does and like he’s entitled to do, to protect his family, his reputation and his brand. And that is not a crime. You heard the People talk about this term \"hush money payments\", and I expect you'll hear that term used during the trial. Again, entering into an agreement with another individual —— you’ll hear this agreement was negotiated by lawyers."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "4",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "5",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Please approach."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "6",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held at sidebar:"
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "8",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Tell me what the objection is."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "9",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Your Honor specifically excluded presence of counsel defense."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "11",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Sorry, Your Honor. There will be testimony from Mr. Cohen that he was a lawyer, and there will be testimony he was working with Mr. Davidson, also a lawyer."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "15",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I’ll direct you stay away from it."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "16",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "Yes. So, it is true that in their opening, the People talked about how Mr. Pecker is going to talk about his communications with the General Counsel as well, which is also the same issue."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "21",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Mr. Pecker is not on trial here."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "22",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "I understand."
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "23",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held in open court:"
+    },
+    {
+        "page": "Page 898",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "The objection is sustained. That last comment is stricken."
+    },
+    {
+        "page": "Page 899",
+        "lineNumber": "2",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "There is nothing illegal about entering into a non—disclosure agreement. Period. Now, the People talked about Michael Cohen. And there are going to be a lot of witnesses in addition to Mr. Cohen. You’re going to hear myself, the other folks that are working with President Trump cross—examine, as the judge talked about, these witnesses. Some we’ll cross—examine a lot. Some very little, if at all. But, one witness who you will hear a lot about is Michael Cohen. Mr. Cohen served as President Trump’s attorney for many years, long before President Trump became President. He served as his personal attorney, working at Trump Tower, being paid for by the Trump companies. And then, as I mentioned, in 2017, he served as his —— as the personal attorney to President Trump in 2017, after President Trump took office. You will learn that shortly after the election in 2016, Michael Cohen wanted a job in the administration. He didn’t get one. You’ll hear that he was loyal. He was very loyal to President Trump and the companies for years. He defended President Trump on television, in printed media, publicly, privately. But, unbeknownst to President Trump, in all the years that Mr. Cohen worked for him, Mr. Cohen was also a criminal. Apart from his work for President Trump and the Trump companies, he cheated on his taxes, he lied to banks, he lied about side businesses he had with taxi medallions, among other things. And as the People alluded to, in 2018, he got caught. Now, shortly after getting caught in 2018, you will learn that he made a decision. The decision that he made was to blame President Trump for virtually all of his problems. He had been eventually disbarred as an attorney. He’s a convicted felon. And he also is a convicted perjurer. He is an admitted liar. For many, many years, going back before President Trump became President, even before Michael Cohen started working for The Trump Organization, you’ll learn that Michael Cohen was obsessed with President Trump. He is obsessed with President Trump even to this day. Today, Michael Cohen has podcasts, two of them. He goes on TV, X, TikTok, other social media platforms, and he rants and he raves about President Trump. He criticizes President Trump. He has talked extensively about his desire to see President Trump go to prison. He has talked extensively about his desire to see President Trump’s family go to prison. He has talked extensively about President Trump getting convicted in this case."
+    },
+    {
+        "page": "Page 901",
+        "lineNumber": "25",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "1",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sustained."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "2",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "He walked —— he has walked into a courtroom very near here, raised his right hand, and swore to tell the truth. And now he will tell you, I expect, that he was lying."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "6",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "7",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sustained. Please approach."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "9",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held at sidebarz"
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "11",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "There is no showing that Mr. Cohen testified falsely in any of the proceedings that Mr. Blanche is referring to."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "14",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "What I just said is that he testified that he testified falsely. He will testify that when he pled guilty in front of Judge Pauley, he lied."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "17",
+        "character": "MS. HOFFINGER:",
+        "voice": "Serena",
+        "text": "That’s not what he said."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "18",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "That’s what he said. He did say that."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "That's not what is standing. I don’t know what you’re testifying about from the podium. We’ll hear it from the witness stand."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "24",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "They can use it against me."
+    },
+    {
+        "page": "Page 902",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "That’s in dispute. I read it’s in dispute. I’ve heard it’s in dispute. You’re not going into that."
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "3",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Just to confirm, it’s disputed both in the Pauley trial and in Federal Court in front of Judge Furman."
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "6",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "It’s his words. He said —— the question was asked, \"Were you telling the truth when you testified before Judge Pauley?\" He said, \"No.\" They asked, \"Were you lying under oath?\" And he said, \"Yes.\""
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "12",
+        "character": "MS. HOFFINGER:",
+        "voice": "Serena",
+        "text": "He said he lied across the street."
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "14",
+        "character": "MS. NECHELES:",
+        "voice": "Freya",
+        "text": "It is across the street."
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "15",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "That's not what Mr. Blanche said. He said he lied across the street. Second, if you put the entire testimony in context and full ——"
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "19",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "It ——"
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Relax. Relax. Let him speak. I need to hear what he’s saying."
+    },
+    {
+        "page": "Page 903",
+        "lineNumber": "22",
+        "character": "MR. COLANGELO:",
+        "voice": "James",
+        "text": "Both in his further testimony in that proceeding and in written submissions at his federal proceeding, he clarified and explained his testimony and said that he was not lying when he pled guilty, said he was prosecuted —— believed he was prosecuted unfairly."
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "2",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "This is an opening statement. It’s not argument. If you have this at the end of the trial, you can argue it at summations. I don’t want to hear it now."
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "7",
+        "character": "MS. NECHELES:",
+        "voice": "Freya",
+        "text": "Can’t Mr. Blanche say: I expect the evidence to say; we heard from the prosecutor; we expect the evidence to say; we don’t expect him to say?"
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "10",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "It’s argument. You can bring it up on summation."
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "12",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held in open court:"
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "14",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "The objection is sustained."
+    },
+    {
+        "page": "Page 904",
+        "lineNumber": "15",
+        "character": "MR. BLANCHE:",
+        "voice": "Joseph",
+        "text": "You will learn, ladies and gentlemen, that Michael Cohen has pled guilty to lying under oath. That means, to be clear, that just like I expect witnesses will come in here and raise their right hand and swear to tell the truth and then testify, that means that Mr. Cohen did that, raised his right hand, swore to tell the truth, and then lied. And admitted that. Pled guilty to lying. Under oath. So, you have two meaningful and significant issues with Mr. Cohen: His obsession with President Trump, and his desire to see President Trump go to jail in this case. His entire financial livelihood with podcasts. He's written several books. He’s frequently on the media. His entire financial livelihood depends on President Trump’s destruction. And, second, the fact —— admitted fact that he has lied under oath. I submit to you —— and I will talk to you again, as Judge Merchan said, at the end of the case —— that given this, you cannot make a serious decision about President Trump relying on the words of Michael Cohen. There will be other witnesses. I expect Ms. Clifford/Stormy Daniels will testify. She is, similarly, extremely biased against President Trump. You will hear that he met her several years ago, in 2006. I may have said 2008 earlier. In 2006, some 18 years ago. Then, at the time, as some of you may remember, President Trump was running a very popular TV show called The Apprentice, which was looking —— always looking for new opportunities and had a series of communications with Ms. Daniels. But, ultimately, it did not work out. Since then, Ms. Clifford has made a living off of these communications, even though she publicly denied any improper relationship in writing. You will hear that in the weeks and months leading up to the 2016 election, she saw her chance to make a lot of money, $130,000. And it worked. She got an NBA, and Michael Cohen paid her that money. He did that in exchange for her silence. Which, of course, didn’t work. And since this story came out in 2018, became public, she’s made hundreds of thousands of dollars because of it. She also wrote a book. She was paid for a documentary. And you'll also learn that courts have sided with President Trump in legal disputes between Ms. Daniels and President Trump and that she owes him somewhere around $600,000 as a result of those cases. But, I’m going to say something else about her testimony, and this is important. It doesn't matter. What I mean by that is, I expect you will learn that Ms. —— that Ms. Daniels doesn’t have any idea. She doesn't know anything about the charged 34 counts in this case. She has no idea what Michael Cohen wrote on the invoice. She has no idea how it was booked at Trump Tower. And she has no idea about the checks that are also charged in this indictment. So, her testimony, while salacious, does not matter. Now, I want to talk to you for just a few minutes about what the People spent a long time talking about, which is this catch and kill scheme between Mr. Pecker at AMI and President Trump and Michael Cohen as the part of his lawyer. The People used the word \"conspiracy\". You will hear and see that there are 34 counts in this indictment. \"Conspiracy\" is not one of them. President Trump is not charged with any \"conspiracy\". That’s a word the People have chosen to use. The reality is, there’s nothing illegal about a scheme. There's nothing illegal about what you will hear happened among AMI and National Enquirer and Mr. Pecker and President Trump. It happens —— I expect you will hear shortly, this sort of thing happens regularly, that newspapers make decisions about what to publish, when to publish, and how to publish. It happens with politicians, with wealthy people, with famous people. It’s not a scheme. Unless a scheme means something that doesn’t matter, that’s not illegal, that’s not against the law."
+    },
+    {
+        "page": "Page 909",
+        "lineNumber": "14",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you, Mr. Blanche. Counsel, please approach."
+    },
+    {
+        "page": "Page 909",
+        "lineNumber": "16",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held at sidebar:"
+    },
+    {
+        "page": "Page 909",
+        "lineNumber": "18",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I know you want to take a short break. You can do that. But, I need to have the jurors out of here by 12:30."
+    },
+    {
+        "page": "Page 909",
+        "lineNumber": "22",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "What time is it now?"
+    },
+    {
+        "page": "Page 909",
+        "lineNumber": "23",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Ten to twelve. We can put your witness on the stand for ten minutes, maybe fifteen minutes, tops, or we can adjourn today and start tomorrow. It's up to you."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "2",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "What do you think? Start? We need five minutes to get him upstairs."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "4",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following proceedings were held in open court:"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "We're going to take a very short ten—minute recess. I ask you to please step out. Follow the instructions of the officer."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "10",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the jurors and the alternate jurors are excused."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "12",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "See you back at 12 noon."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "13",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, a recess is taken."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "14",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, Senior Court Reporter Laurie Eisenberg is relieved by Senior Court Reporter Theresa Magnicarri, and the transcript continues on the following page."
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "18"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "19"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "20"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "21"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "22"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "23"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "24"
+    },
+    {
+        "page": "Page 910",
+        "lineNumber": "25"
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "1",
+        "character": "THE CLERK:",
+        "voice": "Gigi",
+        "text": "Case on trial continues. All parties are present. Appearances remain the same. Outside the presence of the jury."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "4",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Bring in the jury."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "5",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Jury entering courtroom."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "You can be seated. Thank you."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "8",
+        "character": "THE CLERK:",
+        "voice": "Gigi",
+        "text": "The jury is present and properly seated."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "10",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "People, please call your first witness."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "12",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "The People call David Pecker."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "13",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Witness entering courtroom."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "14",
+        "character": "COURT OFFICER:",
+        "voice": "Grace",
+        "text": "Remain standing."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "15",
+        "character": "THE CLERK:",
+        "voice": "Gigi",
+        "text": "Please raise your right hand. Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth and nothing but the truth, do you so swear or affirm?"
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "20",
+        "character": "THE WITNESS:",
+        "voice": "Adam",
+        "text": "I do. D—A—V—I—D P—E—C—K—E—R, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:"
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "24",
+        "character": "THE CLERK:",
+        "voice": "Gigi",
+        "text": "Please be seated."
+    },
+    {
+        "page": "Page 911",
+        "lineNumber": "25",
+        "character": "COURT OFFICER:",
+        "voice": "Grace",
+        "text": "Please state your name."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "1",
+        "character": "THE WITNESS:",
+        "voice": "Adam",
+        "text": "David Pecker."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "2",
+        "character": "COURT OFFICER:",
+        "voice": "Grace",
+        "text": "Spelling your last name."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "3",
+        "character": "THE WITNESS:",
+        "voice": "Adam",
+        "text": "P—E—C—K—E—R."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "4",
+        "character": "COURT OFFICER:",
+        "voice": "Grace",
+        "text": "County of residence."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "5",
+        "character": "THE WITNESS:",
+        "voice": "Adam",
+        "text": "Barfield, Connecticut."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Good afternoon, Mr. Pecker. You may inquire."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "8",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "May I inquire?"
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "9",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "10",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Thank you."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "13",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Good afternoon, Mr. Pecker."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "14",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Good afternoon."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "15",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "I'm sorry to start with this question. How old are you?"
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "17",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Seventy—two."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "18",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Are you married?"
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "How long have you been married?"
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "21",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Thirty—six years."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "22",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Can you briefly describe your educational background for the jury."
+    },
+    {
+        "page": "Page 912",
+        "lineNumber": "24",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes. I have a Bachelor's Degree from Pace University, and I also received a Doctorate Degree that was granted to me from Pace."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "2",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "I am going to ask you to slide your chair a little bit forward so your mouth is a little closer to the microphone."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "4",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Okay."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "5",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "That's better. Thank you. Are you currently employed?"
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "7",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "I'm self—employed now."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "8",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "What are you doing now?"
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "9",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "I do consulting work."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "10",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And is one of the companies you consult for your prior employer?"
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "12",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I do."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "13",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Who was your prior employer?"
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "14",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "My prior employer was American Media."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "15",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Is that known as AMI for short?"
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "16",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "AMI is correct."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "17",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I apologize for interrupting you. We didn't give the jurors an opportunity to get some writing materials. Do any of you want writing materials? Raise your right hand. Keep your hand up. I apologize for interrupting."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "24",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "No problem."
+    },
+    {
+        "page": "Page 913",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Does everyone who wants a pad or a pen have one? Okay. Great. Sorry, Mr. Steinglass."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "4",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "No problem."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "5",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "So I think we left off, you were telling us what kind of company AMI is."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "7",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "American Media is a publishing company that primarily publishes celebrity magazines and it used to publish health and fitness magazines."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "10",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Can you give us some examples of other AMI publications?"
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "12",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes. The National Enquirer, the Globe, Life & Style, In Touch, Closer, Us Weekly."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "14",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Star?"
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "15",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Star. And on the health and fitness titles, it was Shape and Muscle & Fitness and Flex."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "18",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "What was your title at AMI?"
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "I was Chairman, President and CEO."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Did you also have an ownership interest?"
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "21",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I owned 10 percent of the company."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "22",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "How long did you work at AMI?"
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "23",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "From March 1999 through August of 2020."
+    },
+    {
+        "page": "Page 914",
+        "lineNumber": "24",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "During the period from 2015, say, to 2017, what was your title?"
+    },
+    {
+        "page": "Page 915",
+        "lineNumber": "1",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "The same title, Chairman, President and CEO."
+    },
+    {
+        "page": "Page 915",
+        "lineNumber": "2",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And can you describe a little bit for the jury what your responsibilities were in those titles?"
+    },
+    {
+        "page": "Page 915",
+        "lineNumber": "4",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "In a publishing environment you have multiple different departments. On the editorial side, you have Editor—in—Chief, and you have the staff, managing editors, freelancers, reporters. And an on the operations side, you have various different departments; accounting department, finance department, and you have a legal department, Human Resources Administration. All those departments reported to the directors of each of those units that I just mentioned, and that is the leadership team. And everybody, all those people, reported directly to me."
+    },
+    {
+        "page": "Page 915",
+        "lineNumber": "16",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "So as CEO and President and Chairman, did you have the final say over publishing decisions, including which stories would get published and which stories would not get published?"
+    },
+    {
+        "page": "Page 915",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I had the final say. On the celebrity side of the magazine industry, at least on the tabloid side, we used checkbook journalism and we pay for stories. So I gave a number to the editors that they could not spend more than $10,000 to investigate or produce or publish a story. So anything over $10,000 that they would spend on a story, that would have to be vetted and brought up to me if they were going to spend more for approval."
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "2",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "In addition to having to approve expenditures, did you also have final kind of editorial say; in other words, the ability to determine that a particular story was not going to be run, or a particular story was going to be run?"
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Being in the publishing industry for 40 years, I realized early in my career that the only thing that was important is the cover of a magazine. So when the editors produce a story, or prepare the cover, we would have a meeting and they would present to me what the story would be, what the concept was, what the cost was going to be."
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "12",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And if the story involved, I guess for lack of a better way to say it, a big story, or a famous person, did you have the final say on whether or not to publish that story?"
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "15",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I did."
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "16",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Where generally was your office located?"
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "17",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "We were located in Boca Raton, Florida, and in Manhattan on —— I have been out a little bit, for a while, on the corner of Broad and Water Street."
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Okay. Are you familiar with the term \"editor meetings?\""
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "22",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I am."
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "23",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Can you explain to the jury what is an editor meeting, what are editor meetings?"
+    },
+    {
+        "page": "Page 916",
+        "lineNumber": "25",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "As the editors prepare and put a story together, and spending these expenditures to produce that, and then coming up to producing a cover, I would have a meeting for the editors to present their covers to me, and then I would take a look and see if the cover that's being presented meets some qualifications."
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "17",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And did you participate in editor meetings?"
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "18",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I participated in all of them."
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "19",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Were there editor meetings for all of AMI's publications or on certain publications?"
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "21",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Primarily the celebrity titles, the tabloids."
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "22",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "How about the National Enquirer?"
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "23",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, for the National Enquirer, yes."
+    },
+    {
+        "page": "Page 917",
+        "lineNumber": "24",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Was that AMI's most well known tabloid, to use your word?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "1",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "2",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "During the period from 2015 to 2017, what were the last four digits of your work cellphone number?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "4",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "7501."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "5",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Is it 01 or 91?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "705—7591."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "7",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "You gave us more than that. All right. And your personal cellphone, just the last four digits?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "10",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "5955."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "11",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "How about the last four digits of your last phone number in New York City?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "13",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "4899."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "14",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And did you have a separate office phone number in Florida?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "16",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I did."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "17",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "You don't happen to remember the last four digits of that number?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I do now; 1221."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Okay. This isn't a quiz. During the same period, did you have an AMI email address?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "23",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I did."
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "24",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "How many email addresses?"
+    },
+    {
+        "page": "Page 918",
+        "lineNumber": "25",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "I had two email addresses."
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "1",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And without giving us the beginning portion of those email addresses, did they end with the domain name AMIlink.com?"
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "3",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, they did."
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "4",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Now, why did you have two separate email addresses at AMIlink.com?"
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Well, the reason being, I would receive hundreds of emails a day and I had my assistants look at all of my emails to vet out which ones I should look at right away, which ones were important or not. I also had a second email address which was private because I would receive emails from the Human Resources Department on salaries and raises and compensation, or sometimes other sensitive issues which I didn't want my assistants to see, so I had two."
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "15",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "So without giving us the exact name of those email addresses, is it fair to say you had one kind for general purposes and one for purposes that you didn't want other people to have access to?"
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "That's correct."
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And in addition to H.R. matters, like salary, did you also sometimes use the more restrictive email address when you were dealing with sensitive subjects or sources?"
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "23",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, for confidential I would."
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "24",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Are you here today pursuant to a subpoena?"
+    },
+    {
+        "page": "Page 919",
+        "lineNumber": "25",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I am."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "1",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And are you represented by counsel?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "2",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I am."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "3",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Is your lawyer present in court?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "4",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, he is."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "5",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Are you familiar with somebody named Dylan Howard?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I am."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "7",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Who is Dylan Howard?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "8",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Dylan Howard was a reporter, a celebrity reporter for American Media. He was also promoted over the years to become Editor—in—Chief of the National Enquirer, Editor of Star. He was the Managing Director of Radar, a digital celebrity site. And he was also the Chief Content Officer of the company. So, which means, to clarify, that means that all the editors reported directly to Dylan Howard."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "15",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "So he was kind of like Chief Editor—in—Chief?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "16",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "That's correct."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "17",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "But, in addition to that, he was also the Editor—in—Chief of the National Enquirer?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, he was."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And was that true during the periods from 2015 to 2017?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "22",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, that's correct."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "23",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "In that capacity, who was his direct supervisor?"
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "24",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Dylan reported directly to me."
+    },
+    {
+        "page": "Page 920",
+        "lineNumber": "25",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And can you describe for the jury a little bit about what Dylan Howard's roles were in each of those two jobs. I know you said he had a lot of jobs, but the two that I'm asking about in particular, being Editor—in—Chief of the National Enquirer and kind of being the Editor—in—Chief of all the AMI publications, the Chief Content Officer?"
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "The difference about celebrity magazines versus other magazines, these celebrity or tabloids are all weekly. So they're all weeklies. The editor, as Dylan, would receive, as I call it, his report card every week based on what the sales would be. So you would know immediately whatever decision Dylan made or we made for the cover of the magazine, you would immediately see what the sales were. If it was a mistake, you didn't do it again. That's one. The other piece, the other portion of the job is, all of the sources, freelancers, editors, photographers, writers, all reported up to different department heads, but they all ended up reporting to Dylan."
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "18",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "As Chief Content Officer?"
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "As Chief Content Officer."
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "20",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Now —— withdrawn. So is it fair to say that Dylan Howard kind of ran the network of sources for AMI, all of AMI's publications?"
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "23",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, because his job was to make sure that we would have the most exclusive and current content."
+    },
+    {
+        "page": "Page 921",
+        "lineNumber": "25",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Now, when it came to —— I don't know how to say this, juicy stories, did he run those decisions by you?"
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "2",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, he did."
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "3",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Was part of his responsibilities to maintain relationships and cultivate relationships with potential sources?"
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "6",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, it was a very important part of his job."
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "7",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And forgive me for asking this question, I know it's a little bit basic, can you explain, what is a source?"
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "9",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "19",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Thank you. Does Dylan Howard still work at AMI, to your knowledge?"
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "21",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "It's my understanding he doesn't work for them any more."
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "23",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Are you still in touch with him personally?"
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "24",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "No, I'm not."
+    },
+    {
+        "page": "Page 922",
+        "lineNumber": "25",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Do you know where he is living now?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "1",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "It's my understanding he is living in Australia."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "2",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "Are you aware of any health conditions involving Mr. Howard?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "4",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "5",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Objection."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Overruled."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "7",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "I don't want to get too personal. Can you tell us a little bit about what health conditions involving Mr. Howard you are aware of?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "10",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "From what I heard, is that he right now has a spinal condition."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "12",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And are you aware of whether it's possible for him to travel internationally?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "14",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "It's my understanding he can't."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "15",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "During your time working at AMI, were you familiar with someone named Bonnie Fuller?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "17",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Yes, I was."
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "18",
+        "character": "Q.",
+        "voice": "Jeremy",
+        "text": "And who was Bonnie Fuller?"
+    },
+    {
+        "page": "Page 923",
+        "lineNumber": "19",
+        "character": "A.",
+        "voice": "Adam",
+        "text": "Bonnie Fuller's history, she is a very famous editor and she was hired by Jann Wenner when he purchased Us Weekly. Bonnie Fuller was a celebrity editor and Jann Wenner hired her and she turned the magazine around and it became the most popular magazine in the country. And, rather, American Media was just in the process of competing against Bonnie Fuller and Us Weekly with my magazines, which was the National Enquirer and Star, and she was basically killing it. So I decided that to see if I could hire Bonnie Fuller. And I approached her, and I was able to bring her over from Wenner Media to become the Chief Editor of the Star."
+    },
+    {
+        "page": "Page 924",
+        "lineNumber": "6",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Can we stop at this point."
+    },
+    {
+        "page": "Page 924",
+        "lineNumber": "7",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Okay."
+    },
+    {
+        "page": "Page 924",
+        "lineNumber": "8",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Jurors, we're going to call it a day. I would ask you to please be back here in time for us to start at 11 o'clock in the morning. Again, we're going to work through lunch and we'll stop at 2 o'clock. I am not going to repeat all of the admonitions, I just gave them to you. Basically, don't discuss this case either among yourselves or with anyone else. Please continue to keep an open mind as to defendant's guilt or innocence. Please do not form or express an opinion as to the defendant's guilt or innocence. Put the case out of your mind. Don't think about it. Don't talk about it. And don't read anything about it. Thank you. I will see you tomorrow."
+    },
+    {
+        "page": "Page 924",
+        "lineNumber": "24",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Jury leaving courtroom."
+    },
+    {
+        "page": "Page 924",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Please be seated. You can step out, sir."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "2",
+        "character": "THE WITNESS:",
+        "voice": "Adam",
+        "text": "Thank you."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "3",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Witness leaving courtroom."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "5",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "All right."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "11",
+        "character": "MR. STETNGLASS:",
+        "voice": "Liam",
+        "text": "Can we approach on scheduling matters?"
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "13",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "whereupon, a sidebar took place between the court and counsel:"
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "15",
+        "character": "MR. STETNGLASS:",
+        "voice": "Liam",
+        "text": "So I think you told the jury that we were working on Monday, but I thought the Court had asked ——"
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "18",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Yes, I will correct that."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "19",
+        "character": "MR. STETNGLASS:",
+        "voice": "Liam",
+        "text": "That was number one. Number two, I think you might have also said we were breaking early on Tuesday, the 30th. I am not sure that anyone is asking for that. My understanding is Mr. Stern isn't coming in that day at all."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "24",
+        "character": "MS. NECHELES:",
+        "voice": "Freya",
+        "text": "There is no seder."
+    },
+    {
+        "page": "Page 925",
+        "lineNumber": "25",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "We can work all day. I will advise the jury of that."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "2",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Great."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "3",
+        "character": "MS . NECHELES:",
+        "voice": "Freya",
+        "text": "Thank you ."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "4",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "We do have one juror —— I believe we have one juror who observes the holiday. We can find out from her if she needs to leave at 2."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "7",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "My understanding is, I think I can speak with a little bit of authority on this point, for that day it's either all or nothing. With that holiday, it's either the juror wouldn't be able to come in at all or they will be able to stay until 5. There is nothing about leaving early that day."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "13",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "We will clarify."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "14",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "I have a few applications with respect to Mr. Pecker. 6 THE COURT: Sure ."
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "17",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "Whereupon, the following occurred back in open court:"
+    },
+    {
+        "page": "Page 926",
+        "lineNumber": "19",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "First of all, during the testimony this morning, being mindful of the Court's practice and ruling about not speaking objections, we objected to some testimony from Mr. Pecker about the whereabouts of Dylan Howard. I wanted to amplify that objection and move to strike the testimony. It was hearsay. He doesn't have firsthand knowledge of those facts, and it was also irrelevant."
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Irrelevant?"
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "4",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Yes, Judge."
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "5",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "First of all, potential unavailable hearsay is admissible. Second of all, whether or not it's irrelevant depends on what arguments defense intends to make, and it also could be foundational for some arguments that we intend to make. I don't think it's irrelevant in any way. I do think it's appropriate to elicit hearsay solely as to the question of the witness's availability."
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "14",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "The question of witness availability for that hearsay exception, Judge, is for you, and you make that determination outside the presence of the jury. It's not relevant to what the jury is considering. They're not being asked to evaluate that exception. And so that is our position."
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you. Your objection is noted. Anything else?"
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "23",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "No thank you."
+    },
+    {
+        "page": "Page 927",
+        "lineNumber": "24",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Yes. There are a few other things that we expect will come up during the testimony of Mr. Pecker. We thought we could raise them now if the Court has the time."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sure ."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "4",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "One relates to the issue with the limiting instruction that the Court distributed this morning relating to Mr. Cohen. 1 think it's likely a similar issue will present itself during the testimony of Mr. Pecker, and in particular with respect to AMI's resolution with the U.S. Attorney's Office for the Southern District of New York. We think the same limiting instruction, you know, modified to change out Mr. Cohen and to add AMI is appropriate. We will ask for that at the right time."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "14",
+        "character": "MR. STETNGLASS:",
+        "voice": "Liam",
+        "text": "That's reasonable."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "15",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Is the email instruction that I drafted, is that acceptable?"
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "17",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Judge, we think it would need to be modified slightly. If we can take some time this afternoon to make a proposal to the Court."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "20",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I would ask both sides to submit new proposals. Please get it to me by this afternoon."
+    },
+    {
+        "page": "Page 928",
+        "lineNumber": "22",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "The next issue relates to the potential for testimony about polygraphs administered to Mr. Sajudin. I think he may be the only one. The Court ruled in limine that evidence relating to the polygraph administered to Stormy Daniels was inadmissible. We think that the logic of the ruling should apply with equal force to any testimony from Mr. Pecker regarding the polygraph to Mr. Sajudin."
+    },
+    {
+        "page": "Page 929",
+        "lineNumber": "5",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "We're not intending to elicit that."
+    },
+    {
+        "page": "Page 929",
+        "lineNumber": "7",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "There you are."
+    },
+    {
+        "page": "Page 929",
+        "lineNumber": "8",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Thank you. Next, we think it's likely that the government will offer evidence of some newspaper articles during the testimony of Mr. Pecker. Some from the National Enquirer. Also, at least one, maybe two, from the Wall Street Journal. When those are offered, we would ask that the limiting instruction be provided, that they're not being offered for the truth, and to explain to the jury the admissibility purposes for which they're being used at trial."
+    },
+    {
+        "page": "Page 929",
+        "lineNumber": "18",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "I'm not sure that is the appropriate time to give that instruction. I would like to think about that. But, obviously, they're not being admitted for their truth, and so it may be appropriate at some point to inform the jury of that."
+    },
+    {
+        "page": "Page 929",
+        "lineNumber": "24",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "If you could give me a sense of what these articles would be."
+    },
+    {
+        "page": "Page 930",
+        "lineNumber": "1",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Well, I think there are two categories. One we discussed at some length in the motions in limine last Monday, which were the articles in the National Enquirer, at least the headlines in the National Enquirer, the pro—Trump headlines and the anti—opponent headlines. I think Mr. Bove mentioned that we intend to elicit two Wall Street Journal articles, one from November 4, 2016, and the other from January 12, 2018. Those are also coming in for the facts and the dates of their publications, but not for truth of the matters asserted in any of those articles. So we have no objection to some type of instruction at the appropriate time."
+    },
+    {
+        "page": "Page 930",
+        "lineNumber": "15",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "So the purpose for which you are offering them is to establish the date and the fact that it's published?"
+    },
+    {
+        "page": "Page 930",
+        "lineNumber": "18",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "And what the revelations were in those articles. Not because they're true, but because of the effect they had on the campaign for the articles that came out prior to the election, and for the cover—up, for the article that came out in January of 2018, kind of unmasking the Stormy Daniels deal."
+    },
+    {
+        "page": "Page 930",
+        "lineNumber": "24",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "All right. So you can submit your proposed language later on and you can indicate what its intended purpose is for so I could read it to the jurors."
+    },
+    {
+        "page": "Page 931",
+        "lineNumber": "2",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Thank you, Judge. We will do that. The last issue relates to some records that I think will be offered through the testimony of Mr. Pecker or through a subsequent custodian from AMI. They fit into two categories, as I understand it, a set of emails and a set of text messages. Without prejudging the testimony, I would not be shocked if Mr. Pecker can lay a business records foundation for some or all of those materials. Certainly if he can't, I would be shocked if the custodian couldn't achieve that. Especially in light of Mr. Howard's absence at this trial, there are some complicated and embedded hearsay issues in the documents. Mr. Pecker is participating in some of the text message exchanges. He is also participating in some of the emails. Those are not complicated. The ones where he is not a participant, there is embedded hearsay issues that will need to be addressed. We don't want to necessarily slow down the witness's testimony when those come in as business records in front of the jury, but at some point, particularly with respect to communications that Mr. Pecker is not a party to, we would like to be heard on the other hearsay issues they raise."
+    },
+    {
+        "page": "Page 932",
+        "lineNumber": "1",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "This is a short issue. We can address evidentiary issues when they arise, but I don't believe there is a requirement that in order to be a business record that the witness be a party to the communications. So, like I said, we could address these issues when they arise."
+    },
+    {
+        "page": "Page 932",
+        "lineNumber": "7",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Just to clarify the issue, the government can lay a foundation that a text message between Mr. Howard and a third party comes in as a business record. That text message communication is a business record. There's still an embedded hearsay issue with respect to the factual assertions in the text messages coming in for the truth or not. That is the issue that is more tricky and requires more analysis. The business record foundation doesn't alleviate that issue. My point is, when Mr. Pecker is on the stand, if all that is going to be happening, communications are going to be coming into evidence based on the business records foundation, and some would be displayed to the jury when Mr. Pecker is a party, I don't think that is complicated. On the other hand, if the government contemplates putting in text messages from Mr. Howard to third parties who have not testified yet and may not testify, and to display them to illustrate a narrative during the testimony of Mr. Pecker, that would be much more complicated, and we would ask to be heard at that time or whatever time the Court thinks is appropriate."
+    },
+    {
+        "page": "Page 933",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Let's discuss it now."
+    },
+    {
+        "page": "Page 933",
+        "lineNumber": "4",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "I can go exhibit by exhibit."
+    },
+    {
+        "page": "Page 933",
+        "lineNumber": "5",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "You can show me a couple of exhibits, I really just want to hear your legal argument."
+    },
+    {
+        "page": "Page 933",
+        "lineNumber": "7",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "So, for example, Government's Exhibit 163 is a string of November 2015 emails between people I understand to be AMI employees, Sharon Churcher, Barry Levine and Dylan Howard. So, as I said, I expect one way or the other the government to lay a business records foundation that that email thread can come in, not for the content of the statements but for the fact that AMI maintained an email system that allows those to come in. There are factual assertions in that email that are made by hearsay declarants, none of whom are going to testify at the trial, so those factual assertions in the email cannot come in for the truth. When I say it is a little bit tedious, but there are several emails like this, and many, many sets of text messages like this. I am not suggesting the government is doing anything wrong here, but we would like to flag it because it does raise some complex issues that are going to need to be addressed."
+    },
+    {
+        "page": "Page 933",
+        "lineNumber": "25",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "Let me just say briefly that this is kind of a detailed analysis, and I am glad to hear about it now, although it would have been better if we heard about it a months ago when we provided those exhibits and we could have hashed some of these things out in motions in limine, which we have passed the motions in limine deadline. That being said —— in order to get an advanced ruling. That being said, I understand what Mr. Bove is saying, and I think there are certain portions of some of the emails or texts that would come in but not for the truth. I do think that is kind of a case—by—case analysis. My suggestion is that Mr. Bove give us the proposed portions of these emails and texts that he believes should not be coming in for the truth. We can see if we agree about some of them. For example, the one that Mr. Bove just mentioned, which would be People's Exhibit 163, there is a portion of that email chain in which there is a detailed recitation of the Dino Sajudin story. Although that should come in because it informs what happened afterwards, we're not intending to argue that that is coming in for the truth of the matter asserted. So that is an example where I think we could agree, and there are probably many others."
+    },
+    {
+        "page": "Page 934",
+        "lineNumber": "24",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Mr. Bove, what I would ask you to do is identify the email or the email threads that you are referring to, consult with the prosecution, see what you can sort out, and then come to me with anything that you can't come to an agreement on."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "4",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Thank you. And we will. Just on the timing issue, we want to use your Honor's time efficiently, but, I think, as the Court is aware, we learned that Mr. Pecker would be called as a witness yesterday at about 3."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "9",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "I am not aware of what time it was."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "10",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "That's the first time the government told us about it."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "12",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Anything else from the defense?"
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "13",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "No, your Honor. Thank you."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "15",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "From the People?"
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "16",
+        "character": "MR. STEINGLASS:",
+        "voice": "Jeremy",
+        "text": "No. Thank you, Judge."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "17",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Is there anything else that you would like to submit or you would like me to consider before we have our hearing tomorrow at 9:30?"
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "20",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "Just on the contempt motion?"
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "21",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Yes."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "22",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "No, your Honor. Thank you."
+    },
+    {
+        "page": "Page 935",
+        "lineNumber": "24",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "Nothing additional at this point. Can we approach for a moment on that?"
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "1",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Sure."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "2",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "whereupon, a sidebar took place between the court and counsel:"
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "4",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "I guess I was wondering if we should put a witness on tomorrow for the various truths. It's not clear to me whether there is an objection to those coming in based on the papers that we received."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "8",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "You consent to the introduction of posts?"
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "10",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "Yeah, I'm just trying to figure out how the hearing would work out tomorrow, if we should have witnesses."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "13",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "You have to meet your burden. It's up to you how you are going to do that. How long do you think it will take to present your case?"
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "17",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "Thirty—five minutes maybe."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "18",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Okay."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "19",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "Somewhere between 30 minutes to an hour."
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "21",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Are you going to present anything?"
+    },
+    {
+        "page": "Page 936",
+        "lineNumber": "22",
+        "character": "MR. BOVE:",
+        "voice": "Arnold",
+        "text": "We may amplify some of the legal arguments that we made in the briefing. So subject to seeing what comes in in testimony, our plan is not to offer anything additional."
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "1",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Let's be sure we start at 9:30 sharp."
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "2",
+        "character": "MR. CONROY:",
+        "voice": "Harry",
+        "text": "Thank you."
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "3",
+        "character": "THE COURT:",
+        "voice": "Drew",
+        "text": "Thank you. Have a good night."
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "5",
+        "character": "NARRATOR:",
+        "voice": "Glinda",
+        "text": "whereupon, the trial in this matter stood adjourned to Tuesday, April 23, 2024, at 9:30 a.m."
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "7"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "8"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "9"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "10"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "11"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "12"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "13"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "14"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "15"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "16"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "17"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "18"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "19"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "20"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "21"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "22"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "23"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "24"
+    },
+    {
+        "page": "Page 937",
+        "lineNumber": "25"
+    }
+]

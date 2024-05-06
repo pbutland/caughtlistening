@@ -21,15 +21,20 @@ This repository is here simply to make the information in the transcripts easier
 All transcript data can be found in the `transcripts/data` directory and, under this directory, there is a directory for each day of the trial.
 
 Within each directory for each trial there are the following subdirectories:
-* `html` - the content for the original HTML pages as hosted by the NY court system.
-* `images` - the images that are embedded in the above mentioned HTML files.
-* `text` - contains a text file for each of the image files mentioned above.
 
-That describes the "raw" data.  However, at the top `transcripts` directory level, there are files that combine all of the individual text files for each trial.  It attempts to format the text so that it can be easily read as input for another program (see [What's next?](#what-next)).
+| filename        | description                                                              |
+|-----------------|--------------------------------------------------------------------------|
+| `html`          | the content for the original HTML pages as hosted by the NY court system |
+| `images`        | the images that are embedded in the above mentioned HTML files           |
+| `text`          | contains a text file for each of the image files mentioned above         |
 
-In addition to this, there is also a PDF file which represents the content of each of the original transcripts in PDF format.
+That describes the "raw" data.  However, at the top `transcripts` directory level, there are also the following files:
 
-The file format for the daily transcripts are `<YY-MM-DD>.txt` and `<YY-MM-DD>.pdf` respectively.
+| filename          | description                                                                             |
+|-------------------|-----------------------------------------------------------------------------------------|
+| `<YY-MM-DD>.txt`  | formatted text combining all of the individual text files for each trial                |
+| `<YY-MM-DD>.pdf`  | PDF file which represents the content of each of the original transcripts in PDF format |
+| `<YY-MM-DD>.json` | json file containing pertinent information for each line in a transcript                |
 
 ## Generated text
 
@@ -59,7 +64,7 @@ Eventually the code for this POC will be uploaded to this repository.  However, 
 
 * No guarantee is provided that any files within this repository are accurate representations of the original transcripts.
 The original transcripts hosted at https://pdfs.nycourts.gov/PeopleVs.DTrump-71543/transcripts/ are the source of truth and any reference to the transcripts should cite these instead of anything in this repository.
-* No guarantee is given that the directory structure or file formats will remain the same.  The location of, name of, and content of any files within this repository may change at any time without notice.  The files within this repository should therefore not be treated as a API for any system outside of this repository.
+* No guarantee is given that the directory structure or file formats will remain the same.  The location of, name of, and content of any files within this repository may change at any time without notice.  The files within this repository should therefore not be treated as a API for any system outside of this repository.  All attempts will be made to keep the JSON files backwardly compatible where possible, but the structure is under active development.
 
 ## Additional information
 
