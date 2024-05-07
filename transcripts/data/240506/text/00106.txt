@@ -1,0 +1,29 @@
+J. McConney — Direct/Colangelo
+2354
+1 A Yes.
+2 Q Is this one of the documents that was on the thumb
+3 drive?
+4 A Yes.
+5 Q What is this document?
+6 A This is a detailed General Ledger Report from MDS.
+7 Q And what's the entity that the detailed General Ledger
+8 Report relates to?
+9 A It is the Donald J. Trump Revocable Trust.
+10 MR. COLANGELO: I offer People’s 54 in evidence.
+11 MR. BOVE: Objection.
+12 THE COURT: Approach.
+13 (Discussion is held at sidebar, on the
+14 record.)
+15 MR. BOVE: Your Honor, as far as I can tell,
+16 Government Exhibit 54 relates to a period from 2018
+17 forward. If that’s correct, we don’t see the relevance of
+18 those entries in this case.
+19 MR. COLANGELO: Your Honor, People’s 54 is an
+20 extract from the General Ledger for the Revocable Trust
+21 Account that shows all payments made, coded to the Legal
+22 Expense Code.
+23 The relevance is that there are no payments to
+24 Michael Cohen, Esquire from The Trust account for 2018 that
+25 were coded to 51505.
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

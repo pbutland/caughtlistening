@@ -1,0 +1,29 @@
+J. McConney — Direct/Colangelo
+2271
+1 the last few years. I don’t remember exactly when.
+2 Q What does "accounts receivable" mean?
+3 A "Accounts receivable" is the other side, when somebody
+4 owes you money.
+5 Q You mentioned that one of your functions as Controller
+6 was overseeing the General Ledger; is that right?
+7 A Yes.
+8 Q What is a General Ledger?
+9 A General —— there are two books of original entry in
+10 accounting. You have cash receipts, the money you receive, and
+11 cash disbursements, the money you spend.
+12 The General Ledger puts that information together. The
+13 information is posted by the General Ledger accounts’ receipts,
+14 so you can see different types of expenses, payroll, gas,
+15 electric, how much you're spending at a different point in
+16 time.
+17 Q Does the General Ledger keep track of all the
+18 interactions the General Ledger makes?
+19 A Yes.
+20 Q You mentioned the term "cash receipts".
+21 Does that include money coming in?
+22 A Yes.
+23 Q You also mentioned "cash disbursements".
+24 Does that mean money going out?
+25 A Yes.
+Laurie Eisenberg, CSR, RPR
+Senior Court Reporter

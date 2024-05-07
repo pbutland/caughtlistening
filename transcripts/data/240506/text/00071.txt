@@ -1,0 +1,29 @@
+J. McConnell — Direct/Colangelo
+2319
+1 personal expenses instead of from the DJT personal account from
+2 the DJ Trust account, I'm sorry, the DJT Trust account.
+3 Q Now, your email asks Ms. Tarasoff to "post the legal
+4 expenses;" is that correct?
+5 A Yes.
+6 Q Please explain what you meant by "post the legal
+7 expenses?"
+8 A Whenever you make a payment, you have to choose how
+9 it's going to be indicated in the General Ledger category, how
+10 to put the payment, where to post the payment to, so when you
+11 print the General Ledger, you know, it summarizes the expenses
+12 in that account.
+13 There are a number of accounts you can post it to.
+14 We were paying a lawyer so I said to put it —— posted it to
+15 legal expenses in the General Ledger.
+16 Q What is the General Ledger code for legal expenses?
+17 A 51505.
+18 Q And in the next sentence, you said "put 'retainer' for
+19 the months of January and February 2017 in the description;"
+20 right?
+21 A Yes.
+22 Q What did you mean by that?
+23 A I was just taking some information from the invoice, so
+24 Deb would know what to put in Multi Data and in MDS, and that
+25 part of the information prints on the General Ledger when you
+Lisa Kramsky,
+Senior Court Reporter

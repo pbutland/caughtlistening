@@ -1,0 +1,29 @@
+J. McConney — Direct/Colangelo
+2277
+1 It separated each entity by itself. It was just a short
+2 abbreviation for the entity name.
+3 Q So, each entity had its own code, and the code for
+4 Mr. Trump’s account was "DJT"; is that right?
+5 A For his personal account, yes.
+6 Q Does the accounting staff maintain the General Ledger
+7 for the DJT account using MDS?
+8 A Yes.
+9 Q Did the accounting staff also maintain the books and
+10 records for Mr. Trump’s bank accounts?
+11 A Yes.
+12 Q Does that include any checking accounts?
+13 A Yes.
+14 Q In the 2017 time period, did Mr. Trump use a Capital
+15 One checking account as his main operating account?
+16 A I believe so, yes.
+17 Q Was the Accounting Department also responsible for
+18 making sure that all of the entities that are part of The Trump
+19 Organization had sufficient cash available for them?
+20 A Yes.
+21 Q Can you describe that cash management process, please?
+22 A We had —— over time —— I had this position years ago.
+23 Different people had it over time.
+24 Once a week, on a set day, we would run reports on Multi
+25 Data to see what our cash balance was.
+Laurie Eisenberg, CSR, RPR
+Senior Court Reporter
