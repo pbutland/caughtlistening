@@ -1,0 +1,29 @@
+D. Daus — Cross/Bove
+2075
+1 please.
+2 (Displayed.)
+3 Q And now, in that left pane, do you see there is a
+4 folder with the name of the audio file?
+5 A That's correct.
+6 Q And in that folder is a file called "Manifest.P List."
+7 Right?
+8 A There is.
+9 Q "P list" means property list; correct?
+10 A Yes.
+11 Q And you said a minute ago that that contained
+12 information about the timing of a sync; right?
+13 A It can, yes.
+14 Q And so, if you see that on the right, in the right
+15 pane, there is a window with file information associated with
+16 the Manifest.P List file?
+17 A I do.
+18 MR. BOVE: Can I pause briefly to apologize to the
+19 court reporter.
+20 Q Do you see the date associated with that?
+21 A I do.
+22 Q And the dates are October 17, 2020; right?
+23 A That's correct.
+24 Q And so, this reflects another sync between a laptop and
+25 this phone, CPl; right?
+Lisa Kramsky,
+Senior Court Reporter

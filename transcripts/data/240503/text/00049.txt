@@ -1,0 +1,29 @@
+D. Daus — Redirect/Conroy
+2083
+1 Q We talked —— we also put into evidence some call logs
+2 from the phone?
+3 A Correct.
+4 Q From a WhatsApp application; is that right?
+5 A That's right.
+6 Q If you wanted to see if a call came in to a particular
+7 phone number at a particular time, a long time ago, what would
+8 be the best thing to look at to see if that happened?
+9 A A call detail record from the carrier.
+10 Q So that's not something that resides on the phone
+11 itself; is that right?
+12 A That's correct.
+13 Q You are talking about the phone records from Verizon or
+14 AT&T?
+15 A Yes.
+16 Q That would be the best place to look to see if a phone
+17 call came into a particular phone number at a particular time
+18 that may have interrupted a recording?
+19 A That's the best source.
+20 Q Now, you were asked over the last couple of hours,
+21 yesterday and today, a number of questions about things like
+22 Faraday bags and special rooms and the care that has to be
+23 taken, and it's all true, it's very important to be careful when
+24 we are collecting evidence; correct?
+25 A It is.
+Lisa Kramsky,
+Senior Court Reporter

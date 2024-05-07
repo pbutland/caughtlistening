@@ -1,0 +1,29 @@
+D. Daus — Cross/Bove
+2073
+1 Q And so, that is information with respect to that image
+2 about the date it was modified, created and accessed; right?
+3 A That's correct.
+4 Q And so, those are fields that were generated for this
+5 image when you ran the report for the metadata associated with
+6 the image; correct?
+7 A That's correct.
+8 Q And when you ran the report associated with the
+9 metadata linked to the audio file, it did not generate those
+10 fields; correct?
+11 A It did not.
+12 Q Do you recall that there was also a properties list
+13 file associated with this audio file saved on the phone?
+14 A There is a property list that contains information,
+15 yes.
+16 Q And there was a file associated with the audio file
+17 entitled "Manifest.P list" or property list?
+18 A Yes.
+19 Q Do you recall that?
+20 A Yes.
+21 Q And that's a particular type of file that relates to a
+22 phone sync; right?
+23 A Yes.
+24 Q And it reflects —— it can provide some information
+25 about the timing of a —— this sync process that we talked about,
+Lisa Kramsky,
+Senior Court Reporter

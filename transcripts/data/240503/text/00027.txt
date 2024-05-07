@@ -1,0 +1,29 @@
+D. Daus — Cross/Bove
+2061
+1 messages very quickly after they are set; right?
+2 A You can.
+3 Q You can set that up that the message self—deletes when
+4 it's read by the other party; right?
+5 A That’s correct.
+6 Q And in that instance, it would be virtually possible
+7 for someone in your position to recover data on the phone
+8 relating to those messages; correct?
+9 A That’s correct.
+10 Q Now, I want to talk about the data you extracted from
+11 CP1, okay?
+12 A Yes.
+13 Q You testified yesterday that you did not obtain copies
+14 of the data that the FBI had seized from this same device;
+15 right?
+16 A I had not.
+17 Q And we talked about hash values yesterday; correct?
+18 A That’s correct.
+19 Q And so, in the absence of having that other copy, you
+20 couldn’t compare the hashes to see if the data had been
+21 manipulated; correct?
+22 A That’s correct.
+23 Q You could not compare the two different data sets to
+24 determine if the data had degraded between 2018 and 2023;
+25 correct?
+Lisa Kramsky,
+Senior Court Reporter

@@ -1,0 +1,29 @@
+D. Daus — Cross/Bove
+2070
+1 reveal any such call; right?
+2 A That's correct.
+3 Q And when I say "any such call," I mean a call that
+4 could be interpreted to interfere with the recording that you've
+5 testified about?
+6 A That's correct.
+7 Q And so, because that's the case, you were not in a
+8 position to do any forensic analysis about the interplay
+9 between the Voice Notes app and any purported phone call on
+10 September 6, 2016 because the data just wasn't there; right?
+11 A That's right.
+12 MR. BOVE: Mr. Bernik, can we please bring up
+13 Government 247, which is in evidence.
+14 (Displayed.)
+15 Q This is the metadata associated with this September 6th
+16 recording; right?
+17 A Yes, it is.
+18 Q And this is metadata that you extracted from the
+19 physical device, CP1; right?
+20 A Yes, it is.
+21 Q And this exhibit does not indicate when the audio file
+22 was last modified; right?
+23 A Last modified, the timestamp that it appears is the
+24 name of the file so when the voice recording memo records the
+25 file, an audio file, it actually embeds the timestamp that the
+Lisa Kramsky,
+Senior Court Reporter
