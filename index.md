@@ -21,7 +21,7 @@ Your one-stop-shop for fully searchable versions of the court transcripts for th
 ## Disclaimers
 
 No guarantee is provided that any files hosted on this site are accurate representations of the original transcripts.
-The original transcripts hosted at https://pdfs.nycourts.gov/PeopleVs.DTrump-71543/transcripts/ are the source of truth and any reference to the transcripts should cite these instead of anything provided here.
+The original transcripts hosted at <https://pdfs.nycourts.gov/PeopleVs.DTrump-71543/transcripts/> are the source of truth and any reference to the transcripts should cite these instead of anything provided here.
 
 ## Additional information
 
