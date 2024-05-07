@@ -4,9 +4,7 @@ MR. STEINGLASS: For the People, ADA Joshua Steinglass, Susan Hoffinger, Matthew 
 
 MR. BOVE: Emil Bove for President Trump, seated to my left. I'm joined by Todd Blanche, Susan Necheles, and Gedalia Stern.
 
-THE COURT: Good morning.
-
-A couple of things to go over. Regarding next week’s hearing, I think you received my email, we’re changing the time of that from Wednesday at 2:15 to Thursday at 9:30. I also wanted to go over the issue regarding the text from Dylan Howard you wanted me to look at. We spoke about it yesterday.
+THE COURT: Good morning. A couple of things to go over. Regarding next week’s hearing, I think you received my email, we’re changing the time of that from Wednesday at 2:15 to Thursday at 9:30. I also wanted to go over the issue regarding the text from Dylan Howard you wanted me to look at. We spoke about it yesterday.
 
 MR. STEINGLASS: To the extent that it may inform your Honor's opinion, we sent counsel, last night, some proposed redactions to remove what I think were their concerns, and I believe they’re —— you’ll review those.
 
@@ -22,7 +20,9 @@ THE COURT: We’re going to break today at 12:30 to hear the People’s motion, 
 
 MR. COLANGELO: Thank you. One update on that. After further discussions with the third party’s counsel this morning, we think we no longer need the Court’s intervention on that today. We will bring it to your attention should it become necessary.
 
-THE COURT: Great. We’ll go to one o’clock. Is there anything else? ll MR. STEINGLASS: There’s a few things. First, is your Honor going to address the issue with the jury that was raised at the end of the day about the, what we consider to be, improper impeachment by omission by Mr. Bove?
+THE COURT: Great. We’ll go to one o’clock. Is there anything else?
+
+MR. STEINGLASS: There’s a few things. First, is your Honor going to address the issue with the jury that was raised at the end of the day about the, what we consider to be, improper impeachment by omission by Mr. Bove?
 
 THE COURT: Would you like to be heard, Mr. Bove?
 
@@ -38,7 +38,7 @@ MR. BOVE: May I have just one moment, Judge?
 
 THE COURT: Sure.
 
-(Whereupon, defense counsel confer.)
+AUDIO DESCRIPTION: Whereupon, defense counsel confer.
 
 MR. BOVE: Judge, I think there was an instruction along these lines in your preliminary instructions, so I think the jury is aware of this issue. I’m not sure it’s necessary.
 
@@ -62,13 +62,13 @@ THE COURT: Okay. We can get the witness, please.
 
 COURT OFFICER: Witness entering.
 
-(Whereupon, the witness, David Pecker, having been previously duly sworn and/or affirmed, resumes the witness stand and testifies as follows:)
+AUDIO DESCRIPTION: Whereupon, the witness, David Pecker, having been previously duly sworn and/or affirmed, resumes the witness stand and testifies as follows:
 
 THE COURT: Good morning, Mr. Pecker. Welcome back. I remind you that you’re still under oath. Get the jury, please.
 
 COURT OFFICER: All rise. Jury entering.
 
-(Whereupon, the jurors and the alternate jurors are present and properly seated.)
+AUDIO DESCRIPTION: Whereupon, the jurors and the alternate jurors are present and properly seated.
 
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties and all jurors are present.
 
@@ -79,8 +79,6 @@ MR. BOVE: Thank you, Judge.
 MR. BOVE: May I inquire, Judge?
 
 THE COURT: Yes.
-
-CONTINUED CROSS—EXAMINATION BY MR. BOVE:
 
 Q Good morning, Mr. Pecker.
 
@@ -122,7 +120,9 @@ Q That's one of the ways you met Ms. Hicks; right?
 
 A That's correct.
 
-Q I think you said she did some work for Star Magazine? l A Yes.
+Q I think you said she did some work for Star Magazine?
+
+A Yes.
 
 Q Which was an AMI publication under your watch?
 
@@ -188,7 +188,7 @@ THE COURT: Sustained. Mr. Bove, if you are going to advise the witness to a part
 
 MR. BOVE: Yes. Mr. Bernik, for the Court the parties and Mr. Pecker, can we please bring up the document marked for identification as Exhibit A104. If we can go to Page 5. Please and zoom in on Lines 17 through 19.
 
-(whereupon, an exhibit is shown on the screen of the witness and the parties, and the witness reviews the exhibit.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screen of the witness and the parties, and the witness reviews the exhibit.
 
 Q Sir, this is from your federal grand jury testimony; correct?
 
@@ -216,7 +216,7 @@ Q Yes. Yes.
 
 MR. BOVE: We can zoom out entirely, Mr. Bernik, and give Mr. Pecker an opportunity to review.
 
-(whereupon, the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: whereupon, the witness reviews the exhibit on his screen.
 
 A You said it was 6 and 7?
 
@@ -224,7 +224,7 @@ Q Yes.
 
 MR. BOVE: We can go to Page 7 now, please.
 
-(whereupon, the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: whereupon, the witness reviews the exhibit on his screen.
 
 Q Let me know when you're done.
 
@@ -232,19 +232,19 @@ A Can we turn back to 6?
 
 Q Of course.
 
-(Whereupon, the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: Whereupon, the witness reviews the exhibit on his screen.
 
 A The next page, please.
 
 MR. BOVE: Can you go to Page 7 please, Mr. Bernik?
 
-(whereupon, the exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the exhibit.)
+AUDIO DESCRIPTION: whereupon, the exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the exhibit.
 
 A I read Page 7.
 
 MR. BOVE: Page 8, please, Mr. Bernik.
 
-(whereupon, the exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the document.)
+AUDIO DESCRIPTION: whereupon, the exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the document.
 
 A Okay. Page 8.
 
@@ -380,13 +380,13 @@ Q There was already negative information in the public domain about Ben Carson, 
 
 A Yes.
 
-Q And because that was quick, and efficient, and cost effective, you would have done that whether or not you had l discussed it with President Trump; correct?
+Q And because that was quick, and efficient, and cost effective, you would have done that whether or not you had discussed it with President Trump; correct?
 
 A Yes.
 
 MR. BOVE: Mr. Bernik, if we could take a look at Government Exhibit 153A, please. This can be shown to the jury. This is in evidence.
 
-(whereupon, the exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, the exhibit is shown on the screens.
 
 Q Mr. Pecker, this is one of the exhibits we looked at on Tuesday; right?
 
@@ -446,13 +446,13 @@ A I don't remember her name.
 
 MR. BOVE: Mr. Bernik, if we could, for Mr. Pecker, the parties and the Court, bring up what's been marked for identification as Defense Exhibit A133.
 
-(whereupon, the exhibit is shown on the witness' and the parties' screens.)
+AUDIO DESCRIPTION: whereupon, the exhibit is shown on the witness' and the parties' screens.
 
 MR. BOVE: If you could turn to Page 3, please.
 
 Q And I want to see, Mr. Pecker, if this refreshes your recollection about the name of the child.
 
-(whereupon, the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: whereupon, the witness reviews the exhibit on his screen.
 
 A Yes, it does.
 
@@ -462,7 +462,7 @@ A Karly Bailey.
 
 MR. BOVE: We can take that down. Thank you. If we could bring back up People's 153A. That can be for everyone, please.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q That photograph on the top of a child is actually recycled from The Guardian article; correct?
 
@@ -482,13 +482,13 @@ A I don't recall that.
 
 MR. BOVE: Mr. Bernik, can we please bring up a document marked for identification. This is just for the Court, the parties and Mr. Pecker. It's been marked for identification as A138.
 
-(whereupon, an exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the witness' screen and the parties' screens, and the witness reviews the exhibit on his screen.
 
 A I don't see where it says 40 million.
 
 MR. BOVE: Can we turn to the next page, please?
 
-(Whereupon, the witness reviews the exhibit on his screen.)
+AUDIO DESCRIPTION: Whereupon, the witness reviews the exhibit on his screen.
 
 A Yeah. 40 million unique users.
 
@@ -512,7 +512,7 @@ THE WITNESS: Okay.
 
 MR. BOVE: If we could bring up People's 153A, please. This is for everyone, please.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q You see the fourth headline on this page?
 
@@ -536,7 +536,7 @@ A I don't recall.
 
 MR. BOVE: If you could please bring up for the the parties, the witness, and the Court the document marked A134.
 
-(whereupon, the exhibit is on the witness' screen and the parties' screens.)
+AUDIO DESCRIPTION: whereupon, the exhibit is on the witness' screen and the parties' screens.
 
 Q Just take a look at that.
 
@@ -544,7 +544,7 @@ MR. BOVE: Can I have one moment, please?
 
 THE COURT: Sure.
 
-(whereupon, the attorneys confer.)
+AUDIO DESCRIPTION: whereupon, the attorneys confer.
 
 Q Have you had a chance to look at that?
 
@@ -558,7 +558,7 @@ A Yes.
 
 MR. BOVE: Mr. Bernik, if we could take a look for everyone at People's 153C.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q And these are articles that you were shown by the Government, during your direct examination, relating to Marco Rubio; correct?
 
@@ -574,7 +574,7 @@ A I don't recall the book.
 
 MR. BOVE: Mr. Bernik, if you could please bring up for the Court, Mr. Pecker, and the parties, a document marked for identification as Defense Exhibit A141.
 
-(whereupon, a document is shown on the parties' screens.)
+AUDIO DESCRIPTION: whereupon, a document is shown on the parties' screens.
 
 Q Do you have that on your screen?
 
@@ -584,15 +584,15 @@ Q I can hand a copy up.
 
 A Okay.
 
-(Whereupon, a document is given to the witness.)
+AUDIO DESCRIPTION: Whereupon, a document is given to the witness.
 
 MR. BOVE: If I could hand a copy up to the Court, as well.
 
-(whereupon, a document is given to the Court.)
+AUDIO DESCRIPTION: whereupon, a document is given to the Court.
 
 THE COURT: Thank you.
 
-(whereupon, the witness reviews the document.)
+AUDIO DESCRIPTION: whereupon, the witness reviews the document.
 
 Q Have you had a chance to look at that?
 
@@ -686,7 +686,7 @@ A Yes.
 
 MR. BOVE: This is in evidence. Can we bring that up, People's 180, please?
 
-(whereupon, the exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, the exhibit is shown on the screens.
 
 MR. BOVE: Can you zoom in on the top half, please.
 
@@ -700,7 +700,7 @@ A That is correct.
 
 MR. BOVE: If we can go to Page 2 of the exhibit, please, and zoom in on the second to last paragraph.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q Do you see where it says "Since last year, the Enquirer has supported Mr. Trump's presidential bid, endorsing him and publishing negative articles about some of his opponents"?
 
@@ -750,7 +750,7 @@ A Yes.
 
 MR. BOVE: That is People's Exhibit 154 in evidence, if we could bring that up.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q This is that Source Agreement; correct?
 
@@ -872,7 +872,7 @@ A Yes.
 
 MR. BOVE: Mr. Bernik, could you please publish People's 155. This is also in evidence.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q So, this is the Amendment to that Source Agreement; right?
 
@@ -898,7 +898,9 @@ Q And that is because it was still possible, in your mind, when this agreement w
 
 A That's correct.
 
-Q And you could not walk away from that possibility, however small it might be; right? l A Yes.
+Q And you could not walk away from that possibility, however small it might be; right?
+
+A Yes.
 
 Q Walking away from Mr. Sajudin's story would not make business sense; right?
 
@@ -1130,7 +1132,7 @@ THE COURT: Yes.
 
 MR. BOVE: Thank you.
 
-(whereupon, the following proceedings were held at sidebarz)
+AUDIO DESCRIPTION: whereupon, the following proceedings were held at sidebarz
 
 MR. BOVE: Thank you, Judge. I don't mean to be dense. I just want to make sure I'm following the objection right now. I asked if he recalled saying that. He said no. My next plan was to refresh his recollection that that was said.
 
@@ -1144,19 +1146,13 @@ THE COURT: I'll allow it.
 
 MR. BOVE: Thank you, Judge.
 
-(Whereupon, the following proceedings were held in open court:)
+AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
-(whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.)         
+AUDIO DESCRIPTION: whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.
 
-*******
-
-(The following proceedings are continued from previous page.)
+AUDIO DESCRIPTION: The following proceedings are continued from previous page.
 
 THE COURT: Thank you. The objection is overruled.
-
-*******
-
-CROSS—EXAMINATION BY MR . BOVE:
 
 Q So before that break, we were talking about iPayments; right?
 
@@ -1222,9 +1218,7 @@ A Yes.
 
 MR. BOVE: And, Mr. Bernik, could we take a look at People's 156 in evidence.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And this is the Agreement between AMI and Ms. McDougal from August of 2016; right?
 
@@ -1236,9 +1230,7 @@ A Yes.
 
 MR. BOVE: And, Mr. Bernik, can you please zoom in on Paragraph 3.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q And you were asked some questions by Mr. Steinglass about this provision of the Agreement; right? Do you remember that?
 
@@ -1284,9 +1276,7 @@ THE COURT: Sustained.
 
 MR. BOVE: Mr. Bernik, could you please zoom in on Paragraph 1.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And, so, do you see at the start of this paragraph, there is a reference to two years from the effective date?
 
@@ -1314,9 +1304,7 @@ A That's correct.
 
 MR. BOVE: And if you could zoom in, please, now on Paragraph 2.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q This relates to magazine covers; right?
 
@@ -1400,9 +1388,7 @@ A I did.
 
 MR. BOVE: You can take that down. Thank you. Can we now take a look at People's 158, which is in evidence.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q Do you recall talking to Mr. Steinglass about this document yesterday?
 
@@ -1434,9 +1420,7 @@ A That is correct.
 
 MR. BOVE: And, Mr. Bernik, if we could zoom in on the bottom row, please.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q Do you see that, the headers on these columns: Account, Department, and Operating Unit?
 
@@ -1464,9 +1448,7 @@ A Yes.
 
 MR. BOVE: Mr. Bernik, can we please take a look at Government Exhibit 159, which is also in evidence.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q You testified about this one yesterday also?
 
@@ -1494,9 +1476,7 @@ A I did.
 
 MR. BOVE: If we could zoom in on the right side of this so that we can catch the date column, please.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q It's a little blurry there, but do you see the column heading that says ”Date Due"?
 
@@ -1532,15 +1512,11 @@ A Yes.
 
 MR. BOVE: Can we take a look at People's Exhibit 160, please.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 MR. BOVE: I'm sorry. I think it's 161.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 MR. BOVE: Let me correct myself for one minute. It's my fault. People's Exhibit 160, Page 2.
 
@@ -1562,9 +1538,7 @@ A That's correct.
 
 MR. BOVE: And, Mr. Bernik, can you zoom in on the bottom third of the document.
 
-(Displayed.)
-
-*********
+AUDIO DESCRIPTION: Displayed.
 
 Q There are some other approval signatures here; right?
 
@@ -1598,9 +1572,7 @@ MR. BOVE: You can take that down, please.
 
 Q And if we go back now to People's 156 in evidence. This is the agreement with Ms. McDougal.
 
-(Displayed.)
-
-********
+AUDIO DESCRIPTION: Displayed.
 
 Q You testified that you consulted a campaign attorney about this agreement; right?
 
@@ -1626,15 +1598,11 @@ Q And I would like to take a look at the trial transcript.
 
 MR. BOVE: And this is for everybody, please, Mr. Bernik. Page 1128, lines 1 through 18.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And if you can take a look at that, Mr. Pecker, and let me know when you are done, please.
 
-(Pause.)
-
-**********
+AUDIO DESCRIPTION: Pause.
 
 A I'm done.
 
@@ -1680,7 +1648,7 @@ Q But at the same time providing information directly to Mr. Howard; if I have t
 
 A Yes.
 
-Q And was that a normal structure in AMI's source l networks to use attorneys as sources of information about their clients?
+Q And was that a normal structure in AMI's source networks to use attorneys as sources of information about their clients?
 
 A I would say that this was a unique situation.
 
@@ -1752,9 +1720,7 @@ Q So, in June 2016, you learned that Dylan Howard was using an attorney as a maj
 
 A I wouldn't classify him as a major attorney.
 
-(Laughter from the audience.)
-
-*******
+AUDIO DESCRIPTION: Laughter from the audience.
 
 Q Exactly. What I am getting at is whether Mr. Davidson was a major source for Dylan Howard?
 
@@ -1810,9 +1776,7 @@ A I don't.
 
 MR. BOVE: Can we take a look at People's 161 in evidence, please.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q This is that invoice that we've looked at a couple of times; right?
 
@@ -1922,15 +1886,11 @@ Q Yes.
 
 MR. BOVE: Mr. Bernik, this is for the parties, Mr. Pecker and the Court, please. Defense A108.
 
-(Shown to the witness.)
-
-*******
+AUDIO DESCRIPTION: Shown to the witness.
 
 Q And, so, I want to start just by orienting you to look at the top, just the date and the participants.
 
-(Pause.)
-
-**********
+AUDIO DESCRIPTION: Pause.
 
 A Yes. I can see the top. I reviewed the top.
 
@@ -1940,9 +1900,7 @@ A Yes.
 
 MR. BOVE: And zoom in on the top half, please.
 
-(Displayed.)
-
-********
+AUDIO DESCRIPTION: Displayed.
 
 Q And do you see the question says: "Why was it called a flat fee for advisory services by somebody named Walsh?"
 
@@ -1974,9 +1932,7 @@ A Yes. I made an error. I would have seen it when —— what it says here.
 
 MR. BOVE: We can take that down, please. And if we could bring up People's 180 in evidence.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And I'm —— this is the Wall Street Journal article that we looked at earlier; right?
 
@@ -2108,7 +2064,9 @@ MR. STEINGLASS: Objection.
 
 THE COURT: Sustained.
 
-Q When Mr. Howard came back to you on the Stormy Daniels story, what he said was Michael Cohen has not paid Keith Davidson; right? l A Yes.
+Q When Mr. Howard came back to you on the Stormy Daniels story, what he said was Michael Cohen has not paid Keith Davidson; right?
+
+A Yes.
 
 Q And you were surprised to hear that?
 
@@ -2178,7 +2136,9 @@ Q And then, obviously, there was a lot of coverage of that; right?
 
 A Yes.
 
-Q And, so, in your memory, you sort of pegged it, the date of that meeting to that incident; right? l A Yes.
+Q And, so, in your memory, you sort of pegged it, the date of that meeting to that incident; right?
+
+A Yes.
 
 Q And I think you said that on that day, January 6th, 2017, you were let into President Trump's office?
 
@@ -2266,9 +2226,7 @@ MR. BOVE: Your Honor, can we have a sidebar, please?
 
 THE COURT: Sure.
 
-(At Sidebar.)
-
-******
+AUDIO DESCRIPTION: At Sidebar.
 
 THE COURT: I want to hear what the objection is.
 
@@ -2288,25 +2246,19 @@ MR. BOVE: This witness is a critical witness, and his memory ——
 
 THE COURT: I think you are doing a good job with his memory. I don't think you need to go there.
 
-(Sidebar concluded.)
-
-*******
+AUDIO DESCRIPTION: Sidebar concluded.
 
 THE COURT: The objection is sustained.
 
 MR. BOVE: Mr. Bernik, can we just take a look at Page 1213 of the transcript.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And ——
 
 MR. BOVE: Thank you. Can you please zoom in. I think it's lines 21 through 24.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q And, Mr. Pecker, this is testimony that you gave of ——
 
@@ -2314,9 +2266,7 @@ MR. STEINGLASS: Objection, Judge. I think this is being displayed —— this is
 
 THE COURT: Can you take that down, please. Please approach.
 
-(At Sidebar.)
-
-******
+AUDIO DESCRIPTION: At Sidebar.
 
 THE COURT: All right.
 
@@ -2334,13 +2284,9 @@ THE COURT: Just ask the question. If he doesn't remember, then you can put that 
 
 MR. BOVE: All right. I understand.
 
-(Sidebar concluded.)
-
-*******
+AUDIO DESCRIPTION: Sidebar concluded.
 
 THE COURT: Sustained.
-
-******* l 1 BY MR . BOVE:
 
 Q So you recall being asked some questions about this meeting yesterday by Mr. Steinglass; right?
 
@@ -2408,21 +2354,19 @@ A I don't recall.
 
 MR. BOVE: Mr. Bernik, if we could bring up for Mr. Pecker, the parties, and the Court Defense Exhibit A101.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q And just to get oriented, I would like you to look at the bottom paragraph and under the date, investigation.
 
-(Pause.)
-
-*******
+AUDIO DESCRIPTION: Pause.
 
 Q Were you able to take a look? I just want to make clear that this is the report of the meeting that we were just talking about?
 
 A This is —— I'm sorry, can you clarify what this is again.
 
-Q If you look at the bottom, you see the date July 26th, 2018. l A I see July 31st there, at the bottom.
+Q If you look at the bottom, you see the date July 26th, 2018.
+
+A I see July 31st there, at the bottom.
 
 Q That's on the right side. Do you see that's "date drafted." On the left side you see "investigation on?"
 
@@ -2444,15 +2388,11 @@ Q And so if you take a look at Page 20 of Defense Exhibit A101, please.
 
 MR. BOVE: And zoom in on the top half when you get there.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q And so you were —— this is —— well, take a look and let me know when you've had a chance to read it.
 
-(Pause.)
-
-**********
+AUDIO DESCRIPTION: Pause.
 
 Q Did you have a chance to look at it?
 
@@ -2464,9 +2404,7 @@ A Yes.
 
 Q And take a look at the last paragraph on the screen. Do you see that?
 
-(Pause.)
-
-*******
+AUDIO DESCRIPTION: Pause.
 
 Q And so I want to direct your attention to the paragraph that says "Trump then asked Becker." Do you see that?
 
@@ -2496,7 +2434,7 @@ Q Uh—huh.
 
 A And I know what I remember. This is going back to 2018. I didn't recall back from —— what I'm saying here is that——
 
-(Pause.) —— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not.
+AUDIO DESCRIPTION: Pause.) —— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not
 
 Q So you can't reconcile because what you said yesterday is inconsistent with what's in this report; correct?
 
@@ -2530,15 +2468,11 @@ THE COURT: Sure. All right. Jurors, let's go ahead and take our mid morning rece
 
 THE COURT OFFICER: Leave your note pads on the chairs. All rise.
 
-(Jury exits.)
-
-**********
+AUDIO DESCRIPTION: Jury exits.
 
 THE COURT: Thank you. Please have a seat. Mr. Pecker, you may step down and take a recess too.
 
-(Witness exits.)
-
-**********
+AUDIO DESCRIPTION: Witness exits.
 
 THE COURT: Mr. Bove, I'm not trying to rush you, but I just want to get a sense of where we stand?
 
@@ -2552,11 +2486,9 @@ THE COURT: All right. I will see you all in a few minutes.
 
 MR. STEINGLASS: Thank you.
 
-(Recess taken, after which time Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.)
+AUDIO DESCRIPTION: Recess taken, after which time Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.
 
-**********      
-
-(Continued from the previous page.)
+AUDIO DESCRIPTION: Continued from the previous page.
 
 THE CLERK: Continued case on trial, People versus Donald J. Trump. Parties are present.
 
@@ -2564,11 +2496,11 @@ THE COURT: Let's get the witness, please.
 
 COURT OFFICER: Witness entering.
 
-(Whereupon, the witness entered the courtroom and was properly seated).
+AUDIO DESCRIPTION: Whereupon, the witness entered the courtroom and was properly seated)
 
 SERGEANT: All rise. Jury entering.
 
-(Whereupon, the jury entered the courtroom and were properly seated.)
+AUDIO DESCRIPTION: Whereupon, the jury entered the courtroom and were properly seated.
 
 THE COURT: Please be seated.
 
@@ -2577,8 +2509,6 @@ THE CLERK: Case on trial continued, People versus Donald J. Trump. All parties a
 THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
-
-CONTINUED CROSS—EXAMINATION BY MR. BOVE:
 
 Q Mr. Pecker, I think you testified yesterday that in early 2018 FBI agents came to you?
 
@@ -2714,7 +2644,7 @@ A From the timing standpoint, it would have added on to the —— to the stress
 
 Q Meaning, if I understood it right, that the Federal investigation had to get resolved before the deal could go through, correct?
 
-A The —— the reason why I am thinking is because the l transaction could have closed subject to the investigation being completed.
+A The —— the reason why I am thinking is because the transaction could have closed subject to the investigation being completed.
 
 Q The transaction could close subject to the investigation being completed, and at that point, the funds removed from escrow, right?
 
@@ -2992,7 +2922,7 @@ A Yes.
 
 Q And during the August 2015 meeting there was no discussion of a financial component to any agreement with President Trump and Michael Cohen, correct?
 
-A There was a discussion about that I was going to be the eyes and ears of the campaign. And there was a discussion that I would be notifying Michael Cohen of any women that were in the process of or going to be selling stories. And I would notify Cohen that they would be available, and they would O either have to buy them or take them off the market or kill them in some manner.
+A There was a discussion about that I was going to be the eyes and ears of the campaign. And there was a discussion that I would be notifying Michael Cohen of any women that were in the process of or going to be selling stories. And I would notify Cohen that they would be available, and they would either have to buy them or take them off the market or kill them in some manner.
 
 Q Are you testifying now that there was a discussion of the kill agreement?
 
@@ -3020,7 +2950,7 @@ MR. STEINGLASS: Objection, Judge. Objection.
 
 THE COURT: Approach.
 
-(Discussion is held at side—bar, on the record.)
+AUDIO DESCRIPTION: Discussion is held at side—bar, on the record.
 
 MR. STEINGLASS: So, he is trying to impeach the witness by what the attorney told the DA's Office. I think that's totally improper.
 
@@ -3058,7 +2988,7 @@ THE COURT: Yes, and leave it at that.
 
 MR. BOVE: Thank you, Judge.
 
-(Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE:
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE
 
 Q Thank you. Mr. Pecker, so, before the side—bar, we were talking about the October 2019 meeting, right?
 
@@ -3204,7 +3134,7 @@ MR. STEINGLASS: Could we be heard at sidebar?
 
 THE COURT: Sure.
 
-(Discussion is held at side—bar, on the record.)
+AUDIO DESCRIPTION: Discussion is held at side—bar, on the record.
 
 MR. STEINGLASS: Sorry, Judge. I am not trying to be difficult. This is opinion testimony of a witness of the credibility of another witness who hasn't testified yet. That is not proper. To attack a witness' credibility —— a witness' credibility is being attacked for bad acts or reputation for peacefulness, truthfulness in the community by another witness. The witness is not permitted to offer his opinion of another witness.
 
@@ -3214,7 +3144,7 @@ THE COURT: To the extent that you are asking him his opinion, I am not going to 
 
 MR. BOVE: Yes, Judge.
 
-(Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE:
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE
 
 Q You testified yesterday that the FEC investigation actually ended in sort of an agreement with AMI, right?
 
@@ -3284,7 +3214,9 @@ Q Mr. Bernik, if we can take a look at Defense marked for identification A131, p
 
 A Yes.
 
-Q And if we can look at page seven, please, Mr. Bernik. And I would like to zoom in, if we could, to the paragraph with the Roman numeral entry five, sub one and two. l A I have page six of eight.
+Q And if we can look at page seven, please, Mr. Bernik. And I would like to zoom in, if we could, to the paragraph with the Roman numeral entry five, sub one and two.
+
+A I have page six of eight.
 
 Q We will work on that. I think —— is this A131?
 
@@ -3310,7 +3242,9 @@ Q And the FEC was also accusing you of a campaign finance violation, correct?
 
 A Yes.
 
-Q And you certainly did not admit to a campaign finance violation in connection with anything that you described during your testimony, right? l A No.
+Q And you certainly did not admit to a campaign finance violation in connection with anything that you described during your testimony, right?
+
+A No.
 
 Q And that Conciliation Agreement that we just talked about with AMI, you were not part of that, right?
 
@@ -3513,8 +3447,6 @@ MR. BOVE: Nothing further, Judge.
 THE COURT: Thank you. People, any redirect?
 
 MR. STEINGLASS: Yes, Judge.
-
-REDIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q Good afternoon, Mr. Pecker.
 
@@ -3736,7 +3668,7 @@ Q And you were shown a page of that Conciliation Agreement by Mr. Bove as, I bel
 
 MR. BOVE: Can I have one minute to consult with Mr. Steinglass, please?
 
-(Counsel confer.)
+AUDIO DESCRIPTION: Counsel confer.
 
 Q Thank you. On direct examination you testified about a Conciliation Agreement that AMI entered into, correct?
 
@@ -3774,7 +3706,7 @@ THE COURT: Overruled. You want to approach?
 
 MR. BOVE: Yes, please.
 
-(Discussion is held at side—bar, on the record.)
+AUDIO DESCRIPTION: Discussion is held at side—bar, on the record.
 
 MR. BOVE: Judge, I can clean some of this up on re—cross, but Mr. Pecker did not sign this agreement. And it's been repeatedly embedded that this is his agreement. This is AMI's agreement entered into at a time after he left AMI. And the cover page is a cover letter from the FEC with the agreement, and says that the matter being investigated, as to when Mr. Pecker was dismissed ——
 
@@ -3782,11 +3714,11 @@ MR. STEINGLASS: I think I clarified this was an agreement that AMI entered into.
 
 THE COURT: I think Mr. Steinglass has a right to go back and clear it up. I think you left the jury with a certain impression.
 
-(Discussion at side—bar concluded, and the following occurred in open court.)  BY MR. STEINGLASS:
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.
 
 Q I apologize, Mr. Pecker. I don't remember the question, so I am going to ask the court reporter to read it back.
 
-(The question, as requested, was read by the court reporter.)
+AUDIO DESCRIPTION: The question, as requested, was read by the court reporter.
 
 A Yes.
 
@@ -3886,7 +3818,7 @@ Q Who invited you to Mr. Trump's announcement that he was running for President 
 
 A Michael Cohen.
 
-Q Did you ever see Michael Cohen go on television to l talk about Mr. Trump's campaign talking points?
+Q Did you ever see Michael Cohen go on television to talk about Mr. Trump's campaign talking points?
 
 A Yes. I have.
 
@@ -3898,7 +3830,9 @@ Q Did you ever know Michael Cohen to work his press contacts on behalf of the ca
 
 A Yes.
 
-Q Did you ever receive an invite to a campaign fundraiser that Michael Cohen participated in on behalf of Mr. Trump? ll A Yes, I did.
+Q Did you ever receive an invite to a campaign fundraiser that Michael Cohen participated in on behalf of Mr. Trump?
+
+A Yes, I did.
 
 Q After the Access Hollywood tape was released, who contacted you to ask you to remove the Playboy mansion story from the Radar Online archives?
 
@@ -4040,9 +3974,7 @@ Q Prior to that meeting, did you ever agree to use your network of sources to ac
 
 A No.
 
-Q You were asked a lot about this by Mr. Bove on cross—examination. Let's be very clear here.
-
-At that meeting, what is your understanding of what you agreed to with respect to —— withdrawn. Let me come at this a different way. Did you ever, specifically, use the term, catch and kill, in that meeting?
+Q You were asked a lot about this by Mr. Bove on cross—examination. Let's be very clear here. At that meeting, what is your understanding of what you agreed to with respect to —— withdrawn. Let me come at this a different way. Did you ever, specifically, use the term, catch and kill, in that meeting?
 
 A No, I did not.
 
@@ -4100,11 +4032,11 @@ MR. STEINGLASS: Sure.
 
 THE COURT: Jurors, we will stop now for our lunch break. I remind you of all the admonitions, including do not discuss this case either amongst yourselves or with anyone else. Please continue to keep an open mind. Do not form or express an opinion about the defendant's guilt or innocence until all the evidence is in and I have given you my final instructions on the law. Enjoy your lunch. ]. COURT OFFICER: All rise.
 
-(Jurors are excused.)
+AUDIO DESCRIPTION: Jurors are excused.
 
 THE COURT: You can step down.
 
-(Witness is excused.)
+AUDIO DESCRIPTION: Witness is excused.
 
 THE COURT: Please be seated. So, I am not going to rush you. Give me a sense of how much longer you are going to be.
 
@@ -4122,9 +4054,9 @@ MS. HOFFINGER: I informed Ms. Necheles who the next witness is.
 
 MR. BLANCHE: We will converse at lunch.
 
-(A luncheon recess was taken.)
+AUDIO DESCRIPTION: A luncheon recess was taken.
 
-(The trial continued on the following page.)                  l A—F—T—E—R—N—O—O—N S—E—S—S—I—O—N
+AUDIO DESCRIPTION: The trial continued on the following page.
 
 THE CLERK: Continued case on trial, Donald J. Trump. All parties are present.
 
@@ -4134,15 +4066,11 @@ MR. STEINGLASS: I don't believe so.
 
 THE COURT: Let's get the witness.
 
-(Witness entering courtroom.)
-
-***
+AUDIO DESCRIPTION: Witness entering courtroom.
 
 THE COURT: I remind you that you are still under oath.
 
-(Jury entering.)
-
-***
+AUDIO DESCRIPTION: Jury entering.
 
 THE COURT: Please be seated.
 
@@ -4151,8 +4079,6 @@ THE CLERK: Continuing case on trial, People versus Donald J. Trump. All parties 
 THE COURT: Good afternoon. Mr. Steinglass.
 
 MR. STEINGLASS: Thank you, Judge.
-
-CONTINUED REDIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q. Good afternoon, Mr. Pecker.
 
@@ -4174,7 +4100,7 @@ Q. And Mr. Bove —— I apologize for the pronunciation —— earlier Mr. Bove
 
 A. Yes.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. I want to show you People's 180 again. We can show everybody, it's in evidence. This is the Wall Street Journal that both myself and Mr. Bove showed you during questioning several times; is that right?
 
@@ -4442,8 +4368,6 @@ THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
 
-RECROSS EXAMINATION BY MR . BOVE:
-
 Q. Mr. Pecker, before lunch you were asked some questions by Mr. Steinglass about "attack ads;" do you recall those questions?
 
 A. Yes, I do.
@@ -4584,7 +4508,7 @@ MR. STEINGLASS: Objection.
 
 THE COURT: Please approach.
 
-(whereupon, proceedings were held at sidebar:)
+AUDIO DESCRIPTION: whereupon, proceedings were held at sidebar:
 
 MR. STEINGLASS: First of all, if he is putting in this as a prior inconsistent statement, the witness has already acknowledged the inconsistency. You don't get to prove up a prior inconsistent statement with extrinsic evidence once the witness has acknowledged the inconsistency. Also, we haven't gotten notice of this exhibit.
 
@@ -4592,11 +4516,9 @@ MR. BOVE: This is being offered in response to the redirect.
 
 THE COURT: Assuming it's an inconsistency, if it's conceded, that is the end of it. That is the end of it.
 
-(Whereupon, the following occurred in open court:)
+AUDIO DESCRIPTION: Whereupon, the following occurred in open court:
 
 THE COURT: Objection sustained.
-
-CONTINUED RECROSS EXAMINATION 9 BY MR . BOVE:
 
 Q. Mr. Pecker, at the end of your testimony yesterday, you told a story about an Anthrax incident at AMI?
 
@@ -4638,17 +4560,13 @@ THE COURT: Thank you, sir. You can step down.
 
 THE WITNESS: Thank you.
 
-(Witness excused.)
-
-***
+AUDIO DESCRIPTION: Witness excused.
 
 THE COURT: People, your next witness, please.
 
 MS. HOFFINGER: The People call Rhona Graff.
 
-(Witness entering courtroom.)
-
-***
+AUDIO DESCRIPTION: Witness entering courtroom.
 
 COURT OFFICER: Step this way. Remain standing. Raise your right hand and face the clerk.
 
@@ -4669,8 +4587,6 @@ THE WITNESS: New York County.
 THE COURT: Good afternoon. You may inquire.
 
 MS. HOFFINGER: Thank you.
-
-DIRECT EXAMINATION BY MS. HOFFINGER:
 
 Q. Good afternoon. Ms. Graff, are you currently employed?
 
@@ -4924,13 +4840,13 @@ MS. NECHELES: No objection.
 
 THE COURT: Those exhibits are accepted into evidence.
 
-(Whereupon, Exhibits 68, 69, 69B, 70, 71, 73, 75, 76, 82, 83 and 85 were received into evidence.)
+AUDIO DESCRIPTION: Whereupon, Exhibits 68, 69, 69B, 70, 71, 73, 75, 76, 82, 83 and 85 were received into evidence.
 
 MS. HOFFINGER: Thank you, your Honor. I can take the thumb drive back.
 
 MS. HOFFINGER: Can we now put up, which is in evidence, I would like to see People's Exhibit 82. That will come up on your screen.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. So showing you People's Exhibit 82. Can you please explain to the jury what this is?
 
@@ -4950,7 +4866,7 @@ A. I believe I did.
 
 MS. HOFFINGER: You can take that down now. Can we please show for everyone People's Exhibit 83, also in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. Can you please tell the jury what that is on your screen?
 
@@ -4982,7 +4898,7 @@ Q. Now, I am going to ask you to take a look at ——
 
 MS. HOFFINGER: Please put up for everyone People's Exhibit 85 in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. Can you tell us what this is?
 
@@ -4998,7 +4914,7 @@ A. Correct.
 
 MS. HOFFINGER: If we could please put up Page 6.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. Can you tell us what this document reflects?
 
@@ -5010,7 +4926,7 @@ A. I believe it reflects that.
 
 MS. HOFFINGER: Can we just put up Page 10 of the same exhibit, please. Blow it up.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. Can you tell us what this reflects?
 
@@ -5026,7 +4942,7 @@ A. It should reflect that.
 
 MS. HOFFINGER: Can we show Page 1.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. What does this document show?
 
@@ -5038,7 +4954,7 @@ A. Correct.
 
 MS. HOFFINGER: Can we show Page 5, please.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. What does this calendar entry show?
 
@@ -5058,7 +4974,7 @@ A. Yes, it does.
 
 MS. HOFFINGER: Can we show Page 2, please.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. What does this calendar entry show?
 
@@ -5074,7 +4990,7 @@ A. This denotes the time that Mr. Trump was departing Trump Tower in route to La
 
 MS. HOFFINGER: Can we show Page 4, please.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q. Okay.
 
@@ -5085,8 +5001,6 @@ Q. Was January 19, 2017, the day before Mr. Trump's inauguration in Washington D
 A. I believe it was.
 
 MS. HOFFINGER: Nothing further.
-
-CROSS EXAMINATION BY MS . NECHELES:
 
 Q. Good afternoon. How are you today?
 
@@ -5114,9 +5028,9 @@ A. He did.
 
 Q. Gave you a lot of responsibility?
 
-A. My responsibilities definitely evolved over the years when I was there.    
+A. My responsibilities definitely evolved over the years when I was there.
 
-(Senior Court Reporter Theresa Magniccari Was relieved by Senior Court Reporter Laurie Eisenberg.)   
+AUDIO DESCRIPTION: Senior Court Reporter Theresa Magniccari s relieved by Senior Court Reporter Laurie Eisenberg.
 
 Q And he respected you; right?
 
@@ -5258,7 +5172,7 @@ MS. HOFFINGER: Can we approach?
 
 THE COURT: Yes .
 
-(whereupon, the following proceedings were held at sidebar:)
+AUDIO DESCRIPTION: whereupon, the following proceedings were held at sidebar:
 
 MS. HOFFINGER: This is going way beyond the scope of the direct. I let it go for a little while, but this is the basis of my objection.
 
@@ -5282,7 +5196,7 @@ MS. NECHELES: Can I have a little latitude?
 
 THE COURT: I think you already had a little latitude.
 
-(whereupon, the following proceedings were held in open court:)
+AUDIO DESCRIPTION: whereupon, the following proceedings were held in open court:
 
 Q Am I correct, you would often hear President Trump talking on the phone with people who were interested in being on The Apprentice?
 
@@ -5298,7 +5212,7 @@ Q Okay. But, you heard discussions about him discussing about people being on Th
 
 A He would vocalize sometimes people that he was interested in to members of the staff, you know, and I would overhear it. I don't recall him saying directly to me, but it was discussed.
 
-Q Am I correct that prior to Stormy Daniels coming up to l the office at Trump Tower, you recall hearing President Trump discuss whether Stormy Daniels would be a good contestant?
+Q Am I correct that prior to Stormy Daniels coming up to the office at Trump Tower, you recall hearing President Trump discuss whether Stormy Daniels would be a good contestant?
 
 A I vaguely recall hearing him say that she was one of the people that may be an interesting contestant on the show.
 
@@ -5330,7 +5244,7 @@ Q Now, some of the exhibits —— one of the exhibits that you were shown is Pe
 
 MS. NECHELES: Can we pull that up? It's in evidence.
 
-(Whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q You saw this before; correct?
 
@@ -5374,7 +5288,7 @@ Q One of the exhibits is People's Exhibit 70; am I correct?
 
 MS. NECHELES: If you could pull that up.
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q Page 1 is a memo. You see that in front of you?
 
@@ -5382,7 +5296,7 @@ A Yes, I do.
 
 MS. NECHELES: Can we look at Page 2 also?
 
-(whereupon, an exhibit is shown on the screens.)
+AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
 
 Q It's a newspaper article; right?
 
@@ -5478,15 +5392,15 @@ THE COURT: You may step down. Please approach.
 
 MR. BLANCHE: Your Honor, may we approach? Oh.
 
-(whereupon, the witness is excused from the stand.)
+AUDIO DESCRIPTION: whereupon, the witness is excused from the stand.
 
 MR. TRUMP: (To the witness as she leaves the well area) Are you okay?
 
-(whereupon, the witness exits the courtroom.)
+AUDIO DESCRIPTION: whereupon, the witness exits the courtroom.
 
 THE COURT: Please approach.
 
-(whereupon, the following proceedings were held at sidebar:)
+AUDIO DESCRIPTION: whereupon, the following proceedings were held at sidebar:
 
 THE COURT: Yes, Mr. Blanche?
 
@@ -5498,19 +5412,17 @@ MS. HOFFINGER: Mr. Farro.
 
 THE COURT: Thank you.
 
-(whereupon, the following proceedings were held in open court:)
+AUDIO DESCRIPTION: whereupon, the following proceedings were held in open court:
 
 THE COURT: Jurors, we're going to take our recess. You can step out.
 
-(Whereupon, the jurors and the alternate jurors are excused.)
+AUDIO DESCRIPTION: Whereupon, the jurors and the alternate jurors are excused.
 
 THE COURT: Let's take 15 minutes.
 
 MS. HOFFINGER: Thank you.
 
-(Whereupon, a recess is taken.)
-
-*************************************
+AUDIO DESCRIPTION: Whereupon, a recess is taken.
 
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties are present.
 
@@ -5524,7 +5436,7 @@ THE COURT: Actually, hold on. Let's let the jury come. Thank you.
 
 COURT OFFICER: All rise. Jury entering.
 
-(Whereupon, the jurors and the alternate jurors are present and properly seated.)
+AUDIO DESCRIPTION: Whereupon, the jurors and the alternate jurors are present and properly seated.
 
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties and all jurors are present.
 
@@ -5534,7 +5446,7 @@ MS. MANGOLD: The People call Gary Farro.
 
 COURT OFFICER: Witness entering.
 
-(Whereupon, the witness takes the witness stand.) G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
+AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.) G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows
 
 COURT OFFICER: State your full name, spelling your last name.
 
@@ -5549,8 +5461,6 @@ THE COURT: Good afternoon, Mr. Farro.
 MS. MANGOLD: May I inquire?
 
 THE COURT: You may inquire.
-
-DIRECT EXAMINATION BY MS . MANGOLD:
 
 Q Good afternoon, Mr. Farro.
 
@@ -5730,9 +5640,7 @@ A Yes. We have the right to not do any transaction we don't feel comfortable wit
 
 Q And could a bank shut down the client's entire account if they found something that —— in the paperwork that ran afoul of one of the regulations?
 
-A To receive a bank account, yes.
-
-An existing account that's open already on the lending side, no.
+A To receive a bank account, yes. An existing account that's open already on the lending side, no.
 
 Q Can you explain what you mean by that?
 
@@ -6000,13 +5908,9 @@ Q Did the servers record the content of the messages, the senders, recipients, d
 
 A For everything I reviewed, yes.
 
-(Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.)                
+AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
 
-(The following proceedings are continued from the previous page.)
-
-******
-
-CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
+AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
 
 Q And, to your knowledge, did the email server record and store that information accurately?
 
@@ -6102,19 +6006,17 @@ THE COURT: Any objections?
 
 MR. BLANCHE: Just one moment.
 
-(Counsel confer.)
-
-*******
+AUDIO DESCRIPTION: Counsel confer.
 
 MR. BLANCHE: Thank you, your Honor. No objection.
 
 THE COURT: People's 361 through 364 and 366 through 379 are accepted into evidence.
 
-(So marked in evidence.)
+AUDIO DESCRIPTION: So marked in evidence.
 
 MS. MANGOLD: Can we pull up People's Exhibit 361, which is now in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Mr. Farro, can you see that on your screen?
 
@@ -6156,7 +6058,7 @@ A Sure. "Michael Cohen just called for you. I let him know that you were out of 
 
 MS. MANGOLD: And can we pull up People's Exhibit 362 in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 MS. MANGOLD: And pull up the top portion of that email.
 
@@ -6206,7 +6108,7 @@ A Oh, he said it was an account for real estate.
 
 MS. MANGOLD: Can we take those down and pull up People's Exhibit 363 now in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Is this another First Republic Bank email?
 
@@ -6216,7 +6118,7 @@ Q All right.
 
 MS. MANGOLD: Now, I would like to pull up the date and time on the bottom email in the chain on the first page.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q What date and time was this sent?
 
@@ -6224,7 +6126,7 @@ A Thursday, October 13, 2016, at 9:23 Eastern Standard Time.
 
 MS. MANGOLD: Can we also pull up the date and time of the top email.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Now, traditionally, the top email is a later email in the chain; right?
 
@@ -6248,7 +6150,7 @@ A That's correct. The most recent email or the last email would be the Pacific T
 
 Q All right. Turning now to the top email in the chain. You said this is an email from you?
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 A This is an email from me to one of my team members, Olivia Cassin. And this was after the phone call with Michael Cohen, and he mentioned that he needs an account opened for Michael Cohen immediately and he wants no address on checks.
 
@@ -6262,7 +6164,7 @@ A Not really for an LLC account, because most people who are employed by someone
 
 Q Turning now to the bottom email. Is this an email from Mr. Cohen to you?
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 A Yes, it is.
 
@@ -6276,9 +6178,7 @@ A Oh, yes, yes, there is, based upon the —— there is an attachment, a PDF at
 
 MS. MANGOLD: Can we flip to the second and third page of the PDF.
 
-(Displayed.)
-
-**********
+AUDIO DESCRIPTION: Displayed.
 
 Q Can you see those?
 
@@ -6290,9 +6190,7 @@ A This is a document that is provided by the IRS that gives an Employee Identifi
 
 MS. MANGOLD: Can we zoom in on the top left where it shows the address line.
 
-(Displayed.)
-
-*******
+AUDIO DESCRIPTION: Displayed.
 
 Q What does it say there?
 
@@ -6312,13 +6210,15 @@ A Yes.
 
 Q Turning now two pages forward.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Can you see that document?
 
 A I can.
 
-MS. MANGOLD: Can we blow up the top portion of the document. l (Displayed.)
+MS. MANGOLD: Can we blow up the top portion of the document.
+
+AUDIO DESCRIPTION: Displayed.
 
 Q Can you describe what this is?
 
@@ -6342,7 +6242,7 @@ A Yeah, that's what it is, it's an Entity Formation doc.
 
 Q Okay. Let's go one page forward. And how about this, what is this particular document?
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 A So this is the Certificate of Formation, so this goes with the prior document. And this is the establishment of Resolution Consultants LLC.
 
@@ -6354,7 +6254,7 @@ Q All right.
 
 MS. MANGOLD: Let's take that down. And can we pull up People's Exhibit 364 in evidence?
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Is this another First Republic Bank email?
 
@@ -6398,7 +6298,7 @@ A That's correct.
 
 Q All right. Turning now to People's Exhibit 366 in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q And pulling up the top portion of this email. Who is this email to and from?
 
@@ -6424,7 +6324,7 @@ Q All right.
 
 MS. MANGOLD: Can we flip to the first page of the attachment.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q And look at the top left portion of the page. Can you tell what type of document this is?
 
@@ -6436,7 +6336,7 @@ A Any business account would require this document.
 
 MS. MANGOLD: And can we look now at the top third of the page, at the box that says "account name and address."
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q What entity is this an account opening document for?
 
@@ -6476,7 +6376,7 @@ A Yes.
 
 Q Turning now to the middle portion of that same page.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q To the sentence labeled "Number 4." Does it provide you who the authorized signers on the account will be?
 
@@ -6532,9 +6432,9 @@ A Resolution Consultants LLC.
 
 Q And in the box below that, can you describe —— I'm sorry, we will take that down.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
-Q Where it says: "Describe the type of business being l conducted," what description is provided for Resolution Consultants LLC?
+Q Where it says: "Describe the type of business being conducted," what description is provided for Resolution Consultants LLC?
 
 A "Resolution Consultants LLC is a consulting firm. Michael Cohen provides individuals and businesses, including financial services, law firms, technology firms, et cetera, advice on strategy, PR, marketing, best practices and procedures, et cetera. All of his clients are in the USA."
 
@@ -6546,7 +6446,7 @@ Q All right.
 
 MS. MANGOLD: Turning two pages ahead. I'm sorry, three pages ahead.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Do you see a series of questions and check boxes?
 
@@ -6594,7 +6494,7 @@ A It was never opened.
 
 MS. MANGOLD: Let's pull up People's Exhibit 367 in evidence.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q Is this another First Republic Bank email?
 
@@ -6644,7 +6544,7 @@ Q All right.
 
 MS. MANGOLD: Can we take this down and show People's Exhibit 368.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q So what type of document is this?
 
@@ -6712,7 +6612,7 @@ A Yes.
 
 Q Looking now towards the bottom of the first page where it says "document type provided."
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 A Uh—huh.
 
@@ -6726,7 +6626,7 @@ A 10/17/2016.
 
 Q Turning now to the next page.
 
-(Displayed.)
+AUDIO DESCRIPTION: Displayed.
 
 Q And looking at the questions towards the top third of the page. In the form does it say —— does this have the same question that we saw in the Resolution Consultants form? It says: "Is the entity associated with political fundraising or political action committee."
 
@@ -6744,19 +6644,21 @@ Q And is that consistent with the description of the LLC that he provided to you
 
 A Yes, it is.
 
-Q Do you have an understanding of how it came to be that Dewitt Hutchins was the one filling out this information when Mr. Cohen called you? l A Yes, I do.
+Q Do you have an understanding of how it came to be that Dewitt Hutchins was the one filling out this information when Mr. Cohen called you?
+
+A Yes, I do.
 
 Q How did that come about?
 
 A Well, when Mr. Cohen called me, I was on a golf course, that's very cliche for a banker, I know, but I was on golf course on a day off and, essentially, it was easier for him to walk across the street to open an account than it would be for me to make a series of phone calls to get someone to reach out to him.
 
-MS. MANGOLD: Your Honor, I'm at a natural stopping point now. ll THE COURT: Sure. Can you approach for a minute?
+MS. MANGOLD: Your Honor, I'm at a natural stopping point now.
+
+THE COURT: Sure. Can you approach for a minute?
 
 MS. MANGOLD: Sure.
 
-(At Sidebar.)
-
-******
+AUDIO DESCRIPTION: At Sidebar.
 
 THE COURT: I was just wondering how much more you have with this witness?
 
@@ -6772,25 +6674,19 @@ MS. MANGOLD: Thank you.
 
 MR. STEINGLASS: Thank you.
 
-(Sidebar concluded.)
-
-******
+AUDIO DESCRIPTION: Sidebar concluded.
 
 THE COURT: All right. Jurors, we are going to go ahead and stop at this time and call it a week. Jurors, please remember what I asked of you, to remember my admonitions: Do not discuss this case either among yourselves or anyone else. You may tell the people with whom you live and your employer that you are a juror, and give them information about when you will be required to be in court, but you may not talk with them or anyone else about anything related to the case. Do not, at any time during the trial, request, accept, agree to accept or discuss with any person, the receipt or acceptance of any payment or benefit in return for supplying any information concerning the trial. You must promptly report directly to me any incident within your knowledge involving an attempt by any person to improperly influence you or any members of the jury. Do not visit or view any of the locations discussed in the testimony. And you must not use internet maps, Google Earth or any other program or device to search for or view any locations discussed in the testimony. Do not read, view or listen to any accounts or discussions of the case reported by newspapers, television, radio, the internet or any other news media. This includes the reading or the listening to the reading of any transcripts. Do not attempt to research any fact, issue or law related to the case, whether by discussion with others, by research in a library or the internet or by any other means or source. This includes visiting any court sites. I emphasize that in addition to not talking face to face with anyone about the case, you must not communicate with anyone about the case by any other means, including by telephone, text messages, email, chat rooms, blogs or social websites. You must not provide any information about the case to anyone by any means whatsoever, and that includes the posting of information about the case or what you are doing on the case on any device or internet site, including blogs, chat rooms, social websites or any other means. Finally, you must also not Google or otherwise search for any information about the case or the law which applies to the case or the people involved in the case, including the defendant, the witnesses, the lawyers or myself. I remind you that we are not meeting on Monday, but we will meet Tuesday at 9:30. I hope you have a good weekend. Take care.
 
 THE COURT OFFICER: All rise.
 
-(Jury exits.)
-
-**********
+AUDIO DESCRIPTION: Jury exits.
 
 THE COURT: Thank you. You may be seated. Mr. Farro, you are excused. Have a good rest of your day.
 
 THE WITNESS: Thank you, your Honor.
 
-(Witness excused.)
-
-**********
+AUDIO DESCRIPTION: Witness excused.
 
 THE COURT: Is there anything more that we need to discuss?
 
@@ -6806,6 +6702,4 @@ MR. STEINGLASS: Thank you.
 
 MS. HOFFINGER: Thank you. You too.
 
-(whereupon, the matter is adjourned to Tuesday, April 30th, 2024, at 9:30 a.m.)
-
-********** 
+AUDIO DESCRIPTION: whereupon, the matter is adjourned to Tuesday, April 30th, 2024, at 9:30 a.m.
