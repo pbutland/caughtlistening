@@ -7,38 +7,65 @@ It appears that the transcripts are getting published on to the [New York State 
 ## Transcripts
 
 ### Monday 22<sup>nd</sup> April 2024
+
+**Witnesses:** David Pecker
+
 * [240422.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240422.pdf)
 * [240422.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240422.txt)
 
 ### Tuesday 23<sup>rd</sup> April 2024
+
+**Witnesses:** David Pecker
+
 * [240423.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240423.pdf)
 * [240423.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240423.txt)
 
 ### Thursday 25<sup>th</sup> April 2024
+
+**Witnesses:** David Pecker
+
 * [240425.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240425.pdf)
 * [240425.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240425.txt)
 
 ### Friday 26<sup>th</sup> April 2024
+
+**Witnesses:** David Pecker, Rhona Graff, Gary Farro
+
 * [240426.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240426.pdf)
 * [240426.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240426.txt)
 
 ### Tuesday 30<sup>th</sup> April 2024
+
+**Witnesses:** Gary Farro, Dr. Robert Browning, Keith Davidson
+
 * [240430.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240430.pdf)
 * [240430.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240430.txt)
 
 ### Thursday 2<sup>nd</sup> May 2024
+
+**Witnesses:** Keith Davidson, Doug Daus
+
 * [240502.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240502.pdf)
 * [240502.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240502.txt)
 
 ### Friday 3<sup>rd</sup> May 2024
+
+**Witnesses:** Doug Daus, Georgia Longstreet, Hope Hicks
+
 * [240503.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240503.pdf)
 * [240503.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240503.txt)
 
 ### Monday 6<sup>th</sup> May 2024
+
+**Witnesses:** Jeffrey McConney, Deborah Tarasoff
+
 * [240506.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240506.pdf)
 * [240506.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240506.txt)
 
 ### Tuesday 7<sup>th</sup> May 2024
+
+**Witnesses:** Sally Franklin, Stormy Daniels
+
 * [240507.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.pdf)
 * [240507.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.txt)
 
