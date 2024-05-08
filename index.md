@@ -6,37 +6,41 @@ It appears that the transcripts are getting published on to the [New York State 
 
 ## Transcripts
 
-### 24-04-22
+### Monday 22<sup>nd</sup> April 2024
 * [240422.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240422.pdf)
 * [240422.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240422.txt)
 
-### 24-04-23
+### Tuesday 23<sup>rd</sup> April 2024
 * [240423.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240423.pdf)
 * [240423.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240423.txt)
 
-### 24-04-25
+### Thursday 25<sup>th</sup> April 2024
 * [240425.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240425.pdf)
 * [240425.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240425.txt)
 
-### 24-04-26
+### Friday 26<sup>th</sup> April 2024
 * [240426.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240426.pdf)
 * [240426.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240426.txt)
 
-### 24-04-30
+### Tuesday 30<sup>th</sup> April 2024
 * [240430.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240430.pdf)
 * [240430.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240430.txt)
 
-### 24-05-02
+### Thursday 2<sup>nd</sup> May 2024
 * [240502.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240502.pdf)
 * [240502.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240502.txt)
 
-### 24-05-03
+### Friday 3<sup>rd</sup> May 2024
 * [240503.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240503.pdf)
 * [240503.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240503.txt)
 
-### 24-05-06
+### Monday 6<sup>th</sup> May 2024
 * [240506.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240506.pdf)
 * [240506.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240506.txt)
+
+### Tuesday 7<sup>th</sup> May 2024
+* [240507.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.pdf)
+* [240507.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.txt)
 
 ## Disclaimers
 
