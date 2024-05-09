@@ -48,7 +48,7 @@ Due to the fact that the transcript is typed, the legacy version appears to be s
 
 ## Code
 
-Eventually the code that converted these images into the text will be available in this repository.  However, it isn't rocket science and is a pretty straightforward process.
+The source code used to generate the data files within this repository can be found at [caughtlistening-tools](https://github.com/pbutland/caughtlistening-tools).
 
 ## What next?
 
@@ -56,9 +56,7 @@ Great question!
 
 The original intent of this project was to see if it was possible to generate an audio version of the transcripts using Text-To-Speech (TTS).
 
-A proof of concept (POC) was done based on the data within this repository (hence the reformatting of the text), using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Ideally a different one for each character.
-
-Eventually the code for this POC will be uploaded to this repository.  However, in the meantime, there is a sample of the generated audio [here](transcript-audio-sample.mp3).
+A proof of concept (POC) was done based on the data within this repository (hence the reformatting of the text), using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Ideally a different one for each character. Here is a sample of the generated audio [here](transcript-audio-sample.mp3).
 
 ## Disclaimers
 
