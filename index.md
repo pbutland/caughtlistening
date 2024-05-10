@@ -69,6 +69,13 @@ It appears that the transcripts are getting published on to the [New York State 
 * [240507.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.pdf)
 * [240507.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240507.txt)
 
+### Thursday 9<sup>th</sup> May 2024
+
+**Witnesses:** Stormy Daniels, Rebecca Manochio, Tracey Menzies, Madeleine Westerhout
+
+* [240509.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240509.pdf)
+* [240509.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240509.txt)
+
 ## Disclaimers
 
 No guarantee is provided that any files hosted on this site are accurate representations of the original transcripts.
