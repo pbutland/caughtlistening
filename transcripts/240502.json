@@ -554,6 +554,11 @@
     },
     {
         "page": "1836",
+        "lineNumber": "2",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
+    },
+    {
+        "page": "1836",
         "lineNumber": "4",
         "character": "Q",
         "voice": "Josh",
@@ -949,6 +954,11 @@
         "character": "AUDIO DESCRIPTION:",
         "voice": "Glinda",
         "text": "The following proceedings are continued from the following page."
+    },
+    {
+        "page": "1841",
+        "lineNumber": "4",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
     },
     {
         "page": "1841",
@@ -5213,6 +5223,11 @@
     },
     {
         "page": "1889",
+        "lineNumber": "8",
+        "character": "CROSS—EXAMINATION BY MR. BOVE:"
+    },
+    {
+        "page": "1889",
         "lineNumber": "10"
     },
     {
@@ -6999,6 +7014,11 @@
         "character": "THE COURT:",
         "voice": "Drew",
         "text": "Yes."
+    },
+    {
+        "page": "1905",
+        "lineNumber": "23",
+        "character": "CONTINUED CROSS—EXAMINATION BY MR. BOVE:"
     },
     {
         "page": "1905",
@@ -8979,6 +8999,11 @@
     },
     {
         "page": "1924",
+        "lineNumber": "8",
+        "character": "CONTINUED CROSS EXAMINATION BY MR. BOVE:"
+    },
+    {
+        "page": "1924",
         "lineNumber": "10",
         "character": "Q.",
         "voice": "Arnold",
@@ -10950,6 +10975,11 @@
         "character": "THE COURT:",
         "voice": "Drew",
         "text": "Yes."
+    },
+    {
+        "page": "1944",
+        "lineNumber": "15",
+        "character": "CONTINUED CROSS EXAMINATION BY MR. BOVE:"
     },
     {
         "page": "1944",
@@ -13532,7 +13562,14 @@
         "lineNumber": "2",
         "character": "A.",
         "voice": "Paul",
-        "text": "I believe so. O. This is unsigned, correct?"
+        "text": "I believe so."
+    },
+    {
+        "page": "1968",
+        "lineNumber": "3",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "This is unsigned, correct?"
     },
     {
         "page": "1968",
@@ -13720,6 +13757,11 @@
         "character": "MR. STEINGLASS:",
         "voice": "Josh",
         "text": "Thank you. Thank you for that, as well."
+    },
+    {
+        "page": "1969",
+        "lineNumber": "23",
+        "character": "REDIRECT EXAMINATION BY MR. STEINGLASS:"
     },
     {
         "page": "1969",
@@ -14318,6 +14360,11 @@
     },
     {
         "page": "1976",
+        "lineNumber": "6",
+        "character": "RECROSS EXAMINATION BY MR . BOVE:"
+    },
+    {
+        "page": "1976",
         "lineNumber": "8",
         "character": "Q",
         "voice": "Arnold",
@@ -14719,7 +14766,7 @@
         "page": "1980",
         "lineNumber": "2",
         "character": "THE WITNESS:",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Douglas Daus. D—A—U—S."
     },
     {
@@ -14733,7 +14780,7 @@
         "page": "1980",
         "lineNumber": "4",
         "character": "THE WITNESS:",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Westchester County."
     },
     {
@@ -14752,6 +14799,11 @@
     },
     {
         "page": "1980",
+        "lineNumber": "8",
+        "character": "DIRECT EXAMINATION BY MR. CONROY:"
+    },
+    {
+        "page": "1980",
         "lineNumber": "10",
         "character": "Q",
         "voice": "Harry",
@@ -14761,7 +14813,7 @@
         "page": "1980",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I work for the New York County District Attorney's Office."
     },
     {
@@ -14775,7 +14827,7 @@
         "page": "1980",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It will be ten years in July."
     },
     {
@@ -14789,7 +14841,7 @@
         "page": "1980",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "HTAU. High Technology Analysis Unit."
     },
     {
@@ -14803,7 +14855,7 @@
         "page": "1980",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Process all types of digital evidence that comes through our Lab to this Office. We take extractions from this type of evidence and produce reports for them."
     },
     {
@@ -14817,7 +14869,7 @@
         "page": "1980",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It will be ten years in July."
     },
     {
@@ -14831,7 +14883,7 @@
         "page": "1981",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I have a degree in psychology. I’ve been in this field a number of —— 20 years. I have a number of industry standard certifications, as well."
     },
     {
@@ -14845,7 +14897,7 @@
         "page": "1981",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly. One is a CCME, a Cellebrite Certified Mobile Examiner. Another one would be a Certified Computer Examiner."
     },
     {
@@ -14859,7 +14911,7 @@
         "page": "1981",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That training has been over the years that I’ve been accompanied with this type of job. It comes from the company itself, for Cellebrite. The other certification happens to be an internal body of trainees and trainers."
     },
     {
@@ -14873,7 +14925,7 @@
         "page": "1981",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly. So, before the ten years here, I worked two years for Guidance Software. It was a company that created EnCase. It’s software that does forensics. Two years prior to that, I was embedded in the military in Iraq, doing the same type of work here."
     },
     {
@@ -14887,7 +14939,7 @@
         "page": "1981",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "From April —— end of April ’09 to when we closed, in November of 2011."
     },
     {
@@ -14901,7 +14953,7 @@
         "page": "1981",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Same type of work as here."
     },
     {
@@ -14915,7 +14967,7 @@
         "page": "1982",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I’m a Supervising Computer Forensic Analyst."
     },
     {
@@ -14929,7 +14981,7 @@
         "page": "1982",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It means that when we get a device that is a computer or phone, we then process that device. At that moment, we take a digital copy of the entire evidence, preserve it, and then work with that copy to perform an analysis of those devices."
     },
     {
@@ -14943,7 +14995,7 @@
         "page": "1982",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Besides the daily supervision of the Lab, keeping up with technology, software, hardware. I am also an analyst, so any type of cases that come my way, I may also perform the extractions and produce reports for them."
     },
     {
@@ -14957,7 +15009,7 @@
         "page": "1982",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Cell phones, primarily. It could be computers, as well, thumb drives, iCloud accounts. Actually, anything that would contain digital media."
     },
     {
@@ -14971,7 +15023,7 @@
         "page": "1982",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Here, as of today, 3,392."
     },
     {
@@ -14985,7 +15037,7 @@
         "page": "1982",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Approximately."
     },
     {
@@ -14999,7 +15051,7 @@
         "page": "1982",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Anywhere from 80 to 90 percent are phones."
     },
     {
@@ -15013,7 +15065,7 @@
         "page": "1983",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -15027,7 +15079,7 @@
         "page": "1983",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "We do."
     },
     {
@@ -15041,7 +15093,7 @@
         "page": "1983",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "So, once an intake email is set up from the attorneys to our Department, typically, devices will come in either pursuant to a Search Warrant or a Consent Form. Those devices then come to our office. We will examine them, take pictures of them, label them, keep records of those licenses, and then produce Chain of Custody Forms, and then begin the extractions and analysis."
     },
     {
@@ -15055,7 +15107,7 @@
         "page": "1983",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "We don’t do any devices without such."
     },
     {
@@ -15069,7 +15121,7 @@
         "page": "1983",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -15083,7 +15135,7 @@
         "page": "1983",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "A Search Warrant is authority from a judge that signs, that allows us to examine the devices obtained for our Search Warrant."
     },
     {
@@ -15097,7 +15149,7 @@
         "page": "1983",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Consent, just simply, the owner of the device consents to the examination of the device."
     },
     {
@@ -15111,7 +15163,7 @@
         "page": "1984",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Once the intake is done, it is assigned an analyst. In this case, it would have been me. We then look at the Search Warrant or Consent Form, make sure all the numbers are correct, and then proceed with the extraction of devices."
     },
     {
@@ -15125,7 +15177,7 @@
         "page": "1984",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Not always, that’s correct."
     },
     {
@@ -15139,7 +15191,7 @@
         "page": "1984",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I have."
     },
     {
@@ -15153,7 +15205,7 @@
         "page": "1984",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Depending upon whether it's an Android or an Apple iPhone, we then take it into a particular room. If we have a PIN code to it, then we’ll proceed with the extraction of the device."
     },
     {
@@ -15167,7 +15219,7 @@
         "page": "1984",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "In Consents, we are usually provided the PIN code."
     },
     {
@@ -15181,7 +15233,7 @@
         "page": "1984",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -15195,7 +15247,7 @@
         "page": "1985",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "As mentioned before, Cellebrite is one of them. Graykey is another one."
     },
     {
@@ -15209,7 +15261,7 @@
         "page": "1985",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It extracts the entire content of the device and puts it in a format that’s readable by the format itself."
     },
     {
@@ -15223,7 +15275,7 @@
         "page": "1985",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is all the data on those devices."
     },
     {
@@ -15237,7 +15289,7 @@
         "page": "1985",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "We use, again, the software called Cellebrite to then take the contents of those devices and put it into a meaningful format."
     },
     {
@@ -15251,7 +15303,7 @@
         "page": "1985",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Anything that you would normally see on the device, your call history, your contacts, your text messages, videos, pictures and such."
     },
     {
@@ -15265,7 +15317,7 @@
         "page": "1985",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "We’re dealing with a live phone, so perhaps some things in the background like software. But, for all intents and purposes, things do not change."
     },
     {
@@ -15279,7 +15331,7 @@
         "page": "1986",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Um, text messages, all types of software, call history, log files, anything that is normally on a phone."
     },
     {
@@ -15293,7 +15345,7 @@
         "page": "1986",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You can."
     },
     {
@@ -15307,7 +15359,7 @@
         "page": "1986",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Pictures."
     },
     {
@@ -15321,7 +15373,7 @@
         "page": "1986",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Calendar entries."
     },
     {
@@ -15335,7 +15387,7 @@
         "page": "1986",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Audios."
     },
     {
@@ -15349,7 +15401,7 @@
         "page": "1986",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Absolutely."
     },
     {
@@ -15363,7 +15415,7 @@
         "page": "1986",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The user name."
     },
     {
@@ -15377,7 +15429,7 @@
         "page": "1986",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You can."
     },
     {
@@ -15391,7 +15443,7 @@
         "page": "1986",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, you may."
     },
     {
@@ -15405,7 +15457,7 @@
         "page": "1986",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You can."
     },
     {
@@ -15419,7 +15471,7 @@
         "page": "1986",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Simply, metadata is data about data. To give an analogy, let's say you look at a book. Before you open it up, you may see the title of it, maybe the author, but you don’t know who published it, who wrote it and when it was done. You would simply open up the book cover, and that’s the information that would be considered metadata."
     },
     {
@@ -15433,7 +15485,7 @@
         "page": "1987",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It’s created by the year and/or the operating system itself and applications."
     },
     {
@@ -15447,7 +15499,7 @@
         "page": "1987",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It just depends on the artifact."
     },
     {
@@ -15461,7 +15513,7 @@
         "page": "1987",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I was."
     },
     {
@@ -15475,7 +15527,7 @@
         "page": "1987",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I was."
     },
     {
@@ -15489,7 +15541,7 @@
         "page": "1987",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "There are two iPhones. The first one is an iPhone 6s, and the second one is an iPhone 7."
     },
     {
@@ -15503,7 +15555,7 @@
         "page": "1987",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "As mentioned before, it was a Consent."
     },
     {
@@ -15517,7 +15569,7 @@
         "page": "1987",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The Consent was Michael Cohen."
     },
     {
@@ -15531,7 +15583,7 @@
         "page": "1987",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "They were Michael Cohen’s."
     },
     {
@@ -15545,7 +15597,7 @@
         "page": "1988",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It did."
     },
     {
@@ -15559,7 +15611,7 @@
         "page": "1988",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That was."
     },
     {
@@ -15573,7 +15625,7 @@
         "page": "1988",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did."
     },
     {
@@ -15587,7 +15639,7 @@
         "page": "1988",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "CP—0001. \"CP\" stands for cell phone."
     },
     {
@@ -15601,7 +15653,7 @@
         "page": "1988",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -15615,7 +15667,7 @@
         "page": "1988",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -15629,7 +15681,7 @@
         "page": "1988",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "0114."
     },
     {
@@ -15643,7 +15695,7 @@
         "page": "1988",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did. I don’t recall it."
     },
     {
@@ -15657,7 +15709,7 @@
         "page": "1988",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Notes would, yes."
     },
     {
@@ -15720,7 +15772,7 @@
         "page": "1989",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it does."
     },
     {
@@ -15734,7 +15786,7 @@
         "page": "1989",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Delta, November, Papa, Quebec, Charlie, Zero, Hotel, One, Golf, Ralph, Yellow, and Three."
     },
     {
@@ -15748,7 +15800,7 @@
         "page": "1989",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -15762,7 +15814,7 @@
         "page": "1989",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It did."
     },
     {
@@ -15776,7 +15828,7 @@
         "page": "1990",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It was."
     },
     {
@@ -15790,7 +15842,7 @@
         "page": "1990",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It was."
     },
     {
@@ -15804,7 +15856,7 @@
         "page": "1990",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "CP—OOO2."
     },
     {
@@ -15818,7 +15870,7 @@
         "page": "1990",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -15832,7 +15884,7 @@
         "page": "1990",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "6866."
     },
     {
@@ -15846,7 +15898,7 @@
         "page": "1990",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do not."
     },
     {
@@ -15874,7 +15926,7 @@
         "page": "1990",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It does."
     },
     {
@@ -15888,7 +15940,7 @@
         "page": "1990",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "F18T2PHHG7K."
     },
     {
@@ -15916,7 +15968,7 @@
         "page": "1991",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "They were off."
     },
     {
@@ -15930,7 +15982,7 @@
         "page": "1991",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they did."
     },
     {
@@ -15944,7 +15996,7 @@
         "page": "1991",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did not."
     },
     {
@@ -15958,7 +16010,7 @@
         "page": "1991",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Once I received the phones, I kind of mentioned before, I take them to what’s called our F Room, our Faraday Room. F—A—R—A—D—A—Y. It’s a room that separates the room from outside sources so there’s no interference. We’ll then plug that into a device, hardware device, and then proceed, after given the passcode, to extract the data from the device."
     },
     {
@@ -15972,7 +16024,7 @@
         "page": "1991",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It was a full extraction."
     },
     {
@@ -15986,7 +16038,7 @@
         "page": "1992",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It’s just an extraction from the beginning of the storage device to the end of it, meaning it captures all the data."
     },
     {
@@ -16014,7 +16066,7 @@
         "page": "1992",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did."
     },
     {
@@ -16028,7 +16080,7 @@
         "page": "1992",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16042,7 +16094,7 @@
         "page": "1992",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I dated it and initialed it after examining it."
     },
     {
@@ -16056,7 +16108,7 @@
         "page": "1992",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they are."
     },
     {
@@ -16091,7 +16143,7 @@
         "page": "1993",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I did."
     },
     {
@@ -16105,7 +16157,7 @@
         "page": "1993",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I did."
     },
     {
@@ -16119,7 +16171,7 @@
         "page": "1993",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they were."
     },
     {
@@ -16133,7 +16185,7 @@
         "page": "1993",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The parties' names."
     },
     {
@@ -16147,7 +16199,7 @@
         "page": "1993",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it was."
     },
     {
@@ -16161,7 +16213,7 @@
         "page": "1993",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I did."
     },
     {
@@ -16175,7 +16227,7 @@
         "page": "1994",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they do."
     },
     {
@@ -16224,7 +16276,7 @@
         "page": "1994",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they are."
     },
     {
@@ -16238,7 +16290,7 @@
         "page": "1994",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they are."
     },
     {
@@ -16273,7 +16325,7 @@
         "page": "1995",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The parties would be the owner of the phone, Michael Cohen, and Hope Hicks."
     },
     {
@@ -16287,7 +16339,7 @@
         "page": "1995",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "0226."
     },
     {
@@ -16301,7 +16353,7 @@
         "page": "1995",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16315,7 +16367,7 @@
         "page": "1995",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -16329,7 +16381,7 @@
         "page": "1995",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly. The first one is self—explanatory, the date. Your next column is the time. Then the parties. The description is the content of the message. And the source is just what particular artifact it came from, being the native messaging app."
     },
     {
@@ -16343,7 +16395,7 @@
         "page": "1995",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16357,7 +16409,7 @@
         "page": "1996",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -16371,7 +16423,7 @@
         "page": "1996",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I have."
     },
     {
@@ -16385,7 +16437,7 @@
         "page": "1996",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16399,7 +16451,7 @@
         "page": "1996",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Universal Time Coordinated. Basically stands for the old way of weighing time. GMT, Greenwich Mean Time. We’re on an Earth with 24 Time Zones, so one place starts with zero. There are a few zones that go around. New York here, we’re either two different times, depending upon when it changes twice a year. So, it would be UTC minus 4 or UTC minus 5."
     },
     {
@@ -16413,7 +16465,7 @@
         "page": "1996",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "So, it’s already converted to Eastern Standard Time, so it’s 7:09 PM."
     },
     {
@@ -16427,7 +16479,7 @@
         "page": "1996",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it does."
     },
     {
@@ -16455,7 +16507,7 @@
         "page": "1997",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16469,7 +16521,7 @@
         "page": "1997",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "39,745."
     },
     {
@@ -16483,7 +16535,7 @@
         "page": "1997",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is unusual."
     },
     {
@@ -16497,7 +16549,7 @@
         "page": "1997",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I’ve not seen contacts —— that many being on a phone."
     },
     {
@@ -16511,7 +16563,7 @@
         "page": "1997",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Maybe hundreds."
     },
     {
@@ -16525,7 +16577,7 @@
         "page": "1997",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Thousands. A thousand, at the most."
     },
     {
@@ -16553,7 +16605,7 @@
         "page": "1997",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16581,7 +16633,7 @@
         "page": "1998",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16595,7 +16647,7 @@
         "page": "1998",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16609,7 +16661,7 @@
         "page": "1998",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -16623,7 +16675,7 @@
         "page": "1998",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "No."
     },
     {
@@ -16637,7 +16689,7 @@
         "page": "1998",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I think there were ten."
     },
     {
@@ -16651,7 +16703,7 @@
         "page": "1998",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16665,7 +16717,7 @@
         "page": "1998",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16679,7 +16731,7 @@
         "page": "1998",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16693,7 +16745,7 @@
         "page": "1999",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16707,7 +16759,7 @@
         "page": "1999",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16721,7 +16773,7 @@
         "page": "1999",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16735,7 +16787,7 @@
         "page": "1999",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16749,7 +16801,7 @@
         "page": "1999",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16763,7 +16815,7 @@
         "page": "1999",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16791,7 +16843,7 @@
         "page": "1999",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -16805,7 +16857,7 @@
         "page": "1999",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "385."
     },
     {
@@ -16819,7 +16871,7 @@
         "page": "1999",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -16847,7 +16899,7 @@
         "page": "2000",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "They are."
     },
     {
@@ -16861,7 +16913,7 @@
         "page": "2000",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, you can."
     },
     {
@@ -16875,7 +16927,7 @@
         "page": "2000",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly. There’s the date, the time, which is also in —— posted by the date, the party, between the two parties sending and receiving emails, the description, and the source, just saying that it’s from emails."
     },
     {
@@ -16889,7 +16941,7 @@
         "page": "2000",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "From Patty to Michael Cohen."
     },
     {
@@ -16903,7 +16955,7 @@
         "page": "2000",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s @Delaneycorporate.com."
     },
     {
@@ -16938,7 +16990,7 @@
         "page": "2000",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -16952,7 +17004,7 @@
         "page": "2001",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do."
     },
     {
@@ -16966,7 +17018,7 @@
         "page": "2001",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s Michael Cohen."
     },
     {
@@ -16980,7 +17032,7 @@
         "page": "2001",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I haven’t."
     },
     {
@@ -16994,7 +17046,7 @@
         "page": "2001",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I have not. Sorry."
     },
     {
@@ -17008,7 +17060,7 @@
         "page": "2001",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I watch a lot of news."
     },
     {
@@ -17022,7 +17074,7 @@
         "page": "2001",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Looks like the White House."
     },
     {
@@ -17057,7 +17109,7 @@
         "page": "2001",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "This is, as mentioned before, the metadata about that picture."
     },
     {
@@ -17076,6 +17128,11 @@
     },
     {
         "page": "2002",
+        "lineNumber": "4",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. CONROY:"
+    },
+    {
+        "page": "2002",
         "lineNumber": "6",
         "character": "Q",
         "voice": "Harry",
@@ -17085,7 +17142,7 @@
         "page": "2002",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "All right. So you have modified time, created time, access time. They are all on February 8th of 2017 at approximately 5:39 p.m."
     },
     {
@@ -17099,7 +17156,7 @@
         "page": "2002",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It just means that those are the dates, the times that existed on that phone."
     },
     {
@@ -17113,7 +17170,7 @@
         "page": "2002",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -17148,7 +17205,7 @@
         "page": "2003",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -17162,7 +17219,7 @@
         "page": "2003",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -17176,7 +17233,7 @@
         "page": "2003",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -17190,7 +17247,7 @@
         "page": "2003",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "As mentioned before, so date, time, and description, February 8th, 2017, at 4:30 p.m., of a calendar event. The description is called \"Meeting with POTUS.\""
     },
     {
@@ -17204,7 +17261,7 @@
         "page": "2003",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Eastern Standard Time. This is before the time changes in March. This is February, so that's why it's minus five."
     },
     {
@@ -17232,7 +17289,7 @@
         "page": "2003",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's another report of a call log from the WhatsApp application that existed on the device."
     },
     {
@@ -17246,7 +17303,7 @@
         "page": "2003",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "A call log is just a log that identifies when calls were made."
     },
     {
@@ -17260,7 +17317,7 @@
         "page": "2004",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -17274,7 +17331,7 @@
         "page": "2004",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "WhatsApp is an app, an encrypted app that users use to communicate with each other."
     },
     {
@@ -17288,7 +17345,7 @@
         "page": "2004",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It just means that the conversation between you and the next party is encrypted. It can't be intercepted and/or vetted."
     },
     {
@@ -17302,7 +17359,7 @@
         "page": "2004",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's an example."
     },
     {
@@ -17316,7 +17373,7 @@
         "page": "2004",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did."
     },
     {
@@ -17330,7 +17387,7 @@
         "page": "2004",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Telegram and Signal."
     },
     {
@@ -17344,7 +17401,7 @@
         "page": "2004",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it was."
     },
     {
@@ -17372,7 +17429,7 @@
         "page": "2005",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "This is the information about the recording."
     },
     {
@@ -17386,7 +17443,7 @@
         "page": "2005",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -17400,7 +17457,7 @@
         "page": "2005",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The title was labeled \"Keith Davidson, October 16th, 2017.\""
     },
     {
@@ -17414,7 +17471,7 @@
         "page": "2005",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It was."
     },
     {
@@ -17428,7 +17485,7 @@
         "page": "2005",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Based upon the application called \"Voice Memos,\" how it names the file itself and keeps track of the timestamp, that is embedded within the file."
     },
     {
@@ -17442,7 +17499,7 @@
         "page": "2005",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, we do."
     },
     {
@@ -17456,7 +17513,7 @@
         "page": "2005",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -17470,7 +17527,7 @@
         "page": "2005",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -17484,7 +17541,7 @@
         "page": "2005",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -17526,7 +17583,7 @@
         "page": "2006",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -17540,7 +17597,7 @@
         "page": "2006",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The title is entitled \"New Recording 3,\" which indicates that there are two previous recordings on the Voice Memo app on the iPhone. It’s just an audio recording; it’s on the app, which is the audio recording software. It gives the date and timestamp of September 6th, 2016 at approximately 10:56:42 a.m. in the morning, Eastern Standard Time, with a duration of two minutes and 51 seconds. The Link is just the name of the file again. And the end is just the source. Every file has a source path where it exists on the device."
     },
     {
@@ -17554,7 +17611,7 @@
         "page": "2006",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -17568,7 +17625,7 @@
         "page": "2007",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did."
     },
     {
@@ -17603,7 +17660,7 @@
         "page": "2007",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do."
     },
     {
@@ -17617,7 +17674,7 @@
         "page": "2007",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s a transcript of that aforementioned audio."
     },
     {
@@ -17631,7 +17688,7 @@
         "page": "2007",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -17645,7 +17702,7 @@
         "page": "2007",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -17659,7 +17716,7 @@
         "page": "2007",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -17673,7 +17730,7 @@
         "page": "2008",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I have."
     },
     {
@@ -17687,7 +17744,7 @@
         "page": "2008",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "To the best of my ability."
     },
     {
@@ -17778,7 +17835,7 @@
         "page": "2009",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It is."
     },
     {
@@ -17832,6 +17889,11 @@
     },
     {
         "page": "2009",
+        "lineNumber": "13",
+        "character": "CROSS—EXAMINATION BY MR. BOVE:"
+    },
+    {
+        "page": "2009",
         "lineNumber": "15",
         "character": "Q",
         "voice": "Arnold",
@@ -17841,7 +17903,7 @@
         "page": "2009",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -17855,7 +17917,7 @@
         "page": "2009",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I didn't start it in Iraq, but before that actually."
     },
     {
@@ -17869,7 +17931,7 @@
         "page": "2009",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -17883,7 +17945,7 @@
         "page": "2010",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yeah."
     },
     {
@@ -17897,7 +17959,7 @@
         "page": "2010",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Sure."
     },
     {
@@ -17911,7 +17973,7 @@
         "page": "2010",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "A collection of things that are important for national security."
     },
     {
@@ -17925,7 +17987,7 @@
         "page": "2010",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "In a lab, yes."
     },
     {
@@ -17939,7 +18001,7 @@
         "page": "2010",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Absolutely."
     },
     {
@@ -17953,7 +18015,7 @@
         "page": "2010",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I would say."
     },
     {
@@ -17967,7 +18029,7 @@
         "page": "2010",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do the same thing on every case."
     },
     {
@@ -17981,7 +18043,7 @@
         "page": "2010",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I would say so, sure."
     },
     {
@@ -17995,7 +18057,7 @@
         "page": "2011",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly."
     },
     {
@@ -18009,7 +18071,7 @@
         "page": "2011",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18023,7 +18085,7 @@
         "page": "2011",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18037,7 +18099,7 @@
         "page": "2011",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "HTAU."
     },
     {
@@ -18051,7 +18113,7 @@
         "page": "2011",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18065,7 +18127,7 @@
         "page": "2011",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -18079,7 +18141,7 @@
         "page": "2011",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, sir."
     },
     {
@@ -18093,7 +18155,7 @@
         "page": "2012",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, sir."
     },
     {
@@ -18107,7 +18169,7 @@
         "page": "2012",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Sure. There are no signals coming out, so it would be a SCIF."
     },
     {
@@ -18121,7 +18183,7 @@
         "page": "2012",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, that's correct."
     },
     {
@@ -18135,7 +18197,7 @@
         "page": "2012",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes. That's absolutely correct."
     },
     {
@@ -18149,7 +18211,7 @@
         "page": "2012",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "He is."
     },
     {
@@ -18163,7 +18225,7 @@
         "page": "2012",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18184,7 +18246,7 @@
         "page": "2012",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18198,7 +18260,7 @@
         "page": "2012",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do."
     },
     {
@@ -18212,7 +18274,7 @@
         "page": "2013",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Absolutely."
     },
     {
@@ -18226,7 +18288,7 @@
         "page": "2013",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18240,7 +18302,7 @@
         "page": "2013",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18254,7 +18316,7 @@
         "page": "2013",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly."
     },
     {
@@ -18268,7 +18330,7 @@
         "page": "2013",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -18282,7 +18344,7 @@
         "page": "2013",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, there are."
     },
     {
@@ -18296,7 +18358,7 @@
         "page": "2013",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -18310,7 +18372,7 @@
         "page": "2014",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -18324,7 +18386,7 @@
         "page": "2014",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18338,7 +18400,7 @@
         "page": "2014",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18352,7 +18414,7 @@
         "page": "2014",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -18366,7 +18428,7 @@
         "page": "2014",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18380,7 +18442,7 @@
         "page": "2014",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18394,7 +18456,7 @@
         "page": "2014",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it was."
     },
     {
@@ -18408,7 +18470,7 @@
         "page": "2014",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18422,7 +18484,7 @@
         "page": "2015",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18436,7 +18498,7 @@
         "page": "2015",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Phone signals, yeah."
     },
     {
@@ -18450,7 +18512,7 @@
         "page": "2015",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18464,7 +18526,7 @@
         "page": "2015",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It can't."
     },
     {
@@ -18478,7 +18540,7 @@
         "page": "2015",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18492,7 +18554,7 @@
         "page": "2015",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is absolutely correct."
     },
     {
@@ -18506,7 +18568,7 @@
         "page": "2015",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "There is."
     },
     {
@@ -18520,7 +18582,7 @@
         "page": "2015",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18534,7 +18596,7 @@
         "page": "2015",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18548,7 +18610,7 @@
         "page": "2016",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18562,7 +18624,7 @@
         "page": "2016",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Faraday room, yes."
     },
     {
@@ -18576,7 +18638,7 @@
         "page": "2016",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "There is."
     },
     {
@@ -18590,7 +18652,7 @@
         "page": "2016",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18604,7 +18666,7 @@
         "page": "2016",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You can do it immediately."
     },
     {
@@ -18618,7 +18680,7 @@
         "page": "2016",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The soundest way."
     },
     {
@@ -18632,7 +18694,7 @@
         "page": "2016",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18646,7 +18708,7 @@
         "page": "2016",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yep."
     },
     {
@@ -18660,7 +18722,7 @@
         "page": "2016",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18674,7 +18736,7 @@
         "page": "2016",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18688,7 +18750,7 @@
         "page": "2017",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Who brought it."
     },
     {
@@ -18702,7 +18764,7 @@
         "page": "2017",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -18716,7 +18778,7 @@
         "page": "2017",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18730,7 +18792,7 @@
         "page": "2017",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Links in the chain."
     },
     {
@@ -18744,7 +18806,7 @@
         "page": "2017",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "One could ascertain."
     },
     {
@@ -18758,7 +18820,7 @@
         "page": "2017",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly."
     },
     {
@@ -18772,7 +18834,7 @@
         "page": "2017",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Certainly."
     },
     {
@@ -18786,7 +18848,7 @@
         "page": "2017",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -18800,7 +18862,7 @@
         "page": "2017",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It could be."
     },
     {
@@ -18814,7 +18876,7 @@
         "page": "2018",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18828,7 +18890,7 @@
         "page": "2018",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "A basic principle."
     },
     {
@@ -18842,7 +18904,7 @@
         "page": "2018",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -18856,7 +18918,7 @@
         "page": "2018",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it is."
     },
     {
@@ -18870,7 +18932,7 @@
         "page": "2018",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18884,7 +18946,7 @@
         "page": "2018",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Uh—huh."
     },
     {
@@ -18898,7 +18960,7 @@
         "page": "2018",
         "lineNumber": "19",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, that's correct."
     },
     {
@@ -18912,7 +18974,7 @@
         "page": "2018",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -18926,7 +18988,7 @@
         "page": "2019",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -18940,7 +19002,7 @@
         "page": "2019",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The less sophisticated."
     },
     {
@@ -18954,7 +19016,7 @@
         "page": "2019",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "No, you can't."
     },
     {
@@ -18968,7 +19030,7 @@
         "page": "2019",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You cannot."
     },
     {
@@ -18982,7 +19044,7 @@
         "page": "2019",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "No."
     },
     {
@@ -18996,7 +19058,7 @@
         "page": "2019",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "There are."
     },
     {
@@ -19010,7 +19072,7 @@
         "page": "2019",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Uh—huh."
     },
     {
@@ -19024,7 +19086,7 @@
         "page": "2019",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Files, yes."
     },
     {
@@ -19038,7 +19100,7 @@
         "page": "2019",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Files."
     },
     {
@@ -19052,7 +19114,7 @@
         "page": "2020",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Files. Files. Folders."
     },
     {
@@ -19066,7 +19128,7 @@
         "page": "2020",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "The same."
     },
     {
@@ -19080,7 +19142,7 @@
         "page": "2020",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -19094,7 +19156,7 @@
         "page": "2020",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19108,7 +19170,7 @@
         "page": "2020",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It does."
     },
     {
@@ -19122,7 +19184,7 @@
         "page": "2020",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That’s correct."
     },
     {
@@ -19136,7 +19198,7 @@
         "page": "2020",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "An artifact, yes."
     },
     {
@@ -19150,7 +19212,7 @@
         "page": "2020",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19164,7 +19226,7 @@
         "page": "2021",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Correct."
     },
     {
@@ -19178,7 +19240,7 @@
         "page": "2021",
         "lineNumber": "6",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19192,7 +19254,7 @@
         "page": "2021",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, a better way."
     },
     {
@@ -19206,7 +19268,7 @@
         "page": "2021",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, a physical acquisition in some ways is more of an older approach for Apple iPhones. It's a full file system."
     },
     {
@@ -19220,7 +19282,7 @@
         "page": "2021",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yeah, the whole memory chip; that's correct."
     },
     {
@@ -19234,7 +19296,7 @@
         "page": "2021",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19248,7 +19310,7 @@
         "page": "2021",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19262,7 +19324,7 @@
         "page": "2021",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You do."
     },
     {
@@ -19276,7 +19338,7 @@
         "page": "2022",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19290,7 +19352,7 @@
         "page": "2022",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19304,7 +19366,7 @@
         "page": "2022",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19318,7 +19380,7 @@
         "page": "2022",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's in the format on the phone, yes."
     },
     {
@@ -19332,7 +19394,7 @@
         "page": "2022",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It does."
     },
     {
@@ -19346,7 +19408,7 @@
         "page": "2022",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did a full file system on the phone, that's it."
     },
     {
@@ -19360,7 +19422,7 @@
         "page": "2022",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "When I turned —— when I got the device, I simply plugged it into the device, pulled the extraction and then put it away into evidence."
     },
     {
@@ -19374,7 +19436,7 @@
         "page": "2023",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "There is. They are part of the investigative team, but not at HTAU."
     },
     {
@@ -19388,7 +19450,7 @@
         "page": "2023",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Whoever had the phone before, some other agency, if that's what you are asking."
     },
     {
@@ -19402,7 +19464,7 @@
         "page": "2023",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I heard that they did."
     },
     {
@@ -19416,7 +19478,7 @@
         "page": "2023",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I heard that they did, yes."
     },
     {
@@ -19430,7 +19492,7 @@
         "page": "2023",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "(Nods head.)"
     },
     {
@@ -19444,7 +19506,7 @@
         "page": "2023",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's called the zip file."
     },
     {
@@ -19458,7 +19520,7 @@
         "page": "2024",
         "lineNumber": "4",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "So once the data is pulled off, it's then hashed or checks are done, which means that entire file gets a very unique number that says this is the hash that contains all these contents. If anything was affected, that hash file would change."
     },
     {
@@ -19472,7 +19534,7 @@
         "page": "2024",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's a digital fingerprint."
     },
     {
@@ -19486,7 +19548,7 @@
         "page": "2024",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Sure."
     },
     {
@@ -19500,7 +19562,7 @@
         "page": "2024",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19514,7 +19576,7 @@
         "page": "2024",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Absolutely."
     },
     {
@@ -19528,7 +19590,7 @@
         "page": "2024",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Each time you look at it, it hashes or verifies it each time you look at it."
     },
     {
@@ -19542,7 +19604,7 @@
         "page": "2025",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It's automatic."
     },
     {
@@ -19556,7 +19618,7 @@
         "page": "2025",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19570,7 +19632,7 @@
         "page": "2025",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, they are."
     },
     {
@@ -19584,7 +19646,7 @@
         "page": "2025",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You do not."
     },
     {
@@ -19598,7 +19660,7 @@
         "page": "2025",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19612,7 +19674,7 @@
         "page": "2025",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, I did."
     },
     {
@@ -19626,7 +19688,7 @@
         "page": "2025",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "They are just segments."
     },
     {
@@ -19640,7 +19702,7 @@
         "page": "2026",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "You can."
     },
     {
@@ -19654,7 +19716,7 @@
         "page": "2026",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19668,7 +19730,7 @@
         "page": "2026",
         "lineNumber": "8",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Of course."
     },
     {
@@ -19682,7 +19744,7 @@
         "page": "2026",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I'm not part of the investigative team."
     },
     {
@@ -19696,7 +19758,7 @@
         "page": "2026",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19710,7 +19772,7 @@
         "page": "2026",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, it was."
     },
     {
@@ -19724,7 +19786,7 @@
         "page": "2026",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Towards the end, yeah."
     },
     {
@@ -19738,7 +19800,7 @@
         "page": "2027",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I don't. I mean, I heard a phone call was coming in, that's all I know."
     },
     {
@@ -19752,7 +19814,7 @@
         "page": "2027",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19766,7 +19828,7 @@
         "page": "2027",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19780,7 +19842,7 @@
         "page": "2027",
         "lineNumber": "10",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19794,7 +19856,7 @@
         "page": "2027",
         "lineNumber": "13",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I do not."
     },
     {
@@ -19808,7 +19870,7 @@
         "page": "2027",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Look at —— I wasn't instructed, per se, to look at the calls coming in at that time."
     },
     {
@@ -19822,7 +19884,7 @@
         "page": "2027",
         "lineNumber": "22",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes, those reports were pulled after."
     },
     {
@@ -19836,7 +19898,7 @@
         "page": "2027",
         "lineNumber": "25",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I wasn't specifically asked to look at that."
     },
     {
@@ -19850,7 +19912,7 @@
         "page": "2028",
         "lineNumber": "3",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Just that it cut off."
     },
     {
@@ -19864,7 +19926,7 @@
         "page": "2028",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -19878,7 +19940,7 @@
         "page": "2028",
         "lineNumber": "9",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "They did come to our Office, yes."
     },
     {
@@ -19892,7 +19954,7 @@
         "page": "2028",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's right."
     },
     {
@@ -19906,7 +19968,7 @@
         "page": "2028",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I will."
     },
     {
@@ -19920,7 +19982,7 @@
         "page": "2028",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yeah, I did not receive those."
     },
     {
@@ -19934,7 +19996,7 @@
         "page": "2028",
         "lineNumber": "21",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did not."
     },
     {
@@ -19948,7 +20010,7 @@
         "page": "2028",
         "lineNumber": "23",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did not."
     },
     {
@@ -19962,7 +20024,7 @@
         "page": "2029",
         "lineNumber": "1",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That is correct."
     },
     {
@@ -19976,7 +20038,7 @@
         "page": "2029",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Yes."
     },
     {
@@ -19990,7 +20052,7 @@
         "page": "2029",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Manually looking at a device is invasive."
     },
     {
@@ -20011,7 +20073,7 @@
         "page": "2029",
         "lineNumber": "12",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -20025,7 +20087,7 @@
         "page": "2029",
         "lineNumber": "15",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Right."
     },
     {
@@ -20039,7 +20101,7 @@
         "page": "2029",
         "lineNumber": "17",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "For Androids, not for Apple iPhones."
     },
     {
@@ -20053,7 +20115,7 @@
         "page": "2029",
         "lineNumber": "20",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -20067,7 +20129,7 @@
         "page": "2029",
         "lineNumber": "24",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Sure."
     },
     {
@@ -20081,7 +20143,7 @@
         "page": "2030",
         "lineNumber": "2",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "It could."
     },
     {
@@ -20095,7 +20157,7 @@
         "page": "2030",
         "lineNumber": "5",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "Uh—huh. That's correct."
     },
     {
@@ -20109,7 +20171,7 @@
         "page": "2030",
         "lineNumber": "7",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -20123,7 +20185,7 @@
         "page": "2030",
         "lineNumber": "11",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That's correct."
     },
     {
@@ -20137,7 +20199,7 @@
         "page": "2030",
         "lineNumber": "14",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "I did not."
     },
     {
@@ -20151,7 +20213,7 @@
         "page": "2030",
         "lineNumber": "16",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "As far as I know."
     },
     {
@@ -20165,7 +20227,7 @@
         "page": "2030",
         "lineNumber": "18",
         "character": "A",
-        "voice": "Paul",
+        "voice": "Emma",
         "text": "That it is."
     },
     {

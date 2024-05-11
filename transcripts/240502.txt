@@ -156,6 +156,8 @@ MR. STEINGLASS: Yes.
 
 THE COURT: Good morning, jurors. Welcome back. Mr. Steinglass.
 
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q Thank you. Good morning, Mr. Davidson.
 
 A Good morning.
@@ -263,6 +265,8 @@ A Essential Consultants LLC.
 AUDIO DESCRIPTION: Whereupon, Principal Court Reporter, Susan Pearce—Bates was relieved by Senior Court Reporter, Lisa Kramsky.
 
 AUDIO DESCRIPTION: The following proceedings are continued from the following page.
+
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q I now want to pull back up Exhibit 176—A, which is in evidence, and display Page 12, Lines 536 to 537. Is this a part of that long series of texts between yourself and Dylan Howard?
 
@@ -1470,6 +1474,8 @@ THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
 
+CROSS—EXAMINATION BY MR. BOVE:
+
 Q Good morning, Mr. Davidson.
 
 A Good morning.
@@ -1979,6 +1985,8 @@ THE COURT: Objection sustained.
 MR. BOVE: May I continue?
 
 THE COURT: Yes.
+
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
 
 Q You said something this morning along the lines of Michael Cohen could be an "aggressive" guy; right?
 
@@ -2521,6 +2529,8 @@ AUDIO DESCRIPTION: Whereupon, the proceedings are continued from previous page:
 MR. BOVE: This is just for parties and the witness and the Court. If we can take a look at Defense Exhibit F27. If we can go to Page 2, please.
 
 AUDIO DESCRIPTION: Displayed.
+
+CONTINUED CROSS EXAMINATION BY MR. BOVE:
 
 Q. Take a look at that and let me know when you are done.
 
@@ -3085,6 +3095,8 @@ THE COURT: Good afternoon, jurors.
 MR. BOVE: May I?
 
 THE COURT: Yes.
+
+CONTINUED CROSS EXAMINATION BY MR. BOVE:
 
 Q. Mr. Davidson, I would like to talk a little bit more about the 2011 blog post. You have testified a little bit about a woman named Gina Rodriguez, right?
 
@@ -3822,7 +3834,9 @@ A. It's common.
 
 Q. You even used it with Hulk Hogan, right?
 
-A. I believe so. O. This is unsigned, correct?
+A. I believe so.
+
+O. This is unsigned, correct?
 
 A. Yes.
 
@@ -3873,6 +3887,8 @@ THE CLERK: Case on trial continues. All parties are present. Appearances remain 
 THE COURT: Mr. Steinglass.
 
 MR. STEINGLASS: Thank you. Thank you for that, as well.
+
+REDIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q Hello, Mr. Davidson.
 
@@ -4044,6 +4060,8 @@ THE COURT: Thank you. Mr. Bove, anything else?
 
 MR. BOVE: Yes, please.
 
+RECROSS EXAMINATION BY MR . BOVE:
+
 Q Mr. Davidson, you don’t know the day of that recording; do you?
 
 A Not offhand.
@@ -4167,6 +4185,8 @@ THE WITNESS: Westchester County.
 THE COURT: Good afternoon. You may inquire.
 
 MR. CONROY: Thank you, Judge.
+
+DIRECT EXAMINATION BY MR. CONROY:
 
 Q Where do you work?
 
@@ -4832,6 +4852,8 @@ AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior
 
 AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
 
+CONTINUED DIRECT EXAMINATION BY MR. CONROY:
+
 Q And can you tell us, what does that metadata tell us about that picture? If you could sort of explain that as you walk through the columns?
 
 A All right. So you have modified time, created time, access time. They are all on February 8th of 2017 at approximately 5:39 p.m.
@@ -5047,6 +5069,8 @@ MR. BOVE: Yes, Judge, thank you. May I inquire?
 THE COURT: Yes.
 
 MR. BOVE: Thank you, Judge.
+
+CROSS—EXAMINATION BY MR. BOVE:
 
 Q Is it Mr. Daus? Am I saying that right?
 

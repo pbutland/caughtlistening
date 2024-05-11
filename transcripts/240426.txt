@@ -80,6 +80,8 @@ MR. BOVE: May I inquire, Judge?
 
 THE COURT: Yes.
 
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
+
 Q Good morning, Mr. Pecker.
 
 A Good morning.
@@ -1153,6 +1155,8 @@ AUDIO DESCRIPTION: whereupon, Senior Court Reporter Lisa Kramsky relieves Senior
 AUDIO DESCRIPTION: The following proceedings are continued from previous page.
 
 THE COURT: Thank you. The objection is overruled.
+
+CROSS—EXAMINATION BY MR . BOVE:
 
 Q So before that break, we were talking about iPayments; right?
 
@@ -2510,6 +2514,8 @@ THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
 
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
+
 Q Mr. Pecker, I think you testified yesterday that in early 2018 FBI agents came to you?
 
 A Yes.
@@ -3448,6 +3454,8 @@ THE COURT: Thank you. People, any redirect?
 
 MR. STEINGLASS: Yes, Judge.
 
+REDIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q Good afternoon, Mr. Pecker.
 
 A Good afternoon.
@@ -4080,6 +4088,8 @@ THE COURT: Good afternoon. Mr. Steinglass.
 
 MR. STEINGLASS: Thank you, Judge.
 
+CONTINUED REDIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q. Good afternoon, Mr. Pecker.
 
 A. Good afternoon.
@@ -4368,6 +4378,8 @@ THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
 
+RECROSS EXAMINATION BY MR . BOVE:
+
 Q. Mr. Pecker, before lunch you were asked some questions by Mr. Steinglass about "attack ads;" do you recall those questions?
 
 A. Yes, I do.
@@ -4520,6 +4532,8 @@ AUDIO DESCRIPTION: Whereupon, the following occurred in open court:
 
 THE COURT: Objection sustained.
 
+CONTINUED RECROSS EXAMINATION 9 BY MR . BOVE:
+
 Q. Mr. Pecker, at the end of your testimony yesterday, you told a story about an Anthrax incident at AMI?
 
 A. That's correct.
@@ -4587,6 +4601,8 @@ THE WITNESS: New York County.
 THE COURT: Good afternoon. You may inquire.
 
 MS. HOFFINGER: Thank you.
+
+DIRECT EXAMINATION BY MS. HOFFINGER:
 
 Q. Good afternoon. Ms. Graff, are you currently employed?
 
@@ -5001,6 +5017,8 @@ Q. Was January 19, 2017, the day before Mr. Trump's inauguration in Washington D
 A. I believe it was.
 
 MS. HOFFINGER: Nothing further.
+
+CROSS EXAMINATION BY MS . NECHELES:
 
 Q. Good afternoon. How are you today?
 
@@ -5462,6 +5480,8 @@ MS. MANGOLD: May I inquire?
 
 THE COURT: You may inquire.
 
+DIRECT EXAMINATION BY MS . MANGOLD:
+
 Q Good afternoon, Mr. Farro.
 
 A Good afternoon.
@@ -5911,6 +5931,8 @@ A For everything I reviewed, yes.
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
 
 AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
+
+CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
 
 Q And, to your knowledge, did the email server record and store that information accurately?
 

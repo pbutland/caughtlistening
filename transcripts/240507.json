@@ -4355,7 +4355,14 @@
         "lineNumber": "19",
         "character": "A",
         "voice": "Charlotte",
-        "text": "Hi. O Ms. Daniels, have you also been known as Stephanie Clifford?"
+        "text": "Hi."
+    },
+    {
+        "page": "2560",
+        "lineNumber": "20",
+        "character": "O",
+        "voice": "Sophie",
+        "text": "Ms. Daniels, have you also been known as Stephanie Clifford?"
     },
     {
         "page": "2560",
@@ -7524,7 +7531,14 @@
     {
         "page": "2608",
         "lineNumber": "3",
-        "character": "CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER: O. Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?"
+        "character": "CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:"
+    },
+    {
+        "page": "2608",
+        "lineNumber": "5",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?"
     },
     {
         "page": "2608",
@@ -7537,7 +7551,7 @@
         "page": "2608",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "Can you tell us just about that?"
     },
     {
@@ -7551,7 +7565,7 @@
         "page": "2608",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "When you say you were directed, who directed you?"
     },
     {
@@ -7565,7 +7579,7 @@
         "page": "2608",
         "lineNumber": "17",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "Can you describe —— you said you went through a bedroom to get to the bathroom?"
     },
     {
@@ -7579,7 +7593,7 @@
         "page": "2608",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What did you see inside the bathroom?"
     },
     {
@@ -7593,7 +7607,7 @@
         "page": "2609",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What do you remember about what was inside?"
     },
     {
@@ -7607,14 +7621,14 @@
         "page": "2609",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "Did you try to call anybody while you were inside the bathroom? Al anaAlina was not answering her phone. In fact, I wish I had a cell phone camera. If I did, I definitely would have taken a picture of that. I even thought, woe, this is crazy."
     },
     {
         "page": "2609",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "Did you try to call her while you were inside the bathroom?"
     },
     {
@@ -7628,7 +7642,7 @@
         "page": "2609",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What happened when you left the bathroom?"
     },
     {
@@ -7642,7 +7656,7 @@
         "page": "2610",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What was he wearing at the time?"
     },
     {
@@ -7656,7 +7670,7 @@
         "page": "2610",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What was your reaction to seeing him like that?"
     },
     {
@@ -7670,7 +7684,7 @@
         "page": "2610",
         "lineNumber": "23",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What happened when you came out of the bathroom, did he stay on the bed?"
     },
     {
@@ -7691,7 +7705,7 @@
         "page": "2611",
         "lineNumber": "2",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "What happened after that?"
     },
     {
@@ -7726,7 +7740,7 @@
         "page": "2611",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "You were both standing up at this time?"
     },
     {
@@ -7740,7 +7754,7 @@
         "page": "2611",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "And what happened next, briefly?"
     },
     {
@@ -7768,7 +7782,7 @@
         "page": "2612",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Emily",
+        "voice": "Serena",
         "text": "Did you at some point ——"
     },
     {
@@ -8696,14 +8710,28 @@
     {
         "page": "2621",
         "lineNumber": "17",
-        "character": "CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER: O. Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?"
+        "character": "CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:"
+    },
+    {
+        "page": "2621",
+        "lineNumber": "19",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?"
     },
     {
         "page": "2621",
         "lineNumber": "21",
         "character": "A.",
         "voice": "Charlotte",
-        "text": "Yes. O. Tell the jury about that."
+        "text": "Yes."
+    },
+    {
+        "page": "2621",
+        "lineNumber": "22",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Tell the jury about that."
     },
     {
         "page": "2621",
@@ -8716,7 +8744,7 @@
         "page": "2621",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was going on in your hotel that night?"
     },
     {
@@ -8730,7 +8758,7 @@
         "page": "2622",
         "lineNumber": "4",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "So that was part of your participating in the things that Wicked was doing for this golf tournament?"
     },
     {
@@ -8744,7 +8772,7 @@
         "page": "2622",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You met him there. Where was it? Did you say it was in the lobby?"
     },
     {
@@ -8758,7 +8786,7 @@
         "page": "2622",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did anyone call you before going there to indicate that Mr. Trump was going to be there?"
     },
     {
@@ -8772,7 +8800,7 @@
         "page": "2622",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And when you say \"his friend,\" do you know who his friend was?"
     },
     {
@@ -8786,7 +8814,7 @@
         "page": "2622",
         "lineNumber": "23",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did Mr. Trump say hello to you and introduce you?"
     },
     {
@@ -8800,7 +8828,7 @@
         "page": "2622",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did he say?"
     },
     {
@@ -8814,7 +8842,7 @@
         "page": "2623",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you say \"Big Ben,\" is that how Mr. Trump referred to Mr. Roethlisberger?"
     },
     {
@@ -8828,7 +8856,7 @@
         "page": "2623",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What, if anything, did you discuss at the table with Mr. Trump or Mr. Roethlisberger?"
     },
     {
@@ -8842,7 +8870,7 @@
         "page": "2623",
         "lineNumber": "23",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And Ben walked you up to your room?"
     },
     {
@@ -8856,7 +8884,7 @@
         "page": "2623",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you leave Lake Tahoe the next day?"
     },
     {
@@ -8870,7 +8898,7 @@
         "page": "2624",
         "lineNumber": "2",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And do you recall the first person you did tell about having that sexual encounter with Mr. Trump?"
     },
     {
@@ -8884,7 +8912,7 @@
         "page": "2624",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you tell either of them all the details of what occurred in the room or just some of them?"
     },
     {
@@ -8898,7 +8926,7 @@
         "page": "2624",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And were there others that you told about some of it?"
     },
     {
@@ -8912,7 +8940,7 @@
         "page": "2624",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you tell those folks, did you tell them all of what happened?"
     },
     {
@@ -8926,7 +8954,7 @@
         "page": "2624",
         "lineNumber": "23",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did Mr. Trump call you after that encounter in July of 2006 in Tahoe?"
     },
     {
@@ -8940,7 +8968,7 @@
         "page": "2625",
         "lineNumber": "I",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Tell us about that, how often he would call you?"
     },
     {
@@ -8954,7 +8982,7 @@
         "page": "2625",
         "lineNumber": "18",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you put him on speakerphone, did you tell him he was on speaker?"
     },
     {
@@ -8968,7 +8996,7 @@
         "page": "2625",
         "lineNumber": "21",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he ever tell you during those calls that you should keep it confidential and not tell anyone?"
     },
     {
@@ -8982,7 +9010,7 @@
         "page": "2625",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you continue to take his calls?"
     },
     {
@@ -9010,7 +9038,7 @@
         "page": "2626",
         "lineNumber": "6",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you continue to take his calls?"
     },
     {
@@ -9024,7 +9052,7 @@
         "page": "2626",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "At some point, did Mr. Trump give you his work number?"
     },
     {
@@ -9038,7 +9066,7 @@
         "page": "2626",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did he give that to you over the phone or in person?"
     },
     {
@@ -9052,7 +9080,7 @@
         "page": "2626",
         "lineNumber": "14",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And what did he tell you about that number that he gave you?"
     },
     {
@@ -9066,7 +9094,7 @@
         "page": "2626",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you remember, approximately, when he gave you that phone number?"
     },
     {
@@ -9080,7 +9108,7 @@
         "page": "2626",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And what did you do with the number when he gave it to you?"
     },
     {
@@ -9094,7 +9122,7 @@
         "page": "2627",
         "lineNumber": "3",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you say you \"entered it into your phone,\" did you put it into your phone contacts?"
     },
     {
@@ -9108,7 +9136,7 @@
         "page": "2627",
         "lineNumber": "6",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "That’s all right."
     },
     {
@@ -9122,7 +9150,7 @@
         "page": "2627",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you recognize that, Ms. Daniels?"
     },
     {
@@ -9136,7 +9164,7 @@
         "page": "2627",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What do you recognize that to be?"
     },
     {
@@ -9150,7 +9178,7 @@
         "page": "2627",
         "lineNumber": "14",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And do you notice that the phone number is redacted to show only the last four digits of the number?"
     },
     {
@@ -9164,7 +9192,7 @@
         "page": "2627",
         "lineNumber": "17",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Had you reviewed it and compared it to the original contact without that redaction?"
     },
     {
@@ -9178,7 +9206,7 @@
         "page": "2627",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Are they exactly the same other than the redaction?"
     },
     {
@@ -9192,7 +9220,7 @@
         "page": "2627",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Other than the redaction, is that an exact copy of the contact that you entered into your phone for Rhona when you received it from Mr. Trump sometime in 2006?"
     },
     {
@@ -9248,7 +9276,7 @@
         "page": "2628",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did the contact read at the time?"
     },
     {
@@ -9262,7 +9290,7 @@
         "page": "2628",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Yes."
     },
     {
@@ -9276,7 +9304,7 @@
         "page": "2628",
         "lineNumber": "13",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And why did you enter it that way, \"D. Trump Rona?\""
     },
     {
@@ -9304,7 +9332,7 @@
         "page": "2629",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you see People's 83, a contact that says \"Stormy Daniels\" with a mobile phone number?"
     },
     {
@@ -9318,7 +9346,7 @@
         "page": "2629",
         "lineNumber": "4",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you recognize those last four digits of the phone number there?"
     },
     {
@@ -9332,7 +9360,7 @@
         "page": "2629",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What are they?"
     },
     {
@@ -9346,7 +9374,7 @@
         "page": "2629",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Have you previously reviewed that exhibit without the redactions?"
     },
     {
@@ -9360,7 +9388,7 @@
         "page": "2629",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And can you confirm that what is redacted is the rest of your cell phone number?"
     },
     {
@@ -9374,7 +9402,7 @@
         "page": "2629",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you still have the same telephone number that you did back in 2006 and 2007?"
     },
     {
@@ -9395,7 +9423,7 @@
         "page": "2629",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "I want to direct your attention to January 17th or so of 2007. Did you meet with Mr. Trump at the launch of his Trump Vodka brand at a location in Hollywood, California, called Les Deux?"
     },
     {
@@ -9409,7 +9437,7 @@
         "page": "2629",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How did that come about?"
     },
     {
@@ -9423,7 +9451,7 @@
         "page": "2630",
         "lineNumber": "3",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you agree to go?"
     },
     {
@@ -9437,7 +9465,7 @@
         "page": "2630",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you agree to go?"
     },
     {
@@ -9486,7 +9514,7 @@
         "page": "2630",
         "lineNumber": "19",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you go alone or with others?"
     },
     {
@@ -9500,7 +9528,7 @@
         "page": "2630",
         "lineNumber": "21",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What were the first names of the two friends that went with you?"
     },
     {
@@ -9514,7 +9542,7 @@
         "page": "2630",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Yes."
     },
     {
@@ -9528,7 +9556,7 @@
         "page": "263l",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Were the two of them, Tara and Evan, among the friends who you had told about some of the details about what had occurred with Mr. Trump?"
     },
     {
@@ -9542,7 +9570,7 @@
         "page": "263l",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you saw —— did you meet up with Mr. Trump when you got there?"
     },
     {
@@ -9556,7 +9584,7 @@
         "page": "263l",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you meet him at the VIP booth?"
     },
     {
@@ -9570,7 +9598,7 @@
         "page": "263l",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How did he greet you?"
     },
     {
@@ -9584,7 +9612,7 @@
         "page": "263l",
         "lineNumber": "14",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Were there other people around when he greeted you?"
     },
     {
@@ -9598,7 +9626,7 @@
         "page": "263l",
         "lineNumber": "16",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he appear to be concerned about meeting you there or greeting you?"
     },
     {
@@ -9612,7 +9640,7 @@
         "page": "263l",
         "lineNumber": "19",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he introduce you to anybody memorable when you were there?"
     },
     {
@@ -9626,7 +9654,7 @@
         "page": "263l",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you know Karen's last name?"
     },
     {
@@ -9640,7 +9668,7 @@
         "page": "263l",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you know her last name now?"
     },
     {
@@ -9654,7 +9682,7 @@
         "page": "2632",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What is it?"
     },
     {
@@ -9668,7 +9696,7 @@
         "page": "2632",
         "lineNumber": "3",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you know —— did you know who she was at the time?"
     },
     {
@@ -9682,7 +9710,7 @@
         "page": "2632",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, did you introduce your friends to Mr. Trump as well?"
     },
     {
@@ -9696,7 +9724,7 @@
         "page": "2632",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "About how long were you there?"
     },
     {
@@ -9710,7 +9738,7 @@
         "page": "2632",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did he ask you to see him again?"
     },
     {
@@ -9724,7 +9752,7 @@
         "page": "2632",
         "lineNumber": "14",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you tell him?"
     },
     {
@@ -9738,7 +9766,7 @@
         "page": "2632",
         "lineNumber": "18",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Let me direct your attention to a few months later, about March of 2007. Did you visit with Mr. Trump at Trump Tower at about that time?"
     },
     {
@@ -9752,7 +9780,7 @@
         "page": "2632",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How did that come about?"
     },
     {
@@ -9766,7 +9794,7 @@
         "page": "2633",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You said you asked him to come to the show where you were going to be performing?"
     },
     {
@@ -9780,7 +9808,7 @@
         "page": "2633",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did do you that?"
     },
     {
@@ -9808,7 +9836,7 @@
         "page": "2633",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was there a reason you thought it would be good for the club if he showed up?"
     },
     {
@@ -9836,7 +9864,7 @@
         "page": "2633",
         "lineNumber": "21",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What happened when you got to Trump Tower?"
     },
     {
@@ -9850,7 +9878,7 @@
         "page": "2633",
         "lineNumber": "23",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Yes."
     },
     {
@@ -9864,7 +9892,7 @@
         "page": "2634",
         "lineNumber": "2",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you meet his assistant, Rhona, in the reception area upstairs?"
     },
     {
@@ -9878,7 +9906,7 @@
         "page": "2634",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And were you ushered into his office with your assistant?"
     },
     {
@@ -9892,7 +9920,7 @@
         "page": "2634",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you have a discussion in there with Mr. Trump?"
     },
     {
@@ -9906,7 +9934,7 @@
         "page": "2634",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, just generally, what was the discussion?"
     },
     {
@@ -9920,7 +9948,7 @@
         "page": "2634",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he also end up inviting you to another event?"
     },
     {
@@ -9934,7 +9962,7 @@
         "page": "2635",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he arrange for tickets for you to go?"
     },
     {
@@ -9948,7 +9976,7 @@
         "page": "2635",
         "lineNumber": "3",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you end up going to the Miss USA Pageant with your assistant?"
     },
     {
@@ -9962,7 +9990,7 @@
         "page": "2635",
         "lineNumber": "6",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You said it was very brief at Trump Tower?"
     },
     {
@@ -9976,7 +10004,7 @@
         "page": "2635",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he appear to be concerned about anybody seeing you at Trump Tower?"
     },
     {
@@ -9990,7 +10018,7 @@
         "page": "2635",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Let me direct your attention now to the Miss USA Pageant. How did you end up getting into the pageant?"
     },
     {
@@ -10004,7 +10032,7 @@
         "page": "2635",
         "lineNumber": "16",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was he there at the time?"
     },
     {
@@ -10018,7 +10046,7 @@
         "page": "2635",
         "lineNumber": "19",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you speak to him after the pageant?"
     },
     {
@@ -10032,7 +10060,7 @@
         "page": "2635",
         "lineNumber": "21",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, after the Miss USA Pageant, sometime around the Summer of 2007, did you meet with him again in L.A.?"
     },
     {
@@ -10046,7 +10074,7 @@
         "page": "2635",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How did that come about?"
     },
     {
@@ -10060,7 +10088,7 @@
         "page": "2636",
         "lineNumber": "5",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you end up going to the bungalow?"
     },
     {
@@ -10074,7 +10102,7 @@
         "page": "2636",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And how did you get there?"
     },
     {
@@ -10088,7 +10116,7 @@
         "page": "2636",
         "lineNumber": "10",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And had you told your boyfriend at that time about what exactly had happened in the hotel room with Mr. Trump?"
     },
     {
@@ -10102,7 +10130,7 @@
         "page": "2636",
         "lineNumber": "13",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why not?"
     },
     {
@@ -10116,7 +10144,7 @@
         "page": "2636",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you decide to go meet him at the bungalow?"
     },
     {
@@ -10130,7 +10158,7 @@
         "page": "2636",
         "lineNumber": "18",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you meet anyone outside? How did you get into his bungalow?"
     },
     {
@@ -10144,7 +10172,7 @@
         "page": "2636",
         "lineNumber": "24",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you ask your boyfriend to just wait for you?"
     },
     {
@@ -10158,7 +10186,7 @@
         "page": "2637",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you go into the bungalow to meet with Mr. Trump?"
     },
     {
@@ -10172,7 +10200,7 @@
         "page": "2637",
         "lineNumber": "3",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And tell us a little bit about what you discussed with him in the bungalow?"
     },
     {
@@ -10186,7 +10214,7 @@
         "page": "2637",
         "lineNumber": "13",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was your response?"
     },
     {
@@ -10200,7 +10228,7 @@
         "page": "2637",
         "lineNumber": "15",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "But you told him you did not want to; is that right?"
     },
     {
@@ -10214,7 +10242,7 @@
         "page": "2637",
         "lineNumber": "17",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was there more discussion about the The Apprentice?"
     },
     {
@@ -10228,7 +10256,7 @@
         "page": "2637",
         "lineNumber": "20",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And about how long did you stay?"
     },
     {
@@ -10242,7 +10270,7 @@
         "page": "2637",
         "lineNumber": "22",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And what did he say when you were leaving, when you decided to go?"
     },
     {
@@ -10256,7 +10284,7 @@
         "page": "2638",
         "lineNumber": "1",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he on that occasion tell you to keep it confidential and not to tell anyone?"
     },
     {
@@ -10270,7 +10298,7 @@
         "page": "2638",
         "lineNumber": "4",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he appear to be concerned with anybody else finding out that you were there with him?"
     },
     {
@@ -10284,7 +10312,7 @@
         "page": "2638",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was that the last time that you saw him in person?"
     },
     {
@@ -10298,7 +10326,7 @@
         "page": "2638",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did he call you after this meeting in the bungalow in L.A., did he call you again?"
     },
     {
@@ -10312,7 +10340,7 @@
         "page": "2638",
         "lineNumber": "12",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did he call you another time?"
     },
     {
@@ -10326,7 +10354,7 @@
         "page": "2638",
         "lineNumber": "14",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Approximately, how many times did he call you?"
     },
     {
@@ -10340,7 +10368,7 @@
         "page": "2638",
         "lineNumber": "25",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Who was Jenna Jameson?"
     },
     {
@@ -10354,7 +10382,7 @@
         "page": "2639",
         "lineNumber": "6",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You didn't care at that point?"
     },
     {
@@ -10368,7 +10396,7 @@
         "page": "2639",
         "lineNumber": "8",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was that the last time you spoke to him by telephone or in person?"
     },
     {
@@ -10382,7 +10410,7 @@
         "page": "2639",
         "lineNumber": "11",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And after, did you sort of stop taking calls? How did you know that —— did you know one way or the other whether he called you again?"
     },
     {
@@ -10396,7 +10424,7 @@
         "page": "2639",
         "lineNumber": "17",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you stop answering those calls?"
     },
     {
@@ -10410,7 +10438,7 @@
         "page": "2639",
         "lineNumber": "19",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "At that point, did you move on with your life?"
     },
     {
@@ -10424,7 +10452,7 @@
         "page": "2639",
         "lineNumber": "21",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "For the next three years, January of 2008 until about May of 2011 or so, what did your life look like?"
     },
     {
@@ -10459,7 +10487,7 @@
         "page": "2640",
         "lineNumber": "7",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Any interactions during that time with Mr. Trump?"
     },
     {
@@ -10473,7 +10501,7 @@
         "page": "2640",
         "lineNumber": "9",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Let me direct your attention now to about May of 2011, did you agree at that time to be interviewed for an article by a magazine called In Touch?"
     },
     {
@@ -10487,7 +10515,7 @@
         "page": "2640",
         "lineNumber": "13",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, first of all, what is In Touch?"
     },
     {
@@ -10501,7 +10529,7 @@
         "page": "2640",
         "lineNumber": "16",
         "character": "Q.",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How did that come about, that you agreed to be interviewed by In Touch?"
     },
     {
@@ -10613,7 +10641,7 @@
         "page": "2642",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "I’m going to ask you just to slow down again so that the court reporters can get you down."
     },
     {
@@ -10627,7 +10655,7 @@
         "page": "2642",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "So, she said you can either take control of it and get paid or someone else will have control of it?"
     },
     {
@@ -10641,7 +10669,7 @@
         "page": "2642",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was the —— if you agreed to do the interview and get paid, would your agent —— Gina Rodriguez was your agent?"
     },
     {
@@ -10655,7 +10683,7 @@
         "page": "2642",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Would Gina also get paid as a result?"
     },
     {
@@ -10669,7 +10697,7 @@
         "page": "2642",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you decide to do a brief interview with In Touch?"
     },
     {
@@ -10683,7 +10711,7 @@
         "page": "2642",
         "lineNumber": "16",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you decide to do it?"
     },
     {
@@ -10697,7 +10725,7 @@
         "page": "2642",
         "lineNumber": "20",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "How much were you supposed to get paid for the article?"
     },
     {
@@ -10711,7 +10739,7 @@
         "page": "2642",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You said you just had your daughter. Were you doing less work at that time?"
     },
     {
@@ -10725,7 +10753,7 @@
         "page": "2643",
         "lineNumber": "1",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Approximately how long was the interview that you had?"
     },
     {
@@ -10739,7 +10767,7 @@
         "page": "2643",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was your understanding about whether this article was meant to be for entertainment purposes?"
     },
     {
@@ -10753,7 +10781,7 @@
         "page": "2643",
         "lineNumber": "8",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you discuss with In Touch all of the details of what happened in the room at Harrah’s with Mr. Trump?"
     },
     {
@@ -10767,7 +10795,7 @@
         "page": "2643",
         "lineNumber": "13",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did In Touch end up running that story in 2011?"
     },
     {
@@ -10781,7 +10809,7 @@
         "page": "2643",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, at the time, did you know why they didn't run the story?"
     },
     {
@@ -10928,7 +10956,7 @@
         "page": "2646",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Ms. Daniels, some weeks after you were interviewed by In Touch, did you have an experience in about June of 2011 with an encounter in a parking lot in Las Vegas?"
     },
     {
@@ -10942,7 +10970,7 @@
         "page": "2646",
         "lineNumber": "8",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Will you tell the jury, just briefly, what happened."
     },
     {
@@ -10956,7 +10984,7 @@
         "page": "2646",
         "lineNumber": "18",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you say \"to continue to tell\" your \"story\", about who?"
     },
     {
@@ -10970,7 +10998,7 @@
         "page": "2646",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you tell the police at the time?"
     },
     {
@@ -10984,7 +11012,7 @@
         "page": "2646",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why not?"
     },
     {
@@ -10998,7 +11026,7 @@
         "page": "2647",
         "lineNumber": "3",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "So, did you tell your boyfriend at the time ——"
     },
     {
@@ -11012,7 +11040,7 @@
         "page": "2647",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "—— about the encounter?"
     },
     {
@@ -11026,7 +11054,7 @@
         "page": "2647",
         "lineNumber": "7",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "That's because you were concerned about him?"
     },
     {
@@ -11047,7 +11075,7 @@
         "page": "2647",
         "lineNumber": "10",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you not tell him?"
     },
     {
@@ -11061,7 +11089,7 @@
         "page": "2647",
         "lineNumber": "16",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, let me direct your attention to about October of 2011. Did you become aware at around that time that an article had come out and been posted online about your encounter with Mr. Trump on a site called thedirty.com?"
     },
     {
@@ -11075,7 +11103,7 @@
         "page": "2647",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Would that be Gina Rodriguez?"
     },
     {
@@ -11089,7 +11117,7 @@
         "page": "2647",
         "lineNumber": "25",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Can you just tell the jury, what is thedirty.com, first?"
     },
     {
@@ -11103,7 +11131,7 @@
         "page": "2648",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You said Gina Rodriguez told you there was something up on thedirty.com?"
     },
     {
@@ -11117,7 +11145,7 @@
         "page": "2648",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you provide information to that site?"
     },
     {
@@ -11131,7 +11159,7 @@
         "page": "2648",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Were you concerned about it being up at the time?"
     },
     {
@@ -11145,7 +11173,7 @@
         "page": "2648",
         "lineNumber": "16",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why were you concerned?"
     },
     {
@@ -11159,7 +11187,7 @@
         "page": "2648",
         "lineNumber": "19",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "At that point, did you want it taken down?"
     },
     {
@@ -11173,7 +11201,7 @@
         "page": "2648",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What, if anything, did Gina, your agent ——"
     },
     {
@@ -11187,7 +11215,7 @@
         "page": "2648",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Hold up —— say about being able to take it down?"
     },
     {
@@ -11201,7 +11229,7 @@
         "page": "2649",
         "lineNumber": "3",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did she tell you the name of her attorney at the time?"
     },
     {
@@ -11215,7 +11243,7 @@
         "page": "2649",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you tell her that, yes, you would be happy for her attorney to try to take it down?"
     },
     {
@@ -11229,7 +11257,7 @@
         "page": "2649",
         "lineNumber": "8",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was he, in fact, successful in doing that?"
     },
     {
@@ -11243,7 +11271,7 @@
         "page": "2649",
         "lineNumber": "10",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, I’d like to direct your attention now to 2015. Were you aware at some point that Mr. Trump announced that he was running for President?"
     },
     {
@@ -11257,7 +11285,7 @@
         "page": "2649",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And sometime after he announced that he was running for President, did someone reach out to you again about telling your account of what happened with Mr. Trump?"
     },
     {
@@ -11271,7 +11299,7 @@
         "page": "2649",
         "lineNumber": "18",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Who was that?"
     },
     {
@@ -11285,7 +11313,7 @@
         "page": "2649",
         "lineNumber": "20",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did Gina Rodriguez reach out to you?"
     },
     {
@@ -11299,7 +11327,7 @@
         "page": "2649",
         "lineNumber": "22",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did she suggest that she could do?"
     },
     {
@@ -11313,7 +11341,7 @@
         "page": "2649",
         "lineNumber": "24",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did she suggest that, in terms of selling the story, that money could be made to —— paid to do this?"
     },
     {
@@ -11327,7 +11355,7 @@
         "page": "2650",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did she say that she could make money, as well?"
     },
     {
@@ -11341,7 +11369,7 @@
         "page": "2650",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did there come a time that you had a conversation with a friend of yours who was also an attorney ——"
     },
     {
@@ -11355,7 +11383,7 @@
         "page": "2650",
         "lineNumber": "7",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "—— about whether you should publicly tell your story?"
     },
     {
@@ -11376,7 +11404,7 @@
         "page": "2650",
         "lineNumber": "10",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Without telling us the substance —— withdrawn. Did you have a conversation with a friend of yours who is an attorney?"
     },
     {
@@ -11390,7 +11418,7 @@
         "page": "2650",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And this particular friend who you had a discussion with, were you seeking legal advice from him?"
     },
     {
@@ -11404,7 +11432,7 @@
         "page": "2650",
         "lineNumber": "18",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you decide, based on a conversation with him, about what you should do about getting the details of your story out?"
     },
     {
@@ -11446,7 +11474,7 @@
         "page": "2651",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did your conversation with him guide your decision to have your story documented or out there in some way?"
     },
     {
@@ -11460,7 +11488,7 @@
         "page": "2651",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did your conversation with him and what happened to you in the parking lot in Las Vegas in 2011 guide your decision about telling your story as a way to make sure that it was documented and out there?"
     },
     {
@@ -11474,7 +11502,7 @@
         "page": "2651",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you have an understanding at that time or belief that by doing that, it would keep you safer in some way?"
     },
     {
@@ -11495,7 +11523,7 @@
         "page": "2651",
         "lineNumber": "18",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Well, did it guide your decision, in general, about what to do?"
     },
     {
@@ -11509,7 +11537,7 @@
         "page": "2651",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you decide to let Gina try to sell your story to some news outlets?"
     },
     {
@@ -11523,7 +11551,7 @@
         "page": "2651",
         "lineNumber": "24",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you recall, in early October of 2016, the Access Hollywood tape coming out publicly?"
     },
     {
@@ -11537,7 +11565,7 @@
         "page": "2652",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "You know what that is? You’re aware of what that is?"
     },
     {
@@ -11551,7 +11579,7 @@
         "page": "2652",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Before the Access Hollywood tape came out, was Gina trying to sell your story to news outlets?"
     },
     {
@@ -11565,7 +11593,7 @@
         "page": "2652",
         "lineNumber": "8",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was she successful in doing so before that Access Hollywood tape came out?"
     },
     {
@@ -11579,7 +11607,7 @@
         "page": "2652",
         "lineNumber": "11",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, after the Access Hollywood tape came out, did Gina have some conversations with you about her ability to try to sell the story after it came out?"
     },
     {
@@ -11593,7 +11621,7 @@
         "page": "2652",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What, in substance, did she tell you?"
     },
     {
@@ -11621,7 +11649,7 @@
         "page": "2652",
         "lineNumber": "19",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you continue to agree at that time that she could sell your story to news outlets?"
     },
     {
@@ -11635,7 +11663,7 @@
         "page": "2652",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What you described for the jury previously about your encounter with Mr. Trump in the hotel room, your seeing him on a number of other occasions, the telephone calls from Mr. Trump to you, is that, generally, what you would have described to the news outlets at that time, in October of 2016, if you had been thoroughly interviewed?"
     },
     {
@@ -11656,7 +11684,7 @@
         "page": "2653",
         "lineNumber": "6",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "At that point, in October of 2016, was Gina’s focus and your focus on selling the story to the news outlets?"
     },
     {
@@ -11670,7 +11698,7 @@
         "page": "2653",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you have any intention of approaching either Mr. Trump or Michael Cohen, his attorney, to have them pay for your story?"
     },
     {
@@ -11684,7 +11712,7 @@
         "page": "2653",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "That was, in part, guided by your experience in 2011 and your conversations with ——"
     },
     {
@@ -11698,7 +11726,7 @@
         "page": "2653",
         "lineNumber": "17",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did there come a time that you learned, in approximately October of 2016, that Donald Trump and Michael Cohen were interested in buying the rights to your account?"
     },
     {
@@ -11712,7 +11740,7 @@
         "page": "2653",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And how did you learn that?"
     },
     {
@@ -11726,7 +11754,7 @@
         "page": "2653",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, approximately when was that, that Gina told you that, that there was interest there in paying for your story?"
     },
     {
@@ -11740,7 +11768,7 @@
         "page": "2654",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, it was after release of the Access Hollywood tape?"
     },
     {
@@ -11754,7 +11782,7 @@
         "page": "2654",
         "lineNumber": "5",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, who did you understand —— when Gina told you that, who did you understand that Michael Cohen was representing at the time?"
     },
     {
@@ -11768,7 +11796,7 @@
         "page": "2654",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you understand at the time that they would pay for your story, for you not to release it publicly?"
     },
     {
@@ -11796,7 +11824,7 @@
         "page": "2654",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you understand they were interested in paying you for?"
     },
     {
@@ -11824,7 +11852,7 @@
         "page": "2654",
         "lineNumber": "24",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you —— were you told by Ms. Rodriguez how much, in total, would be paid from Donald Trump and Michael Cohen to purchase the rights to your story?"
     },
     {
@@ -11838,7 +11866,7 @@
         "page": "2655",
         "lineNumber": "3",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And how did you feel about that $130,000 at the time?"
     },
     {
@@ -11852,7 +11880,7 @@
         "page": "2655",
         "lineNumber": "6",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Were you happy ——"
     },
     {
@@ -11866,7 +11894,7 @@
         "page": "2655",
         "lineNumber": "10",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you —— did you negotiate that number at all?"
     },
     {
@@ -11880,7 +11908,7 @@
         "page": "2655",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why didn’t you ask for more money?"
     },
     {
@@ -11894,7 +11922,7 @@
         "page": "2655",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was your financial outlook in that time, in October of 2016, relative to earlier years?"
     },
     {
@@ -11908,7 +11936,7 @@
         "page": "2655",
         "lineNumber": "17",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "I’m sorry?"
     },
     {
@@ -11922,7 +11950,7 @@
         "page": "2655",
         "lineNumber": "25",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Let me direct your attention to October 10, 2016. Were you presented on that date with an Agreement to sign at that time?"
     },
     {
@@ -11936,7 +11964,7 @@
         "page": "2656",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Tell us how that occurred and what sort of an Agreement."
     },
     {
@@ -11950,7 +11978,7 @@
         "page": "2656",
         "lineNumber": "7",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Explain to the jury what an \"NDA\" is, what your understanding of an NDA is."
     },
     {
@@ -11964,7 +11992,7 @@
         "page": "2656",
         "lineNumber": "11",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And, who did you understand was the beneficiary of that NDA?"
     },
     {
@@ -11978,7 +12006,7 @@
         "page": "2656",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Who was representing him at the time?"
     },
     {
@@ -12020,7 +12048,7 @@
         "page": "2656",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Can you read that? First of all, can you tell us who the email is from and who it’s to?"
     },
     {
@@ -12034,7 +12062,7 @@
         "page": "2657",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Who was Keith Davidson in relation to you at this point?"
     },
     {
@@ -12048,7 +12076,7 @@
         "page": "2657",
         "lineNumber": "7",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you understand he would handle this NDA for you?"
     },
     {
@@ -12062,7 +12090,7 @@
         "page": "2657",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Who was the email —— you said it’s from Keith Davidson to who?"
     },
     {
@@ -12076,7 +12104,7 @@
         "page": "2657",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What does it say in the \"To\" line?"
     },
     {
@@ -12090,7 +12118,7 @@
         "page": "2657",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What does the subject line say?"
     },
     {
@@ -12104,7 +12132,7 @@
         "page": "2657",
         "lineNumber": "17",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Can you read, please, the email for us?"
     },
     {
@@ -12118,7 +12146,7 @@
         "page": "2657",
         "lineNumber": "19",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "From Michael."
     },
     {
@@ -12132,7 +12160,7 @@
         "page": "2657",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Yes, please."
     },
     {
@@ -12146,7 +12174,7 @@
         "page": "2658",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you express dissatisfaction and want this signed and done by October 14th?"
     },
     {
@@ -12160,7 +12188,7 @@
         "page": "2658",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why was that?"
     },
     {
@@ -12174,7 +12202,7 @@
         "page": "2658",
         "lineNumber": "20",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "When you say \"before the nomination\", was Mr. Trump already the nominee at that point of the Republican Party?"
     },
     {
@@ -12188,7 +12216,7 @@
         "page": "2658",
         "lineNumber": "25",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "That’s okay. What did you understand were the general terms of this Confidential Settlement Agreement or Non—Disclosure Agreement?"
     },
     {
@@ -12202,7 +12230,7 @@
         "page": "2659",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you understand at this point about what the general terms were of this agreement?"
     },
     {
@@ -12216,7 +12244,7 @@
         "page": "2659",
         "lineNumber": "11",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And that you would get paid the sum of $130,000?"
     },
     {
@@ -12230,7 +12258,7 @@
         "page": "2659",
         "lineNumber": "13",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Was there —— do you remember if there was a liquidated damages or damages clause if you breached ——"
     },
     {
@@ -12258,7 +12286,7 @@
         "page": "2659",
         "lineNumber": "21",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Do you recognize this Side Letter Agreement?"
     },
     {
@@ -12272,7 +12300,7 @@
         "page": "2659",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you —— what was your understanding of the purpose of this Side Letter Agreement?"
     },
     {
@@ -12286,7 +12314,7 @@
         "page": "2660",
         "lineNumber": "1",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What do you mean by that? Were there actual names disclosed in the NBA?"
     },
     {
@@ -12300,7 +12328,7 @@
         "page": "2660",
         "lineNumber": "9",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "\"David Dennison\"?"
     },
     {
@@ -12328,7 +12356,7 @@
         "page": "2660",
         "lineNumber": "16",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Is that your signature there on the line for \"Peggy Peterson a/k/a Stephanie Gregory Clifford a/k/a Stormy Daniels\"?"
     },
     {
@@ -12342,7 +12370,7 @@
         "page": "2660",
         "lineNumber": "20",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And how did you sign it?"
     },
     {
@@ -12356,7 +12384,7 @@
         "page": "2660",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What's the date that you signed it?"
     },
     {
@@ -12370,7 +12398,7 @@
         "page": "2660",
         "lineNumber": "25",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And you signed it with your name as \"Peggy Peterson\"; is that right?"
     },
     {
@@ -12384,7 +12412,7 @@
         "page": "2661",
         "lineNumber": "3",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Now, if we could look —— did you also initial this agreement with initials \"PP\" for Peggy Peterson?"
     },
     {
@@ -12426,7 +12454,7 @@
         "page": "2661",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Did you initial it \"PP\"?"
     },
     {
@@ -12440,7 +12468,7 @@
         "page": "2661",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "As far as you recall, did you initial various pages as \"Peggy Peterson\"?"
     },
     {
@@ -12468,7 +12496,7 @@
         "page": "2661",
         "lineNumber": "20",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "This is Page 10 of the Settlement Agreement. Do you see a list of names there?"
     },
     {
@@ -12482,7 +12510,7 @@
         "page": "2661",
         "lineNumber": "23",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What were those list of names? Did you write in those list of names?"
     },
     {
@@ -12496,7 +12524,7 @@
         "page": "2662",
         "lineNumber": "1",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Why did you write them in?"
     },
     {
@@ -12510,7 +12538,7 @@
         "page": "2662",
         "lineNumber": "4",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Those were some of the people that you told?"
     },
     {
@@ -12545,7 +12573,7 @@
         "page": "2662",
         "lineNumber": "11",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "This is the Non—Disclosure Agreement or the Settlement Agreement; and did you sign it?"
     },
     {
@@ -12559,7 +12587,7 @@
         "page": "2662",
         "lineNumber": "14",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you sign it as?"
     },
     {
@@ -12573,7 +12601,7 @@
         "page": "2662",
         "lineNumber": "16",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And why did you not put your real name there?"
     },
     {
@@ -12587,7 +12615,7 @@
         "page": "2662",
         "lineNumber": "19",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "After you signed the Agreement, the Side Letter Agreement, and the Settlement Agreement, otherwise known as a Non—Disclosure Agreement, did Gina Rodriguez, generally, just keep you updated on the progress of the deal?"
     },
     {
@@ -12601,7 +12629,7 @@
         "page": "2662",
         "lineNumber": "24",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And did you get paid the $130,000 on October 14, 2016, as was disclosed in that email?"
     },
     {
@@ -12615,7 +12643,7 @@
         "page": "2663",
         "lineNumber": "2",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What did you understand about the reason for the delay? What was happening?"
     },
     {
@@ -12629,7 +12657,7 @@
         "page": "2663",
         "lineNumber": "6",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "And what is your understanding about who kept making excuses?"
     },
     {
@@ -12643,7 +12671,7 @@
         "page": "2663",
         "lineNumber": "10",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "That was your understanding?"
     },
     {
@@ -12657,7 +12685,7 @@
         "page": "2663",
         "lineNumber": "12",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Because you understood Michael Cohen represented Mr. Trump?"
     },
     {
@@ -12671,7 +12699,7 @@
         "page": "2663",
         "lineNumber": "15",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Were you concerned about why these excuses were being made and there was a delay in the payment?"
     },
     {
@@ -12685,7 +12713,7 @@
         "page": "2663",
         "lineNumber": "18",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "What was your concern?"
     },
     {
@@ -12699,7 +12727,7 @@
         "page": "2663",
         "lineNumber": "25",
         "character": "Q",
-        "voice": "Rachel",
+        "voice": "Serena",
         "text": "Let me direct your attention now ——"
     },
     {
@@ -16764,6 +16792,7 @@
         "page": "2717",
         "lineNumber": "2",
         "character": "MS. HOEEINGER:",
+        "voice": "Rachel",
         "text": "Your Honor, may we approach for a moment?"
     },
     {
@@ -16784,6 +16813,7 @@
         "page": "2717",
         "lineNumber": "7",
         "character": "MS. HOEFINGER:",
+        "voice": "Rachel",
         "text": "I just want to be inordinately careful. I'm about to ask what the effect, if any, it had on her. You previously ruled we are allowed to elicit information from subjects from these Truths or Tweets."
     },
     {
@@ -22296,7 +22326,14 @@
     {
         "page": "2767",
         "lineNumber": "20",
-        "character": "CONTINUED CROSS EXAMINATION BY MS. NECHELES: O. Before the break just a few minutes ago we talked about an E! Online article; do you recall that?"
+        "character": "CONTINUED CROSS EXAMINATION BY MS. NECHELES:"
+    },
+    {
+        "page": "2767",
+        "lineNumber": "22",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Before the break just a few minutes ago we talked about an E! Online article; do you recall that?"
     },
     {
         "page": "2767",
@@ -22309,6 +22346,7 @@
         "page": "2767",
         "lineNumber": "25",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And you said that you know you were quoted in there as saying that the story is bullshit; right?"
     },
     {
@@ -22322,6 +22360,7 @@
         "page": "2768",
         "lineNumber": "3",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You said what you meant by that, you weren't denying that had you sex with him, you were discussing this is a bullshit thing to do; right?"
     },
     {
@@ -22349,6 +22388,7 @@
         "page": "2768",
         "lineNumber": "9",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Do you remember saying to E! Online that you vehemently deny the story about you and President Trump hooking up after Trump had played the golfing event and then meeting up multiple times after that?"
     },
     {
@@ -22376,6 +22416,7 @@
         "page": "2768",
         "lineNumber": "18",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Am I correct that you previously said that you vehemently deny the story about the two of you hooking up after Trump had played in a golfing event and vehemently denied meeting up multiple times after that?"
     },
     {
@@ -22389,6 +22430,7 @@
         "page": "2768",
         "lineNumber": "24",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You're saying that this is not true; that's your testimony?"
     },
     {
@@ -22402,6 +22444,7 @@
         "page": "2769",
         "lineNumber": "4",
         "character": "Q.",
+        "voice": "Freya",
         "text": "So you're saying where the article says you vehemently deny this, the article is false; is that what you are saying?"
     },
     {
@@ -22415,6 +22458,7 @@
         "page": "2769",
         "lineNumber": "7",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Turning back to —— in 2011, you were denying to thedirty.com that you had sex with President Trump?"
     },
     {
@@ -22428,6 +22472,7 @@
         "page": "2769",
         "lineNumber": "14",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Well, your lawyer did?"
     },
     {
@@ -22441,6 +22486,7 @@
         "page": "2769",
         "lineNumber": "18",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Keith Davidson was your lawyer?"
     },
     {
@@ -22454,6 +22500,7 @@
         "page": "2769",
         "lineNumber": "22",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You asked him —— you authorized him to deny that story was true and to get it taken down; right?"
     },
     {
@@ -22467,6 +22514,7 @@
         "page": "2770",
         "lineNumber": "1",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Now, in 2016, you claim you have been threatened and you were afraid for your life; right?"
     },
     {
@@ -22480,6 +22528,7 @@
         "page": "2770",
         "lineNumber": "4",
         "character": "Q.",
+        "voice": "Freya",
         "text": "But at that point —— and were you afraid for your life, you had been told, \"Don't talk any more about Trump otherwise your life and your baby's life will be in danger;\" right?"
     },
     {
@@ -22493,6 +22542,7 @@
         "page": "2770",
         "lineNumber": "8",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And so you decided, well, I'm going to sell my story; right?"
     },
     {
@@ -22506,6 +22556,7 @@
         "page": "2770",
         "lineNumber": "12",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You were given advice, according to you, that instead of staying quiet because your life was threatened, instead, the best thing to do was to go out and sell your story; right?"
     },
     {
@@ -22519,6 +22570,7 @@
         "page": "2770",
         "lineNumber": "20",
         "character": "Q.",
+        "voice": "Freya",
         "text": "In 2011, your story wasn't worth much money?"
     },
     {
@@ -22532,6 +22584,7 @@
         "page": "2770",
         "lineNumber": "23",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You turned down or tried to get $15,000. You couldn't get that?"
     },
     {
@@ -22545,6 +22598,7 @@
         "page": "2771",
         "lineNumber": "1",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Now, in 2016, you say that you were afraid, but the story was worth a lot of money for you now; right?"
     },
     {
@@ -22558,6 +22612,7 @@
         "page": "2771",
         "lineNumber": "4",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And you then had Gina Rodriguez go out and try to sell the story; right?"
     },
     {
@@ -22571,6 +22626,7 @@
         "page": "2771",
         "lineNumber": "9",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And you didn’t give a free press conference; did you?"
     },
     {
@@ -22584,6 +22640,7 @@
         "page": "2771",
         "lineNumber": "11",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You were looking to get —— extort money from President Trump; right?"
     },
     {
@@ -22597,6 +22654,7 @@
         "page": "2771",
         "lineNumber": "14",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Well, that’s what you did; right?"
     },
     {
@@ -22610,6 +22668,7 @@
         "page": "2771",
         "lineNumber": "16",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And just when we’re talking about your fear, the fear, your supposed fear that you supposedly felt is totally based on the supposed incident that took place in 2011 that you never told anybody about; right?"
     },
     {
@@ -22623,6 +22682,7 @@
         "page": "2771",
         "lineNumber": "22",
         "character": "Q.",
+        "voice": "Freya",
         "text": "When you say this fear that you say you were under in 2016 is based on the supposed incident that supposedly took place five years earlier, that you still hadn't told anybody publicly about; right?"
     },
     {
@@ -22636,6 +22696,7 @@
         "page": "2772",
         "lineNumber": "3",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You hadn't told your husband; right?"
     },
     {
@@ -22649,6 +22710,7 @@
         "page": "2772",
         "lineNumber": "5",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And then, so, because you had that fear, you decided to do exactly the opposite of what that person had told to you do; right?"
     },
     {
@@ -22662,6 +22724,7 @@
         "page": "2772",
         "lineNumber": "9",
         "character": "Q.",
+        "voice": "Freya",
         "text": "That supposed guy who showed up in that parking lot?"
     },
     {
@@ -22675,6 +22738,7 @@
         "page": "2772",
         "lineNumber": "11",
         "character": "Q.",
+        "voice": "Freya",
         "text": "So you weren't really very scared; were you?"
     },
     {
@@ -22688,6 +22752,7 @@
         "page": "2772",
         "lineNumber": "15",
         "character": "Q.",
+        "voice": "Freya",
         "text": "The truth is, you saw your opportunity to make it known, you had Gina Rodriguez try to sell your story to the National Enquirer?"
     },
     {
@@ -22701,6 +22766,7 @@
         "page": "2772",
         "lineNumber": "21",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You didn't do any interviews for free at that point?"
     },
     {
@@ -22714,6 +22780,7 @@
         "page": "2772",
         "lineNumber": "23",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And I want to show you what is in evidence as People's Exhibit 117A, which are texts between Gina Rodriguez and Dylan Howard of the National Enquirer."
     },
     {
@@ -22734,6 +22801,7 @@
         "page": "2773",
         "lineNumber": "5",
         "character": "Q.",
+        "voice": "Freya",
         "text": "This is in evidence of texts between Gina Rodriguez and Dylan Howard. Do you see in the first box, it is dated June 28, 2016?"
     },
     {
@@ -22747,6 +22815,7 @@
         "page": "2773",
         "lineNumber": "9",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And Gina —— and you see where it says \"from G?\""
     },
     {
@@ -22760,6 +22829,7 @@
         "page": "2773",
         "lineNumber": "11",
         "character": "Q.",
+        "voice": "Freya",
         "text": "There is a redaction?"
     },
     {
@@ -22773,6 +22843,7 @@
         "page": "2773",
         "lineNumber": "13",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Do you see that? I represent to you that is Gina Rodriguez's email address that has been redacted out. Am I correct that she says \"Stormy Daniels\" in the next box, she says, \"I have her?\""
     },
     {
@@ -22793,6 +22864,7 @@
         "page": "2773",
         "lineNumber": "22",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And then Dylan Howard in the next box asks, \"Is she ready to talk; right?\""
     },
     {
@@ -22806,6 +22878,7 @@
         "page": "2773",
         "lineNumber": "25",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And it says, \"I thought she denounced it previously,\" in the next box; right?"
     },
     {
@@ -22819,6 +22892,7 @@
         "page": "2774",
         "lineNumber": "4",
         "character": "Q.",
+        "voice": "Freya",
         "text": "But, you had, in fact, denounced it previously; right?"
     },
     {
@@ -22832,6 +22906,7 @@
         "page": "2774",
         "lineNumber": "7",
         "character": "Q.",
+        "voice": "Freya",
         "text": "I am not asking you about it."
     },
     {
@@ -22852,6 +22927,7 @@
         "page": "2774",
         "lineNumber": "11",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Had you denounced it previously?"
     },
     {
@@ -22865,6 +22941,7 @@
         "page": "2774",
         "lineNumber": "13",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Did you denounce the story that you had said that you had not had sex, \"Though she denounced it previously?\""
     },
     {
@@ -22878,6 +22955,7 @@
         "page": "2774",
         "lineNumber": "17",
         "character": "Q.",
+        "voice": "Freya",
         "text": "When you look at the next box. She said —— from Gina Rodriguez, she said: \"She will do it under two conditions.\" If you can go to the next box. And then, \"She doesn't want to go on record about it, but will tell her story through a source.\" It says: \"She had sex with him. She wants $100,000.\" Do you see that?"
     },
     {
@@ -22891,6 +22969,7 @@
         "page": "2774",
         "lineNumber": "25",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And that was in June of 2016; correct?"
     },
     {
@@ -22904,6 +22983,7 @@
         "page": "2775",
         "lineNumber": "2",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And President Trump was running for President of the United States at that point, correct?"
     },
     {
@@ -22917,6 +22997,7 @@
         "page": "2775",
         "lineNumber": "5",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And you had authorized Gina Rodriguez to try to sell your story; right?"
     },
     {
@@ -22930,6 +23011,7 @@
         "page": "2775",
         "lineNumber": "8",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And you wanted to do it through a source; right?"
     },
     {
@@ -22943,6 +23025,7 @@
         "page": "2775",
         "lineNumber": "16",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Putting aside the text. I am asking you a question. My question to you is: In June of 2016, had you authorized Gina David to sell your story under the condition you would tell it through a source?"
     },
     {
@@ -22956,6 +23039,7 @@
         "page": "2775",
         "lineNumber": "22",
         "character": "Q.",
+        "voice": "Freya",
         "text": "One of your conditions was that you were telling it through a source, and the other was that you get $100,000; right?"
     },
     {
@@ -22969,6 +23053,7 @@
         "page": "2776",
         "lineNumber": "1",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You don't remember those being your conditions?"
     },
     {
@@ -22982,6 +23067,7 @@
         "page": "2776",
         "lineNumber": "4",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Okay. But you didn't do the press conference?"
     },
     {
@@ -22995,6 +23081,7 @@
         "page": "2776",
         "lineNumber": "9",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You wanted to get some money?"
     },
     {
@@ -23008,6 +23095,7 @@
         "page": "2776",
         "lineNumber": "11",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You wanted to do it anonymously; right?"
     },
     {
@@ -23021,6 +23109,7 @@
         "page": "2776",
         "lineNumber": "13",
         "character": "Q.",
+        "voice": "Freya",
         "text": "You said Gina Rodriguez's statement there was false?"
     },
     {
@@ -23048,6 +23137,7 @@
         "page": "2776",
         "lineNumber": "18",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Look at the second box from the bottom. And you see it says on the top box: \"What happened with Stormy Daniels' interview on Trump?\" And then Dylan Howard responds: \"Let's discuss this week.\" And Gina says: \"Okay, she's asking.\" This is in July of 2016; correct?"
     },
     {
@@ -23061,6 +23151,7 @@
         "page": "2776",
         "lineNumber": "25",
         "character": "Q.",
+        "voice": "Freya",
         "text": "Were you, in fact, pushing again that you wanted to sell your story?"
     },
     {
@@ -23074,6 +23165,7 @@
         "page": "2777",
         "lineNumber": "3",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And that was in July of 2016; right?"
     },
     {
@@ -23087,6 +23179,7 @@
         "page": "2777",
         "lineNumber": "5",
         "character": "Q.",
+        "voice": "Freya",
         "text": "And if you turn to Page 6."
     },
     {

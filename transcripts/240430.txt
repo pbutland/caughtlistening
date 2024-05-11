@@ -72,6 +72,8 @@ THE COURT: Good morning, jurors. Welcome back. I hope you had a good weekend. Pe
 
 MS. MANGOLD: Thank you, your Honor.
 
+CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
+
 Q Good morning, Mr. Farro.
 
 A Good morning.
@@ -1152,6 +1154,8 @@ THE COURT: Thank you. Any cross?
 
 MR. BLANCHE: Thank you, your Honor.
 
+CROSS EXAMINATION BY MR. BLANCHE:
+
 Q Good morning. How are you?
 
 A Good morning, sir.
@@ -1828,6 +1832,8 @@ THE COURT: Any redirect?
 
 MS. MANGOLD: Just a little bit, your Honor.
 
+REDIRECT EXAMINATION BY MS . MANGOLD:
+
 Q Now, Mr. Farro, you just testified that at a certain point the bank took away the client relationship from you and that Mr. Cohen's accounts were largely closed at First Republic Bank, is that correct?
 
 A The accounts that we could close were closed, yes.
@@ -1857,6 +1863,8 @@ MS. MANGOLD: No further questions.
 THE COURT: Anything else, Mr. Blanche?
 
 MR. BLANCHE: Just very brief.
+
+RECROSS—EXAMINATION BY MR. BLANCHE:
 
 Q So, just to understand, were you part of the decision to close the accounts that could be closed with Mr. Cohen?
 
@@ -2045,6 +2053,8 @@ COURT OFFICER: County of residence?
 THE WITNESS: Thibodaux County, Louisiana.
 
 THE COURT: Good morning, Doctor. You may inquire.
+
+DIRECT EXAMINATION BY MS . MANGOLD:
 
 Q. Good morning, Dr. Browning. I am going to ask you to speak slowly into the microphone in front of you so the Court Reporter can take down what you are saying. Can you tell everyone where you work?
 
@@ -2315,6 +2325,8 @@ COURT OFFICER: Have a seat. Name and county of residence.
 THE WITNESS: Philip Thompson, Montgomery County, Texas.
 
 THE COURT: Good morning. You may inquire.
+
+DIRECT EXAMINATION BY MS . MANGOLD:
 
 Q. Good morning, Mr. Thompson.
 
@@ -2857,6 +2869,8 @@ THE WITNESS: Los Angeles County, California.
 THE COURT: Good afternoon.
 
 MR. STEINGLASS: Thank you, Judge.
+
+DIRECT EXAMINATION BY MR . STE INGLASS :
 
 Q. Good afternoon, Mr. Davidson.
 
@@ -3918,6 +3932,8 @@ THE CLERK: Continuing case on trial. People v. Donald J. Trump. All parties and 
 
 MR. STEINGLASS: Thank you, Judge.
 
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q Good afternoon, Mr. Howard [sic]. I just want to put —— that's the second time. Good afternoon, Mr. Davidson. I want to show you part of a text exchange we were looking at before lunch. This is from People's 176A, Lines —— Page 6, Lines 292 to 293.
 
 AUDIO DESCRIPTION: whereupon, exhibits are shown on the screens throughout the following testimony.
@@ -4912,6 +4928,8 @@ AUDIO DESCRIPTION: whereupon, Senior Court Reporter Theresa Magniccari relieves 
 
 AUDIO DESCRIPTION: The following proceedings are continued from previous page.
 
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q. And is what was the purpose of using a side letter agreement with this particular deal?
 
 A. The Side Letter Agreement —— the purpose for using a Side Letter Agreement, it uses like code words that are used in a military—like operation, so it ensures the further confidentiality in case a fully executed contract was lost or stolen. So even if that occurred, you wouldn't lose the confidential nature of the document. So the Side Letter Agreement is typically used in these cases to identify the identity of the true parties involved. And it's really for attorneys' eyes only.
@@ -5238,6 +5256,8 @@ AUDIO DESCRIPTION: Jury entering courtroom.
 
 THE COURT: Continuing case on trial, People versus Donald J. Trump. All parties and all jurors are present.
 
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q. Good afternoon again, Mr. Davidson.
 
 A. Good afternoon.
@@ -5368,6 +5388,8 @@ THE COURT: Your objection is sustained. Can you please read back the last questi
 
 AUDIO DESCRIPTION: Whereupon, the Official Court Reporter read back the referred—to—question.
 
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
+
 Q. Mr. Davidson, have you previously testified about this point in the Grand Jury in this case?
 
 MR. BOVE: Objection.
@@ -5403,6 +5425,8 @@ THE COURT: That's true.
 AUDIO DESCRIPTION: whereupon, the following proceedings were held in open court:
 
 THE COURT: Okay. The objection is sustained.
+
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q. Mr. Davidson, I notice when I asked you that last question about what your understanding was about who was going to be ultimately responsible, you paused before you gave your answer; is that true?
 
@@ -5499,6 +5523,8 @@ THE COURT: I agree with, Mr. Bove. It's time to move on.
 MR. STEINGLASS: Okay.
 
 AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
+
+CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q. Going back to Page 11. I am going to blow up some texts in the interim between 507 and 512. This is again People's 176 in evidence. Did these texts —— actually, can we get the few texts that happened right before it as well, please. So at the top of the page, second down, we see the line you have already told us, "Because Trump is tight;" is that right, from Dylan?
 

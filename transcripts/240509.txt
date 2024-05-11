@@ -1338,50 +1338,6 @@ AUDIO DESCRIPTION: Whereupon, Defense Exhibit J—24 is received in evidence.
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
 
 MS. NECHELES: If we can turn back to Page 2 and blow that up. Page 2 first.
@@ -2190,7 +2146,9 @@ A Uh—huh.
 
 Q That was the conversation about dinner; right?
 
-A Yes. Where we don't talk about receiving food. What I ate. Which I definitely would have talked about. O Okay. But you said you had dinner in the room; right?
+A Yes. Where we don't talk about receiving food. What I ate. Which I definitely would have talked about.
+
+O Okay. But you said you had dinner in the room; right?
 
 A I went up to his room to have dinner, yes. We did not have any food. And I did not eat any food.
 
@@ -2853,30 +2811,6 @@ MS . NECHELES: NO .
 THE COURT: All right. I will see you in about 15 minutes.
 
 AUDIO DESCRIPTION: Recess taken, after which time, Principal Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky as the official court reporter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -4054,14 +3988,6 @@ A Yes.
 
 AUDIO DESCRIPTION: Whereupon, Principal Court Reporter Susan Pearce—Bates was relieved by Senior Court Reporter Theresa Magniccari.
 
-
-
-
-
-
-
-
-
 AUDIO DESCRIPTION: Whereupon, proceedings were continued from previous page:
 
 CONTINUED DIRECT EXAMINATION BY MS . MANGOLD:
@@ -4252,7 +4178,9 @@ A. Yes.
 
 Q. And based on your 11 years of experience working at The Trump Organization, do you know how The Trump Organization documents are created and saved?
 
-A. Yes. O. Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?
+A. Yes.
+
+O. Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?
 
 A. Yes.
 
@@ -6134,7 +6062,9 @@ A. Again, it depended. I recall times he would be on the phone late into the nig
 
 Q. How did you call the President at work? Can anybody call the President of the United States. Is this a more complicated process?
 
-A. There is a rather complicated process. If the President is in the Oval Office and someone calls in and they had my desk phone number, they could just call that number. If the President was available, I would patch them through. If someone was calling in, John Smith, you know, off the street and just calling 1—800 White House, obviously, they wouldn’t be patched through to the Oval Office. But there were operators that took calls and then kind of determined if that person was someone that needed to get patched through either to myself or other members of the President’s staff. There were also calls made by the situation room. Calls that were more secure that might need to be on a secure line. People might call through the situation room. O. Once the White House operators had screened calls, did you see the calls that came to you after that?
+A. There is a rather complicated process. If the President is in the Oval Office and someone calls in and they had my desk phone number, they could just call that number. If the President was available, I would patch them through. If someone was calling in, John Smith, you know, off the street and just calling 1—800 White House, obviously, they wouldn’t be patched through to the Oval Office. But there were operators that took calls and then kind of determined if that person was someone that needed to get patched through either to myself or other members of the President’s staff. There were also calls made by the situation room. Calls that were more secure that might need to be on a secure line. People might call through the situation room.
+
+O. Once the White House operators had screened calls, did you see the calls that came to you after that?
 
 A. I am sorry.
 
@@ -6418,39 +6348,7 @@ Q. And is that an email sent from your White House email address?
 
 A. Yes.
 
-
-
-
-
-
-
 AUDIO DESCRIPTION: Whereupon, Theresa Magniccari, Senior Court Reporter s relieved by Laurie Eisenberg as Senior Court Reporter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Q And is that sent to Rhona Graff's Trump Organization address?
 
@@ -7616,10 +7514,6 @@ A Yes. Um, sometimes I would look down on my phone, and if the red light was on,
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the next page.
 
-
-
-
-
 AUDIO DESCRIPTION: The following proceedings are continued from the following page.
 
 CONTINUED CROSS—EXAMINATION BY MS. NECHELES:
@@ -7829,28 +7723,3 @@ MR. BLANCHE: But it does, your Honor.
 THE COURT: No, it doesn't. I am making the ruling, and I decide whether it does or it doesn't. I'm telling you, it doesn't. Please have a seat so that I can render my decision. Following your motion for a mistrial on Tuesday, I went back to chambers and I pulled out my decisions on both motions in limine; the omnibus decision. I also looked at the transcript from Tuesday's proceedings. I looked at that yesterday. And I went back to just make sure that everyone had followed my guidelines and that there were no inconsistencies, and to just make sure that no one had violated my rulings. After having done so, after reading, again, both sets of motions, both decisions and the motions in limine, the Omnibus Motion and the transcripts, I came away satisfied that —— let me backup. You will recall in my decisions, both in the motions in limine and the omnibus motions, that while I did decide on many of the issues, there were some that I said we are going to have to see how the evidence comes in. And at every trial, the evidence comes in in a different way and it's very, very difficult to anticipate. So sometimes a Court has to change its rulings. Sometimes there has to be a certain amount of flexibility. Why do I say that now? Because in going back to the very opening statements, and I'm looking at Pages 897, 905, 906. Mr. Blanche, in your opening statement, you deny that there was ever a sexual encounter between Stormy Daniels and the defendant. And, again, I direct you to Page 897. Your denial puts the jury in a position of having to choose who they believe: Donald Trump, who denies there was an encounter, or Stormy Daniels, who claims that there was. Although the People do not have to prove that a sexual encounter actually did occur, they do have the right to rehabilitate Ms. Daniels' credibility and to corroborate her story, which was immediately attacked on opening statements. The more specificity Ms. Daniels can provide about the encounter, the more the jury can weigh to determine whether the encounter did occur and, if so, whether they choose to credit Ms. Daniels' story. Now, there is more to say about the details. You will recall that I commented on the details on Tuesday. And I will get to that in a minute. 1 direct your attention to pages 2508 and 2511 of the transcript, having to do with Ms. Daniels' story, but we continue. Ms. Necheles claimed when you made your motion for a mistrial that she did not object more or earlier or more frequently because she believed that my ruling at the bench had prevented her from doing so. That's not correct. In fact, if you look at the transcript, you will see that Ms. Necheles actually objected very early on. Look at Page 2592. So she can't say that she didn't object because of my ruling when, in fact, she did object at 2592. However, there were many times, not once or twice, but many times when Ms. Necheles could have objected, but didn't. And, here, I will direct your attention to Pages 2598 and 2610. Now, after the Court sua sponte objects, and that objection had to do with the reference to the trailer park, I felt that wasn't necessary. I felt that there was a certain amount of prejudice to that. There was no objection, so I sua sponte objected. I didn't want that in. And then I struck it from the record. Following the Court's own objection, Ms. Necheles then began to object with some frequency. And virtually every single one of her objections was sustained. And every one of her applications that the answers be stricken from the record were, in fact, stricken from the record. And I direct your attention now to Pages 2612 through 2615 for that. Yet, for some unexplained reason, which I still don't understand, there was no objection to certain testimony, which was later used in the motion for a mistrial on Tuesday, and again used today. For example, the mention of the condom. I agree that shouldn't have come out. I wished those questions hadn't been asked, and I wished those answers hadn't been given. But for the life of me, I don't know why Ms. Necheles didn't object. She had just made about ten objections, most of which were sustained. Why on earth she wouldn't object to the mention of a condom? I don't understand. We continue. Ms. Daniels made clear in her testimony, and I direct you now to Page 2611, that she was not drunk or drugged or in any way coerced. Again, this is Page 2611. And for some reason, I don't know why, you went into it ad nauseam on cross—examination. I had sustained any objections related to that. The witness herself had backed off and said, hey, listen, I don't mean to suggest for a second that this was coerced or forced in any way. She backtracked immediately when she heard how that might have sounded. And for some reason, today, I don't know how much time Ms. Necheles spent on this, on cross—examination, drilling it over and over and over again into the jury's ears. I don't understand the reason for that. With regard to your concerns about this, the numbness in the hands and this feeling that she didn't know what was going on and the room spinning, you will recall that at a bench conference, Ms. Hoffinger asked that the People be permitted to ask a question about a moment that came years later, with what was referred to as a Bombshell moment, and that that would explain a lot of the things that she had not mentioned originally, that she had remembered later on, and some of her emotions that she was feeling, I asked Ms. Hoffinger, what are you referring to? What are you talking about? And she said she was specifically referring to the movie Bombshell. And which is —— which chronicled Roger Ailes and certain allegations of sexual —— of a sexual nature made against him. And, apparently, Ms. Daniels had watched this movie years later and it was at that point that certain memories came back and certain explanations came back to her for her feelings. I ruled immediately that that could not come in. I felt that to somehow inject Roger Ailes into these proceedings would be unduly prejudicial to your client and I did so even though these feelings of the numbness of hands, the room spinning, the blacking out went unexplained. And I did that to protect your client. I disagree with your narrative that there is any new account here. I disagree that there is any change in story. What's happened is people have gone into more detail than they originally planned. And I do agree that certain details, although I may have originally disagreed on Tuesday, certain details such as the color of the floor tiles, the description of the furniture in the bathroom, the weight of the furniture, these details add a sense of credibility if the jury chooses to believe them. And the fact that you went after her right on opening statements, attacking whether —— attacking, your claim that they never had sex, you didn't attack that there was a falsification of business records, you didn't attack any of the other elements of the offense, you said my client denies that there was ever a sexual encounter. Again, as I said before, right off the bat, that puts your client's word against Ms. Daniels' word. And that, in my mind, allows the People to do what they can to rehabilitate her and to corroborate her story. Your motion for a mistrial is denied. I will see you tomorrow at 9:30.
 
 AUDIO DESCRIPTION: Whereupon, at this time, the matter was adjourned to Friday, May 10th, 2024, at 9:30 a.m.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

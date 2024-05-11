@@ -73,7 +73,7 @@
         "page": "2782",
         "lineNumber": "15",
         "character": "MS. HOEFINGER:",
-        "voice": "Serena",
+        "voice": "Rachel",
         "text": "Anybody can be accused of anything. It has nothing to do with credibility. It was as a result of a divorce proceeding."
     },
     {
@@ -7606,7 +7606,14 @@
         "lineNumber": "22",
         "character": "A",
         "voice": "Charlotte",
-        "text": "Yes. Where we don't talk about receiving food. What I ate. Which I definitely would have talked about. O Okay. But you said you had dinner in the room; right?"
+        "text": "Yes. Where we don't talk about receiving food. What I ate. Which I definitely would have talked about."
+    },
+    {
+        "page": "2856",
+        "lineNumber": "24",
+        "character": "O",
+        "voice": "Sophie",
+        "text": "Okay. But you said you had dinner in the room; right?"
     },
     {
         "page": "2857",
@@ -13525,6 +13532,7 @@
         "page": "2921",
         "lineNumber": "10",
         "character": "THE WITNESS:",
+        "voice": "Samantha",
         "text": "I do."
     },
     {
@@ -13545,6 +13553,7 @@
         "page": "2921",
         "lineNumber": "18",
         "character": "THE WITNESS:",
+        "voice": "Samantha",
         "text": "Rebecca Manochio."
     },
     {
@@ -13558,6 +13567,7 @@
         "page": "2921",
         "lineNumber": "20",
         "character": "THE WITNESS:",
+        "voice": "Samantha",
         "text": "M—A—N—O—C—H—I—O."
     },
     {
@@ -13571,6 +13581,7 @@
         "page": "2921",
         "lineNumber": "22",
         "character": "THE WITNESS:",
+        "voice": "Samantha",
         "text": "Middlesex."
     },
     {
@@ -13591,6 +13602,7 @@
         "page": "2922",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Samantha",
         "text": "At The Trump Organization."
     },
     {
@@ -13604,6 +13616,7 @@
         "page": "2922",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Samantha",
         "text": "Eleven years."
     },
     {
@@ -13617,6 +13630,7 @@
         "page": "2922",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Samantha",
         "text": "Junior bookkeeper."
     },
     {
@@ -13630,6 +13644,7 @@
         "page": "2922",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Samantha",
         "text": "I was compelled to testify."
     },
     {
@@ -13643,6 +13658,7 @@
         "page": "2922",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes. Yes."
     },
     {
@@ -13656,6 +13672,7 @@
         "page": "2922",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13669,6 +13686,7 @@
         "page": "2922",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Samantha",
         "text": "I worked at a supermarket, and then I got a job at The Trump Organization."
     },
     {
@@ -13682,6 +13700,7 @@
         "page": "2922",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Samantha",
         "text": "August of 2013."
     },
     {
@@ -13695,6 +13714,7 @@
         "page": "2923",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Samantha",
         "text": "Donald Trump."
     },
     {
@@ -13708,6 +13728,7 @@
         "page": "2923",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Samantha",
         "text": "Administrative Assistant."
     },
     {
@@ -13721,6 +13742,7 @@
         "page": "2923",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13734,6 +13756,7 @@
         "page": "2923",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Samantha",
         "text": "Executive Assistant."
     },
     {
@@ -13747,6 +13770,7 @@
         "page": "2923",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Samantha",
         "text": "Allen Weisselberg and Jeff McConney."
     },
     {
@@ -13760,6 +13784,7 @@
         "page": "2923",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Samantha",
         "text": "He was the CFO of the company."
     },
     {
@@ -13773,6 +13798,7 @@
         "page": "2923",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Samantha",
         "text": "Chief Financial Officer."
     },
     {
@@ -13786,6 +13812,7 @@
         "page": "2923",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Samantha",
         "text": "He was the controller."
     },
     {
@@ -13799,6 +13826,7 @@
         "page": "2923",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Samantha",
         "text": "I am not really sure."
     },
     {
@@ -13812,6 +13840,7 @@
         "page": "2923",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Samantha",
         "text": "A long time. I would say like eight years."
     },
     {
@@ -13825,6 +13854,7 @@
         "page": "2923",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13838,6 +13868,7 @@
         "page": "2924",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Samantha",
         "text": "In 2021, to junior bookkeeper."
     },
     {
@@ -13851,6 +13882,7 @@
         "page": "2924",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13864,6 +13896,7 @@
         "page": "2924",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes, outside of his office."
     },
     {
@@ -13877,6 +13910,7 @@
         "page": "2924",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Samantha",
         "text": "Everyday."
     },
     {
@@ -13890,6 +13924,7 @@
         "page": "2924",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Samantha",
         "text": "I did not pay bills."
     },
     {
@@ -13903,6 +13938,7 @@
         "page": "2924",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13916,6 +13952,7 @@
         "page": "2924",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Samantha",
         "text": "Put together?"
     },
     {
@@ -13929,6 +13966,7 @@
         "page": "2924",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13942,6 +13980,7 @@
         "page": "2924",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Samantha",
         "text": "I put checks with their backup together and gave them to Mr. Weisselberg to sign."
     },
     {
@@ -13955,6 +13994,7 @@
         "page": "2924",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Samantha",
         "text": "The invoice."
     },
     {
@@ -13968,6 +14008,7 @@
         "page": "2925",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13981,6 +14022,7 @@
         "page": "2925",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -13994,6 +14036,7 @@
         "page": "2925",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14007,6 +14050,7 @@
         "page": "2925",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Samantha",
         "text": "By check, both."
     },
     {
@@ -14020,6 +14064,7 @@
         "page": "2925",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14033,6 +14078,7 @@
         "page": "2925",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14081,6 +14127,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "He did."
     },
     {
@@ -14094,6 +14141,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "He did."
     },
     {
@@ -14107,6 +14155,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "The President of the United States, and he went to the White House."
     },
     {
@@ -14120,6 +14169,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14133,6 +14183,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14146,6 +14197,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Deborah Tarasoff."
     },
     {
@@ -14159,6 +14211,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "She works in Accounts Payable."
     },
     {
@@ -14172,6 +14225,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14185,6 +14239,7 @@
         "page": "R. Manochio — Direct/Mangold",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14198,6 +14253,7 @@
         "page": "2927",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "She did."
     },
     {
@@ -14211,6 +14267,7 @@
         "page": "2927",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I Fed Ex'd them."
     },
     {
@@ -14224,6 +14281,7 @@
         "page": "2927",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "About once a week."
     },
     {
@@ -14237,6 +14295,7 @@
         "page": "2927",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Deb would give me the checks in a manila folder, and I would put them in a Fed Ex envelope with a return, and I would send them out."
     },
     {
@@ -14250,6 +14309,7 @@
         "page": "2927",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -14263,6 +14323,7 @@
         "page": "2927",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Many. A few."
     },
     {
@@ -14276,6 +14337,7 @@
         "page": "2927",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No. I don't know. Like one at a time."
     },
     {
@@ -14289,6 +14351,7 @@
         "page": "2927",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Five, 10, 20. Maybe between 10 and 20. I am not sure."
     },
     {
@@ -14302,6 +14365,7 @@
         "page": "2928",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It’s very possible, yes."
     },
     {
@@ -14315,6 +14379,7 @@
         "page": "2928",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14328,6 +14393,7 @@
         "page": "2928",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "That same day."
     },
     {
@@ -14341,6 +14407,7 @@
         "page": "2928",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14354,6 +14421,7 @@
         "page": "2928",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I did."
     },
     {
@@ -14367,6 +14435,7 @@
         "page": "2928",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -14380,6 +14449,7 @@
         "page": "2928",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14393,6 +14463,7 @@
         "page": "2928",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14406,6 +14477,7 @@
         "page": "2928",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "They were unsigned."
     },
     {
@@ -14419,6 +14491,7 @@
         "page": "2928",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "They were signed."
     },
     {
@@ -14432,6 +14505,7 @@
         "page": "2929",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14445,6 +14519,7 @@
         "page": "2929",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump’s."
     },
     {
@@ -14458,6 +14533,7 @@
         "page": "2929",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "A few days."
     },
     {
@@ -14471,6 +14547,7 @@
         "page": "2929",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It was."
     },
     {
@@ -14484,6 +14561,7 @@
         "page": "2929",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14497,6 +14575,7 @@
         "page": "2929",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Deb would let me know if there was something missing."
     },
     {
@@ -14510,6 +14589,7 @@
         "page": "2929",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I would reach out to whoever I sent them to."
     },
     {
@@ -14523,6 +14603,7 @@
         "page": "2929",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes, Madeline."
     },
     {
@@ -14536,6 +14617,7 @@
         "page": "2929",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Westerhout, I think."
     },
     {
@@ -14549,6 +14631,7 @@
         "page": "2930",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14562,6 +14645,7 @@
         "page": "2930",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "She would just look for it and see if she had it."
     },
     {
@@ -14575,6 +14659,7 @@
         "page": "2930",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "If it was missing, either it got lost or he had questions about it and he had to speak to someone."
     },
     {
@@ -14588,6 +14673,7 @@
         "page": "2930",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump."
     },
     {
@@ -14601,6 +14687,7 @@
         "page": "2930",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14614,6 +14701,7 @@
         "page": "2930",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14627,6 +14715,7 @@
         "page": "2930",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No, that's as far as I go."
     },
     {
@@ -14640,6 +14729,7 @@
         "page": "2930",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14653,6 +14743,7 @@
         "page": "2930",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I gave them to Deborah."
     },
     {
@@ -14666,6 +14757,7 @@
         "page": "2931",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14679,12 +14771,21 @@
         "page": "2931",
         "lineNumber": "7",
         "character": "A.",
-        "text": "Yes. O. Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?"
+        "voice": "Samantha",
+        "text": "Yes."
+    },
+    {
+        "page": "2931",
+        "lineNumber": "8",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?"
     },
     {
         "page": "2931",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14698,6 +14799,7 @@
         "page": "2931",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14711,6 +14813,7 @@
         "page": "2931",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14724,6 +14827,7 @@
         "page": "2931",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14737,6 +14841,7 @@
         "page": "2931",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14750,6 +14855,7 @@
         "page": "2932",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14763,6 +14869,7 @@
         "page": "2932",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14776,6 +14883,7 @@
         "page": "2932",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14789,6 +14897,7 @@
         "page": "2932",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14802,6 +14911,7 @@
         "page": "2932",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14815,6 +14925,7 @@
         "page": "2932",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14828,6 +14939,7 @@
         "page": "2932",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14841,6 +14953,7 @@
         "page": "2933",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -14854,6 +14967,7 @@
         "page": "2933",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14867,6 +14981,7 @@
         "page": "2933",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14880,6 +14995,7 @@
         "page": "2933",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14949,6 +15065,7 @@
         "page": "2933",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14969,6 +15086,7 @@
         "page": "2934",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -14982,6 +15100,7 @@
         "page": "2934",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It's a Fed Ex invoice."
     },
     {
@@ -14995,6 +15114,7 @@
         "page": "2934",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "May 29, 2017."
     },
     {
@@ -15008,6 +15128,7 @@
         "page": "2934",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "6768."
     },
     {
@@ -15021,6 +15142,7 @@
         "page": "2934",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "The Trump Organization."
     },
     {
@@ -15034,6 +15156,7 @@
         "page": "2934",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15061,6 +15184,7 @@
         "page": "2934",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15074,6 +15198,7 @@
         "page": "2934",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15087,6 +15212,7 @@
         "page": "2935",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I did."
     },
     {
@@ -15100,6 +15226,7 @@
         "page": "2935",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15113,6 +15240,7 @@
         "page": "2935",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15126,6 +15254,7 @@
         "page": "2935",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I am."
     },
     {
@@ -15139,6 +15268,7 @@
         "page": "2935",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "725 Fifth Avenue, New York, New York."
     },
     {
@@ -15152,6 +15282,7 @@
         "page": "2935",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15165,6 +15296,7 @@
         "page": "2935",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Keith Schiller."
     },
     {
@@ -15178,6 +15310,7 @@
         "page": "2935",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "He was Mr. Trump's personal bodyguard."
     },
     {
@@ -15191,6 +15324,7 @@
         "page": "2935",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15204,6 +15338,7 @@
         "page": "2935",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "May 23, 2017."
     },
     {
@@ -15217,6 +15352,7 @@
         "page": "2935",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes, Number 3."
     },
     {
@@ -15230,6 +15366,7 @@
         "page": "2936",
         "lineNumber": "l",
         "character": "A.",
+        "voice": "Samantha",
         "text": "D.T."
     },
     {
@@ -15243,6 +15380,7 @@
         "page": "2936",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Donald Trump."
     },
     {
@@ -15256,6 +15394,7 @@
         "page": "2936",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "His checks."
     },
     {
@@ -15269,6 +15408,7 @@
         "page": "2936",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump’s."
     },
     {
@@ -15282,6 +15422,7 @@
         "page": "2936",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -15295,6 +15436,7 @@
         "page": "2936",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15308,6 +15450,7 @@
         "page": "2936",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15321,6 +15464,7 @@
         "page": "2936",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It’s a personal."
     },
     {
@@ -15334,6 +15478,7 @@
         "page": "2936",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15347,6 +15492,7 @@
         "page": "2936",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -15360,6 +15506,7 @@
         "page": "2936",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Either Rhona or Allen."
     },
     {
@@ -15373,6 +15520,7 @@
         "page": "2937",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Rhona Graff."
     },
     {
@@ -15386,6 +15534,7 @@
         "page": "2937",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump's assistant."
     },
     {
@@ -15399,6 +15548,7 @@
         "page": "2937",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "The Trump Organization."
     },
     {
@@ -15412,6 +15562,7 @@
         "page": "2937",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15425,6 +15576,7 @@
         "page": "2937",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "May 24, 2017."
     },
     {
@@ -15438,6 +15590,7 @@
         "page": "2937",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15451,6 +15604,7 @@
         "page": "2937",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Always."
     },
     {
@@ -15464,6 +15618,7 @@
         "page": "2937",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15477,6 +15632,7 @@
         "page": "2937",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "7364."
     },
     {
@@ -15504,6 +15660,7 @@
         "page": "2938",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15517,6 +15674,7 @@
         "page": "2938",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "June 5th."
     },
     {
@@ -15530,6 +15688,7 @@
         "page": "2938",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "0242."
     },
     {
@@ -15550,6 +15709,7 @@
         "page": "2938",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15563,6 +15723,7 @@
         "page": "2938",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "May 30, 2017."
     },
     {
@@ -15576,6 +15737,7 @@
         "page": "2938",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Keith Schiller."
     },
     {
@@ -15589,6 +15751,7 @@
         "page": "2938",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Me."
     },
     {
@@ -15602,6 +15765,7 @@
         "page": "2938",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15615,6 +15779,7 @@
         "page": "2938",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "That this was the return for the package that I previously sent."
     },
     {
@@ -15628,6 +15793,7 @@
         "page": "2939",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "7364."
     },
     {
@@ -15641,6 +15807,7 @@
         "page": "2939",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15654,6 +15821,7 @@
         "page": "2939",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -15667,6 +15835,7 @@
         "page": "2939",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15680,6 +15849,7 @@
         "page": "2939",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "June 26, 2017."
     },
     {
@@ -15693,6 +15863,7 @@
         "page": "2939",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "0271."
     },
     {
@@ -15713,6 +15884,7 @@
         "page": "2939",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It's another package sent to Keith."
     },
     {
@@ -15726,6 +15898,7 @@
         "page": "2940",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15739,6 +15912,7 @@
         "page": "2940",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -15752,6 +15926,7 @@
         "page": "2940",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -15765,6 +15940,7 @@
         "page": "2940",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15778,6 +15954,7 @@
         "page": "2940",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "June 20, 2017."
     },
     {
@@ -15791,6 +15968,7 @@
         "page": "2940",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "6957."
     },
     {
@@ -15811,6 +15989,7 @@
         "page": "2940",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "The return package."
     },
     {
@@ -15824,6 +16003,7 @@
         "page": "2940",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "June 21, 2017."
     },
     {
@@ -15837,6 +16017,7 @@
         "page": "2940",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15850,6 +16031,7 @@
         "page": "2941",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "6957."
     },
     {
@@ -15863,6 +16045,7 @@
         "page": "2941",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15876,6 +16059,7 @@
         "page": "2941",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Keith Schiller."
     },
     {
@@ -15889,6 +16073,7 @@
         "page": "2941",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15902,6 +16087,7 @@
         "page": "2941",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -15922,6 +16108,7 @@
         "page": "2941",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15935,6 +16122,7 @@
         "page": "2941",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "John McEntee."
     },
     {
@@ -15948,6 +16136,7 @@
         "page": "2941",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I couldn't tell you."
     },
     {
@@ -15975,6 +16164,7 @@
         "page": "2942",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -15988,6 +16178,7 @@
         "page": "2942",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It's an email."
     },
     {
@@ -16001,6 +16192,7 @@
         "page": "2942",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I am."
     },
     {
@@ -16014,6 +16206,7 @@
         "page": "2942",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16041,6 +16234,7 @@
         "page": "2942",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16054,6 +16248,7 @@
         "page": "2942",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "This is from John McEntee to Rhona Graff."
     },
     {
@@ -16067,6 +16262,7 @@
         "page": "2942",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "At the White House."
     },
     {
@@ -16080,6 +16276,7 @@
         "page": "2942",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "September 7, 2017."
     },
     {
@@ -16093,6 +16290,7 @@
         "page": "2942",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16106,6 +16304,7 @@
         "page": "2942",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "\"Checks to sign.\""
     },
     {
@@ -16119,6 +16318,7 @@
         "page": "2943",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "\"Hi, Rhona. Can you put me in contact with the Rebecca that works for Mr. Weisselberg. With Keith leaving I will need The Boss' personal checks mailed to me. Thank you.\""
     },
     {
@@ -16132,6 +16332,7 @@
         "page": "2943",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16145,6 +16346,7 @@
         "page": "2943",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16158,6 +16360,7 @@
         "page": "2943",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Me."
     },
     {
@@ -16171,6 +16374,7 @@
         "page": "2943",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump's personal bodyguard."
     },
     {
@@ -16184,6 +16388,7 @@
         "page": "2943",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16197,6 +16402,7 @@
         "page": "2943",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16210,6 +16416,7 @@
         "page": "2943",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Mr. Trump."
     },
     {
@@ -16223,6 +16430,7 @@
         "page": "2943",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "His personal checks."
     },
     {
@@ -16250,6 +16458,7 @@
         "page": "2944",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I can read it."
     },
     {
@@ -16263,6 +16472,7 @@
         "page": "2944",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Rhona."
     },
     {
@@ -16276,6 +16486,7 @@
         "page": "2944",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "John."
     },
     {
@@ -16289,6 +16500,7 @@
         "page": "2944",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I am."
     },
     {
@@ -16302,6 +16514,7 @@
         "page": "2944",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "\"Hi, John. I copied Rebecca on this email. What is Keith’s official last date? Best, Rhona.\""
     },
     {
@@ -16315,6 +16528,7 @@
         "page": "2944",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "John."
     },
     {
@@ -16328,6 +16542,7 @@
         "page": "2944",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16341,6 +16556,7 @@
         "page": "2944",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Rhona Graff."
     },
     {
@@ -16354,6 +16570,7 @@
         "page": "2944",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I am."
     },
     {
@@ -16367,6 +16584,7 @@
         "page": "2944",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "\"Thank you. It is the end of next week. We are all very sad to see him go. Rebecca, please email at —— and I will give you the best address to use. Thanks.\""
     },
     {
@@ -16380,6 +16598,7 @@
         "page": "2945",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes, there is."
     },
     {
@@ -16393,6 +16612,7 @@
         "page": "2945",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It looks like a personal."
     },
     {
@@ -16406,6 +16626,7 @@
         "page": "2945",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16419,6 +16640,7 @@
         "page": "2945",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "He was going to give me an address to where I needed to mail the checks."
     },
     {
@@ -16432,6 +16654,7 @@
         "page": "2945",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I did."
     },
     {
@@ -16459,6 +16682,7 @@
         "page": "2945",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16472,6 +16696,7 @@
         "page": "2945",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "December 4, 2017."
     },
     {
@@ -16485,6 +16710,7 @@
         "page": "2946",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "9417."
     },
     {
@@ -16505,6 +16731,7 @@
         "page": "2946",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Me sending a Fed Ex to John McEntee."
     },
     {
@@ -16518,6 +16745,7 @@
         "page": "2946",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -16531,6 +16759,7 @@
         "page": "2946",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Home address."
     },
     {
@@ -16544,6 +16773,7 @@
         "page": "2946",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "November 29, 2017."
     },
     {
@@ -16557,6 +16787,7 @@
         "page": "2946",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I did."
     },
     {
@@ -16570,6 +16801,7 @@
         "page": "2946",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Allen Weisselberg."
     },
     {
@@ -16583,6 +16815,7 @@
         "page": "2946",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Checks."
     },
     {
@@ -16596,6 +16829,7 @@
         "page": "2946",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16609,6 +16843,7 @@
         "page": "2947",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I just like to switch it up."
     },
     {
@@ -16622,6 +16857,7 @@
         "page": "2947",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -16635,6 +16871,7 @@
         "page": "2947",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16648,6 +16885,7 @@
         "page": "2947",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "6548."
     },
     {
@@ -16675,6 +16913,7 @@
         "page": "2947",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It is."
     },
     {
@@ -16688,6 +16927,7 @@
         "page": "2947",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "December 11, 2017."
     },
     {
@@ -16701,6 +16941,7 @@
         "page": "2947",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "4356."
     },
     {
@@ -16728,6 +16969,7 @@
         "page": "2947",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "The return."
     },
     {
@@ -16741,6 +16983,7 @@
         "page": "2948",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16754,6 +16997,7 @@
         "page": "2948",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Signed checks."
     },
     {
@@ -16767,6 +17011,7 @@
         "page": "2948",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16780,6 +17025,7 @@
         "page": "2948",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "6548."
     },
     {
@@ -16793,6 +17039,7 @@
         "page": "2948",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16820,6 +17067,7 @@
         "page": "2948",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Tara Gillard."
     },
     {
@@ -16833,6 +17081,7 @@
         "page": "2948",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "She was an assistant."
     },
     {
@@ -16846,6 +17095,7 @@
         "page": "2948",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Allen and Jeff."
     },
     {
@@ -16859,6 +17109,7 @@
         "page": "2948",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16872,6 +17123,7 @@
         "page": "2949",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16885,6 +17137,7 @@
         "page": "2949",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "John McEntee."
     },
     {
@@ -16898,6 +17151,7 @@
         "page": "2949",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Checks."
     },
     {
@@ -16911,6 +17165,7 @@
         "page": "2949",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16924,6 +17179,7 @@
         "page": "2949",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "December 5, 2017."
     },
     {
@@ -16937,6 +17193,7 @@
         "page": "2949",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "DJT."
     },
     {
@@ -16950,6 +17207,7 @@
         "page": "2949",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Donald J. Trump."
     },
     {
@@ -16963,6 +17221,7 @@
         "page": "2949",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "4009."
     },
     {
@@ -16976,6 +17235,7 @@
         "page": "2949",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -16989,6 +17249,7 @@
         "page": "2949",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Samantha",
         "text": "December 18, 2017."
     },
     {
@@ -17002,6 +17263,7 @@
         "page": "2949",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "1446."
     },
     {
@@ -17029,6 +17291,7 @@
         "page": "2950",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "December 13, 2017."
     },
     {
@@ -17042,6 +17305,7 @@
         "page": "2950",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17055,6 +17319,7 @@
         "page": "2950",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "4099."
     },
     {
@@ -17068,6 +17333,7 @@
         "page": "2950",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17081,6 +17347,7 @@
         "page": "2950",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "John is the sender and the recipient is Tara."
     },
     {
@@ -17094,6 +17361,7 @@
         "page": "2950",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17107,6 +17375,7 @@
         "page": "2950",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17120,6 +17389,7 @@
         "page": "2951",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17285,6 +17555,7 @@
         "page": "2953",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Good morning."
     },
     {
@@ -17298,6 +17569,7 @@
         "page": "2953",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17311,6 +17583,7 @@
         "page": "2953",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17324,6 +17597,7 @@
         "page": "2953",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Samantha",
         "text": "She does."
     },
     {
@@ -17337,6 +17611,7 @@
         "page": "2953",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17350,6 +17625,7 @@
         "page": "2953",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17363,6 +17639,7 @@
         "page": "2953",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17376,6 +17653,7 @@
         "page": "2954",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17389,6 +17667,7 @@
         "page": "2954",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Right."
     },
     {
@@ -17402,6 +17681,7 @@
         "page": "2954",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Right."
     },
     {
@@ -17415,6 +17695,7 @@
         "page": "2954",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17428,6 +17709,7 @@
         "page": "2954",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17441,6 +17723,7 @@
         "page": "2954",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17454,6 +17737,7 @@
         "page": "2954",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17467,6 +17751,7 @@
         "page": "2954",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17480,6 +17765,7 @@
         "page": "2955",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17493,6 +17779,7 @@
         "page": "2955",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17506,6 +17793,7 @@
         "page": "2955",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17519,6 +17807,7 @@
         "page": "2955",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17532,6 +17821,7 @@
         "page": "2955",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17545,6 +17835,7 @@
         "page": "2955",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17558,6 +17849,7 @@
         "page": "2955",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17571,6 +17863,7 @@
         "page": "2955",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17584,6 +17877,7 @@
         "page": "2955",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17597,6 +17891,7 @@
         "page": "2956",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "It was."
     },
     {
@@ -17610,6 +17905,7 @@
         "page": "2956",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17644,6 +17940,7 @@
         "page": "2956",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17657,6 +17954,7 @@
         "page": "2956",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Samantha",
         "text": "I'm not sure."
     },
     {
@@ -17670,6 +17968,7 @@
         "page": "2956",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17683,6 +17982,7 @@
         "page": "2956",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Samantha",
         "text": "No."
     },
     {
@@ -17696,6 +17996,7 @@
         "page": "2956",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17709,6 +18010,7 @@
         "page": "2957",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Yes."
     },
     {
@@ -17722,6 +18024,7 @@
         "page": "2957",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17735,6 +18038,7 @@
         "page": "2957",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17748,6 +18052,7 @@
         "page": "2957",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17761,6 +18066,7 @@
         "page": "2957",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17774,6 +18080,7 @@
         "page": "2957",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Samantha",
         "text": "Correct."
     },
     {
@@ -17850,6 +18157,7 @@
         "page": "2958",
         "lineNumber": "14",
         "character": "THE WITNESS:",
+        "voice": "Karen",
         "text": "I do. T—R—A—C—E—Y M—E—N—Z—I—E—S, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:"
     },
     {
@@ -17870,6 +18178,7 @@
         "page": "2958",
         "lineNumber": "22",
         "character": "THE WITNESS:",
+        "voice": "Karen",
         "text": "Tracey Menzies, M—E—N—Z—I—E—S."
     },
     {
@@ -17883,6 +18192,7 @@
         "page": "2958",
         "lineNumber": "24",
         "character": "THE WITNESS:",
+        "voice": "Karen",
         "text": "Monmouth, New Jersey."
     },
     {
@@ -17915,6 +18225,7 @@
         "page": "2959",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Karen",
         "text": "I work at HarperCollins Publishing."
     },
     {
@@ -17928,6 +18239,7 @@
         "page": "2959",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Book publishing. We are the second largest book publisher in the world."
     },
     {
@@ -17941,6 +18253,7 @@
         "page": "2959",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Karen",
         "text": "Twenty—five years."
     },
     {
@@ -17954,6 +18267,7 @@
         "page": "2959",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Karen",
         "text": "I am the Senior Vice—President of Production and Creative Operations."
     },
     {
@@ -17967,6 +18281,7 @@
         "page": "2959",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "No, I have not."
     },
     {
@@ -17980,6 +18295,7 @@
         "page": "2959",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, it is."
     },
     {
@@ -17993,6 +18309,7 @@
         "page": "2959",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18006,6 +18323,7 @@
         "page": "2959",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Karen",
         "text": "Compelled to testify, subpoena."
     },
     {
@@ -18019,6 +18337,7 @@
         "page": "2960",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18032,6 +18351,7 @@
         "page": "2960",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, they are."
     },
     {
@@ -18045,6 +18365,7 @@
         "page": "2960",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "I am."
     },
     {
@@ -18058,6 +18379,7 @@
         "page": "2960",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Karen",
         "text": "At HarperCollins, the author has a partner. We work with them to approve files and their cover design, their designs, their content, as we go to print it."
     },
     {
@@ -18071,6 +18393,7 @@
         "page": "2960",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, they’re fully engaged."
     },
     {
@@ -18084,6 +18407,7 @@
         "page": "2960",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18097,6 +18421,7 @@
         "page": "2960",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18110,6 +18435,7 @@
         "page": "2960",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, they are."
     },
     {
@@ -18123,6 +18449,7 @@
         "page": "2961",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "I believe so."
     },
     {
@@ -18136,6 +18463,7 @@
         "page": "2961",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, I am."
     },
     {
@@ -18149,6 +18477,7 @@
         "page": "2961",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Karen",
         "text": "It's here. I looked through it."
     },
     {
@@ -18162,6 +18491,7 @@
         "page": "2961",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18175,6 +18505,7 @@
         "page": "2961",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Karen",
         "text": "I ordered it from the warehouse using the HarperCollins employee website."
     },
     {
@@ -18188,6 +18519,7 @@
         "page": "2961",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, it's direct from the warehouse, so not through a retailer."
     },
     {
@@ -18201,6 +18533,7 @@
         "page": "2961",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Karen",
         "text": "There is an audio book, yes."
     },
     {
@@ -18214,6 +18547,7 @@
         "page": "2961",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Karen",
         "text": "I do."
     },
     {
@@ -18227,6 +18561,7 @@
         "page": "2961",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Karen",
         "text": "There are two authors; Donald Trump and Bill Zanker."
     },
     {
@@ -18240,6 +18575,7 @@
         "page": "2962",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "I believe it is Donald Trump."
     },
     {
@@ -18253,6 +18589,7 @@
         "page": "2962",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, I did."
     },
     {
@@ -18266,6 +18603,7 @@
         "page": "2962",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, they are."
     },
     {
@@ -18279,6 +18617,7 @@
         "page": "2962",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, they do."
     },
     {
@@ -18292,6 +18631,7 @@
         "page": "2962",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, I did."
     },
     {
@@ -18305,6 +18645,7 @@
         "page": "2962",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18360,6 +18701,7 @@
         "page": "2963",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Karen",
         "text": "I am sorry."
     },
     {
@@ -18373,6 +18715,7 @@
         "page": "2963",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, I do."
     },
     {
@@ -18386,6 +18729,7 @@
         "page": "2963",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "This is the Think Big, the book."
     },
     {
@@ -18399,6 +18743,7 @@
         "page": "2963",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes. Purchased and published, yes."
     },
     {
@@ -18412,6 +18757,7 @@
         "page": "2963",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Karen",
         "text": "I do."
     },
     {
@@ -18425,6 +18771,7 @@
         "page": "2963",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "It says Donald Trump and Bill Zanker."
     },
     {
@@ -18438,6 +18785,7 @@
         "page": "2963",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Karen",
         "text": "Well, Trump is pictured on the cover and his name is quite large. And Bill Zanker is more of a supporting role with a smaller font."
     },
     {
@@ -18451,6 +18799,7 @@
         "page": "2963",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Karen",
         "text": "No."
     },
     {
@@ -18478,6 +18827,7 @@
         "page": "2964",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Karen",
         "text": "This is the title page of the book."
     },
     {
@@ -18491,6 +18841,7 @@
         "page": "2964",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18504,6 +18855,7 @@
         "page": "2964",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, this is the copyright page."
     },
     {
@@ -18517,6 +18869,7 @@
         "page": "2964",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Donald J. Trump and Bill Zanker."
     },
     {
@@ -18530,6 +18883,7 @@
         "page": "2964",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Karen",
         "text": "The year it was first published, 2007."
     },
     {
@@ -18543,6 +18897,7 @@
         "page": "2964",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Karen",
         "text": "21. 2021."
     },
     {
@@ -18556,6 +18911,7 @@
         "page": "2964",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "On the printer line on the bottom. On the left—hand side it tells you the date."
     },
     {
@@ -18569,6 +18925,7 @@
         "page": "2964",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18582,6 +18939,7 @@
         "page": "2964",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, it does."
     },
     {
@@ -18595,6 +18953,7 @@
         "page": "2964",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18608,6 +18967,7 @@
         "page": "2965",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, there is. There are different sections. One of the sections are called Zanker's Take. Also, the design of the book. Zanker's Take has like a graph above it, so it separates it out from Donald Trump's words. Donald Trump's words, or at least the writing, is in a sterile front, and Zanker's is a nonsterile front, a thinner font. So you could tell the difference between the two."
     },
     {
@@ -18621,6 +18981,7 @@
         "page": "2965",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Indicate which author is speaking."
     },
     {
@@ -18648,6 +19009,7 @@
         "page": "2965",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18661,6 +19023,7 @@
         "page": "2965",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18674,6 +19037,7 @@
         "page": "2965",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Karen",
         "text": "154."
     },
     {
@@ -18687,6 +19051,7 @@
         "page": "2965",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Karen",
         "text": "Mr. Trump."
     },
     {
@@ -18700,6 +19065,7 @@
         "page": "2966",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18713,6 +19079,7 @@
         "page": "2966",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18726,6 +19093,7 @@
         "page": "2966",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Karen",
         "text": "Do Not Trust Anyone"
     },
     {
@@ -18739,6 +19107,7 @@
         "page": "2966",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Karen",
         "text": "\"I used to say go out and get the best people and trust them. Over the years, I've seen too many shenanigans. Now I say, get the best people and don't trust them. Do not trust them because if you don't know what you're doing, they're going to rob you blind. I know dozens of sophisticated business people who hired accountants and lawyers and others and they trusted them, they got killed. They lost their business. So I say, get the best people and don't trust them.\""
     },
     {
@@ -18766,6 +19135,7 @@
         "page": "2966",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -18779,6 +19149,7 @@
         "page": "2966",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Karen",
         "text": "160."
     },
     {
@@ -18792,6 +19163,7 @@
         "page": "2967",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Karen",
         "text": "Sure. \"As a matter of fact, I value loyalty above everything else. More than brains, more than drive, and more than energy.\""
     },
     {
@@ -18819,6 +19191,7 @@
         "page": "2967",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes. Page 162."
     },
     {
@@ -18832,6 +19205,7 @@
         "page": "2967",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "\"I think the reason we have so many loyal people is that we reward loyalty and everybody knows this. It has become part of the corporate culture at The Trump Organization. People like Allen Weisselberg and Matt Calamari are great and have proven themselves over many years.\""
     },
     {
@@ -18845,6 +19219,7 @@
         "page": "2967",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Karen",
         "text": "\"Corporate culture of the Trump Organization.\""
     },
     {
@@ -18872,6 +19247,7 @@
         "page": "2967",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Karen",
         "text": "Page 180."
     },
     {
@@ -18885,6 +19261,7 @@
         "page": "2967",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Karen",
         "text": "Sure. \"I just can't stomach disloyalty. I put the people who are loyal to me on a high pedestal and take care of them very well. I go out of my way for the people who are loyal to me in bad times. This woman was very disloyal, and now I go out of my way to make her life miserable.\""
     },
     {
@@ -18912,6 +19289,7 @@
         "page": "2968",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Karen",
         "text": "Page 183."
     },
     {
@@ -18925,6 +19303,7 @@
         "page": "2968",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "\"My motto is always get even. When somebody screws you, screw them back in spades.\""
     },
     {
@@ -18952,6 +19331,7 @@
         "page": "2968",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "192."
     },
     {
@@ -18965,6 +19345,7 @@
         "page": "2968",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Karen",
         "text": "\"When you're wronged, go after those people because it is a good feeling and because other people will see you doing it. Getting even is not always a personal thing. It's just part of doing business.\""
     },
     {
@@ -18997,6 +19378,7 @@
         "page": "2969",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Karen",
         "text": "Good afternoon."
     },
     {
@@ -19010,6 +19392,7 @@
         "page": "2969",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Karen",
         "text": "No, we have not."
     },
     {
@@ -19023,6 +19406,7 @@
         "page": "2969",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19036,6 +19420,7 @@
         "page": "2969",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Karen",
         "text": "No, I was not."
     },
     {
@@ -19049,6 +19434,7 @@
         "page": "2969",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Karen",
         "text": "They're helped to sell the book, but they're also done very closely with the author."
     },
     {
@@ -19062,6 +19448,7 @@
         "page": "2970",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19075,6 +19462,7 @@
         "page": "2970",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes, that’s fair to say."
     },
     {
@@ -19088,6 +19476,7 @@
         "page": "2970",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Karen",
         "text": "Close enough."
     },
     {
@@ -19101,6 +19490,7 @@
         "page": "2970",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19114,6 +19504,7 @@
         "page": "2970",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Karen",
         "text": "Uh—huh."
     },
     {
@@ -19127,6 +19518,7 @@
         "page": "2970",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Karen",
         "text": "I did not pick them."
     },
     {
@@ -19140,6 +19532,7 @@
         "page": "2970",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19153,6 +19546,7 @@
         "page": "2970",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Karen",
         "text": "No."
     },
     {
@@ -19166,6 +19560,7 @@
         "page": "2970",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Karen",
         "text": "I think most books."
     },
     {
@@ -19179,6 +19574,7 @@
         "page": "2971",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Karen",
         "text": "Show me."
     },
     {
@@ -19206,6 +19602,7 @@
         "page": "2971",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Karen",
         "text": "I see. Yes."
     },
     {
@@ -19233,6 +19630,7 @@
         "page": "2971",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19246,6 +19644,7 @@
         "page": "2971",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Karen",
         "text": "No."
     },
     {
@@ -19259,6 +19658,7 @@
         "page": "2971",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Karen",
         "text": "Yes."
     },
     {
@@ -19272,6 +19672,7 @@
         "page": "2972",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Karen",
         "text": "I wouldn't know that, but it's possible."
     },
     {
@@ -19285,6 +19686,7 @@
         "page": "2972",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Karen",
         "text": "They could, sure."
     },
     {
@@ -19354,6 +19756,7 @@
         "page": "2972",
         "lineNumber": "22",
         "character": "THE WITNESS:",
+        "voice": "Penny",
         "text": "Yes. M—A—D—E—L—I—N—E W—E—S—T—E—R—H—O—U—T, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:"
     },
     {
@@ -19374,6 +19777,7 @@
         "page": "2973",
         "lineNumber": "4",
         "character": "THE WITNESS:",
+        "voice": "Penny",
         "text": "Madeleine Westerhout. W—E—S—T—E—R—H—O—U—T."
     },
     {
@@ -19387,6 +19791,7 @@
         "page": "2973",
         "lineNumber": "7",
         "character": "THE WITNESS:",
+        "voice": "Penny",
         "text": "Orange County."
     },
     {
@@ -19419,6 +19824,7 @@
         "page": "2973",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Good afternoon."
     },
     {
@@ -19432,6 +19838,7 @@
         "page": "2973",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "I work as geopolitical consulting firm."
     },
     {
@@ -19445,6 +19852,7 @@
         "page": "2973",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "I am Chief of Staff to the Chairman."
     },
     {
@@ -19458,6 +19866,7 @@
         "page": "2973",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "About a year and a half."
     },
     {
@@ -19471,6 +19880,7 @@
         "page": "2973",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "I do."
     },
     {
@@ -19484,6 +19894,7 @@
         "page": "2973",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "I was his Executive Assistant and Director of Oval Office Operations in the White House."
     },
     {
@@ -19497,6 +19908,7 @@
         "page": "2974",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "I was compelled to appear by subpoena."
     },
     {
@@ -19510,6 +19922,7 @@
         "page": "2974",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "No, I have not."
     },
     {
@@ -19523,6 +19936,7 @@
         "page": "2974",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "No, I have not."
     },
     {
@@ -19536,6 +19950,7 @@
         "page": "2974",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "I am now, yes."
     },
     {
@@ -19549,6 +19964,7 @@
         "page": "2974",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19562,6 +19978,7 @@
         "page": "2974",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, he is."
     },
     {
@@ -19575,6 +19992,7 @@
         "page": "2974",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "He is graciously taking this case pro bono."
     },
     {
@@ -19588,6 +20006,7 @@
         "page": "2974",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sure. I went to the College of Charleston. Got my undergraduate degree in political science."
     },
     {
@@ -19601,6 +20020,7 @@
         "page": "2974",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "I moved to Washington D.C., where I had an internship on Capital Hill for a couple of weeks while I was looking for a job. Then I got a job full—time job at the Republican National Committee."
     },
     {
@@ -19614,6 +20034,7 @@
         "page": "2975",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Penny",
         "text": "The Republican National Committee, otherwise known as the RNC, is the Republican’s Party’s National Party Committee. So their main role is to elect Republicans up and down the ballot, but really focusing on electing a President."
     },
     {
@@ -19627,6 +20048,7 @@
         "page": "2975",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, I think that’s fair to say."
     },
     {
@@ -19640,6 +20062,7 @@
         "page": "2975",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19653,6 +20076,7 @@
         "page": "2975",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "It did, yes."
     },
     {
@@ -19666,6 +20090,7 @@
         "page": "2975",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sure. After the 2014 cycle, my boss, who was the Financial Director, was promoted to the Chief of Staff. So I became her assistant as she was the Chief of Staff."
     },
     {
@@ -19679,6 +20104,7 @@
         "page": "2975",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19692,6 +20118,7 @@
         "page": "2975",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "From June 2013 to January 2017."
     },
     {
@@ -19705,6 +20132,7 @@
         "page": "2976",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Penny",
         "text": "Three and a half years."
     },
     {
@@ -19718,6 +20146,7 @@
         "page": "2976",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19731,6 +20160,7 @@
         "page": "2976",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19744,6 +20174,7 @@
         "page": "2976",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "It was a tape of Mr. Trump and, I believe it was Billy Bush, having a conversation."
     },
     {
@@ -19757,6 +20188,7 @@
         "page": "2976",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "At the time I recall it rattled the RNC leadership."
     },
     {
@@ -19770,6 +20202,7 @@
         "page": "2976",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Penny",
         "text": "It’s my recollection that there were conversations about how to, if it was needed, how it would be possible to replace him as the candidate if it came to that."
     },
     {
@@ -19783,6 +20216,7 @@
         "page": "2976",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, he was."
     },
     {
@@ -19796,6 +20230,7 @@
         "page": "2976",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "No, I did not."
     },
     {
@@ -19809,6 +20244,7 @@
         "page": "2977",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "After Mr. Trump was elected, I went and spent some time in New York working out of Trump Tower. Once the party has a nominee, the Republican Party, the RNC, that campaign really combines forces and then works really seamlessly. After the election, I spent time in Trump Tower and helped the President Elect schedule high—level interviews, so people that were interviewed for cabinet positions or high—level senior staff roles."
     },
     {
@@ -19822,6 +20258,7 @@
         "page": "2977",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "I was still living full—time in Washington D.C., but myself and a couple of my colleagues at the RNC would travel to New York and spend most of the working days in New York. So a majority of the working days from November until about January."
     },
     {
@@ -19835,6 +20272,7 @@
         "page": "2977",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19848,6 +20286,7 @@
         "page": "2977",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19861,6 +20300,7 @@
         "page": "2977",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "\"The greeter girl.\""
     },
     {
@@ -19874,6 +20314,7 @@
         "page": "2978",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "I do."
     },
     {
@@ -19887,6 +20328,7 @@
         "page": "2978",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "She was President Trump's —— Mr. Trump's long—term Executive Assistant at The Trump Organization. I don't recall her exact title, but she had been with him for a very long time."
     },
     {
@@ -19900,6 +20342,7 @@
         "page": "2978",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "I think over 10 years. I'm not 100 percent sure."
     },
     {
@@ -19913,6 +20356,7 @@
         "page": "2978",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes. She had a role in helping the RNC schedule his interviews. She was still really taking over, really had a handle on his schedule as he wasn't yet the President. He was still working out of Trump Tower. So we worked seamlessly together."
     },
     {
@@ -19926,6 +20370,7 @@
         "page": "2978",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19939,6 +20384,7 @@
         "page": "2978",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19952,6 +20398,7 @@
         "page": "2978",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -19965,6 +20412,7 @@
         "page": "2979",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Penny",
         "text": "He was the President's former lawyer."
     },
     {
@@ -19978,6 +20426,7 @@
         "page": "2979",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Penny",
         "text": "He was around in Trump Tower."
     },
     {
@@ -19991,6 +20440,7 @@
         "page": "2979",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20004,6 +20454,7 @@
         "page": "2979",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20017,6 +20468,7 @@
         "page": "2979",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Penny",
         "text": "I was, yes."
     },
     {
@@ -20030,6 +20482,7 @@
         "page": "2979",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sure. My boss at the time came to me and said: \"Do you have any interest in sitting outside the Oval Office?\" I said: \"Yes, I do. That sounds like it would be a very cool job.\""
     },
     {
@@ -20043,6 +20496,7 @@
         "page": "2979",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "I honestly don't remember at this time if titles were discussed, but I knew I was going to sit outside the Oval Office. I didn't care what my title was."
     },
     {
@@ -20056,6 +20510,7 @@
         "page": "2979",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "I believe December of 2016."
     },
     {
@@ -20069,6 +20524,7 @@
         "page": "2980",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -20082,6 +20538,7 @@
         "page": "2980",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Penny",
         "text": "January 20, 2017."
     },
     {
@@ -20095,6 +20552,7 @@
         "page": "2980",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Penny",
         "text": "That was the inauguration date."
     },
     {
@@ -20108,6 +20566,7 @@
         "page": "2980",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "I had never technically moved to New York, so I just never —— I just stopped going to New York."
     },
     {
@@ -20121,6 +20580,7 @@
         "page": "2980",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "I did, yes."
     },
     {
@@ -20134,6 +20594,7 @@
         "page": "2980",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "After the inauguration, I went to a Government building across the street from the White House and, you know, went through security, and then, with a couple of my new colleagues, were put in a van to drive across the street. And then we were taken into the West Wing. Kind of shown around a little bit. Taken into the Roosevelt room, where we were given laptops and cell phones. And then I was taken to my desk, which was, as I had been told, right outside of the Oval Office."
     },
     {
@@ -20147,6 +20608,7 @@
         "page": "2980",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, technically."
     },
     {
@@ -20160,6 +20622,7 @@
         "page": "2981",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -20180,6 +20643,7 @@
         "page": "2981",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20193,6 +20657,7 @@
         "page": "2981",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Penny",
         "text": "This is a map of the first floor of the West Wing."
     },
     {
@@ -20206,6 +20671,7 @@
         "page": "2981",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "No, I did not."
     },
     {
@@ -20219,6 +20685,7 @@
         "page": "2981",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20274,6 +20741,7 @@
         "page": "2981",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20287,6 +20755,7 @@
         "page": "2981",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "It's the Oval Office labeled \"Oval Office\" on the bottom, in the middle."
     },
     {
@@ -20314,6 +20783,7 @@
         "page": "2982",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20327,6 +20797,7 @@
         "page": "2982",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20340,6 +20811,7 @@
         "page": "2982",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20353,6 +20825,7 @@
         "page": "2982",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "That is the area known as the Outer Oval Office."
     },
     {
@@ -20366,6 +20839,7 @@
         "page": "2982",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "It's where the President's secretaries or assistants sat."
     },
     {
@@ -20379,6 +20853,7 @@
         "page": "2982",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes. If you look at Number 7 as like a square, my desk was the bottom right."
     },
     {
@@ -20392,6 +20867,7 @@
         "page": "2982",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "Up against the horizontal line, kind of coming out of the Oval Office."
     },
     {
@@ -20405,6 +20881,7 @@
         "page": "2983",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "Not in the first few months, no."
     },
     {
@@ -20418,6 +20895,7 @@
         "page": "2983",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20431,6 +20909,7 @@
         "page": "2983",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Hope Hicks."
     },
     {
@@ -20444,6 +20923,7 @@
         "page": "2983",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "She was the President's Communications Director."
     },
     {
@@ -20457,6 +20937,7 @@
         "page": "2983",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes. In the Outer Oval Office there was a little —— another little room and two of his aides sat there."
     },
     {
@@ -20470,6 +20951,7 @@
         "page": "2983",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "John McEntee and Keith Schiller."
     },
     {
@@ -20483,6 +20965,7 @@
         "page": "2983",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "I believe Keith was the Director of Oval Office Operations. I believe John was Personal Aide to the President."
     },
     {
@@ -20496,6 +20979,7 @@
         "page": "2983",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20509,6 +20993,7 @@
         "page": "2983",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "Dan Scavino was one of the President's very trusted advisors."
     },
     {
@@ -20522,6 +21007,7 @@
         "page": "2983",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "He did a lot of the President's communications, and especially helped the President get tweets out and other statements."
     },
     {
@@ -20535,6 +21021,7 @@
         "page": "2984",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20548,6 +21035,7 @@
         "page": "2984",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes. Special Assistant to the President and Executive Assistant to the President."
     },
     {
@@ -20561,6 +21049,7 @@
         "page": "2984",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "The President."
     },
     {
@@ -20574,6 +21063,7 @@
         "page": "2984",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "I tried to have it be my only focus."
     },
     {
@@ -20587,6 +21077,7 @@
         "page": "2984",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "Not formally, no."
     },
     {
@@ -20600,6 +21091,7 @@
         "page": "2984",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "The first few months I tried to really observe people that had been close to him, so people like Hope and John and Keith and Dan, and learn his preferences. Then, it was just a lot of on—the—job training. You know, we really started full force day one. So just trying to do my best to keep up."
     },
     {
@@ -20613,6 +21105,7 @@
         "page": "2985",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20626,6 +21119,7 @@
         "page": "2985",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20639,6 +21133,7 @@
         "page": "2985",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20652,6 +21147,7 @@
         "page": "2985",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Until August 2019."
     },
     {
@@ -20665,6 +21161,7 @@
         "page": "2985",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20678,6 +21175,7 @@
         "page": "2985",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "The same job, yes. But at some point my title changed to Special Assistant to the President and Director of Oval Office Operations."
     },
     {
@@ -20691,6 +21189,7 @@
         "page": "2985",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "I switched desks at some point. Like I said, there were two desks there. At some point, I switched to the desk that was further away, but it had a line of sight to the Resolute Desk. That was more helpful to kind —— for the President and I to communicate."
     },
     {
@@ -20704,6 +21203,7 @@
         "page": "2986",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "That is the desk where the President sits in the Oval Office."
     },
     {
@@ -20717,6 +21217,7 @@
         "page": "2986",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "I did, yes."
     },
     {
@@ -20730,6 +21231,7 @@
         "page": "2986",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "I hope so."
     },
     {
@@ -20743,6 +21245,7 @@
         "page": "2986",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20756,6 +21259,7 @@
         "page": "2986",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20769,6 +21273,7 @@
         "page": "2986",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20782,6 +21287,7 @@
         "page": "2986",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20795,6 +21301,7 @@
         "page": "2986",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "He liked speaking with people in person or on the phone."
     },
     {
@@ -20808,6 +21315,7 @@
         "page": "2987",
         "lineNumber": "2",
         "character": "A.",
+        "voice": "Penny",
         "text": "A lot."
     },
     {
@@ -20821,6 +21329,7 @@
         "page": "2987",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "I remember times where, you know, I knew he was taking calls as early as 6 in the morning."
     },
     {
@@ -20834,6 +21343,7 @@
         "page": "2987",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Again, it depended. I recall times he would be on the phone late into the night after I went to bed, so I always felt guilty about that."
     },
     {
@@ -20847,12 +21357,21 @@
         "page": "2987",
         "lineNumber": "15",
         "character": "A.",
-        "text": "There is a rather complicated process. If the President is in the Oval Office and someone calls in and they had my desk phone number, they could just call that number. If the President was available, I would patch them through. If someone was calling in, John Smith, you know, off the street and just calling 1—800 White House, obviously, they wouldn’t be patched through to the Oval Office. But there were operators that took calls and then kind of determined if that person was someone that needed to get patched through either to myself or other members of the President’s staff. There were also calls made by the situation room. Calls that were more secure that might need to be on a secure line. People might call through the situation room. O. Once the White House operators had screened calls, did you see the calls that came to you after that?"
+        "voice": "Penny",
+        "text": "There is a rather complicated process. If the President is in the Oval Office and someone calls in and they had my desk phone number, they could just call that number. If the President was available, I would patch them through. If someone was calling in, John Smith, you know, off the street and just calling 1—800 White House, obviously, they wouldn’t be patched through to the Oval Office. But there were operators that took calls and then kind of determined if that person was someone that needed to get patched through either to myself or other members of the President’s staff. There were also calls made by the situation room. Calls that were more secure that might need to be on a secure line. People might call through the situation room."
+    },
+    {
+        "page": "2988",
+        "lineNumber": "4",
+        "character": "O.",
+        "voice": "Sophie",
+        "text": "Once the White House operators had screened calls, did you see the calls that came to you after that?"
     },
     {
         "page": "2988",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Penny",
         "text": "I am sorry."
     },
     {
@@ -20866,6 +21385,7 @@
         "page": "2988",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "If he was in the Oval Office, yes."
     },
     {
@@ -20879,6 +21399,7 @@
         "page": "2988",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20892,6 +21413,7 @@
         "page": "2988",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "Not to my knowledge."
     },
     {
@@ -20905,6 +21427,7 @@
         "page": "2988",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Penny",
         "text": "Not to my knowledge."
     },
     {
@@ -20918,6 +21441,7 @@
         "page": "2988",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "He liked hard copy documents."
     },
     {
@@ -20931,6 +21455,7 @@
         "page": "2988",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20944,6 +21469,7 @@
         "page": "2988",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "It did, yes."
     },
     {
@@ -20957,6 +21483,7 @@
         "page": "2989",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "After a few weeks, he kind of moved his working space into a room off of the side of the Oval Office, known as the dining room. He really just, I remember, wanted to keep the Resolute Desk very pristine and kind of keep that more for meetings. Then he spent most of the time when he was working, reading, going over documents in the dining room. And that was really his working office."
     },
     {
@@ -20970,6 +21497,7 @@
         "page": "2989",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -20983,6 +21511,7 @@
         "page": "2989",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "To my understanding, the President knew where things were and he kept it organized. But he did have a lot of papers and often brought things back and forth to his residence or Air Force One or Marine One. I thought he always knew where things were."
     },
     {
@@ -20996,6 +21525,7 @@
         "page": "2989",
         "lineNumber": "20",
         "character": "A.",
+        "voice": "Penny",
         "text": "In my experience, yes."
     },
     {
@@ -21009,6 +21539,7 @@
         "page": "2989",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "He did."
     },
     {
@@ -21022,6 +21553,7 @@
         "page": "2990",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "He preferred to sign things himself."
     },
     {
@@ -21035,6 +21567,7 @@
         "page": "2990",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21048,6 +21581,7 @@
         "page": "2990",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "My recollection is he liked to use a Sharpie or a felt—tip pen."
     },
     {
@@ -21061,6 +21595,7 @@
         "page": "2990",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21074,6 +21609,7 @@
         "page": "2990",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21087,6 +21623,7 @@
         "page": "2990",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21100,6 +21637,7 @@
         "page": "2990",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "He did, yes."
     },
     {
@@ -21113,6 +21651,7 @@
         "page": "2990",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "Twitter."
     },
     {
@@ -21126,6 +21665,7 @@
         "page": "2990",
         "lineNumber": "23",
         "character": "A.",
+        "voice": "Penny",
         "text": "X."
     },
     {
@@ -21139,6 +21679,7 @@
         "page": "2991",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "@realdonaldtrump."
     },
     {
@@ -21152,6 +21693,7 @@
         "page": "2991",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Penny",
         "text": "He did, yes."
     },
     {
@@ -21165,6 +21707,7 @@
         "page": "2991",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "It's my understanding that Dan Scavino had access to it."
     },
     {
@@ -21178,6 +21721,7 @@
         "page": "2991",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "Not to my knowledge."
     },
     {
@@ -21191,6 +21735,7 @@
         "page": "2991",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "I did not see Dan post, I didn't see the President or Dan ever post a single tweet. Not to my knowledge. If there was a video recap of an event or something that might have gone out without the President's approval, it's my understanding and recollection that the President did like to see the tweets that went out."
     },
     {
@@ -21204,6 +21749,7 @@
         "page": "2991",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "I believe so, yes."
     },
     {
@@ -21217,6 +21763,7 @@
         "page": "2991",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "Once in a while, if Dan wasn't available, the President would call me and dictate a tweet to me. I would quickly scribble it down and then go back to my computer and type it up so that the President could actually read it because he wasn't able to read my handwriting. Sometimes print it back out, give it to him so he could look over it. It just depended if he put it out or held onto it or made edits to. That was the extent of it."
     },
     {
@@ -21230,6 +21777,7 @@
         "page": "2992",
         "lineNumber": "9",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21243,6 +21791,7 @@
         "page": "2992",
         "lineNumber": "11",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21256,6 +21805,7 @@
         "page": "2992",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21269,6 +21819,7 @@
         "page": "2992",
         "lineNumber": "15",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sometimes, yes."
     },
     {
@@ -21282,6 +21833,7 @@
         "page": "2992",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sometimes."
     },
     {
@@ -21295,6 +21847,7 @@
         "page": "2992",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "My recollection is that there were certain words that he liked to capitalize. Words like \"country.\" And he liked to use exclamation points."
     },
     {
@@ -21308,6 +21861,7 @@
         "page": "2993",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "It's my understanding that he liked to use the Oxford comma."
     },
     {
@@ -21321,6 +21875,7 @@
         "page": "2993",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes. I think, you know, the first year of any administration is a transition year. We were all trying to learn our way around and, you know, do the best work we could for the American people."
     },
     {
@@ -21334,6 +21889,7 @@
         "page": "2993",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21347,6 +21903,7 @@
         "page": "2993",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21360,6 +21917,7 @@
         "page": "2993",
         "lineNumber": "17",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21373,6 +21931,7 @@
         "page": "2993",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "My understanding is he was attentive to things that were brought to his attention."
     },
     {
@@ -21386,6 +21945,7 @@
         "page": "2994",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "On some things, yes."
     },
     {
@@ -21399,6 +21959,7 @@
         "page": "2994",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21412,6 +21973,7 @@
         "page": "2994",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21425,6 +21987,7 @@
         "page": "2994",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "Rhona Graff."
     },
     {
@@ -21438,6 +22001,7 @@
         "page": "2994",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21451,6 +22015,7 @@
         "page": "2994",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21464,6 +22029,7 @@
         "page": "2994",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, sometimes."
     },
     {
@@ -21477,6 +22043,7 @@
         "page": "2994",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "No, but it could have been they asked somebody else."
     },
     {
@@ -21490,6 +22057,7 @@
         "page": "2994",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21503,6 +22071,7 @@
         "page": "2995",
         "lineNumber": "4",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes, we did."
     },
     {
@@ -21516,6 +22085,7 @@
         "page": "2995",
         "lineNumber": "6",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21529,6 +22099,7 @@
         "page": "2995",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21542,6 +22113,7 @@
         "page": "2995",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21555,6 +22127,7 @@
         "page": "2995",
         "lineNumber": "12",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21568,6 +22141,7 @@
         "page": "2995",
         "lineNumber": "14",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21581,6 +22155,7 @@
         "page": "2995",
         "lineNumber": "16",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21594,6 +22169,7 @@
         "page": "2995",
         "lineNumber": "18",
         "character": "A.",
+        "voice": "Penny",
         "text": "Such as?"
     },
     {
@@ -21607,6 +22183,7 @@
         "page": "2995",
         "lineNumber": "22",
         "character": "A.",
+        "voice": "Penny",
         "text": "Sure. Yes."
     },
     {
@@ -21620,6 +22197,7 @@
         "page": "2995",
         "lineNumber": "25",
         "character": "A.",
+        "voice": "Penny",
         "text": "Especially the first few months, I think Rhona and I spoke at least weekly. Sometimes daily. But that trickled off as I kind of grew in the role and the contacts kind of shifted over to more of the White House side."
     },
     {
@@ -21633,6 +22211,7 @@
         "page": "2996",
         "lineNumber": "7",
         "character": "A.",
+        "voice": "Penny",
         "text": "Dozens."
     },
     {
@@ -21646,6 +22225,7 @@
         "page": "2996",
         "lineNumber": "10",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21659,6 +22239,7 @@
         "page": "2996",
         "lineNumber": "13",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21686,6 +22267,7 @@
         "page": "2996",
         "lineNumber": "19",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21699,6 +22281,7 @@
         "page": "2996",
         "lineNumber": "21",
         "character": "A.",
+        "voice": "Penny",
         "text": "It’s an email exchange between Rhona and myself."
     },
     {
@@ -21712,6 +22295,7 @@
         "page": "2996",
         "lineNumber": "24",
         "character": "A.",
+        "voice": "Penny",
         "text": "From me to Rhona."
     },
     {
@@ -21725,6 +22309,7 @@
         "page": "2997",
         "lineNumber": "1",
         "character": "A.",
+        "voice": "Penny",
         "text": "Tuesday, January 20, 2017."
     },
     {
@@ -21738,6 +22323,7 @@
         "page": "2997",
         "lineNumber": "3",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21751,6 +22337,7 @@
         "page": "2997",
         "lineNumber": "5",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21764,6 +22351,7 @@
         "page": "2997",
         "lineNumber": "8",
         "character": "A.",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21848,6 +22436,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21861,6 +22450,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Contacts.\""
     },
     {
@@ -21874,6 +22464,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. \"Could you have the girls put together a list for me of people that he frequently spoke to? I don't want to have to bug you all the time, even though I will still call often.\" Smiley face."
     },
     {
@@ -21887,6 +22478,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "There were a couple of other assistants that worked under —— in The Trump Organization."
     },
     {
@@ -21900,6 +22492,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "President Trump."
     },
     {
@@ -21913,6 +22506,7 @@
         "page": "M. Westerhout — Direct/Mangold",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah. So, when I got to the White House, I, naively, assumed that the operators kind of had everybody's phone number, and that is not the case. They didn't have, really, any phone numbers. And so, the President would often ask, you know, call John Smith, call so and so, and I didn’t have their phone numbers. So, I would call Rhona all the time, asking for phone numbers for people, and that’s something —— I guess, four days in, I just asked her to put together a list for me that she thought would be helpful of people that he either spoke to often or might want to speak to."
     },
     {
@@ -21926,6 +22520,7 @@
         "page": "2999",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "She said: \"I’m working on it. Hope to have it to you in a little while.\""
     },
     {
@@ -21960,6 +22555,7 @@
         "page": "2999",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -21973,6 +22569,7 @@
         "page": "2999",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "An email exchange between myself and Rhona."
     },
     {
@@ -21986,6 +22583,7 @@
         "page": "2999",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Rhona."
     },
     {
@@ -21999,6 +22597,7 @@
         "page": "2999",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Me."
     },
     {
@@ -22012,6 +22611,7 @@
         "page": "3000",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Contacts.\""
     },
     {
@@ -22025,6 +22625,7 @@
         "page": "3000",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "\"How is this for a start? R.\""
     },
     {
@@ -22038,6 +22639,7 @@
         "page": "3000",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22051,6 +22653,7 @@
         "page": "3000",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Penny",
         "text": "Sorry?"
     },
     {
@@ -22064,6 +22667,7 @@
         "page": "3000",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22077,6 +22681,7 @@
         "page": "3000",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. It says, \"DJT limited contacts WH.\""
     },
     {
@@ -22090,6 +22695,7 @@
         "page": "3000",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "White House."
     },
     {
@@ -22103,6 +22709,7 @@
         "page": "3000",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. That’s an Excel document."
     },
     {
@@ -22116,6 +22723,7 @@
         "page": "3000",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22129,6 +22737,7 @@
         "page": "3000",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22156,6 +22765,7 @@
         "page": "3001",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22169,6 +22779,7 @@
         "page": "3001",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "This is a contact list."
     },
     {
@@ -22182,6 +22793,7 @@
         "page": "3001",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22195,6 +22807,7 @@
         "page": "3001",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22208,6 +22821,7 @@
         "page": "3001",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22249,6 +22863,7 @@
         "page": "3002",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. This is a contact list of the President’s friends, family, and people that he might want to speak to."
     },
     {
@@ -22262,6 +22877,7 @@
         "page": "3002",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "It’s my understanding that she put together a list of people that he either spoke to often or might want to speak to."
     },
     {
@@ -22317,6 +22933,7 @@
         "page": "3002",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22330,6 +22947,7 @@
         "page": "3002",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "Maryanne, Robert and Tiffany. The President’s sister, brother and daughter."
     },
     {
@@ -22343,6 +22961,7 @@
         "page": "3002",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22356,6 +22975,7 @@
         "page": "3003",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Allen Weisselberg."
     },
     {
@@ -22369,6 +22989,7 @@
         "page": "3003",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "The EVP and CFO of The Trump Organization."
     },
     {
@@ -22382,6 +23003,7 @@
         "page": "3003",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22395,6 +23017,7 @@
         "page": "3003",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "David Pecker."
     },
     {
@@ -22408,6 +23031,7 @@
         "page": "3003",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22421,6 +23045,7 @@
         "page": "3003",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "He’s —— at the time, I knew him to just be a tabloid person."
     },
     {
@@ -22448,6 +23073,7 @@
         "page": "3003",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Michael Cohen."
     },
     {
@@ -22461,6 +23087,7 @@
         "page": "3003",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22474,6 +23101,7 @@
         "page": "3003",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "I believe I entered all of these contacts into my contacts."
     },
     {
@@ -22487,6 +23115,7 @@
         "page": "3004",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, yes. But I tried to —— yes."
     },
     {
@@ -22507,6 +23136,7 @@
         "page": "3004",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "At that time, yes."
     },
     {
@@ -22520,6 +23150,7 @@
         "page": "3004",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "I believe he did, yes."
     },
     {
@@ -22547,6 +23178,7 @@
         "page": "3004",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22560,6 +23192,7 @@
         "page": "3004",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22573,6 +23206,7 @@
         "page": "3004",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "It’s an email from me to Michael Cohen."
     },
     {
@@ -22586,6 +23220,7 @@
         "page": "3005",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22641,6 +23276,7 @@
         "page": "3005",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Penny",
         "text": "February 5, 2017."
     },
     {
@@ -22654,6 +23290,7 @@
         "page": "3005",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22667,6 +23304,7 @@
         "page": "3005",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22680,6 +23318,7 @@
         "page": "3005",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22693,6 +23332,7 @@
         "page": "3005",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22706,6 +23346,7 @@
         "page": "3005",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Wednesday meeting.\""
     },
     {
@@ -22719,6 +23360,7 @@
         "page": "3006",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. \"Michael. We’re confirmed for 4:30 on Wednesday. What I need from you is the following: Full name as it appears on your ID. Date of birth. Social Security number. U.S. citizen, yes or no. Born in U.S., yes or no. Current city and state of residence. Thanks, Madeleine.\""
     },
     {
@@ -22732,6 +23374,7 @@
         "page": "3006",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Mr. Cohen was coming in to meet with the President."
     },
     {
@@ -22745,6 +23388,7 @@
         "page": "3006",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Not specifically."
     },
     {
@@ -22758,6 +23402,7 @@
         "page": "3006",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22778,6 +23423,7 @@
         "page": "3006",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "I have recently been refreshed. My memory has been refreshed, yes."
     },
     {
@@ -22791,6 +23437,7 @@
         "page": "3006",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "I recall an exchange between myself and Hope, a text that I sent her, asking if she had called David."
     },
     {
@@ -22804,6 +23451,7 @@
         "page": "3006",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22817,6 +23465,7 @@
         "page": "3006",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22830,6 +23479,7 @@
         "page": "3007",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t remember."
     },
     {
@@ -22843,6 +23493,7 @@
         "page": "3007",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t remember. The President met with a lot of people."
     },
     {
@@ -22870,6 +23521,7 @@
         "page": "3007",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22883,6 +23535,7 @@
         "page": "3007",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "This is a text exchange between myself and Hope Hicks."
     },
     {
@@ -22896,6 +23549,7 @@
         "page": "3007",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "Mine."
     },
     {
@@ -22909,6 +23563,7 @@
         "page": "3007",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Hope's."
     },
     {
@@ -22922,6 +23577,7 @@
         "page": "3007",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -22935,6 +23591,7 @@
         "page": "3007",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -22948,6 +23605,7 @@
         "page": "3007",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -22961,6 +23619,7 @@
         "page": "3007",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Hey —— the President wants to know if you called David Pecker again?\""
     },
     {
@@ -22974,6 +23633,7 @@
         "page": "3008",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -22987,6 +23647,7 @@
         "page": "3008",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -23000,6 +23661,7 @@
         "page": "3008",
         "lineNumber": "ll",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23027,6 +23689,7 @@
         "page": "3008",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23040,6 +23703,7 @@
         "page": "3008",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, not —— well, yes. I mean, he had worked for the President for a very long time. Um. So, yes."
     },
     {
@@ -23053,6 +23717,7 @@
         "page": "3008",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23066,6 +23731,7 @@
         "page": "3008",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "An email from me to Rhona Graff."
     },
     {
@@ -23079,6 +23745,7 @@
         "page": "3009",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "January 27, 2017."
     },
     {
@@ -23092,6 +23759,7 @@
         "page": "3009",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "\"NYT\" —— I’m sorry. \"Photo.\""
     },
     {
@@ -23105,6 +23773,7 @@
         "page": "3009",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. \"Can you please send this to Allen Weisselberg from the President? He sent to his family and wanted to\" —— sorry. \"He sent to his family and wanted Allen to see it as well. First time boarding Air Force One.\""
     },
     {
@@ -23118,6 +23787,7 @@
         "page": "3009",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23131,6 +23801,7 @@
         "page": "3009",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "I'm not sure I can speak to the specifics of their relationship, but I believe Allen had worked for him for a long time, so I understood them to be close."
     },
     {
@@ -23144,6 +23815,7 @@
         "page": "3009",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t recall specific messages other than this one, but it wouldn’t surprise me."
     },
     {
@@ -23171,6 +23843,7 @@
         "page": "3010",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "I’m sorry. Say that again."
     },
     {
@@ -23184,6 +23857,7 @@
         "page": "3010",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -23211,6 +23885,7 @@
         "page": "3010",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "This is the cover of The New York Times, and it’s the President boarding Air Force One for the first time."
     },
     {
@@ -23224,6 +23899,7 @@
         "page": "3010",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23244,6 +23920,7 @@
         "page": "3010",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "It’s my understanding they were handled by checks."
     },
     {
@@ -23257,6 +23934,7 @@
         "page": "3010",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Checks came to the White House —— I’m sorry. Checks were sent from The Trump Organization to an employee at the White House, and I brought them in for the President to sign."
     },
     {
@@ -23270,6 +23948,7 @@
         "page": "3010",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "They were originally sent to Keith Schiller, and then, later, they were sent to me."
     },
     {
@@ -23283,6 +23962,7 @@
         "page": "3011",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "The checks came in a FedEx envelope. Um, so I opened the envelope. And inside was a manila folder with a stack of checks. And I brought the manila folder in to the President for him to sign."
     },
     {
@@ -23296,6 +23976,7 @@
         "page": "3011",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I didn’t really dig around in the folder, but, um, I believe there were invoices attached to some of the checks sometimes."
     },
     {
@@ -23309,6 +23990,7 @@
         "page": "3011",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23322,6 +24004,7 @@
         "page": "3011",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23335,6 +24018,7 @@
         "page": "3011",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "I don't recall how frequently, but it was, um, consistent. Maybe twice a month?"
     },
     {
@@ -23348,6 +24032,7 @@
         "page": "3011",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "It depended. Sometimes there was —— sometimes there was one. Sometimes there was a stack, maybe half—an—inch thick. I never counted them."
     },
     {
@@ -23361,6 +24046,7 @@
         "page": "3012",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t remember."
     },
     {
@@ -23374,6 +24060,7 @@
         "page": "3012",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Sometimes, yes."
     },
     {
@@ -23387,6 +24074,7 @@
         "page": "3012",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Penny",
         "text": "To my knowledge, the ones that I saw him sign. I can’t speak to the ones that I didn’t see him sign."
     },
     {
@@ -23400,6 +24088,7 @@
         "page": "3012",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "He would give the folder back to me, and I would put it in a pre—labeled FedEx envelope and send it back to The Trump Organization."
     },
     {
@@ -23413,6 +24102,7 @@
         "page": "3012",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23426,6 +24116,7 @@
         "page": "3012",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23439,6 +24130,7 @@
         "page": "3012",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, no, I don’t recall a specific time."
     },
     {
@@ -23452,6 +24144,7 @@
         "page": "3012",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I think I remember, maybe, a couple times him having a question about a check and then calling Allen —— Allen Weisselberg or somebody else in the Trump Organization to ask for clarification."
     },
     {
@@ -23500,6 +24193,7 @@
         "page": "3013",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23513,6 +24207,7 @@
         "page": "3013",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "An email from Rhona to me."
     },
     {
@@ -23526,6 +24221,7 @@
         "page": "3013",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "April 6, 2017."
     },
     {
@@ -23539,6 +24235,7 @@
         "page": "3013",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "\"M: Here is the FedEx label you requested. Hope it works.\" Winking face."
     },
     {
@@ -23552,6 +24249,7 @@
         "page": "3013",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23579,6 +24277,7 @@
         "page": "3014",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. It’s a FedEx label."
     },
     {
@@ -23592,6 +24291,7 @@
         "page": "3014",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Rebecca Manochio"
     },
     {
@@ -23605,6 +24305,7 @@
         "page": "3014",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "The Trump ——"
     },
     {
@@ -23618,6 +24319,7 @@
         "page": "3014",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "I'm sorry?"
     },
     {
@@ -23631,6 +24333,7 @@
         "page": "3014",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "The Trump Organization, 725 Fifth Avenue, 26th floor, New York, New York."
     },
     {
@@ -23644,6 +24347,7 @@
         "page": "3014",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. Keith Schiller."
     },
     {
@@ -23657,6 +24361,7 @@
         "page": "3014",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "At this time, yes."
     },
     {
@@ -23670,6 +24375,7 @@
         "page": "3014",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I probably had misplaced the return package with the pre—paid label, and so I was just requesting a new one."
     },
     {
@@ -23683,6 +24389,7 @@
         "page": "3015",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Probably."
     },
     {
@@ -23696,6 +24403,7 @@
         "page": "3015",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Not to my recollection."
     },
     {
@@ -23723,6 +24431,7 @@
         "page": "3015",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. It’s an email from me to Rhona Graff."
     },
     {
@@ -23736,6 +24445,7 @@
         "page": "3015",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "July 18, 2017."
     },
     {
@@ -23749,6 +24459,7 @@
         "page": "3015",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Checks.\""
     },
     {
@@ -23762,6 +24473,7 @@
         "page": "3015",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "\"R. Can you have someone send me a FedEx label to send back the checks the President just signed?\""
     },
     {
@@ -23775,6 +24487,7 @@
         "page": "3015",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Probably."
     },
     {
@@ -23795,6 +24508,7 @@
         "page": "3015",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "I —— I don’t know the answer to that."
     },
     {
@@ -23808,6 +24522,7 @@
         "page": "3016",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Oh. Yes."
     },
     {
@@ -23842,6 +24557,7 @@
         "page": "3016",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. It’s an email from me to Rhona Graff."
     },
     {
@@ -23855,6 +24571,7 @@
         "page": "3016",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "February 21, 2017."
     },
     {
@@ -23868,6 +24585,7 @@
         "page": "3016",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Winged Foot Golf Club.\""
     },
     {
@@ -23881,6 +24599,7 @@
         "page": "3016",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "I believe it's a golf club."
     },
     {
@@ -23894,6 +24613,7 @@
         "page": "3016",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Rhona. Can you help me with this? See attached. Thanks. Let me know if I should call them directly.\""
     },
     {
@@ -23921,6 +24641,7 @@
         "page": "3016",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23934,6 +24655,7 @@
         "page": "3017",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "This is an invoice."
     },
     {
@@ -23947,6 +24669,7 @@
         "page": "3017",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "For the President’s annual dues to the Winged Foot Golf Club."
     },
     {
@@ -23960,6 +24683,7 @@
         "page": "3017",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -23973,6 +24697,7 @@
         "page": "3017",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24000,6 +24725,7 @@
         "page": "3017",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24013,6 +24739,7 @@
         "page": "3017",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24026,6 +24753,7 @@
         "page": "3017",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "$6,974.01."
     },
     {
@@ -24039,6 +24767,7 @@
         "page": "3017",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "I believe that’s Rhona Graff's."
     },
     {
@@ -24052,6 +24781,7 @@
         "page": "3017",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Dear President, If Winged Foot will allow me to suspend your membership for four or eight years, do you want me to look into it, or do you want to continue paying annual dues and the food minimum?\" I believe that’s just \"RG\"."
     },
     {
@@ -24065,6 +24795,7 @@
         "page": "3018",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24078,6 +24809,7 @@
         "page": "3018",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "That's the President."
     },
     {
@@ -24091,6 +24823,7 @@
         "page": "3018",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Penny",
         "text": "It looks to be a Sharpie."
     },
     {
@@ -24104,6 +24837,7 @@
         "page": "3018",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Hey.\""
     },
     {
@@ -24117,6 +24851,7 @@
         "page": "3018",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. \"ASAP. Okay.\""
     },
     {
@@ -24130,6 +24865,7 @@
         "page": "3018",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. The shortened signature."
     },
     {
@@ -24143,6 +24879,7 @@
         "page": "3018",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, this one —— obviously, he wouldn’t really be able to use a membership of this golf club while he was in office, so I believe Rhona was asking if she wanted him to suspend his membership or pay the annual dues."
     },
     {
@@ -24156,6 +24893,7 @@
         "page": "3018",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, this was included in the stack of checks. So, by —— yes. I passed it along in the sense that I gave him this note."
     },
     {
@@ -24169,6 +24907,7 @@
         "page": "3019",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24196,6 +24935,7 @@
         "page": "3019",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. It’s an email exchange between Rhona and myself."
     },
     {
@@ -24223,6 +24963,7 @@
         "page": "3019",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "From me, to Rhona."
     },
     {
@@ -24236,6 +24977,7 @@
         "page": "3019",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "June 20, 2017."
     },
     {
@@ -24249,6 +24991,7 @@
         "page": "3019",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Photo.\""
     },
     {
@@ -24262,6 +25005,7 @@
         "page": "3019",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "\"This is what I have.\""
     },
     {
@@ -24275,6 +25019,7 @@
         "page": "3019",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. I believe this was in relation to a photograph that Mr. Trump —— that President Trump wanted to put in a frame to put behind his desk in the Oval Office. So, behind the Resolute Desk, there was a little credenza; and as time went on, he put pictures of his family behind him."
     },
     {
@@ -24288,6 +25033,7 @@
         "page": "3020",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "\"Wow. I never saw this one. And in color too. It’s not one of the photos I gave to Lara Trump. I’m trying to find out what happened to those. In answer to your question, however, I don’t have any empty Tiffany frames. I could go to Tiffany's next door and get one with the account we have with them.\""
     },
     {
@@ -24301,6 +25047,7 @@
         "page": "3020",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Penny",
         "text": "\"If you don't mind doing that, that would be wonderful. He did mention a Tiffany frame.\""
     },
     {
@@ -24314,6 +25061,7 @@
         "page": "3020",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "It says: \"Please note that the frames are on the pricey side. About $650 minus 15 percent discount. Does DJT want to spend that much?\""
     },
     {
@@ -24327,6 +25075,7 @@
         "page": "3020",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "That they were more expensive."
     },
     {
@@ -24340,6 +25089,7 @@
         "page": "3020",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "President Trump."
     },
     {
@@ -24353,6 +25103,7 @@
         "page": "3020",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t recall any other instances of this. I know this one was important and special because it was a photo of what I remember to be his mother, so he wanted a nice frame for that."
     },
     {
@@ -24366,6 +25117,7 @@
         "page": "3021",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t recall any other instances like this."
     },
     {
@@ -24379,12 +25131,14 @@
         "page": "3021",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "I don’t. We may have made the executive decision without his approval."
     },
     {
         "page": "3021",
         "lineNumber": "12",
         "character": "THE WITNESS:",
+        "voice": "Penny",
         "text": "Sorry, Sir."
     },
     {
@@ -24398,6 +25152,7 @@
         "page": "3021",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "I really —— I don’t know. I think she may have —— I don’t know. I'm sorry."
     },
     {
@@ -24411,6 +25166,7 @@
         "page": "3021",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24424,6 +25180,7 @@
         "page": "3021",
         "lineNumber": "21",
         "character": "A",
+        "voice": "Penny",
         "text": "I remember he was very upset by it."
     },
     {
@@ -24437,6 +25194,7 @@
         "page": "3021",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I believe they spoke around that time, yes."
     },
     {
@@ -24450,6 +25208,7 @@
         "page": "3022",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "I did, yes."
     },
     {
@@ -24463,6 +25222,7 @@
         "page": "3022",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24476,6 +25236,7 @@
         "page": "3022",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "I —— I believe they have a relationship of mutual respect. Um, I —— I just found their relationship really, um, special. I know he cares a lot about her opinion. There was really no one else that could kind of put him in his place, too. So, he was my boss, but she was definitely the one in charge. But, I —— I just remember thinking that their relationship was really special. They laughed a lot when she came in to the Oval Office. Um. And he would, you know, once in a while tell me to call her and let her know that he was running late. Just like any other marriage. Like, \"Honey, I’m going to be late for dinner.\" She would call me sometimes and say, \"It's past dinnertime. When is my husband coming home?\" So, I just really respected their relationship."
     },
     {
@@ -24489,6 +25250,7 @@
         "page": "3022",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Not that I saw, no."
     },
     {
@@ -24502,6 +25264,7 @@
         "page": "3023",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "I did."
     },
     {
@@ -24515,6 +25278,7 @@
         "page": "3023",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. In August of 2019, I was invited by a White House colleague of mine to what I understood to be an off—the—record dinner. And at that dinner I said some things that I should not have said. That mistake, eventually —— ultimately, cost me my job. And I am very regretful of my youthful indiscretion. But I feel like I've learned a lot from that experience. I think I’ve grown a lot since then. (Crying). Sorry."
     },
     {
@@ -24542,6 +25306,7 @@
         "page": "3023",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "No. I’m okay."
     },
     {
@@ -24555,6 +25320,7 @@
         "page": "3023",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "I did, yes."
     },
     {
@@ -24582,6 +25348,7 @@
         "page": "3024",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. That’s the cover of my book."
     },
     {
@@ -24595,6 +25362,7 @@
         "page": "3024",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24643,6 +25411,7 @@
         "page": "3024",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "It is called Off the Record; My Dream Job at the White House; How I Lost It and What I Learned."
     },
     {
@@ -24656,6 +25425,7 @@
         "page": "3024",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I wrote the book because I —— I needed time to process what I had just been through. But, I also wanted to document for myself and my family the incredible experience that I had had working in the White House. Um, I also felt it was really important to share with the American people the man that I got to know. (Crying). Um, I thought it was really important to share with the American people the man that I got to know. I don’t think he’s treated fairly, and I wanted to tell that story. (Crying)."
     },
     {
@@ -24669,6 +25439,7 @@
         "page": "3025",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Since the publication, yes."
     },
     {
@@ -24682,6 +25453,7 @@
         "page": "3025",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, I —— he was at a fundraiser in Orange County, where I lived, last Fall. And I hadn't seen him since I left the White House. And so I called one of his aides. (Crying)."
     },
     {
@@ -24695,6 +25467,7 @@
         "page": "3025",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "No, I did not. I called one of his aides and asked if I could come to the fundraiser to say hello, and they said yes. So, I got to see him then. (Crying)."
     },
     {
@@ -24708,6 +25481,7 @@
         "page": "3025",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -24761,6 +25535,7 @@
         "page": "3026",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24774,6 +25549,7 @@
         "page": "3026",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24787,6 +25563,7 @@
         "page": "3026",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "He did."
     },
     {
@@ -24800,6 +25577,7 @@
         "page": "3026",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah. I didn't have anything negative to say, so why would I write it?"
     },
     {
@@ -24813,6 +25591,7 @@
         "page": "3026",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "I did, yes. And he was."
     },
     {
@@ -24826,6 +25605,7 @@
         "page": "3026",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. (Crying)."
     },
     {
@@ -24839,6 +25619,7 @@
         "page": "3026",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24852,6 +25633,7 @@
         "page": "3026",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24865,6 +25647,7 @@
         "page": "3026",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -24878,6 +25661,7 @@
         "page": "3026",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. That's right."
     },
     {
@@ -24891,6 +25675,7 @@
         "page": "3027",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24904,6 +25689,7 @@
         "page": "3027",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Uh—uh, no."
     },
     {
@@ -24917,6 +25703,7 @@
         "page": "3027",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24930,6 +25717,7 @@
         "page": "3027",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "That was my —— that’s my recollection, yes."
     },
     {
@@ -24943,6 +25731,7 @@
         "page": "3027",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24956,6 +25745,7 @@
         "page": "3027",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah."
     },
     {
@@ -24969,6 +25759,7 @@
         "page": "3027",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24982,6 +25773,7 @@
         "page": "3027",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -24995,6 +25787,7 @@
         "page": "3027",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah."
     },
     {
@@ -25008,6 +25801,7 @@
         "page": "3028",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25021,6 +25815,7 @@
         "page": "3028",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Not that I was aware of."
     },
     {
@@ -25048,6 +25843,7 @@
         "page": "3028",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Can you repeat that?"
     },
     {
@@ -25061,6 +25857,7 @@
         "page": "3028",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25074,6 +25871,7 @@
         "page": "3028",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25087,6 +25885,7 @@
         "page": "3028",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25100,6 +25899,7 @@
         "page": "3028",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Not that I remember, but I trust you."
     },
     {
@@ -25113,6 +25913,7 @@
         "page": "3028",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, I do."
     },
     {
@@ -25126,6 +25927,7 @@
         "page": "3029",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah."
     },
     {
@@ -25139,6 +25941,7 @@
         "page": "3029",
         "lineNumber": "6",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah."
     },
     {
@@ -25152,6 +25955,7 @@
         "page": "3029",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "He did."
     },
     {
@@ -25165,6 +25969,7 @@
         "page": "3029",
         "lineNumber": "11",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25178,6 +25983,7 @@
         "page": "3029",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25191,6 +25997,7 @@
         "page": "3029",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25204,6 +26011,7 @@
         "page": "3029",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25217,6 +26025,7 @@
         "page": "3029",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25230,6 +26039,7 @@
         "page": "3029",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25243,6 +26053,7 @@
         "page": "3029",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25256,6 +26067,7 @@
         "page": "3030",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, yeah —— yes. At least schedule the interviews. I don’t know if I was involved in finding them or vetting them. But, scheduling their interviews, yes."
     },
     {
@@ -25269,6 +26081,7 @@
         "page": "3030",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. I believe —— I think I did a lot of them. Yes."
     },
     {
@@ -25282,6 +26095,7 @@
         "page": "3030",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25295,6 +26109,7 @@
         "page": "3030",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Uh—huh. Yes."
     },
     {
@@ -25308,6 +26123,7 @@
         "page": "3030",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25321,6 +26137,7 @@
         "page": "3030",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25334,6 +26151,7 @@
         "page": "3030",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah."
     },
     {
@@ -25347,6 +26165,7 @@
         "page": "3031",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. Trump Tower was in the middle of Midtown Manhattan. It’s protected by Secret Service. And these people were coming in for the most important interviews of their lives. So, I took it upon myself to greet them downstairs so they wouldn’t get lost."
     },
     {
@@ -25360,6 +26179,7 @@
         "page": "3031",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah. I tried to not let it get to me. But —— I think people said I was unqualified."
     },
     {
@@ -25373,6 +26193,7 @@
         "page": "3031",
         "lineNumber": "14",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25386,6 +26207,7 @@
         "page": "3031",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25399,6 +26221,7 @@
         "page": "3031",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "(No response)."
     },
     {
@@ -25412,6 +26235,7 @@
         "page": "3031",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25425,6 +26249,7 @@
         "page": "3031",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25438,6 +26263,7 @@
         "page": "3032",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Not to my knowledge. But ——"
     },
     {
@@ -25451,6 +26277,7 @@
         "page": "3032",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25464,6 +26291,7 @@
         "page": "3032",
         "lineNumber": "7",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25477,6 +26305,7 @@
         "page": "3032",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25490,6 +26319,7 @@
         "page": "3032",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25503,6 +26333,7 @@
         "page": "3032",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25516,6 +26347,7 @@
         "page": "3032",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yeah. November, December —— yeah. Two—and—a—half months."
     },
     {
@@ -25529,6 +26361,7 @@
         "page": "3032",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Uh—huh."
     },
     {
@@ -25556,6 +26389,7 @@
         "page": "3032",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25569,6 +26403,7 @@
         "page": "3033",
         "lineNumber": "3",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25582,6 +26417,7 @@
         "page": "3033",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Um, it was amazing. Um, I think —— I, um, yeah. I really had not spent any time with him. But, I don't know if anybody should feel like they deserve to be in the West Wing, but he made me —— he never once made me feel like I didn’t deserve that job and I didn’t belong there. Especially in an office filled with older men. Um, he never made me feel like I didn’t —— I didn't belong there. Um, he was a really good boss. He —— I hope he respected me in my job and —— yeah. I just found him very enjoyable to work for."
     },
     {
@@ -25595,6 +26431,7 @@
         "page": "3033",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25608,6 +26445,7 @@
         "page": "3033",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "Very close, yes."
     },
     {
@@ -25621,6 +26459,7 @@
         "page": "3033",
         "lineNumber": "24",
         "character": "A",
+        "voice": "Penny",
         "text": "Definitely."
     },
     {
@@ -25634,6 +26473,7 @@
         "page": "3034",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25647,6 +26487,7 @@
         "page": "3034",
         "lineNumber": "5",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes. Um, sometimes I would look down on my phone, and if the red light was on, I knew that he was on the phone, but I hadn't placed the call. So, if he was sitting in the Oval Office, I would kind of look up and look into the Oval Office, and there were times when I could kind of figure out that he was on the phone with Mrs. Trump. And he would say, you know, \"Honey, come over to the window.\" And there was a window in the residence where you could see from the residence into the Oval Office. And he would say, \"Come to the window,\" and they would kind of wave to each other (waves). When he was, you know, boarding Marine One on the South Lawn, he would call Mrs. Trump and say, \"Honey, I’m about to board,\" which I always found funny. Like, of course she knows his schedule. He just wanted to say hi and check in."
     },
     {
@@ -25687,6 +26528,7 @@
         "page": "3035",
         "lineNumber": "8",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25700,6 +26542,7 @@
         "page": "3035",
         "lineNumber": "10",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25713,6 +26556,7 @@
         "page": "3035",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, uh—huh."
     },
     {
@@ -25726,6 +26570,7 @@
         "page": "3035",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "That's right."
     },
     {
@@ -25739,6 +26584,7 @@
         "page": "3035",
         "lineNumber": "18",
         "character": "A",
+        "voice": "Penny",
         "text": "Oh, yes, uh—huh."
     },
     {
@@ -25752,6 +26598,7 @@
         "page": "3035",
         "lineNumber": "20",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25765,6 +26612,7 @@
         "page": "3035",
         "lineNumber": "23",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, uh—huh."
     },
     {
@@ -25778,6 +26626,7 @@
         "page": "3036",
         "lineNumber": "1",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, uh—huh."
     },
     {
@@ -25791,6 +26640,7 @@
         "page": "3036",
         "lineNumber": "4",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, absolutely."
     },
     {
@@ -25804,6 +26654,7 @@
         "page": "3036",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25817,6 +26668,7 @@
         "page": "3036",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25830,6 +26682,7 @@
         "page": "3036",
         "lineNumber": "15",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25843,6 +26696,7 @@
         "page": "3036",
         "lineNumber": "17",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, uh—huh."
     },
     {
@@ -25856,6 +26710,7 @@
         "page": "3036",
         "lineNumber": "19",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes, uh—huh."
     },
     {
@@ -25869,6 +26724,7 @@
         "page": "3036",
         "lineNumber": "22",
         "character": "A",
+        "voice": "Penny",
         "text": "That's right."
     },
     {
@@ -25882,6 +26738,7 @@
         "page": "3036",
         "lineNumber": "25",
         "character": "A",
+        "voice": "Penny",
         "text": "No."
     },
     {
@@ -25895,6 +26752,7 @@
         "page": "3037",
         "lineNumber": "2",
         "character": "A",
+        "voice": "Penny",
         "text": "I don't think I needed his calendar. But, yeah, yeah, a lot of things that you would think, like, as a new Executive Assistant you would get. But there was no transition into the White House so Rhona was very helpful."
     },
     {
@@ -25908,6 +26766,7 @@
         "page": "3037",
         "lineNumber": "9",
         "character": "A",
+        "voice": "Penny",
         "text": "Yes."
     },
     {
@@ -25921,6 +26780,7 @@
         "page": "3037",
         "lineNumber": "13",
         "character": "A",
+        "voice": "Penny",
         "text": "No, uh—uh."
     },
     {
@@ -25934,6 +26794,7 @@
         "page": "3037",
         "lineNumber": "16",
         "character": "A",
+        "voice": "Penny",
         "text": "That's correct."
     },
     {
@@ -26192,6 +27053,7 @@
         "page": "3055",
         "lineNumber": "12",
         "character": "A",
+        "voice": "Penny",
         "text": "little bit later on, I already read it to the Court in response to the Gag Order, the question was: \"What was your reaction to seeing him like that?\" Now, before the —— before the witness took the stand, there was direction given by the Court about limiting that. There was additional direction by the Court after the break about moving expeditiously through this. And there is an open—ended question about what your reaction was to seeing him like that. There is a very long answer that, again, is completely different than the story that Mr. Cohen, that AMI knew about, Dylan Howard, Gina Rodriguez, the story that they had been told about in 2016, when they were presumably negotiating and determining what —— whether to pay for this story. That's not the story that they were told. So, it's not relevant, and it shouldn't have been asked. And I already read that. I'm not going to reread it again. And then, it didn't stop there. Page 2610 of the transcript onto Page 2611, there is a long question about what happened when she exited the bathroom. And this is where, again, she said something not anywhere near the story that was told, supposedly, to Mr. Cohen. She says: \"I went to step around. I laughed nervously, tried to make a joke out of it and to step around to leave. Even though I was moving like I was in a funhouse, like slow motion. I thought to myself; great. I put myself in this bad situation. Like, what did I do? How did I misread everything? He stood up between me and the door. Not in a threatening manner. He didn't come at me. He didn't rush at me. He didn't put his hands on me or nothing like that. I said, I got to go. He said, I thought we were getting somewhere. We were talking. I thought you were serious about what you wanted, if you ever want to get out of that trailer park.\" Now, again, that is a power description. That is an extremely prejudicial statement by a witness that was never said to —— there is no evidence that that was said to AMI. There was no evidence that that was said to Mr. Cohen. There was no evidence that that had anything to do with the motive of anybody involved in this case to enter into that NDA in 2016. On the other hand, it's just extraordinarily prejudicial for a jury to hear. Shortly thereafter, 2611 to '12, the question is: \"What happened next, briefly?\" Okay. There has already been testimony —— the Court was clear with the Government to not go into more than just the fact that it happened. But, they didn't abide by the Court's rules. \"What happened next?\" And the witness says, \"I think I blacked out. I wasn't drunk. I just don't remember.\" And then there was the questions that we talked about yesterday, about how —— the size; how tall was he. So, there is a question: \"So, he was standing up and you were standing up. What were your relative heights?\" How is that relevant to this case? That is so prejudicial, and so incredible for a jury to hear the Government ask a witness talking about what she's now saying is a power move by the person who she's having sex with, okay. And the DA says: \"Well, what were your heights,\" knowing the answer. Now, we didn't know the answer because we didn't get any notes from their prep except for one from December. But, they knew the answer because there was no surprise when she said, \"I'm 5'6\"; I don't know how tall he was, but several inches taller and much larger.\" Okay. Now —— and then there was a question about the —— whether a —— at 2613, about whether she felt threatened and the answer was, \"No. Not physically.\" And then she describes how threatened she felt. \"Although I did note there was a bodyguard right outside the door. There was an imbalance of power for sure.\" I mean, that is —— I mean, you have jurors who are now hearing about an imbalance of power between a man and a woman. And none of that information is information that goes to the motive of anybody in this case, including President Trump, because it's not any information that she was saying at the time, which is the only reason that evidence is coming in, your Honor. And, then, even though your Honor had said that, clearly, that that's fine —— this is the transcript at Page 2511, before the witness took the stand: \"We don't need to know the details of the intercourse.\" But the People still asked. And then the People said: \"Can you very briefly describe, you know, where you had sex with him?\" She describes it. In detail. Right. And I'm not going to read all of the whole answer. But it's 2613 and '14. And, again, I don't know what —— I mean, our understanding of the Court's motion in limine for why this evidence was coming in and then your Honor's instructions, there was no basis for the Government to ask that question, given what the testimony was offered for, your Honor. And then the People didn't stop there. They asked whether she remembers how her clothes came off. And the answer was no. And the question —— and, again, presumably the Government knows this is coming —— says, \"Is that a memory that has not come back to you?\" Again, that is so prejudicial to suggest that there was an event where —— again, I mean, nothing to do with this case and why we're here. And the answer, that was an objection sustained, but it's the question that should never have been asked. Thereafter, the Government wouldn't stop. They said: \"Do you have a recollection of feeling something unusual that you have a memory of?\" There is no reason for that question, your Honor. That should not have been asked. And, you know, we didn't know these questions were coming. We didn't know. And that's —— you know, we had a sense from her documentary that she was changing her story. And we alerted the Court, and we alerted the Government, but we were sitting here, hearing that for the first time on the witness stand yesterday. And then, finally, at 2615: \"What, if anything, did you remember other than the fact that you had sex on the bed?\" The answer: \"I was staring at the ceiling. I didn't know how I got there. I made note like I was trying to think about anything other than what was happening there.\""
     },
     {

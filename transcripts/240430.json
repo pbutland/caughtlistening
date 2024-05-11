@@ -260,6 +260,11 @@
     },
     {
         "page": "Page 1581",
+        "lineNumber": "3",
+        "character": "CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:"
+    },
+    {
+        "page": "Page 1581",
         "lineNumber": "5",
         "character": "Q",
         "voice": "Sarah",
@@ -4040,6 +4045,11 @@
     },
     {
         "page": "Page 1615",
+        "lineNumber": "2",
+        "character": "CROSS EXAMINATION BY MR. BLANCHE:"
+    },
+    {
+        "page": "Page 1615",
         "lineNumber": "4",
         "character": "Q",
         "voice": "Joseph",
@@ -6482,6 +6492,11 @@
     },
     {
         "page": "Page 1643",
+        "lineNumber": "14",
+        "character": "REDIRECT EXAMINATION BY MS . MANGOLD:"
+    },
+    {
+        "page": "Page 1643",
         "lineNumber": "16",
         "character": "Q",
         "voice": "Sarah",
@@ -6584,6 +6599,11 @@
         "character": "MR. BLANCHE:",
         "voice": "Joseph",
         "text": "Just very brief."
+    },
+    {
+        "page": "Page 1644",
+        "lineNumber": "23",
+        "character": "RECROSS—EXAMINATION BY MR. BLANCHE:"
     },
     {
         "page": "Page 1644",
@@ -7250,6 +7270,11 @@
         "character": "THE COURT:",
         "voice": "Drew",
         "text": "Good morning, Doctor. You may inquire."
+    },
+    {
+        "page": "Page 1664",
+        "lineNumber": "5",
+        "character": "DIRECT EXAMINATION BY MS . MANGOLD:"
     },
     {
         "page": "Page 1664",
@@ -8195,6 +8220,11 @@
         "character": "THE COURT:",
         "voice": "Drew",
         "text": "Good morning. You may inquire."
+    },
+    {
+        "page": "Page 1673",
+        "lineNumber": "5",
+        "character": "DIRECT EXAMINATION BY MS . MANGOLD:"
     },
     {
         "page": "Page 1673",
@@ -10092,6 +10122,11 @@
         "character": "MR. STEINGLASS:",
         "voice": "Josh",
         "text": "Thank you, Judge."
+    },
+    {
+        "page": "Page 1690",
+        "lineNumber": "12",
+        "character": "DIRECT EXAMINATION BY MR . STE INGLASS :"
     },
     {
         "page": "Page 1690",
@@ -13897,6 +13932,11 @@
     },
     {
         "page": "Page 1728",
+        "lineNumber": "14",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
+    },
+    {
+        "page": "Page 1728",
         "lineNumber": "16",
         "character": "Q",
         "voice": "Josh",
@@ -17392,6 +17432,11 @@
     },
     {
         "page": "Page 1767",
+        "lineNumber": "3",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
+    },
+    {
+        "page": "Page 1767",
         "lineNumber": "5",
         "character": "Q.",
         "voice": "Josh",
@@ -18533,6 +18578,11 @@
     },
     {
         "page": "Page 1780",
+        "lineNumber": "9",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
+    },
+    {
+        "page": "Page 1780",
         "lineNumber": "11",
         "character": "Q.",
         "voice": "Josh",
@@ -18988,6 +19038,11 @@
     },
     {
         "page": "Page 1785",
+        "lineNumber": "14",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
+    },
+    {
+        "page": "Page 1785",
         "lineNumber": "16",
         "character": "Q.",
         "voice": "Josh",
@@ -19111,6 +19166,11 @@
         "character": "THE COURT:",
         "voice": "Drew",
         "text": "Okay. The objection is sustained."
+    },
+    {
+        "page": "Page 1787",
+        "lineNumber": "5",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
     },
     {
         "page": "Page 1787",
@@ -19447,6 +19507,11 @@
         "character": "AUDIO DESCRIPTION:",
         "voice": "Glinda",
         "text": "Whereupon, the following proceedings were held in open court:"
+    },
+    {
+        "page": "Page 1790",
+        "lineNumber": "22",
+        "character": "CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:"
     },
     {
         "page": "Page 1790",

@@ -116,6 +116,8 @@ THE COURT: You may inquire.
 
 MR. COLANGELO: Thank you, your Honor.
 
+DIRECT EXAMINATION BY MR. COLANGELO:
+
 Q Good morning, Mr. McConney.
 
 A Good morning, sir.
@@ -1217,6 +1219,8 @@ A So, it’s a total of the domestic wire transfer for $130,000, plus the $50,00
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page. 
 
 AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
+
+CONTINUED DIRECT EXAMINATION BY MR. COLANGELO:
 
 Q So does the $180,000 amount reflect the total amount owed to Michael Cohen on his request for reimbursement for the $130,000 to Keith Davidson and $50,000 to Red Finch?
 
@@ -2584,6 +2588,8 @@ THE COURT: Mr. Colangelo.
 
 MR. COLANGELO: Thank you, your Honor.
 
+CONTINUED DIRECT EXAMINATION BY MR. COLANGELO:
+
 Q Good morning, again, Mr. McConney.
 
 A Good morning, sir.
@@ -3342,6 +3348,8 @@ THE COURT: Your witness. You may inquire.
 
 MR. BOVE: Thank you.
 
+CROSS—EXAMINATION BY MR. BOVE:
+
 Q Good afternoon, Mr. McConney.
 
 A Good afternoon, sir. How are you?
@@ -3699,6 +3707,8 @@ AUDIO DESCRIPTION: Whereupon, Principal Court Reporter, Susan Pearce—Bates was
 AUDIO DESCRIPTION: Whereupon, the following proceedings were continued from previous page:
 
 THE COURT: Sustained.
+
+CONTINUED EXAMINATION BY MR. BOVE:
 
 Q. I think you testified on direct that there were two Trustees to The Trust?
 
@@ -4326,6 +4336,8 @@ THE COURT: People, any redirect?
 
 MR. COLANGELO: Yes, your Honor. Just a few questions.
 
+REDIRECT EXAMINATION BY MR. COLANGELO:
+
 Q. Mr. McConney, do expense reimbursements ordinarily get reported to the IRS?
 
 A. No.
@@ -4387,6 +4399,8 @@ A. Yes.
 MR. COLANGELO: I have no further questions.
 
 MR. BOVE: Very briefly.
+
+RECROSS EXAMINATION BY MR. BOVE:
 
 Q. You were asked whether reimbursements are typically disclosed to the IRS just now; do you remember that question?
 
@@ -4521,6 +4535,8 @@ THE COURT: Good afternoon.
 THE WITNESS: Good afternoon. You may inquire.
 
 MR. CONROY: Thank you.
+
+DIRECT EXAMINATION BY MR. CONROY:
 
 Q. Good afternoon.
 
@@ -6702,6 +6718,8 @@ THE COURT: Mr. Conroy.
 
 MR. CONROY: Thank you, Judge.
 
+CONTINUED DIRECT EXAMINATION BY MR. CONROY:
+
 Q I think as we were walking through those exhibits, I missed one.
 
 MR. CONROY: So if we could pull up People's 14.
@@ -7095,6 +7113,8 @@ MR. CONROY: Thank you, Judge. I have nothing further.
 THE COURT: Mr. Blanche.
 
 MR. BLANCHE: Thank you, your Honor.
+
+CROSS—EXAMINATION BY MR. BLANCHE:
 
 Q Good afternoon, Ms. Tarasoff. How are you?
 

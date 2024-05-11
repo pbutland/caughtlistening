@@ -186,6 +186,8 @@ MR. BOVE: Thank you, Judge. May I inquire?
 
 THE COURT: Please.
 
+CONTINUED CROSS—EXAMINATION BY MR. BOVE:
+
 Q Good morning, Mr. Daus.
 
 A Good morning.
@@ -1052,6 +1054,8 @@ THE COURT: Thank you. Any redirect?
 
 MR. CONROY: Yes. Thank you, Judge.
 
+REDIRECT EXAMINATION BY MR. CONROY:
+
 Q Good morning, Mr. Daus.
 
 A Good morning.
@@ -1168,6 +1172,8 @@ AUDIO DESCRIPTION: Sidebar concluded.
 
 THE COURT: The objection is overruled.
 
+CONTINUED REDIRECT EXAMINATION BY MR. CONROY:
+
 MR. CONROY: Could we have that last question read back when you are ready.
 
 AUDIO DESCRIPTION: Record read by the court reporter in open court at this time.
@@ -1191,6 +1197,8 @@ MR. CONROY: Thank you very much, Judge. I have nothing further.
 THE COURT: Mr. Bove.
 
 MR. BOVE: Yes, thank you.
+
+RECROSS—EXAMINATION BY MR. BOVE:
 
 Q Mr. Daus, let me just ask you, you were just asked questions about whether you observed evidence of tampering on CPl, right?
 
@@ -1268,6 +1276,8 @@ MR. BOVE: Nothing further.
 
 MR. CONROY: Very briefly.
 
+REDIRECT EXAMINATION 6 BY MR . CONROY:
+
 Q Mr. Daus, would you —— if I made a phone call seven years ago from the phone in my pocket, would you expect to see a log of that call on my phone, assuming that I used my phone?
 
 A I would not.
@@ -1339,6 +1349,8 @@ THE COURT: Good morning.
 MS. MANGOLD: May I inquire?
 
 THE COURT: Yes.
+
+DIRECT EXAMINATION BY MS . MANGOLD:
 
 Q Good morning, Ms. Longstreet.
 
@@ -1720,6 +1732,8 @@ MR. BLANCHE: Objection, your Honor.
 
 THE COURT: Objection is overruled.
 
+CONTINUED DIRECT EXAMINATION BY MS. MANGOLD:
+
 Q Can we now show the jury what is in evidence as People's Exhibit 407—A?
 
 AUDIO DESCRIPTION: Whereupon, People's Exhibit 407—A, a video, is played in open court.
@@ -1843,6 +1857,8 @@ A If you go after me, I am coming after you.
 MS. MANGOLD: No further questions.
 
 THE COURT: Your witness.
+
+CROSS—EXAMINATION 1 BY MR . BLANCHE:
 
 Q Good morning, Ms. Longstreet.
 
@@ -2068,6 +2084,8 @@ THE COURT: Good morning, Ms. Hicks. You may inquire.
 
 MR. COLANGELO: Thank you, your Honor.
 
+DIRECT EXAMINATION BY MR. COLANGELO:
+
 Q Good morning, Ms. Hicks. Will you please describe your educational background?
 
 A Sure, I have a —— I have a BA in English from Southern Methodist University, and that’s it. Very brief.
@@ -2079,6 +2097,8 @@ A After college I started working in different PR and marketing jobs. The first 
 AUDIO DESCRIPTION: Whereupon, Principal Court Reporter, Susan Pearce—Bates, was relieved by Senior Court Reporter, Theresa Magniccari.
 
 AUDIO DESCRIPTION: Whereupon,the following proceedings are continued from the previous page:
+
+CONTINUED DIRECT EXAMINATION BY MR. COLANGELO:
 
 Q. When did you begin work at the Trump Organization fulltime?
 
@@ -3782,6 +3802,8 @@ THE COURT: Mr. Colangelo.
 
 MR. COLANGELO: Thank you, your Honor.
 
+CONTINUED DIRECT EXAMINATION BY MR. COLANGELO:
+
 Q Good afternoon, Ms. Hicks. Before lunch, we were talking about an inquiry you got from Michael Rothfeld at The Wall Street Journal; do you remember that discussion?
 
 A Yes.
@@ -4502,6 +4524,8 @@ MR. BOVE: Thank you. May I inquire?
 
 THE COURT: You may.
 
+CROSS—EXAMINATION BY MR. BOVE:
+
 Q Ms. Hicks, I want to start by talking a little bit about your time at The Trump Organization, if that’s okay.
 
 A (Nods yes).
@@ -4573,6 +4597,8 @@ MR. BOVE: Yes.
 THE COURT: Mr. Bove.
 
 MR. BOVE: Thank you, Judge.
+
+CONTINUED CROSS EXAMINATION BY MR. BOVE:
 
 Q. If you need a minute, just let me know. We were talking about The Trump Organization, and I think you said this morning that it ran a little bit like a family business while you were there?
 

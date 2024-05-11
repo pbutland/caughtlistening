@@ -1244,7 +1244,9 @@ DIRECT EXAMINATION BY MS. HOFFINGER:
 
 Q Good morning, Ms. Daniels. Good morning.
 
-A Hi. O Ms. Daniels, have you also been known as Stephanie Clifford?
+A Hi.
+
+O Ms. Daniels, have you also been known as Stephanie Clifford?
 
 A Yes.
 
@@ -1293,46 +1295,6 @@ Q Okay. Tell us about the dancing, when you went on to that?
 A I was 17, I think, and a friend of mine —— I met a friend who told me that she was a dancer. I thought she meant the same kind of dancing that I did, which was ballet and jazz and tap. I was wrong. (Laughter.) She was an exotic dancer and invited me to the club to see her dance; and they didn't bother to check my ID. So I started dancing on the weekends, which was actually kind of cool because I didn't have to miss any classes and could still make more in two nights than I did shoveling manure eight hours a day. (Laughter).
 
 AUDIO DESCRIPTION: Whereupon, at this time, Principal Court Reporter Susan Pearce—Bates relieved Lisa Kramsky as the official court reporter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -2114,44 +2076,6 @@ AUDIO DESCRIPTION: Short recess is taken.
 
 AUDIO DESCRIPTION: Continued on the following page.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 AUDIO DESCRIPTION: Whereupon proceedings are continued from preceding page.
 
 THE COURT: Case on trial continued. Just two things. Mr. Blanche, did you speak to your client?
@@ -2184,7 +2108,9 @@ THE COURT: Ms. Hoffinger.
 
 MS. HOFFINGER: Thank you, your Honor.
 
-CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER: O. Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?
+CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:
+
+O. Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?
 
 A. Yes.
 
@@ -2520,9 +2446,13 @@ THE COURT: Yes.
 
 AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
-CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER: O. Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?
+CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:
 
-A. Yes. O. Tell the jury about that.
+O. Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?
+
+A. Yes.
+
+O. Tell the jury about that.
 
 A. The next day I met him, this time at my hotel, at a nightclub restaurant bar downstairs.
 
@@ -3040,49 +2970,7 @@ Q. How did that come about, that you agreed to be interviewed by In Touch?
 
 A. One of the other performers at Wicked, Randy Spears, his wife did entertainment, like PR management. Her name is Gina. She reached out to me and said that someone had sold a story about me and Mr. Trump to In Touch, or to a magazine —— I am not sure if she said In Touch —— to a magazine, and they were going to do a story, and I freaked out. I don't know who leaked it. I had just had my daughter. I said no at first. She said, they're going to run it anyway, better that you take control. I didn't have money at the time. You can't let somebody else make the money off of you. You can make sure that it's accurate and get paid.
 
-
-
-
-
-
-
 AUDIO DESCRIPTION: Whereupon, Theresa Magniccari was relieved Laurie Eisenberg, as Senior Court Reporter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -3713,40 +3601,6 @@ THE COURT: Thank you. Enjoy your lunch.
 AUDIO DESCRIPTION: Whereupon, a luncheon recess is taken.
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 THE COURT: Good afternoon.
 
@@ -4851,14 +4705,6 @@ A Yes.
 THE COURT: Sustained.
 
 AUDIO DESCRIPTION: Whereupon, at this time, Laurie Eisenberg relieved Lisa Kramsky as the official court reporter.
-
-
-
-
-
-
-
-
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -6116,28 +5962,6 @@ A I don't know the exact reason why. It did not run. I know that.
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Theresa Magniccari relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CONTINUED CROSS—EXAMINATION BY MS. NECHELES:
 
 Q. And you claim that in 2011, after you sold your story to In Touch, you were approached by a man in a car?
@@ -6454,7 +6278,9 @@ THE CLERK: Case on trial continued. All jurors are present and properly seated.
 
 THE COURT: Ms. Necheles.
 
-CONTINUED CROSS EXAMINATION BY MS. NECHELES: O. Before the break just a few minutes ago we talked about an E! Online article; do you recall that?
+CONTINUED CROSS EXAMINATION BY MS. NECHELES:
+
+O. Before the break just a few minutes ago we talked about an E! Online article; do you recall that?
 
 A. Yes.
 
@@ -6717,42 +6543,3 @@ THE COURT: I will see you Thursday.
 MS. NECHELES: Thank you.
 
 AUDIO DESCRIPTION: Whereupon, the trial in this matter stood adjourned to Thursday, May 9, 2024.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
