@@ -76,6 +76,13 @@ It appears that the transcripts are getting published on to the [New York State 
 * [240509.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240509.pdf)
 * [240509.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240509.txt)
 
+### Thursday 10<sup>th</sup> May 2024
+
+**Witnesses:** Madeleine Westerhout, Daniel Dixon, Jennie Tomalin, Jaden Jarmel—Schneider
+
+* [240510.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240510.pdf)
+* [240510.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240510.txt)
+
 ## Disclaimers
 
 No guarantee is provided that any files hosted on this site are accurate representations of the original transcripts.
