@@ -1,0 +1,29 @@
+Colloquy
+3157
+1 Q And for purposes of this record, prior to April of
+2 2010, this record doesn’t have anything to say about that,
+3 correct?
+4 A Correct.
+5 Q And phone numbers can shift from account to account
+6 and person to person, right?
+7 A Yes.
+8 Q And so, you know, it's entirely possible that
+9 pre—April 2010, this number belonged to somebody else, right?
+10 A Yes.
+11 Q I just —— I have one question about the toll records
+12 that we looked at in Government Exhibit 401. Those sorts of
+13 looked like the phone bills that I might get for my cellphone,
+14 right?
+15 A Yes.
+16 Q And you said Verizon rounds up on the Duration field?
+17 A Yes.
+18 Q So, if there was a call that lasted 15 seconds, does
+19 that bump up to one minute?
+20 A Yes.
+21 Q And if a call lasted one second, it bumps up to one
+22 minute also?
+23 A Yes.
+24 MR. BOVE: Thank you.
+25 THE COURT: Anything else?
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

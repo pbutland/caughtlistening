@@ -1,0 +1,29 @@
+D. Dixon — Direct/Conroy
+3128
+1 Q Does AT&T have counsel?
+2 A Yes.
+3 Q Is that counsel here in the courtroom today?
+4 A Yes.
+5 Q Related specifically to its phone business, does AT&T
+6 keep subscriber and call detail records?
+7 A Yes.
+8 Q What are —— generally, what are call detail records?
+9 A Call detail records are the records for usage between a
+10 device and another device.
+11 Q About how long does AT&T retain call detail records?
+12 A Generally, three years.
+13 Q And when you say communication between a device and
+14 another device, is that sort of phone calls between people?
+15 A Yes, mobility records.
+16 Q And could you tell us a little bit about what
+17 subscriber records are?
+18 A Subscriber records is the customer information for the
+19 account.
+20 Q Does AT&T make and keep these records in the regular
+21 course of its business?
+22 A Yes.
+23 Q Is it the regular course of AT&T's business to make and
+24 keep these records?
+25 A Yes.
+Lisa Kramsky,
+Senior Court Reporter

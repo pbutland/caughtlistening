@@ -1,0 +1,29 @@
+D. Dixon — Cross/Bove
+3146
+1 A Yes.
+2 Q And in the AT&T records, each account has a separate
+3 phone number for voicemail, right?
+4 A Not each account, but each voicemail magistrate. So,
+5 there is another number entailed with voicemail.
+6 Q Was it voicemail magistrate that you said?
+7 A Voicemail box.
+8 Q And so, that an incoming call to the number associated
+9 with this account, again, gets forwarded to that voice—mail
+10 inbox, right?
+11 A Yes.
+12 MR. BOVE: Now, if we can stay on these two rows,
+13 items seven and eight, and if you can zoom in on
+14 Originating Number and Terminating Number.
+15 Q And so, you see here there is a D in parentheses?
+16 A Yes.
+17 Q That stands for dialed, right?
+18 A Yes.
+19 Q And so, there is an originating number that dialed
+20 that 0114 number, right?
+21 A Yes.
+22 Q And then where you see the F in parentheses ——
+23 A Yes.
+24 Q —— that is the number getting forwarded to the
+25 voicemail inbox, correct?
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

@@ -1,0 +1,29 @@
+D. Dixon — Direct/Conroy
+3134
+1 Q What are those three reports?
+2 A Mobility, wireline, and international.
+3 Q Starting with mobility.
+4 What is a mobility report?
+5 A Mobility is the communication between a mobile and ——
+6 any mobile device and a mobile device, two mobile devices.
+7 Q So a phone call from a cell phone to a cell phone?
+8 A Yes.
+9 Q What is "International"?
+10 A That’s when the international network was used to make
+11 or help receive a phone call.
+12 Q And what is wireline?
+13 A Wireline is the use of AT&T’s wireline—side of the
+14 network to help make or receive a phone call.
+15 Q Is that sometimes called hardline?
+16 A I'm sorry?
+17 Q Is that sometimes called hardline? Or is that ——
+18 A Yes. Landline.
+19 Q Landline, sorry. That’s what I meant, landline.
+20 Is the mobility report further subdivided into different
+21 categories of data?
+22 A Yes.
+23 Q And do those include invoice usage, data usage, SMS
+24 usage and SMS email usage?
+25 A Yes.
+Lisa Kramsky,
+Senior Court Reporter

@@ -1,0 +1,29 @@
+J.Jarmel—Schneider — Direct/Conroy
+3206
+1 standardize the records for the time zones?
+2 A. So it differed between AT&T and Verizon.
+3 For AT&T, all the time zones were in UTC. We were able
+4 to mass convert them to Eastern Standard Time. We accounted for
+5 Daylight Savings Time.
+6 For Verizon, the time zone depended on the location
+7 they were in when they made or received the call. We went
+8 through and determined the location, which was listed on the
+9 call detail records, and converted them to all New York time,
+10 which is to say, we standardized everything to New York time.
+11 Q. Now, are the summaries of the phone records based
+12 solely on the information contained in exhibits already in
+13 evidence?
+14 A. Yes.
+15 Q. And are those the exhibits we already discussed?
+16 A. Yes.
+17 Q. In preparing the summaries of the phone records, did
+18 you ensure that the information you were including in the
+19 summaries fairly and accurately reflected the information in the
+20 exhibits in evidence?
+21 A. Yes.
+22 Q. How did you do that?
+23 A. So after we made the summaries, we went through
+24 line—by—line and compared to the underlying call detail record.
+25 Q. Have you reviewed what's been marked previously as
+Theresa Magniccari
+Senior Court Reporter

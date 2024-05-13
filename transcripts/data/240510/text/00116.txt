@@ -1,0 +1,29 @@
+J.Jarmel—Schneider — Direct/Conroy
+3204
+1 Under the "source column," it's just the kind of
+2 record; email, text, contact list, et cetera.
+3 Q. For some of the rows, there is one name associated with
+4 a number, but then there are multiple sources; why is that?
+5 A. A lot of the phone numbers we saw in several different
+6 places, so we put various documents that we found them on just
+7 to corroborate that the phone number did belong to the person
+8 that is listed next to them.
+9 MR. CONROY: Okay. We can take that down.
+10 Q. I now want to talk about another part of the work that
+11 you did with the phone records here. Did you create a number of
+12 summaries of phone records?
+13 A. Yes.
+14 Q. What was contained in those summaries?
+15 A. These are just logs of phone calls between pairs of
+16 people.
+17 Q. You mentioned that you received the records that we
+18 just discussed earlier in a number of file formats, particularly
+19 the records now in People's 400 and 401 from AT&T and Verizon.
+20 Starting with the AT&T records, how did you go about
+21 putting data in the summary?
+22 A. We have a software that reads through the text files,
+23 the AT&T files. It allows us to file and sort by phone number,
+24 date, caller, et cetera.
+25 We uploaded the text files, filtered and sorted and
+Theresa Magniccari
+Senior Court Reporter

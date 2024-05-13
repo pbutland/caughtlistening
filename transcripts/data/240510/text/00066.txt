@@ -1,0 +1,29 @@
+J. Tomalin — Cross/Bove
+3154
+1 Air Time Charges, Long Distance/Other Charges and
+2 Total, those three columns identify any financial charges
+3 assessed to that call respectively.
+4 Q Just a couple of quick questions.
+5 In the MIN column, is that minutes?
+6 A Yes, it is.
+7 Q And how does that work?
+8 Does it reflect seconds, or does Verizon round in a
+9 standard direction?
+10 A On the bill we round up.
+11 Q And with respect to the time shown for each of those
+12 calls, what timezone does Verizon keep its records in?
+13 A They —— the timezone should be the timezone for the
+14 City and State reflected in the origination column.
+15 Q So, when we look at the date and time columns,
+16 together with the origination column, that should tell us the
+17 timezone that that call is being reflected in?
+18 A Yes.
+19 MR. CONROY: Thank you.
+20 I have no further questions.
+21 THE COURT: You may inquire.
+22 MR. BOVE: Thank you, Judge.
+23 CROSS—EXAMINATION
+2 4 BY MR . BOVE:
+25 Q Good morning, Ms. Tomalin.
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

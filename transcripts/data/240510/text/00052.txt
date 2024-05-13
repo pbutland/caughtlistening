@@ -1,0 +1,29 @@
+D. Dixon — Cross/Bove
+3140
+1 the same page that the Government had up from Government’s
+2 Exhibit 400 with Bates ending 038.
+3 Can we ask the Government to bring up that page?
+4 If you can zoom in, please, on the box that has
+5 the MSISDN.
+6 Thank you.
+7 Q So, Mr. Dixon, in the top left, that is MSISDN, which
+8 is the phone number you said?
+9 A Yes.
+10 Q To the right of that cell it says, IMSI.
+11 Do you see that?
+12 A Yes.
+13 Q And that stands for International Mobile Subscriber
+14 Identity, right?
+15 A Yes.
+16 Q And the IMSI is linked to an AT&T's user account,
+17 right?
+18 A Well, it’s the serial number of a SIM card.
+19 Q Right. So, it is a SIM card that is linked to the
+20 AT&T account that we are looking at?
+21 A At that time, yes.
+22 Q And a SIM card can be pulled out of one phone, one
+23 device, and put into another, correct?
+24 A Yes.
+25 Q And so, this IMSI is not necessarily linked to a
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

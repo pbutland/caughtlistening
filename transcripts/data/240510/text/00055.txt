@@ -1,0 +1,29 @@
+D. Dixon — Cross/Bove
+3143
+1 Q I want to talk a little bit about the AT&T billing
+2 records.
+3 And those are, basically, records of calls involving
+4 this phone number over AT&T’s network, right?
+5 A Yes.
+6 Q And you can’t tell from the records themselves who
+7 actually spoke, right?
+8 A Correct.
+9 Q And, obviously, these records don’t reflect the
+10 contents of the calls, right?
+11 A Correct.
+12 Q And you are familiar with the concept of a pocket
+13 dial, right?
+14 A Correct.
+15 Q So, it’s possible that that could happen, somebody
+16 picks up the phone, the phone gets picked up on the other end
+17 but there is no communication, right?
+18 A Yes.
+19 Q In these records, there is a lot of data here, but the
+20 data also has limits, right?
+21 A It’s showing the transactional logs.
+22 Q Transactional logs meaning the amount of time that the
+23 one phone number was connected to the other, right?
+24 A Yes.
+25 Q And also that period of time where the one phone
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

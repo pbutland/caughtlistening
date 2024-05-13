@@ -1,0 +1,29 @@
+D. Dixon — Direct/Conroy
+3136
+1 talk about is, what does data usage mean.
+2 What are some of the types of activity that would be
+3 captured in a data usage report?
+4 A Streaming movies. Anything related to the internet.
+5 Q And when you look at a data usage report, do you just
+6 see amounts of data that was used, or do you see what that data
+7 was used to do?
+8 A Only amounts of data being used.
+9 Q So, you have no way of understanding, you just know
+10 X amount of data was used, but you don’t know if somebody was
+11 streaming a movie or iMessaging or something else?
+12 A Correct.
+13 Q Can you briefly tell us what SMS email usage means?
+14 A SMS email is just basically a text to or from an email
+15 address.
+16 Q For all of the different types of call detail records
+17 you just described, what time zone are AT&T’s records recorded
+18 in?
+19 A UTC.
+20 Q And what is UTC?
+21 A Universal Time Coordinated.
+22 Q And is that true for all types of AT&T records?
+23 A Yes.
+24 MR. CONROY: If we could now pull up another
+25 redacted page from this exhibit.
+Lisa Kramsky,
+Senior Court Reporter

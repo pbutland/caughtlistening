@@ -1,0 +1,29 @@
+D. Dixon — Cross/Bove
+3141
+1 particular physical device, right?
+2 A Correct. It can be taken out. It’s just the serial
+3 number of a SIM card.
+4 MR. BOVE: If we can zoom in on status changes
+5 there at the bottom, please.
+6 Q Mr. Dixon, I wanted to ask about the cells that read
+7 XMKT Move .
+8 Do you see that?
+9 A Yes.
+10 Q And that means that that is a cross market move,
+11 right?
+12 A I believe so.
+13 Q That is a situation where the user’s account
+14 transitions from one account number to another within AT&T’s
+15 records, right?
+16 A Usually, yes.
+17 Q So, here this record indicates that on January 23,
+18 2017, this was a cross market move associated with this Michael
+19 Cohen account?
+20 A Yes.
+21 Q And so, for the record that we are looking at, this
+22 user account, the subscriber information begins January 23,
+23 2017?
+24 A Can you repeat that?
+25 Q Because of the cross market move field that we are
+Susan Pearce—Bates, RPR, CCR, RSA
+Principal Court Reporter

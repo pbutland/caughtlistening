@@ -1,0 +1,29 @@
+D. Dixon — Direct/Conroy
+3137
+1 And this page bears Bates stamp DANY GJ 00002822.
+2 Q Mr. Dixon, is this a representative sample of an AT&T
+3 invoice usage record?
+4 A Yes.
+5 Q And I just want to ask you about a few of the columns.
+6 What does "CONN" stand for?
+7 A Connection.
+8 Q And what is Seizure Time?
+9 A "Seizure Time" is the moment a person hits call up
+10 until the recipient answers the phone.
+11 Q And are both Connection and Seizure Time in UTC, as we
+12 just discussed?
+13 A Yes. The connection times is a timestamp.
+14 Q What is "ET?"
+15 A "ET" is the length of the connection.
+16 Q And does "ET" stand for elapsed time?
+17 A Elapsed time.
+18 Q And is that in minutes and seconds?
+19 A Yes.
+20 Q What does originating number and terminating number
+21 mean?
+22 A That means, originating is who made the call.
+23 Terminating is who received the call.
+24 Q Is one single phone call sometimes reflected on more
+25 than one row in the call detail records?
+Lisa Kramsky,
+Senior Court Reporter
