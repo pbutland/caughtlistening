@@ -2148,7 +2148,7 @@ Q That was the conversation about dinner; right?
 
 A Yes. Where we don't talk about receiving food. What I ate. Which I definitely would have talked about.
 
-O Okay. But you said you had dinner in the room; right?
+Q Okay. But you said you had dinner in the room; right?
 
 A I went up to his room to have dinner, yes. We did not have any food. And I did not eat any food.
 
@@ -4180,7 +4180,7 @@ Q. And based on your 11 years of experience working at The Trump Organization, d
 
 A. Yes.
 
-O. Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?
+Q Before testifying today, did you have an opportunity to review files marked for identification as People's Exhibits 66, 291 to 293 and 303 to 305?
 
 A. Yes.
 
@@ -6064,7 +6064,7 @@ Q. How did you call the President at work? Can anybody call the President of the
 
 A. There is a rather complicated process. If the President is in the Oval Office and someone calls in and they had my desk phone number, they could just call that number. If the President was available, I would patch them through. If someone was calling in, John Smith, you know, off the street and just calling 1—800 White House, obviously, they wouldn’t be patched through to the Oval Office. But there were operators that took calls and then kind of determined if that person was someone that needed to get patched through either to myself or other members of the President’s staff. There were also calls made by the situation room. Calls that were more secure that might need to be on a secure line. People might call through the situation room.
 
-O. Once the White House operators had screened calls, did you see the calls that came to you after that?
+Q Once the White House operators had screened calls, did you see the calls that came to you after that?
 
 A. I am sorry.
 

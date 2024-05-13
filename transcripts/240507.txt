@@ -1246,7 +1246,7 @@ Q Good morning, Ms. Daniels. Good morning.
 
 A Hi.
 
-O Ms. Daniels, have you also been known as Stephanie Clifford?
+Q Ms. Daniels, have you also been known as Stephanie Clifford?
 
 A Yes.
 
@@ -2110,7 +2110,7 @@ MS. HOFFINGER: Thank you, your Honor.
 
 CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:
 
-O. Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?
+Q Now, before we broke, Ms. Daniels, we were talking about the discussions you had in the hotel suite. Did there come a time that you needed to use the restroom?
 
 A. Yes.
 
@@ -2448,11 +2448,11 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 CONTINUED DIRECT EXAMINATION BY MS. HOFFINGER:
 
-O. Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?
+Q Ms. Daniels, did you see Mr. Trump again in Tahoe the next day?
 
 A. Yes.
 
-O. Tell the jury about that.
+Q Tell the jury about that.
 
 A. The next day I met him, this time at my hotel, at a nightclub restaurant bar downstairs.
 
@@ -6280,7 +6280,7 @@ THE COURT: Ms. Necheles.
 
 CONTINUED CROSS EXAMINATION BY MS. NECHELES:
 
-O. Before the break just a few minutes ago we talked about an E! Online article; do you recall that?
+Q Before the break just a few minutes ago we talked about an E! Online article; do you recall that?
 
 A. Yes.
 
