@@ -83,6 +83,13 @@ It appears that the transcripts are getting published on to the [New York State 
 * [240510.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240510.pdf)
 * [240510.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240510.txt)
 
+### Monday 13<sup>th</sup> May 2024
+
+**Witnesses:** Michael Cohen
+
+* [240513.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240513.pdf)
+* [240513.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240513.txt)
+
 ## Disclaimers
 
 No guarantee is provided that any files hosted on this site are accurate representations of the original transcripts.
