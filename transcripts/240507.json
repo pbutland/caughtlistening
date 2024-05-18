@@ -2984,6 +2984,11 @@
   },
   {
     "page": "2541",
+    "lineNumber": "8",
+    "character": "BY MS. MANGOLD:"
+  },
+  {
+    "page": "2541",
     "lineNumber": "9",
     "character": "Q",
     "voice": "female_voice_10",
@@ -6113,7 +6118,12 @@
     "lineNumber": "11",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Okay. Accepted into evidence. BY MS . HOFFINGER:"
+    "text": "Okay. Accepted into evidence."
+  },
+  {
+    "page": "2583",
+    "lineNumber": "12",
+    "character": "BY MS . HOFFINGER:"
   },
   {
     "page": "2583",
@@ -6799,7 +6809,12 @@
     "lineNumber": "21",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Ms. Daniels, if you can just slow down a little bit so that the court reporter can get what you are saying. BY MS. HOFFINGER:"
+    "text": "Ms. Daniels, if you can just slow down a little bit so that the court reporter can get what you are saying."
+  },
+  {
+    "page": "2595",
+    "lineNumber": "24",
+    "character": "BY MS. HOFFINGER:"
   },
   {
     "page": "2595",

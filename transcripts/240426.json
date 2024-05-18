@@ -8062,6 +8062,11 @@
   },
   {
     "page": "Page 1410",
+    "lineNumber": "l",
+    "character": "1 BY MR . BOVE:"
+  },
+  {
+    "page": "Page 1410",
     "lineNumber": "12",
     "character": "Q",
     "voice": "male_voice_6",
@@ -10544,7 +10549,12 @@
     "lineNumber": "20",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE"
+    "text": "Discussion at side—bar concluded, and the following occurred in open court."
+  },
+  {
+    "page": "Page 1436",
+    "lineNumber": "22",
+    "character": "BY MR. BOVE:"
   },
   {
     "page": "Page 1436",
@@ -11090,7 +11100,12 @@
     "lineNumber": "21",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE"
+    "text": "Discussion at side—bar concluded, and the following occurred in open court."
+  },
+  {
+    "page": "Page 1442",
+    "lineNumber": "23",
+    "character": "BY MR. BOVE:"
   },
   {
     "page": "Page 1442",
@@ -13091,6 +13106,15 @@
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
     "text": "Discussion at side—bar concluded, and the following occurred in open court."
+  },
+  {
+    "page": "Page 1462",
+    "lineNumber": "25"
+  },
+  {
+    "page": "Page 1463",
+    "lineNumber": "1",
+    "character": "BY MR. STEINGLASS:"
   },
   {
     "page": "Page 1463",

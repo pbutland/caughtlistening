@@ -5409,6 +5409,11 @@
   },
   {
     "page": "2313",
+    "lineNumber": "17",
+    "character": "BY MR. COLANGELO:"
+  },
+  {
+    "page": "2313",
     "lineNumber": "18",
     "character": "Q",
     "voice": "male_voice_4",
@@ -9720,7 +9725,12 @@
     "lineNumber": "7",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Yes, it is. BY MR. COLANGELO:"
+    "text": "Yes, it is."
+  },
+  {
+    "page": "2355",
+    "lineNumber": "8",
+    "character": "BY MR. COLANGELO:"
   },
   {
     "page": "2355",
@@ -11295,7 +11305,12 @@
     "lineNumber": "11",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Overruled. The document is accepted into evidence. BY MR. COLANGELO:"
+    "text": "Overruled. The document is accepted into evidence."
+  },
+  {
+    "page": "2371",
+    "lineNumber": "13",
+    "character": "BY MR. COLANGELO:"
   },
   {
     "page": "2371",

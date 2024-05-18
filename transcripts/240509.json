@@ -10991,7 +10991,12 @@
     "lineNumber": "4",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "It’s responsive. Overruled. BY MS . NECHELES:"
+    "text": "It’s responsive. Overruled."
+  },
+  {
+    "page": "2891",
+    "lineNumber": "6",
+    "character": "BY MS . NECHELES:"
   },
   {
     "page": "2891",
@@ -11927,7 +11932,12 @@
     "lineNumber": "8",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Ms. Hoffinger, you can clarify to the extent that was discussed and to that extent only. BY MS. HOFFINGER:"
+    "text": "Ms. Hoffinger, you can clarify to the extent that was discussed and to that extent only."
+  },
+  {
+    "page": "2905",
+    "lineNumber": "10",
+    "character": "BY MS. HOFFINGER:"
   },
   {
     "page": "2905",
@@ -12109,7 +12119,12 @@
     "lineNumber": "12",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Discussion at sidebar concluded, and the following occurred in open court.) BY MS. HOFFINGER"
+    "text": "Discussion at sidebar concluded, and the following occurred in open court."
+  },
+  {
+    "page": "2907",
+    "lineNumber": "14",
+    "character": "BY MS. HOFFINGER:"
   },
   {
     "page": "2907",
@@ -13596,13 +13611,18 @@
     "lineNumber": "23",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Good afternoon, Ms. Manochio. Please keep your voice up. You may inquire. BY MS. MANGOLD:"
+    "text": "Good afternoon, Ms. Manochio. Please keep your voice up. You may inquire."
+  },
+  {
+    "page": "2922",
+    "lineNumber": "1",
+    "character": "BY MS. MANGOLD:"
   },
   {
     "page": "2922",
     "lineNumber": "2",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Good afternoon, Ms. Manochio. As the officer mentioned, it's probably better if you scooch a little closer to the microphone to make sure everybody can hear you. Can you tell everyone where you work?"
   },
   {
@@ -13616,7 +13636,7 @@
     "page": "2922",
     "lineNumber": "8",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "How long have you worked there?"
   },
   {
@@ -13630,7 +13650,7 @@
     "page": "2922",
     "lineNumber": "10",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "What is your current position at The Trump Organization?"
   },
   {
@@ -13644,7 +13664,7 @@
     "page": "2922",
     "lineNumber": "13",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And are you testifying voluntarily today, or were you compelled to testify because of a subpoena?"
   },
   {
@@ -13658,7 +13678,7 @@
     "page": "2922",
     "lineNumber": "16",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Are you represented by counsel?"
   },
   {
@@ -13672,7 +13692,7 @@
     "page": "2922",
     "lineNumber": "18",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Is counsel in the courtroom with you today?"
   },
   {
@@ -13686,7 +13706,7 @@
     "page": "2922",
     "lineNumber": "20",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Can you tell the jury about your work history?"
   },
   {
@@ -13700,7 +13720,7 @@
     "page": "2922",
     "lineNumber": "23",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "When did you get a job at The Trump Organization?"
   },
   {
@@ -13714,7 +13734,7 @@
     "page": "2922",
     "lineNumber": "25",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Do you know who the head of The Trump Organization is?"
   },
   {
@@ -13728,7 +13748,7 @@
     "page": "2923",
     "lineNumber": "2",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "What was your title when you joined The Trump Organization?"
   },
   {
@@ -13742,7 +13762,7 @@
     "page": "2923",
     "lineNumber": "5",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And did your title later change?"
   },
   {
@@ -13756,7 +13776,7 @@
     "page": "2923",
     "lineNumber": "7",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "To what?"
   },
   {
@@ -13770,7 +13790,7 @@
     "page": "2923",
     "lineNumber": "9",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And when you were an Administrative Assistant and Executive Assistant, who did you work for?"
   },
   {
@@ -13784,7 +13804,7 @@
     "page": "2923",
     "lineNumber": "12",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Who is Allen Weisselberg?"
   },
   {
@@ -13798,7 +13818,7 @@
     "page": "2923",
     "lineNumber": "14",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And do you know what CFO is?"
   },
   {
@@ -13812,7 +13832,7 @@
     "page": "2923",
     "lineNumber": "16",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And how about Jeff McConney?"
   },
   {
@@ -13826,7 +13846,7 @@
     "page": "2923",
     "lineNumber": "18",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "What's a controller?"
   },
   {
@@ -13840,7 +13860,7 @@
     "page": "2923",
     "lineNumber": "20",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "How long were you an assistant to Mr. Weisselberg?"
   },
   {
@@ -13854,7 +13874,7 @@
     "page": "2923",
     "lineNumber": "22",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Did your role at The Trump Organization change again at some point?"
   },
   {
@@ -13868,7 +13888,7 @@
     "page": "2923",
     "lineNumber": "25",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "To what?"
   },
   {
@@ -13882,7 +13902,7 @@
     "page": "2924",
     "lineNumber": "2",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And as Mr. Weisselberg’s assistant for eight years, did you became familiar with the people Mr. Weisselberg interacted with at The Trump Organization?"
   },
   {
@@ -13896,7 +13916,7 @@
     "page": "2924",
     "lineNumber": "6",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Did you sit near Mr. Weisselberg in your role as his assistant?"
   },
   {
@@ -13910,7 +13930,7 @@
     "page": "2924",
     "lineNumber": "9",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "When Mr. Trump was in the office, how often would Mr. Weisselberg interact with Mr. Trump?"
   },
   {
@@ -13924,7 +13944,7 @@
     "page": "2924",
     "lineNumber": "12",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "As the executive assistant to the CFO, did you have a role in paying bills at The Trump Organization?"
   },
   {
@@ -13938,7 +13958,7 @@
     "page": "2924",
     "lineNumber": "15",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "But did you have any role ——"
   },
   {
@@ -13952,7 +13972,7 @@
     "page": "2924",
     "lineNumber": "17",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "—— with how expenses were processed?"
   },
   {
@@ -13966,7 +13986,7 @@
     "page": "2924",
     "lineNumber": "19",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Yes."
   },
   {
@@ -13980,7 +14000,7 @@
     "page": "2924",
     "lineNumber": "21",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Can you please describe that, briefly, for the jury?"
   },
   {
@@ -13994,7 +14014,7 @@
     "page": "2924",
     "lineNumber": "24",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And what do you mean by, backup?"
   },
   {
@@ -14008,7 +14028,7 @@
     "page": "2925",
     "lineNumber": "1",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Did every check that you put together for Mr. Weisselberg to sign have to have an invoice attached?"
   },
   {
@@ -14022,7 +14042,7 @@
     "page": "2925",
     "lineNumber": "4",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Do you know if that was —— if the process was consistent kind of across the Trump Organization for paying expenses?"
   },
   {
@@ -14036,7 +14056,7 @@
     "page": "2925",
     "lineNumber": "8",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Do you know if Mr. Trump’s personal expenses were processed by The Trump Organization?"
   },
   {
@@ -14050,7 +14070,7 @@
     "page": "2925",
     "lineNumber": "11",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Do you know how Mr. Trump paid his personal expenses, electronically?"
   },
   {
@@ -14064,7 +14084,7 @@
     "page": "2925",
     "lineNumber": "14",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "Can you recognize Mr. Trump’s signature?"
   },
   {
@@ -14078,7 +14098,7 @@
     "page": "2925",
     "lineNumber": "16",
     "character": "Q",
-    "voice": "female_voice_5",
+    "voice": "female_voice_10",
     "text": "And is that from viewing checks that Mr. Trump had signed?"
   },
   {

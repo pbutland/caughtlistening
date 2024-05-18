@@ -3585,7 +3585,12 @@
     "lineNumber": "17",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Discussion at side—bar concluded, and the following occurred in open court.) BY MR. STEINGLASS"
+    "text": "Discussion at side—bar concluded, and the following occurred in open court."
+  },
+  {
+    "page": "Page 1152",
+    "lineNumber": "19",
+    "character": "BY MR. STEINGLASS:"
   },
   {
     "page": "Page 1152",
@@ -3655,7 +3660,12 @@
     "lineNumber": "8",
     "character": "MR. STEINGLASS:",
     "voice": "male_voice_2",
-    "text": "Thank you, Judge. BY MR. STEINGLASS:"
+    "text": "Thank you, Judge."
+  },
+  {
+    "page": "Page 1155",
+    "lineNumber": "9",
+    "character": "BY MR. STEINGLASS:"
   },
   {
     "page": "Page 1155",
@@ -4679,10 +4689,8 @@
   },
   {
     "page": "Page 1178",
-    "lineNumber": "2",
-    "character": "BY MR. STEINGLASS:",
-    "voice": "male_voice_2",
-    "text": "(Cont'd)"
+    "lineNumber": "l",
+    "character": "DIRECT EXAMINATION BY MR. STEINGLASS: (Cont'd)"
   },
   {
     "page": "Page 1178",
