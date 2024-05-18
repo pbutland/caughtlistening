@@ -1008,7 +1008,9 @@ THE COURT: Sure .
 
 MR. BOVE: Thank you.
 
-AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.) BY MR. STEINGLASS
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.
+
+BY MR. STEINGLASS:
 
 Q So you told us, I believe, Mr. Pecker, that there was an invoice prepared for this reimbursement, is that right?
 
@@ -1028,7 +1030,9 @@ MR . STE INGLASS : Sure .
 
 THE COURT: Jurors, so, this document has been accepted into evidence. I direct you to not consider this document for the truth of its contents. It is being accepted into evidence for the fact that this invoice was created, not for the truth of what it says.
 
-MR. STEINGLASS: Thank you, Judge. BY MR. STEINGLASS:
+MR. STEINGLASS: Thank you, Judge.
+
+BY MR. STEINGLASS:
 
 Q Let me ask you this, is it fair to say that you asked Daniel Rotstein to be the middle man to disguise the fact that money would be flowing from Michael Cohen to AMI?
 
@@ -1318,7 +1322,7 @@ THE COURT: Jurors, thank you for your patience. Mr. Steinglass.
 
 MR. STEINGLASS: Thank you.
 
-BY MR. STEINGLASS: (Cont'd)
+DIRECT EXAMINATION BY MR. STEINGLASS: (Cont'd)
 
 Q. Hello again, Mr. Pecker.
 

@@ -284,7 +284,9 @@ COURT OFFICER: Remain standing.
 
 THE CLERK: Please raise your right hand. Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth and nothing but the truth, do you so swear or affirm?
 
-THE WITNESS: I do. D—A—V—I—D P—E—C—K—E—R, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: D—A—V—I—D P—E—C—K—E—R, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Please be seated.
 

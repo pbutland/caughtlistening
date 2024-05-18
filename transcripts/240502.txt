@@ -142,7 +142,9 @@ COURT OFFICER: Witness entering.
 
 AUDIO DESCRIPTION: Whereupon, the witness entered the courtroom and was properly seated.
 
-THE COURT: Good morning, Sir. Welcome back. I remind you that you are still under oath. K E I T H D A V l D S O N, herein, called as a witness, being previously sworn, was examined and testified further as follows:
+THE COURT: Good morning, Sir. Welcome back. I remind you that you are still under oath.
+
+AUDIO DESCRIPTION: K E I T H D A V l D S O N, herein, called as a witness, being previously sworn, was examined and testified further as follows:
 
 COURT OFFICER: All rise. Jury entering.
 

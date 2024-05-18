@@ -1818,6 +1818,8 @@ MR. BLANCHE: Can I just have one moment, your Honor?
 
 AUDIO DESCRIPTION: whereupon, defense counsel confer.
 
+BY MR. BLANCHE:
+
 Q And I think we talked a little bit about this earlier, about Mr. Cohen's relationship working for the Trump Organization and his relationship with you. You never had any communications with him about Donald Trump himself, did you?
 
 A I did not.
@@ -2042,7 +2044,9 @@ THE CLERK: Do you solemnly swear or affirm that the testimony that you are going
 
 THE WITNESS: I do.
 
-THE CLERK: Have a seat. D.R. R—O—B—E—R—T B—R—O—W—N—I—N—G, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE CLERK: Have a seat.
+
+AUDIO DESCRIPTION: D.R. R—O—B—E—R—T B—R—O—W—N—I—N—G, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 COURT OFFICER: Pull your chair all the way up. State your full name, spelling your last name.
 
@@ -2318,7 +2322,9 @@ COURT OFFICER: Remain standing.
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth, do you so swear or affirm?
 
-THE WITNESS: I do. P—H—I—L—I—P T—H—O—M—P—S—O—N, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: P—H—I—L—I—P T—H—O—M—P—S—O—N, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 COURT OFFICER: Have a seat. Name and county of residence.
 
@@ -2854,7 +2860,9 @@ COURT OFFICER: Remain standing. Raise your right hand and face the clerk.
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth, do you so swear or affirm?
 
-THE WITNESS: I do. K—E—I—T—H D—A—V—I—D—S—O—N, called as witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: K—E—I—T—H D—A—V—I—D—S—O—N, called as witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Have a seat.
 

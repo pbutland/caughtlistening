@@ -2184,7 +2184,9 @@ AUDIO DESCRIPTION: Whereupon, the witness entered the courtroom and was properly
 
 THE COURT: You are still under oath, Mr. Cohen.
 
-THE WITNESS: Yes, sir. M I C H A E L C O H E N, herein, called as a witness, being previously sworn, was examined and testified further as follows:
+THE WITNESS: Yes, sir.
+
+AUDIO DESCRIPTION: M I C H A E L C O H E N, herein, called as a witness, being previously sworn, was examined and testified further as follows:
 
 THE COURT: Let's get the jury, please.
 

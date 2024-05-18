@@ -3100,7 +3100,9 @@ MS. NECHELES: Your Honor, I move to strike that.
 
 MS. HOFFINGER: It is responsive, your Honor.
 
-THE COURT: It’s responsive. Overruled. BY MS . NECHELES:
+THE COURT: It’s responsive. Overruled.
+
+BY MS . NECHELES:
 
 Q Okay. You don’t know what he was indicted for in this case? You don’t have any idea?
 
@@ -3368,7 +3370,9 @@ THE COURT: All right. Let’s continue. Step back.
 
 AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred in open court.
 
-THE COURT: Ms. Hoffinger, you can clarify to the extent that was discussed and to that extent only. BY MS. HOFFINGER:
+THE COURT: Ms. Hoffinger, you can clarify to the extent that was discussed and to that extent only.
+
+BY MS. HOFFINGER:
 
 Q Ms. Necheles asked about certain things that you didn’t tell Anderson Cooper at the time. Do you remember that?
 
@@ -3420,7 +3424,9 @@ THE COURT: Just go back and establish that she established a lot of details and 
 
 MS. HOFFINGER: All right, your Honor.
 
-AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred in open court.) BY MS. HOFFINGER
+AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred in open court.
+
+BY MS. HOFFINGER:
 
 Q So, Ms. Daniels, you did tell Anderson Cooper about a lot of the details of what happened in the room and in your other encounters with Mr. Trump, correct?
 
@@ -3830,7 +3836,9 @@ THE CLERK: Do you solemnly swear or affirm that the testimony you are about to g
 
 THE WITNESS: I do.
 
-THE CLERK: Thank you. R E B E C C A M A N O C H I O, called as a witness on behalf of the People, being first duly sworn by the Clerk of the Court, was examined and testified as follows:
+THE CLERK: Thank you.
+
+AUDIO DESCRIPTION: R E B E C C A M A N O C H I O, called as a witness on behalf of the People, being first duly sworn by the Clerk of the Court, was examined and testified as follows:
 
 COURT OFFICER: Pull your seat up. State your full name?
 
@@ -3844,7 +3852,9 @@ THE COURT: Your county of residence?
 
 THE WITNESS: Middlesex.
 
-THE COURT: Good afternoon, Ms. Manochio. Please keep your voice up. You may inquire. BY MS. MANGOLD:
+THE COURT: Good afternoon, Ms. Manochio. Please keep your voice up. You may inquire.
+
+BY MS. MANGOLD:
 
 Q Good afternoon, Ms. Manochio. As the officer mentioned, it's probably better if you scooch a little closer to the microphone to make sure everybody can hear you. Can you tell everyone where you work?
 
@@ -5146,7 +5156,9 @@ COURT OFFICER: Step this way. Raise your right hand and face the clerk.
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth, do you so swear or affirm?
 
-THE WITNESS: I do. T—R—A—C—E—Y M—E—N—Z—I—E—S, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: T—R—A—C—E—Y M—E—N—Z—I—E—S, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Thank you.
 
@@ -5604,7 +5616,9 @@ COURT OFFICER: Raise your right hand and face the clerk.
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth, do you so swear or affirm?
 
-THE WITNESS: Yes. M—A—D—E—L—I—N—E W—E—S—T—E—R—H—O—U—T, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: Yes.
+
+AUDIO DESCRIPTION: M—A—D—E—L—I—N—E W—E—S—T—E—R—H—O—U—T, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Thank you.
 

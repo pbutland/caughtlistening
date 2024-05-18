@@ -1542,6 +1542,8 @@ MR. COLANGELO: And let's go to the first exhibit.
 
 AUDIO DESCRIPTION: Displayed.
 
+BY MR. COLANGELO:
+
 Q Mr. McConney, do you recognize this message?
 
 A Yes.
@@ -2770,7 +2772,9 @@ THE COURT: Overruled.
 
 MR. COLANGELO: Thank you, your Honor. Is People’s 54 in evidence?
 
-THE COURT: Yes, it is. BY MR. COLANGELO:
+THE COURT: Yes, it is.
+
+BY MR. COLANGELO:
 
 Q Can we publish, People’s 54? Mr. McConney, I think you said this is a —— withdrawn. What is this document?
 
@@ -3220,7 +3224,9 @@ MR. COLANGELO: Thank you.
 
 AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred in open court.
 
-THE COURT: Overruled. The document is accepted into evidence. BY MR. COLANGELO:
+THE COURT: Overruled. The document is accepted into evidence.
+
+BY MR. COLANGELO:
 
 Q Please publish, People’s 81. Mr. McConney, please tell the jury what this document is.
 
@@ -4518,7 +4524,9 @@ COURT OFFICER: Remain standing. Raise your right hand. Face the clerk.
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth; do you so swear or affirm?
 
-THE WITNESS: I do. D—E—B—O—R—A—H T—A—R—A—S—O—F—F, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: D—E—B—O—R—A—H T—A—R—A—S—O—F—F, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Thank you.
 

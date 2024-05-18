@@ -2292,6 +2292,8 @@ AUDIO DESCRIPTION: Sidebar concluded.
 
 THE COURT: Sustained.
 
+1 BY MR . BOVE:
+
 Q So you recall being asked some questions about this meeting yesterday by Mr. Steinglass; right?
 
 A Yes.
@@ -2994,7 +2996,9 @@ THE COURT: Yes, and leave it at that.
 
 MR. BOVE: Thank you, Judge.
 
-AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.
+
+BY MR. BOVE:
 
 Q Thank you. Mr. Pecker, so, before the side—bar, we were talking about the October 2019 meeting, right?
 
@@ -3150,7 +3154,9 @@ THE COURT: To the extent that you are asking him his opinion, I am not going to 
 
 MR. BOVE: Yes, Judge.
 
-AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.) BY MR. BOVE
+AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.
+
+BY MR. BOVE:
 
 Q You testified yesterday that the FEC investigation actually ended in sort of an agreement with AMI, right?
 
@@ -3723,6 +3729,8 @@ MR. STEINGLASS: I think I clarified this was an agreement that AMI entered into.
 THE COURT: I think Mr. Steinglass has a right to go back and clear it up. I think you left the jury with a certain impression.
 
 AUDIO DESCRIPTION: Discussion at side—bar concluded, and the following occurred in open court.
+
+BY MR. STEINGLASS:
 
 Q I apologize, Mr. Pecker. I don't remember the question, so I am going to ask the court reporter to read it back.
 
@@ -4586,7 +4594,9 @@ COURT OFFICER: Step this way. Remain standing. Raise your right hand and face th
 
 THE CLERK: Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth, and nothing but the truth; do you so swear or affirm?
 
-THE WITNESS: I do. R—H—O—N—A G—R—A—F—F, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+THE WITNESS: I do.
+
+AUDIO DESCRIPTION: R—H—O—N—A G—R—A—F—F, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Have a seat.
 

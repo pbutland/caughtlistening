@@ -1730,7 +1730,9 @@ MS. HOFFINGER: And should we have him read it first and then the instruction?
 
 THE COURT: Yes. Yes.
 
-MS. HOFFINGER: Thank you, your Honor. BY MS. HOFFINGER:
+MS. HOFFINGER: Thank you, your Honor.
+
+BY MS. HOFFINGER:
 
 Q Could you please read the first —— actually, the first line in the second paragraph?
 
@@ -1754,7 +1756,9 @@ THE COURT: Jurors, you have just heard testimony that the Federal Election Commi
 
 MS. HOFFINGER: Thank you, your Honor.
 
-THE COURT: You are welcome. BY MS. HOFFINGER:
+THE COURT: You are welcome.
+
+BY MS. HOFFINGER:
 
 Q Was the statement that you just read false or misleading?
 
@@ -1926,7 +1930,9 @@ AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred i
 
 THE COURT: So, Jurors, you may recall that I previously gave you an instruction regarding AMI. The testimony that you just heard now is consistent with my previous instructions that that evidence was permitted to assist you, the jury, in assessing David Pecker’s credibility and to help provide context for some other surrounding events. You may consider that testimony and what you just heard for those purposes only. Mr. Blanche, is that satisfactory?
 
-MR. BLANCHE: Thank you, your Honor. BY MS. HOFFINGER:
+MR. BLANCHE: Thank you, your Honor.
+
+BY MS. HOFFINGER:
 
 Q Mr. Cohen, just getting back to where we left off in my questions. In terms of the substance of your conversation with David Pecker about his receipt of the Complaint from the FEC, did you tell him that someone in particular in the administration would be able to assist in that manner?
 
@@ -2040,7 +2046,9 @@ AUDIO DESCRIPTION: Discussion at sidebar concluded, and the following occurred i
 
 THE COURT: The objection is sustained. The answer is stricken from the record, and the jury is directed not to consider that response.
 
-MS. HOFFINGER: Thank you, your Honor. BY MS. HOFFINGER:
+MS. HOFFINGER: Thank you, your Honor.
+
+BY MS. HOFFINGER:
 
 Q Through much of 2018, while you were acting as Mr. Trump —— then President Trump's personal attorney, did you continue to lie about his role in the payoff to Stormy Daniels?
 

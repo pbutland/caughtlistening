@@ -852,6 +852,8 @@ MS. MANGOLD: Thank you, your Honor. Can we please display for the jury what is i
 
 AUDIO DESCRIPTION: Displayed.
 
+BY MS. MANGOLD:
+
 Q Now, Ms. Franklin, I believe that you previously testified that this exhibit and the next two are excerpts from the book: "Trump: How To Get Rich;" is that right?
 
 A Yes.
@@ -1724,7 +1726,9 @@ THE COURT: Was that 228 or 229?
 
 MS. HOFFINGER: It was, actually, 229—A. We are jumping a little. We will get back to 228. I apologize.
 
-THE COURT: Okay. Accepted into evidence. BY MS . HOFFINGER:
+THE COURT: Okay. Accepted into evidence.
+
+BY MS . HOFFINGER:
 
 Q Tell us what that contact shows.
 
@@ -1920,7 +1924,9 @@ Q What did he tell you about that?
 
 A He said that he was friends with the owner of the company. I don’t know if it was Vince McMahon. And I had seen the thing on there about he does stunts, like a guest spot, not really wrestling on WWE.
 
-THE COURT: Ms. Daniels, if you can just slow down a little bit so that the court reporter can get what you are saying. BY MS. HOFFINGER:
+THE COURT: Ms. Daniels, if you can just slow down a little bit so that the court reporter can get what you are saying.
+
+BY MS. HOFFINGER:
 
 Q Did he tell you anything about the scripts with respect to his being in the wrestling with Vince McMahon?
 
