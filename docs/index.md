@@ -104,12 +104,19 @@ It appears that the transcripts are getting published on to the [New York State 
 * [240516.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240516.pdf)
 * [240516.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240516.txt)
 
-### Friday 20<sup>th</sup> May 2024
+### Monday 20<sup>th</sup> May 2024
 
 **Witnesses:** Michael Cohen, Daniel Sitko, Robert Costello
 
 * [240520.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240520.pdf)
 * [240520.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240520.txt)
+
+### Tuesday 21<sup>st</sup> May 2024
+
+**Witnesses:** Robert Costello
+
+* [240521.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240521.pdf)
+* [240521.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240521.txt)
 
 ## Disclaimers
 
