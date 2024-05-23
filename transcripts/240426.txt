@@ -5474,7 +5474,9 @@ MS. MANGOLD: The People call Gary Farro.
 
 COURT OFFICER: Witness entering.
 
-AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.) G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows
+AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.
+
+AUDIO DESCRIPTION: G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
 
 COURT OFFICER: State your full name, spelling your last name.
 

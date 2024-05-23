@@ -100,7 +100,9 @@ MR. COLANGELO: The People call Jeffrey McConney.
 
 COURT OFFICER: Witness entering.
 
-AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.) J E F F R E Y M C C O N N E Y, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows
+AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.
+
+AUDIO DESCRIPTION: J E F F R E Y M C C O N N E Y, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
 
 THE WITNESS: Hi, your Honor.
 
@@ -1216,7 +1218,7 @@ Q Can we show the entire bottom part of this document?
 
 A So, it’s a total of the domestic wire transfer for $130,000, plus the $50,000 paid to Red Finch for tech services.
 
-AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page. 
+AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
 
 AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
 

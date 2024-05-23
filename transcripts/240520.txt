@@ -4648,7 +4648,9 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 THE COURT: Mr. Blanche, does the Defense wish to present any evidence?
 
-MR. BLANCHE: Yes. The Defense calls Daniel Sitko. D A N I E L S I T K O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
+MR. BLANCHE: Yes. The Defense calls Daniel Sitko.
+
+AUDIO DESCRIPTION: D A N I E L S I T K O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
 
 COURT OFFICER: State your full name for the record, spelling your last name.
 

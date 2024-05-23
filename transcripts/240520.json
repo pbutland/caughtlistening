@@ -14313,21 +14313,21 @@
     "page": "4170",
     "lineNumber": "25",
     "character": "ANSWER:",
-    "voice": "female_voice_22",
+    "voice": "female_voice_21",
     "text": "Thirty—seven years.\" Page 1665: \"QUESTION: Did you travel from Louisiana for the purpose of testifying today.\" \"ANSWER: Yes. Yes, I did. \"QUESTION: What is C—Span? \"ANSWER: C—Span is a public television network to telecast events in their entirety. \"QUESTION: As the Executive Director of the C—Span Archives, what do you do? \"ANSWER: I mainly collect video that is aired on network.\" Page 1666: \"QUESTION: Does the camera operator record the events in realtime as it is occurring? \"ANSWER: Yes. That's the obligation.\" Next page. \"QUESTION: Does the pool camera operator have a business duty to record that event accurately? \"ANSWER: Yes, because C—Span wants the entire event. \"QUESTION: How does C—Span ensure that the video that it is getting is the correct video? \"ANSWER: Once the event is taking place, there is a producer who watches the video from the beginning to the end and makes sure there are no interruptions in the transmission. \"QUESTION: Is the video camera equipment tested before an event? \"ANSWER: Yes, they make sure there is a valid signal; they would say the signal is good. \"QUESTION: That’s a signal test? \"ANSWER: Yes . \"QUESTION: Is there also an audio test? \"ANSWER: Yes, they will make sure that there is solid audio coming through the event. \"QUESTION: While the video is being transmitted, does C—Span record it to its own servers in any way? \"ANSWER: Yes, we make copies of the video as it is coming in. \"QUESTION: Does C—Span save those videos? \"ANSWER: Yes, in the video library, the C—Span archives. \"QUESTION: Can you tell the jurors a little bit about the video library that C—Span archives? \"ANSWER: The video library is an online collection of everything that is telecast on C—Span. That is 278,000 digital hours a day. \"QUESTION: And that is everything that is ever aired on C—Span? \"ANSWER: That’s correct. \"QUESTION: It's still being maintained by C—Span? \"ANSWER: That's right. \"QUESTION: Is it the regular course of business for C—Span to record and save those videos?"
   },
   {
     "page": "4173",
     "lineNumber": "5",
     "character": "ANSWER:",
-    "voice": "female_voice_22",
+    "voice": "female_voice_21",
     "text": "Yes, it is. \"QUESTION: Now, at some point did C—Span receive a document subpoena from the Manhattan District Attorney's Office requiring the company to turn over video recordings of events featuring Donald Trump? \"ANSWER: Yes, it did. \"QUESTION: Did C—Span comply with its legal obligations to turn over the subpoenaed videos? \"ANSWER: Yes, it is. \"QUESTION: Are you the one that retrieved the videos in response to the subpoena?"
   },
   {
     "page": "4173",
     "lineNumber": "16",
     "character": "ANSWER:",
-    "voice": "female_voice_22",
+    "voice": "female_voice_21",
     "text": "Yes, I was. \"QUESTION: Can you tell the jury how you identified those videos? \"ANSWER: Well, subpoena indicated the videos that were requested, including what we call the URL of the video. But we would verify that each video —— that it matched the subpoena —— what the subpoena was. \"QUESTION: Did you confirm that the videos were, in fact, events featuring Donald Trump as identified in the subpoena? \"ANSWER: Yes, we did. \"QUESTION: Did you transmit exact copies of videos to the Manhattan District Attorney's Office without making any alterations, deletions or changes? \"ANSWER: Yes, I did. \"QUESTION: Before testifying today, did you have the opportunity to review files marked for identification as People's Exhibit 409A through 409D? \"ANSWER: Yes, I did. \"QUESTION: Are all of those files video clips of videos that C—Span produced to the Manhattan District Attorney's Office? \"ANSWER: Yes, they were.\" Line 17: \"QUESTION: For each of those clips, did you review both the full video and the video clip and confirm that the clip is an exact copy of the portion of the longer video?\" \"ANSWER: Yes, I did.\" The People offered into evidence Exhibits 409A as in Apple to 409D as in Dog. First, I appreciate the case law that was referenced by the People during lunch recess. I believe it's distinguishable from what we have going on right here now. I also do agree that certainly the proffered evidence is relevant. However, I don't see how the People can get past the hearsay objection. The testimony that was offered by Dr. Browning was a foundation. One, he's highly qualified, and gave foundation for the exhibits that we were going to be accepting, to whom those exhibits were going to be introduced. He didn't lay the general foundation for any and all videos. This goes for some videos that came in through him. To suggest that a paralegal or anybody else can now take the stand and based upon Dr. Browning's testimony state that they are now qualified to testify as a records custodian and authenticate the video would mean to suggest whoever was here when Dr. Browning testified would be equally qualified do the same. I don't think we can say that. So the objection is sustained. Those images are not going to come in as offered. Anything else?"
   },
   {
@@ -16425,7 +16425,14 @@
     "lineNumber": "2",
     "character": "MR. BLANCHE:",
     "voice": "male_voice_3",
-    "text": "Yes. The Defense calls Daniel Sitko. D A N I E L S I T K O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:"
+    "text": "Yes. The Defense calls Daniel Sitko."
+  },
+  {
+    "page": "4203",
+    "lineNumber": "4",
+    "character": "AUDIO DESCRIPTION:",
+    "voice": "female_voice_2",
+    "text": "D A N I E L S I T K O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:"
   },
   {
     "page": "4203",
@@ -16438,7 +16445,7 @@
     "page": "4203",
     "lineNumber": "9",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Daniel Sitko. S—I—T—K—O."
   },
   {
@@ -16452,7 +16459,7 @@
     "page": "4203",
     "lineNumber": "ll",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "New York."
   },
   {
@@ -16471,7 +16478,7 @@
     "page": "4203",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "I work for Blanche Law."
   },
   {
@@ -16485,7 +16492,7 @@
     "page": "4203",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "I do."
   },
   {
@@ -16499,7 +16506,7 @@
     "page": "4203",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "I am."
   },
   {
@@ -16513,7 +16520,7 @@
     "page": "4203",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Um, I assist attorneys in whatever comes up. A lot of it, as a defense firm, is reviewing discovery, which is evidence produced in a case, summarizing it, helping with filings, researching stuff, editing motions."
   },
   {
@@ -16527,7 +16534,7 @@
     "page": "4204",
     "lineNumber": "4",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. I was asked to create a Summary Chart of phone calls."
   },
   {
@@ -16541,7 +16548,7 @@
     "page": "4204",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "So, I looked in the People’s Exhibit 400 for the phone logs for Mr. Cohen's phone number ending 0114. I looked for contacts or —— contact between that phone number and three phone numbers associated with Robert Costello. So, anyone that may have appeared in that phone log, I would copy and paste certain information, like the time the phone call was made, how long the phone call lasted, the date, into an Excel spreadsheet."
   },
   {
@@ -16555,7 +16562,7 @@
     "page": "4204",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16583,7 +16590,7 @@
     "page": "4204",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16597,7 +16604,7 @@
     "page": "4205",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16653,7 +16660,7 @@
     "page": "4205",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Sure. So, at the top, it was the two participants that we —— that I culled the calls for, one being Mr. Cohen and the second being Mr. Costello. Right below his name on the right side of the page is a number that appeared in Mr. Costello’s email signature on People's Exhibit —— I think it was, um, 206 and 204. I might have the numbers a little wrong. But, associated with his law firm. The first column on the left is \"Call Number\". That just is a way to keep track of which call in the chart we're referring to. Second is \"Date\". Um, the third is the time that the call was made in the call logs. I adjusted that from —— on the call logs it appeared in UTC. I adjusted it to be 12—hour time and also Eastern Time. The fourth column is call \"Duration\". The fifth and sixth columns are the identity that correspond to the seventh and eighth columns, which is the redacted phone numbers that appeared in the call logs. I got those identities, um, again, from the exhibits that have been admitted, including numbers that appeared in Mr. Costello’s email signature."
   },
   {
@@ -16667,7 +16674,7 @@
     "page": "4206",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16681,7 +16688,7 @@
     "page": "4206",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "That means that the call was not answered."
   },
   {
@@ -16709,7 +16716,7 @@
     "page": "4206",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Seventy—five, in total."
   },
   {
@@ -16723,7 +16730,7 @@
     "page": "4206",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. I believe there were six calls that were longer than half an hour."
   },
   {
@@ -16751,7 +16758,7 @@
     "page": "4207",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yeah. That’s the 48th call that appeared in the call logs."
   },
   {
@@ -16765,7 +16772,7 @@
     "page": "4207",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16779,7 +16786,7 @@
     "page": "4207",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "May 28th was Memorial Day. So, this would be the Sunday before that, the day before Memorial Day. So, Memorial Day weekend."
   },
   {
@@ -16793,7 +16800,7 @@
     "page": "4207",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yeah. So, Labor Day was September 5th in 2016."
   },
   {
@@ -16840,7 +16847,7 @@
     "page": "4208",
     "lineNumber": "4",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Good afternoon."
   },
   {
@@ -16854,7 +16861,7 @@
     "page": "4208",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yeah. We’ve seen each other."
   },
   {
@@ -16868,7 +16875,7 @@
     "page": "4208",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16882,7 +16889,7 @@
     "page": "4208",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. In People’s Exhibit 400."
   },
   {
@@ -16896,7 +16903,7 @@
     "page": "4208",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "That’s correct."
   },
   {
@@ -16910,7 +16917,7 @@
     "page": "4208",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16924,7 +16931,7 @@
     "page": "4208",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "That’s correct."
   },
   {
@@ -16952,7 +16959,7 @@
     "page": "4208",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -16987,7 +16994,7 @@
     "page": "4209",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17001,7 +17008,7 @@
     "page": "4209",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "It does."
   },
   {
@@ -17015,7 +17022,7 @@
     "page": "4209",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "It’s the general firm line. From the records, there would be no way to tell who, specifically, made those calls."
   },
   {
@@ -17029,7 +17036,7 @@
     "page": "4209",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. That's correct."
   },
   {
@@ -17043,7 +17050,7 @@
     "page": "4209",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. That’s my understanding."
   },
   {
@@ -17057,7 +17064,7 @@
     "page": "4210",
     "lineNumber": "4",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17071,7 +17078,7 @@
     "page": "4210",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17113,7 +17120,7 @@
     "page": "4210",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. I believe so."
   },
   {
@@ -17127,7 +17134,7 @@
     "page": "4210",
     "lineNumber": "21",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17141,7 +17148,7 @@
     "page": "4211",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17155,7 +17162,7 @@
     "page": "4211",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17169,7 +17176,7 @@
     "page": "4211",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17183,7 +17190,7 @@
     "page": "4211",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17197,7 +17204,7 @@
     "page": "4211",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "I —— my understanding is that number indicates that was forwarded to a voicemail, and that's a number associated with a voicemail inbox."
   },
   {
@@ -17211,7 +17218,7 @@
     "page": "4211",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes. I believe so."
   },
   {
@@ -17225,7 +17232,7 @@
     "page": "4211",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yeah."
   },
   {
@@ -17239,7 +17246,7 @@
     "page": "4212",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17253,7 +17260,7 @@
     "page": "4212",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17267,7 +17274,7 @@
     "page": "4212",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yes."
   },
   {
@@ -17281,7 +17288,7 @@
     "page": "4212",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Yeah. So if Mr. Cohen and Mr. Costello had made a push call, it could be reflected in two different lines on this for the same call."
   },
   {
@@ -17295,7 +17302,7 @@
     "page": "4212",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_17",
     "text": "Conversations, yes. Certainly."
   },
   {
@@ -17760,7 +17767,7 @@
     "page": "4226",
     "lineNumber": "15",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Thank you."
   },
   {
@@ -17788,7 +17795,7 @@
     "page": "4226",
     "lineNumber": "24",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Thank you."
   },
   {
@@ -17802,7 +17809,7 @@
     "page": "4227",
     "lineNumber": "2",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Robert Costello —— that's awfully loud. Robert J. Costello."
   },
   {
@@ -17816,7 +17823,7 @@
     "page": "4227",
     "lineNumber": "6",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "C—O—S—T—E—L—L—O."
   },
   {
@@ -17830,7 +17837,7 @@
     "page": "4227",
     "lineNumber": "9",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "County of residence is Nassau County."
   },
   {
@@ -17863,7 +17870,7 @@
     "page": "4227",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Good afternoon."
   },
   {
@@ -17877,7 +17884,7 @@
     "page": "4227",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I'm sorry?"
   },
   {
@@ -17891,7 +17898,7 @@
     "page": "4227",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I'm a partner in a law firm of Davidoff Hutcher & Citron."
   },
   {
@@ -17905,7 +17912,7 @@
     "page": "4227",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "About seven years."
   },
   {
@@ -17919,7 +17926,7 @@
     "page": "4228",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I did."
   },
   {
@@ -17933,7 +17940,7 @@
     "page": "4228",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "1975 to 1982."
   },
   {
@@ -17947,7 +17954,7 @@
     "page": "4228",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I was an Assistant United States Attorney in the Southern District of New York, right down the block. I was in '81 and '82, I was Deputy Chief of the Criminal Division there."
   },
   {
@@ -17961,7 +17968,7 @@
     "page": "4228",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I was."
   },
   {
@@ -17975,7 +17982,7 @@
     "page": "4228",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -17989,7 +17996,7 @@
     "page": "4228",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I met him exactly on April 17th, 2018."
   },
   {
@@ -18003,7 +18010,7 @@
     "page": "4228",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I did."
   },
   {
@@ -18017,7 +18024,7 @@
     "page": "4228",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "At the Regency Hotel in Manhattan. And I was accompanied by Jeff Citron, one of my law partners, who knew Mr. Cohen."
   },
   {
@@ -18045,7 +18052,7 @@
     "page": "4229",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Absolutely."
   },
   {
@@ -18087,7 +18094,7 @@
     "page": "4229",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Michael Cohen, Jeffrey Citron and myself."
   },
   {
@@ -18101,7 +18108,7 @@
     "page": "4229",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, it did."
   },
   {
@@ -18115,7 +18122,7 @@
     "page": "4229",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Well, first Michael Cohen explained his situation, because I had never met Cohen before, so I had no idea what was going on, that his home and his law office had been searched pursuant to a search warrant. And he was absolutely manic at the beginning and throughout the two hours of that meeting; marching back and forth; pacing. We were in a conference room on the second floor of the Regency Hotel. And he kept on pacing back and forth, left and right, while myself and Jeff were seated. And, after he explained what was going on, he said: My life is shattered. My family's life is shattered. I don't know what's going to happen. He said: I really want you to explain to me what my options are. What’s my escape route? That’s the phrase he used."
   },
   {
@@ -18129,7 +18136,7 @@
     "page": "4230",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Absolutely it was."
   },
   {
@@ -18143,7 +18150,7 @@
     "page": "4230",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I explained to Mr. Cohen that when he described the search warrants, I pointed out that a search warrant of a law office is much more difficult to get than a search warrant of any other place."
   },
   {
@@ -18192,7 +18199,7 @@
     "page": "4230",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay. I explained —— I explained to Mr. Cohen that it was obvious that he was not the target of the search by the Southern District of New York, that they thought that he had committed some crimes ——"
   },
   {
@@ -18220,7 +18227,7 @@
     "page": "4231",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay. I explained to Michael Cohen that this entire legal problem that he was facing would be resolved by the end of the week if he had truthful information on Donald Trump and cooperated with the Southern District of New York."
   },
   {
@@ -18234,7 +18241,7 @@
     "page": "4231",
     "lineNumber": "9",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He made the same statement that he made about 10 or 12 times that day; quote: \"I swear to God, Bob. I don’t have anything on Donald Trump.\""
   },
   {
@@ -18248,7 +18255,7 @@
     "page": "4231",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "It did."
   },
   {
@@ -18276,7 +18283,7 @@
     "page": "4231",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He began by saying: \"I don't understand why they’re trying to put me in jail for some F’ing NDAs,\" which is a Non—Disclosure Agreement. He then said, \"I did an NDA with Stormy Daniels.\" So, I asked him to tell me about what the circumstances were, how was he involved."
   },
   {
@@ -18318,7 +18325,7 @@
     "page": "4232",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He did."
   },
   {
@@ -18360,7 +18367,7 @@
     "page": "4232",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, it did."
   },
   {
@@ -18484,7 +18491,7 @@
     "page": "4234",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -18498,7 +18505,7 @@
     "page": "4235",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Michael Cohen said, numerous times, that President Trump knew nothing about those payments, that he did this on his own. And he repeated that numerous times."
   },
   {
@@ -18526,7 +18533,7 @@
     "page": "4235",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "His name came up, very briefly. Just in the fact that I had been a student assistant of his back in the early '70s. Other than that, we didn't discuss him."
   },
   {
@@ -18554,7 +18561,7 @@
     "page": "4235",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -18568,7 +18575,7 @@
     "page": "4235",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That's correct."
   },
   {
@@ -18582,7 +18589,7 @@
     "page": "4235",
     "lineNumber": "24",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Because it was announced that day in the newspapers and on TV that Rudy Giuliani was joining Donald Trump's legal team."
   },
   {
@@ -18610,7 +18617,7 @@
     "page": "4236",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Right, I see it."
   },
   {
@@ -18631,7 +18638,7 @@
     "page": "4236",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "It is, yeah."
   },
   {
@@ -18659,7 +18666,7 @@
     "page": "4236",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah."
   },
   {
@@ -18694,7 +18701,7 @@
     "page": "4236",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Correct."
   },
   {
@@ -18722,7 +18729,7 @@
     "page": "4237",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He was working with McDermott, will & Emery, a Washington law firm, and they were going over the evidence that had been seized pursuant to the search warrants and, presumably, they were selecting documents that might be claimed to be attorney—client privilege or work—product privilege."
   },
   {
@@ -18750,7 +18757,7 @@
     "page": "4237",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Not directly, he complained ——"
   },
   {
@@ -18799,7 +18806,7 @@
     "page": "4237",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Sure. Many times."
   },
   {
@@ -18820,7 +18827,7 @@
     "page": "4238",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Not off the top of my head."
   },
   {
@@ -18848,7 +18855,7 @@
     "page": "4238",
     "lineNumber": "9",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "The issue was that ——"
   },
   {
@@ -18869,7 +18876,7 @@
     "page": "4238",
     "lineNumber": "12",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I’m sorry."
   },
   {
@@ -18918,7 +18925,7 @@
     "page": "4238",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Right. I see that."
   },
   {
@@ -18932,7 +18939,7 @@
     "page": "4238",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That is correct."
   },
   {
@@ -18946,7 +18953,7 @@
     "page": "4239",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah, \"Giuliani;\" right."
   },
   {
@@ -18960,7 +18967,7 @@
     "page": "4239",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I did."
   },
   {
@@ -18974,7 +18981,7 @@
     "page": "4239",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He did."
   },
   {
@@ -18988,7 +18995,7 @@
     "page": "4239",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -19002,7 +19009,7 @@
     "page": "4239",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -19044,7 +19051,7 @@
     "page": "4239",
     "lineNumber": "21",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He told me that I was authorized to tell Giuliani that my firm was, quote, \"on the team,\" that's the phrase that he used, but that we weren't going —— he wasn't going to announce it publicly, so although I could tell Giuliani and Giuliani could tell anybody else associated with the President, he wasn't supposed to tell the media, and that's why he used the term \"back channel.\""
   },
   {
@@ -19079,7 +19086,7 @@
     "page": "4240",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Correct."
   },
   {
@@ -19093,7 +19100,7 @@
     "page": "4240",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He wanted to know how the investigation of Michael Cohen began. He wanted to know whether it was a referral from Washington. How did it get to the Southern District of New York, which is the Federal Court right down the street here. And he wanted me to ask Giuliani if Giuliani knew."
   },
   {
@@ -19107,7 +19114,7 @@
     "page": "4240",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That's correct."
   },
   {
@@ -19135,7 +19142,7 @@
     "page": "4241",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, it was. I do see it."
   },
   {
@@ -19149,7 +19156,7 @@
     "page": "4241",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -19163,7 +19170,7 @@
     "page": "4241",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes. What he asked me to do; right."
   },
   {
@@ -19177,7 +19184,7 @@
     "page": "4241",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Correct."
   },
   {
@@ -19191,7 +19198,7 @@
     "page": "4241",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Rudy Giuliani."
   },
   {
@@ -19205,7 +19212,7 @@
     "page": "4241",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -19219,7 +19226,7 @@
     "page": "4241",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "It is."
   },
   {
@@ -19233,7 +19240,7 @@
     "page": "4242",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah, I see that."
   },
   {
@@ -19261,7 +19268,7 @@
     "page": "4242",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Jeez."
   },
   {
@@ -19289,7 +19296,7 @@
     "page": "4242",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes. Strike it."
   },
   {
@@ -19324,7 +19331,7 @@
     "page": "4242",
     "lineNumber": "24",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "But —— I’m sorry. Go ahead."
   },
   {
@@ -19338,7 +19345,7 @@
     "page": "4243",
     "lineNumber": "2",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Right."
   },
   {
@@ -19352,7 +19359,7 @@
     "page": "4243",
     "lineNumber": "9",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I understand."
   },
   {
@@ -19366,7 +19373,7 @@
     "page": "4243",
     "lineNumber": "15",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I understand that. I understand what you're saying."
   },
   {
@@ -19380,7 +19387,7 @@
     "page": "4243",
     "lineNumber": "20",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. I'm just wondering how ——"
   },
   {
@@ -19394,7 +19401,7 @@
     "page": "4243",
     "lineNumber": "23",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Do you want me to answer your question?"
   },
   {
@@ -19415,7 +19422,7 @@
     "page": "4244",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: Your Honor, may I object on behalf of the press? Your Honor, our lawyer is objecting, the press lawyer is objecting. We have a right to remain here."
   },
   {
@@ -19429,7 +19436,7 @@
     "page": "4244",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: Why? This is an open courtroom."
   },
   {
@@ -19443,7 +19450,7 @@
     "page": "4244",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: The press lawyer has a question."
   },
   {
@@ -19457,21 +19464,21 @@
     "page": "4244",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: This is an open courtroom."
   },
   {
     "page": "4245",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: It is Open to the people, open to the public. You can't throw us out!"
   },
   {
     "page": "4245",
     "lineNumber": "4",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: Our lawyer has a question. This is a public forum, why do we need to step out?"
   },
   {
@@ -19485,14 +19492,14 @@
     "page": "4245",
     "lineNumber": "9",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: Where do you want us to go? We have a lawyer here."
   },
   {
     "page": "4245",
     "lineNumber": "l2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: I am the lawyer."
   },
   {
@@ -19506,7 +19513,7 @@
     "page": "4245",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: We are guests, why do we have to leave?"
   },
   {
@@ -19520,7 +19527,7 @@
     "page": "4245",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "PERSON IN THE AUDIENCE: Will this be on the record so that we can read it afterwards?"
   },
   {
@@ -19562,7 +19569,7 @@
     "page": "4247",
     "lineNumber": "8",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Can I say something, please?"
   },
   {
@@ -19576,7 +19583,7 @@
     "page": "4247",
     "lineNumber": "10",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay."
   },
   {
@@ -19646,7 +19653,7 @@
     "page": "4248",
     "lineNumber": "5",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "You don't want me to rise?"
   },
   {
@@ -19728,7 +19735,7 @@
     "page": "4248",
     "lineNumber": "24",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -19742,7 +19749,7 @@
     "page": "4249",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "May 16th."
   },
   {
@@ -19756,7 +19763,7 @@
     "page": "4249",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -19770,7 +19777,7 @@
     "page": "4249",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That's correct."
   },
   {
@@ -19798,7 +19805,7 @@
     "page": "4249",
     "lineNumber": "13",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes?"
   },
   {
@@ -19812,7 +19819,7 @@
     "page": "4249",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Michael had been complaining about the lawyers. He —— he was complaining about Steve."
   },
   {
@@ -19854,7 +19861,7 @@
     "page": "4249",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Meaning, he would not hear from me again unless he contacted me."
   },
   {
@@ -19896,7 +19903,7 @@
     "page": "4250",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Correct."
   },
   {
@@ -19910,7 +19917,7 @@
     "page": "4250",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That's right."
   },
   {
@@ -19924,7 +19931,7 @@
     "page": "4250",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Michael Cohen called me."
   },
   {
@@ -19938,7 +19945,7 @@
     "page": "4250",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "An hour and 36 minutes and 15 seconds."
   },
   {
@@ -19952,7 +19959,7 @@
     "page": "4250",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -19966,7 +19973,7 @@
     "page": "4250",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I did."
   },
   {
@@ -20008,7 +20015,7 @@
     "page": "4251",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -20022,7 +20029,7 @@
     "page": "4251",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That is correct."
   },
   {
@@ -20064,7 +20071,7 @@
     "page": "4251",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, it does."
   },
   {
@@ -20078,7 +20085,7 @@
     "page": "4252",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do, yes."
   },
   {
@@ -20092,7 +20099,7 @@
     "page": "4252",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Michael Cohen."
   },
   {
@@ -20106,7 +20113,7 @@
     "page": "4252",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "(Pause.)"
   },
   {
@@ -20120,7 +20127,7 @@
     "page": "4252",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -20134,7 +20141,7 @@
     "page": "4252",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -20162,7 +20169,7 @@
     "page": "4252",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That is correct."
   },
   {
@@ -20190,7 +20197,7 @@
     "page": "4253",
     "lineNumber": "9",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Right."
   },
   {
@@ -20218,7 +20225,7 @@
     "page": "4253",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Mr. Cohen was making constant complaints about Rudy Giuliani and what he was saying to the press. And he was also complaining that his law firm, McDermott will & Emery ——"
   },
   {
@@ -20239,7 +20246,7 @@
     "page": "4253",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "—— hadn't been paid ——"
   },
   {
@@ -20253,7 +20260,7 @@
     "page": "4253",
     "lineNumber": "23",
     "character": "THE WITNESS:",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay."
   },
   {
@@ -20295,7 +20302,7 @@
     "page": "4254",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Correct."
   },
   {
@@ -20323,7 +20330,7 @@
     "page": "4254",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I do."
   },
   {
@@ -20337,7 +20344,7 @@
     "page": "4254",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That was in response to his complaint. And I said, \"If you want to let anybody know what you are complaining about, just tell me and I will pass it on.\""
   },
   {
@@ -20351,7 +20358,7 @@
     "page": "4255",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He —— Rudy Giuliani."
   },
   {
@@ -20365,7 +20372,7 @@
     "page": "4255",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No."
   },
   {
@@ -20379,7 +20386,7 @@
     "page": "4255",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Not at all."
   },
   {
@@ -20435,7 +20442,7 @@
     "page": "4255",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No."
   },
   {
@@ -20463,7 +20470,7 @@
     "page": "4255",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Absolutely. I had to treat him that way."
   },
   {
@@ -20477,7 +20484,7 @@
     "page": "4255",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Exclusively Michael Cohen’s."
   },
   {
@@ -20491,7 +20498,7 @@
     "page": "4256",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. My obligation was to Michael Cohen."
   },
   {
@@ -20505,7 +20512,7 @@
     "page": "4256",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, they did."
   },
   {
@@ -20519,7 +20526,7 @@
     "page": "4256",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No, he did not."
   },
   {
@@ -20533,7 +20540,7 @@
     "page": "4256",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I'm sorry, I couldn't hear you."
   },
   {
@@ -20547,7 +20554,7 @@
     "page": "4256",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. They didn't sue. The amount wasn't enough."
   },
   {
@@ -20561,7 +20568,7 @@
     "page": "4256",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -20575,7 +20582,7 @@
     "page": "4256",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Oh, yeah."
   },
   {
@@ -20589,7 +20596,7 @@
     "page": "4256",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I did, a lot of documents."
   },
   {
@@ -20603,7 +20610,7 @@
     "page": "4256",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "At different times, yes."
   },
   {
@@ -20617,7 +20624,7 @@
     "page": "4257",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -20631,7 +20638,7 @@
     "page": "4257",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah."
   },
   {
@@ -20645,7 +20652,7 @@
     "page": "4257",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I did, the House Judiciary Committee."
   },
   {
@@ -20659,7 +20666,7 @@
     "page": "4257",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I think it was last Wednesday."
   },
   {
@@ -20699,7 +20706,7 @@
     "page": "4257",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Hi."
   },
   {
@@ -20713,7 +20720,7 @@
     "page": "4257",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Jeff, Jeff Citron."
   },
   {
@@ -20727,7 +20734,7 @@
     "page": "4257",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -20741,7 +20748,7 @@
     "page": "4258",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I'm sorry, say that again?"
   },
   {
@@ -20755,7 +20762,7 @@
     "page": "4258",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. The email speaks for itself."
   },
   {
@@ -20769,7 +20776,7 @@
     "page": "4258",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He did. Yes, he did."
   },
   {
@@ -20783,7 +20790,7 @@
     "page": "4258",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I don't remember. The email speaks for itself."
   },
   {
@@ -20818,7 +20825,7 @@
     "page": "4258",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I do."
   },
   {
@@ -20832,7 +20839,7 @@
     "page": "4259",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That was from Jeffrey Citron to —— it's blocked out. But this should have been Jeffrey Citron to Michael Cohen."
   },
   {
@@ -20846,7 +20853,7 @@
     "page": "4259",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I’m sorry?"
   },
   {
@@ -20860,7 +20867,7 @@
     "page": "4259",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "(Witness reading.)"
   },
   {
@@ -20874,7 +20881,7 @@
     "page": "4259",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "What's confusing to see is that this is sayings it’s from Michael Cohen to Jeffrey Citron, but I guess this is a string."
   },
   {
@@ -20888,7 +20895,7 @@
     "page": "4259",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "So I'm having trouble seeing the string, yes."
   },
   {
@@ -20902,7 +20909,7 @@
     "page": "4259",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I was."
   },
   {
@@ -20944,7 +20951,7 @@
     "page": "4260",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Except you misstated it before, you stated I was Chief of the Criminal Division, it’s Deputy Chief."
   },
   {
@@ -20958,7 +20965,7 @@
     "page": "4260",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "It is, yeah."
   },
   {
@@ -20972,7 +20979,7 @@
     "page": "4260",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I wasn’t hoping anything. It wasn’t my email."
   },
   {
@@ -20986,7 +20993,7 @@
     "page": "4260",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I probably did, yeah."
   },
   {
@@ -21000,7 +21007,7 @@
     "page": "4260",
     "lineNumber": "18",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "If I heard about it, I guess it was."
   },
   {
@@ -21014,7 +21021,7 @@
     "page": "4260",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. This was Jeffrey Citron’s relationship with Michael Cohen. He knew him for ten years. I didn’t know Michael Cohen from a hole in the wall."
   },
   {
@@ -21028,7 +21035,7 @@
     "page": "4261",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No, I wasn't."
   },
   {
@@ -21042,7 +21049,7 @@
     "page": "4261",
     "lineNumber": "6",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I met with him because Jeff Citron made an arrangement with Michael Cohen. And he asked me to come along, because Jeff Citron is a real estate attorney and this was, obviously, a criminal matter."
   },
   {
@@ -21056,7 +21063,7 @@
     "page": "4261",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Well, I wouldn't say I was just accompanying him, it was Jeff Citron's client, not mine."
   },
   {
@@ -21070,7 +21077,7 @@
     "page": "4261",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, Jeff Citron knew Michael Cohen for at least ten years."
   },
   {
@@ -21084,7 +21091,7 @@
     "page": "4261",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I think I knew that before we entered the Regency Hotel, yes."
   },
   {
@@ -21098,7 +21105,7 @@
     "page": "4261",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I suppose so."
   },
   {
@@ -21112,7 +21119,7 @@
     "page": "4262",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, it would."
   },
   {
@@ -21126,7 +21133,7 @@
     "page": "4262",
     "lineNumber": "4",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I guess that's true, yes."
   },
   {
@@ -21140,7 +21147,7 @@
     "page": "4262",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Probably, yes."
   },
   {
@@ -21154,7 +21161,7 @@
     "page": "4262",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No, it would not."
   },
   {
@@ -21168,7 +21175,7 @@
     "page": "4262",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. Rudy Giuliani wasn't involved in representing President Trump at that point in time. He wasn't in the picture at all."
   },
   {
@@ -21182,7 +21189,7 @@
     "page": "4262",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Two days later is not the date that we met, yes."
   },
   {
@@ -21196,7 +21203,7 @@
     "page": "4262",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I don't understand that question. What do you mean it would \"push me into the arena?\""
   },
   {
@@ -21210,7 +21217,7 @@
     "page": "4263",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I didn't say that. You did."
   },
   {
@@ -21224,7 +21231,7 @@
     "page": "4263",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. I would say no. I didn't want him as a client with the firm."
   },
   {
@@ -21238,7 +21245,7 @@
     "page": "4263",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I don't know what the firm would do."
   },
   {
@@ -21273,7 +21280,7 @@
     "page": "4263",
     "lineNumber": "21",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes. I have read it. I know what it is."
   },
   {
@@ -21287,7 +21294,7 @@
     "page": "4263",
     "lineNumber": "24",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "This was from me to my son."
   },
   {
@@ -21301,7 +21308,7 @@
     "page": "4264",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "April 20th."
   },
   {
@@ -21350,7 +21357,7 @@
     "page": "4264",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "You want me to read it?"
   },
   {
@@ -21364,7 +21371,7 @@
     "page": "4264",
     "lineNumber": "13",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay. From the bottom up. It says, \"I will be on the team.\" That was Michael Cohen’s phraseology. Quote. \"It would be an honor to have you as part of my team. I will be eternally grateful for the help and guidance you have already given me.\" That’s a quote from Michael Cohen."
   },
   {
@@ -21378,7 +21385,7 @@
     "page": "4264",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That’s what it says, it says —— it’s in quotes and it says, \"Michael Cohen, Personal Attorney to Donald J. Trump.\" I did read it."
   },
   {
@@ -21392,7 +21399,7 @@
     "page": "4265",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "The second paragraph. \"This is not public ——\" that, too, was from Michael Cohen. \"—— yet. So do not say anything to anyone about this. I do not know when we will make an announcement, but I have been authorized to contact Rudy Giuliani as counsel to President Trump and tell him that I will be representing Michael Cohen.\" That's my Michael Cohen's instructions, right."
   },
   {
@@ -21406,7 +21413,7 @@
     "page": "4265",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "This has nothing to do with my firm's website."
   },
   {
@@ -21420,7 +21427,7 @@
     "page": "4265",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Announced by Michael Cohen."
   },
   {
@@ -21434,7 +21441,7 @@
     "page": "4265",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Okay, yes."
   },
   {
@@ -21448,7 +21455,7 @@
     "page": "4265",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "\"Wow. That's big news. Congrats, Dad. I hope this leads to a lot of good things coming your way.\" That's from my son, yeah."
   },
   {
@@ -21462,7 +21469,7 @@
     "page": "4265",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. I was telling my son exactly what I told my son in this email. And this is his response to it."
   },
   {
@@ -21476,7 +21483,7 @@
     "page": "4266",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes. On April 17th. Mr. Cohen requested to meet with us. He asked us to come to the Regency Hotel."
   },
   {
@@ -21490,7 +21497,7 @@
     "page": "4266",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. That's not what he said. He said to Michael Cohen, I have a partner who used to be the Deputy Chief of the Criminal Division of the US Attorney's Office. If you want to pick his brain, let me know. And Michael Cohen responded immediately, yes, I want to meet him."
   },
   {
@@ -21504,7 +21511,7 @@
     "page": "4266",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes. Yes, that's what the email said."
   },
   {
@@ -21518,7 +21525,7 @@
     "page": "4266",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Sure."
   },
   {
@@ -21532,7 +21539,7 @@
     "page": "4267",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "We met with him at the Regency Hotel. I didn't know where he was staying when I met with him."
   },
   {
@@ -21546,7 +21553,7 @@
     "page": "4267",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah, I would say, sure."
   },
   {
@@ -21560,7 +21567,7 @@
     "page": "4267",
     "lineNumber": "10",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I wouldn't use the term \"raided.\" They executed a search warrant."
   },
   {
@@ -21574,7 +21581,7 @@
     "page": "4267",
     "lineNumber": "17",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Of course I do."
   },
   {
@@ -21588,7 +21595,7 @@
     "page": "4267",
     "lineNumber": "21",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I did, yes."
   },
   {
@@ -21602,7 +21609,7 @@
     "page": "4267",
     "lineNumber": "23",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Generally, yes."
   },
   {
@@ -21616,7 +21623,7 @@
     "page": "4268",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "It's very serious, and it requires special proof."
   },
   {
@@ -21630,7 +21637,7 @@
     "page": "4268",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "He was suicidal that day and acting manic —— he was manic."
   },
   {
@@ -21644,7 +21651,7 @@
     "page": "4268",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "That's correct."
   },
   {
@@ -21658,7 +21665,7 @@
     "page": "4268",
     "lineNumber": "11",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Oh, (laughter), 40 years —— 50 years."
   },
   {
@@ -21672,7 +21679,7 @@
     "page": "4268",
     "lineNumber": "15",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Talk into the microphone, please."
   },
   {
@@ -21686,7 +21693,7 @@
     "page": "4268",
     "lineNumber": "20",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, sure."
   },
   {
@@ -21700,7 +21707,7 @@
     "page": "4268",
     "lineNumber": "24",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes."
   },
   {
@@ -21714,7 +21721,7 @@
     "page": "4269",
     "lineNumber": "2",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No, I didn't know Michael Cohen. I had never met him before in my life. And he was putting on quite a show, and I didn't know when he initially said ——"
   },
   {
@@ -21728,7 +21735,7 @@
     "page": "4269",
     "lineNumber": "7",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I was ——"
   },
   {
@@ -21742,7 +21749,7 @@
     "page": "4269",
     "lineNumber": "9",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I'm answering your question."
   },
   {
@@ -21763,7 +21770,7 @@
     "page": "4269",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "(Continuing.) He was putting on quite a show. And he explained to us —— he told us that two nights before he was on the roof of the Regency Hotel and he was going to jump off and kill himself because he couldn't handle the pressure of what he saw as the ongoing criminal case coming his way."
   },
   {
@@ -21777,7 +21784,7 @@
     "page": "4269",
     "lineNumber": "22",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, I do."
   },
   {
@@ -21791,7 +21798,7 @@
     "page": "4269",
     "lineNumber": "25",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Approximately, yeah."
   },
   {
@@ -21805,7 +21812,7 @@
     "page": "4270",
     "lineNumber": "3",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yeah, and that's because ——"
   },
   {
@@ -21819,7 +21826,7 @@
     "page": "4270",
     "lineNumber": "5",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "And that's because ——"
   },
   {
@@ -21840,7 +21847,7 @@
     "page": "4270",
     "lineNumber": "12",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Do you want me to answer that question yes or no?"
   },
   {
@@ -21854,7 +21861,7 @@
     "page": "4270",
     "lineNumber": "16",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "No. I said I didn't know whether he was acting as a drama queen, right ——"
   },
   {
@@ -21868,7 +21875,7 @@
     "page": "4270",
     "lineNumber": "19",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "I just didn't know, because I didn't know the guy. I couldn't assess whether these actions by him were genuine or not, but my partner thought they were, and he knew him for ten years."
   },
   {
@@ -21882,7 +21889,7 @@
     "page": "4271",
     "lineNumber": "1",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Well, he had one lawyer at the time that was talking to him, that was McDermott will & Emery. He was also talking to Guy Petrillo, who he, later on in June, whatever the date was, he announced publicly that he was going to retain Guy Petrillo."
   },
   {
@@ -21896,7 +21903,7 @@
     "page": "4271",
     "lineNumber": "8",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Retained? You mean he signed a Retainer Agreement? I don't know."
   },
   {
@@ -21910,7 +21917,7 @@
     "page": "4271",
     "lineNumber": "14",
     "character": "A",
-    "voice": "male_voice_15",
+    "voice": "male_voice_18",
     "text": "Yes, that's correct."
   },
   {
