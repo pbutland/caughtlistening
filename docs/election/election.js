@@ -10,7 +10,7 @@ function lightenColour(colour, percent) {
 
 function setBinValue(bins, idx, item, binRange, numBins) {
     const bin = bins[idx];
-    const range = idx === 0 ? `< ${binRange+1}%` : idx === numBins-1 ? `> ${binRange*numBins}%` : `${(binRange*idx)+1} - ${(binRange*(idx+1)+1)}%`;
+    const range = idx === 0 ? `< ${binRange}%` : idx === numBins - 1 ? `> ${binRange * numBins}%` : `${(binRange * idx)} - ${(binRange * (idx + 1))}%`;
     if (bin === undefined) {
         bins[idx] = {
             votes: 0,
@@ -20,13 +20,8 @@ function setBinValue(bins, idx, item, binRange, numBins) {
     bins[idx].votes = bins[idx].votes + item.custom.state_votes;
 }
 
-(async () => {
-
-    const topology = await fetch(
-        'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
-    ).then(response => response.json());
-
-    const data = [
+function loadData() {
+    return [
         {
             ucName: 'WASHINGTON',
             value: -12,
@@ -700,6 +695,15 @@ function setBinValue(bins, idx, item, binRange, numBins) {
             }
         }
     ];
+}
+
+(async () => {
+
+    const topology = await fetch(
+        'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
+    ).then(response => response.json());
+
+    const data = loadData();
 
     // Prepare map data for joining
     topology.objects.default.geometries.forEach(function (g) {
@@ -708,11 +712,16 @@ function setBinValue(bins, idx, item, binRange, numBins) {
         }
     });
 
-    const table = document.getElementById("data-table").
-        getElementsByTagName('tbody')[0];
-    data.sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
+    // Sum electoral college votes
     const demVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesDem, 0);
     const repVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
+
+    let element = document.getElementById('info-dem1');
+    element.innerHTML = `Biden: ${demVotes}`;
+
+    element = document.getElementById('info-rep1');
+    element.innerHTML = `Trump: ${repVotes}`;
+
     data.unshift({
         ucName: 'NATIONAL',
         value: 1.63,
@@ -726,20 +735,17 @@ function setBinValue(bins, idx, item, binRange, numBins) {
         }
     });
 
-    let element = document.getElementById('info-dem1');
-    element.innerHTML = `Biden: ${demVotes}`;
-
-    element = document.getElementById('info-rep1');
-    element.innerHTML = `Trump: ${repVotes}`;
-
+    // Add data values to data table and
     // create histogram for electoral college votes
-    const max = 100;
-    const min = 1;
-    const binRange = 1.5;
+    const min = 0;
+    const binRange = 2;
     const numberOfBins = 10;
     const demBins = new Array(numberOfBins);
     const repBins = new Array(numberOfBins);
+    const table = document.getElementById("data-table").getElementsByTagName('tbody')[0];
+    data.sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
     data.forEach((item, index) => {
+        // Add values to data table
         const newRow = table.insertRow();
         newRow.className = 'datagrid-row';
         const state = newRow.insertCell(0);
@@ -758,8 +764,8 @@ function setBinValue(bins, idx, item, binRange, numBins) {
         demVotes.innerHTML = `${item.custom.votesDem}%`;
         repVotes.innerHTML = `${item.custom.votesRep}%`;
 
-        // ignore national
-        if (index > 0) {
+        // Add values to histogram
+        if (index > 0) { // ignore national
             const votes = Math.abs(item.value);
             const idx = Math.min(Math.floor((votes - min) / binRange), numberOfBins - 1);
             if (item.custom.winner === 'Republican') {
@@ -770,6 +776,7 @@ function setBinValue(bins, idx, item, binRange, numBins) {
         }
     });
 
+    console.log(demBins);
     // create divs for result bar
     let demColour = '#0913df';
     const demResults = document.getElementById("results-bar");
