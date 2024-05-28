@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="election.js"></script>
+</head>
+
+<body>
+    <div class="election-results-container">
+        <div id="rep-cand" class="item1">
+            <img src="https://assets.highcharts.com/demos/samples/graphics/dashboards/election/biden.jpg" />
+        </div>
+
+        <div class="election-bar-container">
+
+            <div class="info">
+                <div id="info-dem1">Biden</div>
+                <div id="info-to-win">270 to win</div>
+                <div id="info-rep1">Trump</div>
+            </div>
+            <div id="results-container">
+                <div id="bar-line"><span id="arrow">▾</span></div>
+                <div id="results-bar"></div>
+            </div>
+        </div>
+
+        <div id="rep-cand" class="item1">
+            <img src="https://assets.highcharts.com/demos/samples/graphics/dashboards/election/trump.jpg" />
+        </div>
+    </div>
+    <div id="map-container"></div>
+    <div id="data-table-container">
+        <table id="data-table">
+            <thead>
+                <tr class="datagrid-column-headers">
+                    <th class="datagrid-column-header">State</th>
+                    <th class="datagrid-column-header">Democrat</th>
+                    <th class="datagrid-column-header">Republican</th>
+                    <th class="datagrid-column-header">Dem. votes</th>
+                    <th class="datagrid-column-header">Rep. votes</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

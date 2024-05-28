@@ -1,0 +1,332 @@
+body {
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #2f2e38;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.election-bar-container .info {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-content: stretch;
+}
+
+.election-bar-container .info b {
+    padding: 1vw;
+}
+
+#info-to-win {
+    color: #ccc;
+    padding: 5px 0 0 5px;
+    margin: 0;
+}
+
+#info-rep1,
+#info-rep2 {
+    justify-content: right;
+}
+
+#info-dem1,
+#info-rep1 {
+    color: #ccc;
+    font-size: 18px;
+}
+
+#info-dem2,
+#info-rep2 {
+    font-size: 1em;
+}
+
+.bar-datalabel {
+    padding: 20px;
+    color: #fff;
+}
+
+#info-dem1,
+#info-dem2 {
+    justify-content: left;
+}
+
+#info-dem1,
+#info-rep1 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.election-bar-container {
+
+    flex-grow: 1;
+    display: flex;
+
+    justify-content: center;
+    /* flex-flow: column; */
+    flex-direction: column;
+    /* align-content: stretch; */
+
+    height: 100px;
+    padding: 15px;
+    gap: 5px;
+    margin-top: 10px;
+
+}
+
+.election-bar-container>div {
+    /* background: #ffecb3;
+    border: 3px solid #ffcc80;
+    border-radius: 5px; */
+    /* margin-top: 20px; */
+    padding: 8px;
+}
+
+
+
+.election-results-container {
+
+    display: flex;
+
+    justify-content: center;
+    align-content: stretch;
+
+    border-radius: 5px;
+    background-color: #474554;
+    height: 150px;
+    padding: 15px;
+    margin: 20px;
+    gap: 5px;
+
+}
+
+.election-results-container>div {
+    padding: 8px;
+}
+
+.bar-segment {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: small;
+}
+
+.bar-segment .bar-segment-tooltip {
+    visibility: hidden;
+    /* width: 80px; */
+    margin: 0px 0px 30px 60px;
+    background-color: #474554;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 10px;
+    white-space: nowrap;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.bar-segment:hover .bar-segment-tooltip {
+    visibility: visible;
+}
+
+#bar-line {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 3px;
+    background-color: #ccc;
+    /* height: 70px; */
+    height: 100%;
+
+    z-index: 1;
+}
+
+#bar-line span#arrow {
+    position: absolute;
+    color: #ccc;
+    top: -20px;
+    left: -2.5px;
+}
+
+#results-bar {
+    position: relative;
+    border-radius: 10px;
+    height: 70px;
+    padding: 0px;
+    top: -70px;
+    margin: 0px;
+}
+
+#results-container div {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.election-results-container #dem-cand,
+.election-results-container #rep-cand {
+    width: 100px;
+    align-items: center;
+    margin-top: 20px;
+    padding: 1%;
+}
+
+.election-results-container img {
+    /* Candidate portraits */
+    width: 100%;
+    border-radius: 50%;
+}
+
+#map-container {
+    border-radius: 5px;
+    height: 700px;
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+    --color-tooltip-background: #fff;
+    --color-tooltip-text: #336;
+}
+
+#map-container .highcharts-tooltip table th {
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid silver;
+}
+
+#map-container .highcharts-tooltip {
+    fill: none;
+    filter: none;
+    stroke: none;
+}
+
+#map-container .highcharts-tooltip-box {
+    fill: #9eb8f9;
+    fill-opacity: 1;
+    stroke: none;
+}
+
+/* Custom map tooltip */
+#map-container .map-tooltip caption {
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+#map-container .map-tooltip td,
+#map-container .map-tooltip th {
+    background-color: var(--color-tooltip-background);
+    text-align: left;
+    padding: 3px;
+}
+
+/* Electoral votes */
+#map-container .map-tooltip td:nth-of-type(2) {
+    text-align: center;
+}
+
+/* Winning candidate */
+#map-container tr:nth-of-type(4) th {
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Data table */
+#data-table-container {
+    border: 12px solid #474554;
+    min-height: 400px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#data-table-container tr:hover {
+    background-color: #e6e6e6;
+    border-color: #e7e7ec;
+    color: #e7e7ec;
+}
+
+/* Styling of first row (national results) */
+#data-table-container tr:nth-child(1) {
+    font-weight: bold;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+#data-table {
+    width: 100%;
+    background: #fff;
+}
+
+#data-table .datagrid-column-headers tr {
+    border-color: #000;
+}
+
+#data-table th {
+    background-color: #acabba;
+    text-align: left;
+    padding: 10px;
+    /* border-bottom: 1px solid #000; */
+}
+
+#data-table-container .datagrid-column-headers .datagrid-column-header,
+.datagrid-cell {
+    color: #000;
+}
+
+#data-table datagrid-cell {
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+.datagrid-cell {
+    padding: 8px 12px;
+    /* box-sizing: border-box; */
+    /* border-color: #ccc; */
+}
+
+.datagrid-column-header {
+    /* border-bottom: 1px solid var(--highcharts-neutral-color-20); */
+    padding: 4px 4px 4px 12px;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+#data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(2),
+#data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(4) {
+    background-color: #4d8adb;
+    color: #fff;
+}
+
+#data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(3),
+#data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(5) {
+    background-color: #be2f24;
+    color: #fff;
+}
+
+#data-table tr:nth-child(1) .datagrid-cell:nth-child(2),
+#data-table tr:nth-child(1) .datagrid-cell:nth-child(4) {
+    background-color: #d7e3f3;
+    font-weight: 700;
+}
+
+#data-table tr:nth-child(1) .datagrid-cell:nth-child(3),
+#data-table tr:nth-child(1) .datagrid-cell:nth-child(5) {
+    background-color: #f5d3d1;
+    font-weight: 700;
+}
+
+.datagrid-row:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#data-table-container .datagrid-row.hovered,
+#data-table-container .datagrid-row.hovered .datagrid-cell {
+    background-color: #e6e6e6;
+    color: #000;
+}
+
+/* Candidate votes columns */
+#data-table-container .datagrid-cell:nth-child(4),
+#data-table-container .datagrid-cell:nth-child(5) {
+    min-width: 70px;
+}
