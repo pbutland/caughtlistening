@@ -98,14 +98,39 @@ async function update() {
     }
 
     data.forEach(state => {
-        state.polls = state.polls.filter(poll => voterTypes.includes(poll.population) &&
-            pollsters.includes(poll.pollster)
-        );
+        state.polls = state.polls.filter(poll => pollsters.includes(poll.pollster))
+    });
+
+    updateVoters(data);
+
+    data.forEach(state => {
+        state.polls = state.polls.filter(poll => voterTypes.includes(poll.population))
     });
 
     const transformedData = await transform538Data(data);
     updateDataTable(transformedData);
     initChart(transformedData);
+}
+
+async function updateVoters(data) {
+    const populations = data.map(state => state.polls).flat().map(poll => { return { population: poll.population, sampleSize: parseInt(poll.sampleSize) }}).flat();
+    const populationCounts = populations.reduce((p, c) => {
+        let value = p.get(c.population);
+        if (value === undefined) {
+            value = 0;
+        }
+        value += c.sampleSize;
+        return p.set(c.population, value);
+    }, new Map());
+
+    const adult = document.getElementById(`adult-label`);
+    adult.innerText = ` Adult (${populationCounts.get('a').toLocaleString()})`;
+    const voter = document.getElementById(`voter-label`);
+    voter.innerText = ` Voter (${populationCounts.get('v').toLocaleString()})`;
+    const registered = document.getElementById(`registered-label`);
+    registered.innerText = ` Registered (${populationCounts.get('rv').toLocaleString()})`;
+    const likely = document.getElementById(`likely-label`);
+    likely.innerText = ` Likely (${populationCounts.get('lv').toLocaleString()})`;
 }
 
 async function addPollsters(data) {
@@ -137,7 +162,7 @@ async function addPollsters(data) {
         div.appendChild(input);
         const label = document.createElement('label');
         label.for = item[0];
-        label.innerText = `${item[0]} (${item[1]})`;
+        label.innerText = ` ${item[0]} (${item[1].toLocaleString()})`;
         div.appendChild(label);
         pollstersDiv.appendChild(div);
     });
@@ -356,6 +381,7 @@ async function initChart(data) {
 
 (async () => {
     allData = await load538Data();
+    updateVoters(allData);
     addPollsters(allData);
     update();
 })();
