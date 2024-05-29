@@ -76,9 +76,9 @@ async function transform538Data(data) {
 
 let allData;
 let numPollsters;
-const MAX_POLLSTERS = 50;
+const MAX_POLLSTERS = -1;
 
-async function update() {
+async function update(event) {
     const voterAdult = document.getElementById("adult");
     const voterVoter = document.getElementById("voter");
     const voterRegistered = document.getElementById("registered");
@@ -107,13 +107,32 @@ async function update() {
         state.polls = state.polls.filter(poll => voterTypes.includes(poll.population))
     });
 
+    updateTotals(data);
+
+    if (event?.srcElement?.name === 'voters') {
+        const pollsterData = JSON.parse(JSON.stringify(allData));
+        pollsterData.forEach(state => {
+            state.polls = state.polls.filter(poll => voterTypes.includes(poll.population))
+        });
+        updatePollstersCount(pollsterData);
+    }
+
     const transformedData = await transform538Data(data);
     updateDataTable(transformedData);
     initChart(transformedData);
 }
 
+async function updateAllPolls() {
+    const allPolls = document.getElementById("pollster-all");
+    for (let idx = 0; idx < numPollsters; ++idx) {
+        const pollster = document.getElementById(`pollster-${idx}`);
+        pollster.checked = allPolls.checked;
+    }
+    update();
+}
+
 async function updateVoters(data) {
-    const populations = data.map(state => state.polls).flat().map(poll => { return { population: poll.population, sampleSize: parseInt(poll.sampleSize) }}).flat();
+    const populations = data.map(state => state.polls).flat().map(poll => { return { population: poll.population, sampleSize: parseInt(poll.sampleSize) } }).flat();
     const populationCounts = populations.reduce((p, c) => {
         let value = p.get(c.population);
         if (value === undefined) {
@@ -123,14 +142,73 @@ async function updateVoters(data) {
         return p.set(c.population, value);
     }, new Map());
 
+    const adultVoters = populationCounts.get('a') ? populationCounts.get('a').toLocaleString() : 0;
     const adult = document.getElementById(`adult-label`);
-    adult.innerText = ` Adult (${populationCounts.get('a').toLocaleString()})`;
+    adult.innerText = ` Adult (${adultVoters})`;
+    const voters = populationCounts.get('v') ? populationCounts.get('v').toLocaleString() : 0;
     const voter = document.getElementById(`voter-label`);
-    voter.innerText = ` Voter (${populationCounts.get('v').toLocaleString()})`;
+    voter.innerText = ` Voter (${voters})`;
+    const registeredVoters = populationCounts.get('rv') ? populationCounts.get('rv').toLocaleString() : 0;
     const registered = document.getElementById(`registered-label`);
-    registered.innerText = ` Registered (${populationCounts.get('rv').toLocaleString()})`;
+    registered.innerText = ` Registered (${registeredVoters})`;
+    const likelyVoters = populationCounts.get('lv') ? populationCounts.get('lv').toLocaleString() : 0;
     const likely = document.getElementById(`likely-label`);
-    likely.innerText = ` Likely (${populationCounts.get('lv').toLocaleString()})`;
+    likely.innerText = ` Likely (${likelyVoters})`;
+}
+
+async function updatePollstersCount(data) {
+    const allPollsters = data.map(state => state.polls).flat().map(poll => poll.pollster);
+    const pollsterCounts = allPollsters.reduce((p, c) => {
+        let value = p.get(c);
+        if (value === undefined) {
+            value = 0;
+        }
+        value++;
+        return p.set(c, value);
+    }, new Map());
+
+    const pollstersDiv = document.getElementById('pollsters').children;
+    Array.from(pollstersDiv).forEach(div => {
+        const labels = Array.from(div.children).filter(child => child.nodeName === 'LABEL');
+        labels.forEach(label => {
+            label.innerText = ` ${label.for} (0)`;
+        });
+    });
+
+    const pollsters = Array.from(pollsterCounts.entries());
+
+    pollsters.forEach(pollster => {
+        const label = document.getElementById(`${pollster[0]}-label`);
+        label.innerText = ` ${pollster[0]} (${pollster[1].toLocaleString()})`;
+    });
+}
+
+async function updateTotals(data) {
+    const populations = data.map(state => state.polls).flat().map(poll => { return { population: poll.population, sampleSize: parseInt(poll.sampleSize) } }).flat();
+    const populationCounts = populations.reduce((p, c) => {
+        let value = p.get(c.population);
+        if (value === undefined) {
+            value = 0;
+        }
+        value += c.sampleSize;
+        return p.set(c.population, value);
+    }, new Map());
+    const totalVoters = Array.from(populationCounts.values()).reduce((partialSum, a) => partialSum + a, 0);
+    const votersTitle = document.getElementById('voters-title');
+    votersTitle.innerText = `Voters (${totalVoters.toLocaleString()})`;
+
+    const allPollsters = data.map(state => state.polls).flat().map(poll => poll.pollster);
+    const pollsterCounts = allPollsters.reduce((p, c) => {
+        let value = p.get(c);
+        if (value === undefined) {
+            value = 0;
+        }
+        value++;
+        return p.set(c, value);
+    }, new Map());
+    const totalPolls = pollsterCounts.values().reduce((partialSum, a) => partialSum + a, 0);
+    const pollsTitle = document.getElementById('polls-title');
+    pollsTitle.innerText = `Polls (${totalPolls.toLocaleString()})`;
 }
 
 async function addPollsters(data) {
@@ -155,12 +233,13 @@ async function addPollsters(data) {
         const input = document.createElement('input');
         input.id = `pollster-${index}`;
         input.type = 'checkbox';
-        input.name = item[0];
+        input.name = 'pollsters';
         input.value = item[0];
         input.checked = true;
         input.onclick = update;
         div.appendChild(input);
         const label = document.createElement('label');
+        label.id = `${item[0]}-label`;
         label.for = item[0];
         label.innerText = ` ${item[0]} (${item[1].toLocaleString()})`;
         div.appendChild(label);
@@ -270,7 +349,7 @@ async function updateDataTable(data) {
             div.style.borderRadius = '0px 10px 10px 0px';
         }
         div.style.width = `${diff * 100 / 538}%`;
-        div.style.background = '#fff';
+        div.style.background = '#ccc';
         div.className = 'bar-segment';
         resultsBar.appendChild(div);
     }

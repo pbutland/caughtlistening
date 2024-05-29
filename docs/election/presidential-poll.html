@@ -36,14 +36,15 @@
     </div>
     <div id="options">
         <div id="voters">
-            <div class="options-title">Voter type</div>
-            <div><input type="checkbox" id="adult" name="voters" value="a" onclick="update()" checked><label id="adult-label" for="adult"></label></div>
-            <div><input type="checkbox" id="voter" name="voters" value="v" onclick="update()" checked><label id="voter-label" for="voter"></label></div>
-            <div><input type="checkbox" id="registered" name="voters" value="rv" onclick="update()" checked><label id="registered-label" for="registered"></label></div>
-            <div><input type="checkbox" id="likely" name="voters" value="lv" onclick="update()" checked><label id="likely-label" for="likely"></label></div>
+            <div id="voters-title" class="options-title">Voters</div>
+            <div><input type="checkbox" id="adult" name="voters" value="a" onclick="update(event)" checked><label id="adult-label" for="adult">Adult</label></div>
+            <div><input type="checkbox" id="voter" name="voters" value="v" onclick="update(event)" checked><label id="voter-label" for="voter">Voter</label></div>
+            <div><input type="checkbox" id="registered" name="voters" value="rv" onclick="update(event)" checked><label id="registered-label" for="registered">Registered</label></div>
+            <div><input type="checkbox" id="likely" name="voters" value="lv" onclick="update(event)" checked><label id="likely-label" for="likely">Likely</label></div>
         </div>
         <div id="pollsters-container">
-            <div class="options-title">Polls</div>
+            <div id="polls-title" class="options-title">Polls</div>
+            <div><input type="checkbox" id="pollster-all" name="pollsters" value="all" onclick="updateAllPolls()" checked><label id="all-polls-label" for="pollster-all"> All polls</label></div>
             <div id="pollsters">
             </div>
         </div>
