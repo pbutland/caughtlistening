@@ -23,7 +23,7 @@ function setBinValue(bins, idx, item, binRange, numBins) {
 async function loadState(state) {
     const baseUrl = 'https://projects.fivethirtyeight.com/polls/president-general';
     const stateName = state.ucName.toLowerCase().replace(/ dist. \d/, '').replaceAll(/ /g, '-');
-    let data = await fetch(`${baseUrl}/2024/${stateName}/polls.json`).then(response => response.json());
+    let data = await fetch(`${baseUrl}/2024/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
 
     // Filter based on date range
     // const dateRangeFilter = data.filter(item => Date.parse(item.endDate) > (new Date(new Date() - (90 * 24 * 60 * 60 * 1000))));
@@ -32,7 +32,7 @@ async function loadState(state) {
     let filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
     if (!filtered || filtered.length === 0) {
         // Fallback onto 2020 results
-        data = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json());
+        data = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
         filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
     }
 
@@ -191,7 +191,7 @@ async function load538Data() {
     // Initialize the chart
     Highcharts.mapChart('map-container', {
         title: {
-            text: 'US Electoral College Poll Results 2024',
+            text: 'US Electoral College Poll Results',
             align: 'center'
         },
 
