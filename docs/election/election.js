@@ -44,7 +44,6 @@ async function loadState(state) {
     const demPct = demVotes * 100 / totalVotes;
     const repPct = repVotes * 100 / totalVotes;
     const diff = repPct - demPct;
-    console.log(`Returning ${stateName}`);
     return {
         ucName: state.ucName,
         value: diff.toFixed(2),
@@ -74,7 +73,6 @@ async function load538Data() {
     ).then(response => response.json());
 
     const data = await load538Data();
-    console.log(data);
 
     // Prepare map data for joining
     topology.objects.default.geometries.forEach(function (g) {
@@ -191,7 +189,7 @@ async function load538Data() {
     // Initialize the chart
     Highcharts.mapChart('map-container', {
         title: {
-            text: 'US Electoral College Poll Results',
+            text: 'US Electoral College Poll Results 2024',
             align: 'center'
         },
 
