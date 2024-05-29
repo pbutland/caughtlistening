@@ -21,41 +21,24 @@ function setBinValue(bins, idx, item, binRange, numBins) {
 }
 
 async function loadState(state) {
-    const baseUrl = 'https://projects.fivethirtyeight.com/polls/president-general';
     const stateName = state.ucName.toLowerCase().replace(/ dist. \d/, '').replaceAll(/ /g, '-');
-    let data = await fetch(`${baseUrl}/2024/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
+    const baseUrl = 'https://projects.fivethirtyeight.com/polls/president-general';
+    let polls = await fetch(`${baseUrl}/2024/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));
+    // const baseUrl = 'http://localhost:3000/data/poll-results';
+    // let polls = await fetch(`${baseUrl}/${stateName}.json`).then(response => response.json()).catch(err => console.log(err));
 
     // Filter based on date range
     // const dateRangeFilter = data.filter(item => Date.parse(item.endDate) > (new Date(new Date() - (90 * 24 * 60 * 60 * 1000))));
 
     // Filter out polls that don't include BOTH republican and democrat candidates or a sample size
-    let filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
-    if (!filtered || filtered.length === 0) {
+    let eligiblePolls = polls && polls.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+    if (!eligiblePolls || eligiblePolls.length === 0) {
         // Fallback onto 2020 results
-        data = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
-        filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+        polls = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
+        eligiblePolls = polls && polls.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
     }
 
-    // Aggregate votes from all polls
-    const demVotes = filtered.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * a.sampleSize, 0);
-    const repVotes = filtered.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * a.sampleSize, 0);
-    const totalVotes = filtered.reduce((partialSum, a) => partialSum + parseInt(a.sampleSize), 0);
-
-    const demPct = demVotes * 100 / totalVotes;
-    const repPct = repVotes * 100 / totalVotes;
-    const diff = repPct - demPct;
-    return {
-        ucName: state.ucName,
-        value: diff.toFixed(2),
-        custom: {
-            winner: diff > 0 ? 'Republican' : 'Democrat',
-            elVotesDem: diff < 0 ? state.custom.state_votes : 0,
-            elVotesRep: diff > 0 ? state.custom.state_votes : 0,
-            votesDem: demPct.toFixed(2),
-            votesRep: repPct.toFixed(2),
-            state_votes: state.custom.state_votes,
-        }
-    };
+    return { ucName: state.ucName, state_votes: state.custom.state_votes, polls: eligiblePolls };
 }
 
 async function load538Data() {
@@ -66,39 +49,124 @@ async function load538Data() {
     return await Promise.all(states);
 }
 
-(async () => {
+async function transform538Data(data) {
+    return data.map(state => {
+        // Aggregate votes from all polls
+        const demVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * a.sampleSize, 0);
+        const repVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * a.sampleSize, 0);
+        const totalVotes = state.polls.reduce((partialSum, a) => partialSum + parseInt(a.sampleSize), 0);
 
-    const topology = await fetch(
-        'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
-    ).then(response => response.json());
+        const demPct = demVotes * 100 / totalVotes;
+        const repPct = repVotes * 100 / totalVotes;
+        const diff = repPct - demPct;
+        return {
+            ucName: state.ucName,
+            value: diff.toFixed(2),
+            custom: {
+                winner: diff > 0 ? 'Republican' : 'Democrat',
+                elVotesDem: diff < 0 ? state.state_votes : 0,
+                elVotesRep: diff > 0 ? state.state_votes : 0,
+                votesDem: demPct.toFixed(2),
+                votesRep: repPct.toFixed(2),
+                state_votes: state.state_votes,
+            }
+        };
+    }).sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
+}
 
-    const data = await load538Data();
+let allData;
+const MAX_POLLSTERS = 10;
 
-    // Prepare map data for joining
-    topology.objects.default.geometries.forEach(function (g) {
-        if (g.properties && g.properties.name) {
-            g.properties.ucName = g.properties.name.toUpperCase();
-        }
+async function update() {
+    const voterAdult = document.getElementById("adult");
+    const voterVoter = document.getElementById("voter");
+    const voterRegistered = document.getElementById("registered");
+    const voterLikely = document.getElementById("likely");
+
+    const voterTypes = [];
+    voterAdult.checked && voterTypes.push(voterAdult.value);
+    voterVoter.checked && voterTypes.push(voterVoter.value);
+    voterRegistered.checked && voterTypes.push(voterRegistered.value);
+    voterLikely.checked && voterTypes.push(voterLikely.value);
+    const data = JSON.parse(JSON.stringify(allData));
+
+    const pollsters = [];
+    for (let idx = 0; idx < MAX_POLLSTERS; ++idx) {
+        const pollster = document.getElementById(`pollster-${idx}`);
+        pollster.checked && pollsters.push(pollster.value);
+    }
+
+    data.forEach(state => {
+        state.polls = state.polls.filter(poll => voterTypes.includes(poll.population) &&
+            pollsters.includes(poll.pollster)
+        );
     });
 
+    const transformedData = await transform538Data(data);
+    updateDataTable(transformedData);
+    initChart(transformedData);
+}
+
+async function addPollsters(data) {
+    const allPollsters = data.map(state => state.polls).flat().map(poll => poll.pollster);
+    const pollsterCounts = allPollsters.reduce((p, c) => {
+        let value = p.get(c);
+        if (value === undefined) {
+            value = 0;
+        }
+        value++;
+        return p.set(c, value);
+    }, new Map());
+
+    const sortedPollsters = new Map([...pollsterCounts.entries()].sort((a, b) => b[1] - a[1]));
+    const topPollsters = Array.from(sortedPollsters.entries()).slice(0, MAX_POLLSTERS);
+    const pollstersDiv = document.getElementById("pollsters");
+    pollstersDiv.innerHTML = '';
+    const heading = document.createElement('div');
+    heading.className = 'options-title';
+    heading.innerText = 'Polls';
+    pollstersDiv.appendChild(heading);
+    topPollsters.forEach((item, index) => {
+        const div = document.createElement('div');
+        const input = document.createElement('input');
+        input.id = `pollster-${index}`;
+        input.type = 'checkbox';
+        input.name = item[0];
+        input.value = item[0];
+        input.checked = true;
+        input.onclick = update;
+        div.appendChild(input);
+        const label = document.createElement('label');
+        label.for = item[0];
+        label.innerText = `${item[0]} (${item[1]})`;
+        div.appendChild(label);
+        pollstersDiv.appendChild(div);
+    });
+}
+
+async function updateDataTable(data) {
     // Sum electoral college votes
     const demVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesDem, 0);
     const repVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
+
+    data.unshift({
+        ucName: 'NATIONAL',
+        value: undefined,
+        custom: {
+            winner: repVotes > demVotes ? 'Republican' : 'Democrat',
+            elVotesDem: demVotes,
+            elVotesRep: repVotes,
+            votesDem: undefined,
+            votesRep: undefined,
+            state_votes: null
+        }
+    });
 
     let element = document.getElementById('info-dem1');
     element.innerHTML = `Biden: ${demVotes}`;
 
     element = document.getElementById('info-rep1');
     element.innerHTML = `Trump: ${repVotes}`;
-
-    data.unshift({
-        ucName: 'NATIONAL',
-        custom: {
-            winner: 'Republican',
-            elVotesDem: demVotes,
-            elVotesRep: repVotes,
-        }
-    });
 
     // Add data values to data table and
     // create histogram for electoral college votes
@@ -108,7 +176,7 @@ async function load538Data() {
     const demBins = new Array(numberOfBins);
     const repBins = new Array(numberOfBins);
     const table = document.getElementById("data-table").getElementsByTagName('tbody')[0];
-    data.sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
+    table.innerHTML = '';
     data.forEach((item, index) => {
         // Add values to data table
         const newRow = table.insertRow();
@@ -126,8 +194,8 @@ async function load538Data() {
         state.innerHTML = item.ucName;
         democrat.innerHTML = item.custom.elVotesDem;
         republican.innerHTML = item.custom.elVotesRep;
-        demVotes.innerHTML = `${item.custom.votesDem}%`;
-        repVotes.innerHTML = `${item.custom.votesRep}%`;
+        demVotes.innerHTML = isNaN(item.custom.votesDem) ? '-' : `${item.custom.votesDem}%`;
+        repVotes.innerHTML = isNaN(item.custom.votesRep) ? '-' : `${item.custom.votesRep}%`;
 
         // Add values to histogram
         if (index > 0) { // ignore national
@@ -143,13 +211,17 @@ async function load538Data() {
 
     // create divs for result bar
     let demColour = '#0913df';
-    const demResults = document.getElementById("results-bar");
+    const resultsBar = document.getElementById("results-bar");
+    resultsBar.innerHTML = '';
+    let firstNonZero = true;
     demBins.reverse().forEach((item, index) => {
         const div = document.createElement('div');
-        if (index === 0) {
+        firstNonZero = firstNonZero && item.votes !== 0;
+        if (firstNonZero) {
             div.style.borderRadius = '10px 0px 0px 10px';
+            firstNonZero = false;
         }
-        div.style.width = `${item.votes * 100 / 270}%`;
+        div.style.width = `${item.votes * 100 / 538}%`;
         div.style.background = demColour;
         if (!!item && item.votes !== 0) {
             div.innerText = item.votes;
@@ -159,17 +231,36 @@ async function load538Data() {
             div.appendChild(span);
         }
         div.className = 'bar-segment';
-        demResults.appendChild(div);
+        resultsBar.appendChild(div);
         demColour = `#${lightenColour(demColour, 7)}`;
     });
 
-    let repColour = '#df1309';
-    const repDivs = repBins.reverse().map((item, index) => {
+    const diff = 538 - demVotes - repVotes;
+    if (diff > 0) {
         const div = document.createElement('div');
-        if (index === 0) {
+        if (diff === 538) {
+            div.style.borderRadius = '10px';
+        } else if (demVotes === 0) {
+            div.style.borderRadius = '10px 0px 0px 10px';
+        } else if (repVotes === 0) {
             div.style.borderRadius = '0px 10px 10px 0px';
         }
-        div.style.width = `${item.votes * 100 / 270}%`;
+        div.style.width = `${diff * 100 / 538}%`;
+        div.style.background = '#fff';
+        div.className = 'bar-segment';
+        resultsBar.appendChild(div);
+    }
+
+    let repColour = '#df1309';
+    firstNonZero = true;
+    const repDivs = repBins.reverse().map((item, index) => {
+        const div = document.createElement('div');
+        firstNonZero = firstNonZero && item.votes !== 0;
+        if (firstNonZero) {
+            div.style.borderRadius = '0px 10px 10px 0px';
+            firstNonZero = false;
+        }
+        div.style.width = `${item.votes * 100 / 538}%`;
         div.style.background = repColour;
         if (!!item && item.votes !== 0) {
             div.innerText = item.votes;
@@ -183,10 +274,25 @@ async function load538Data() {
         return div;
     });
     repDivs.reverse().forEach(div => {
-        demResults.appendChild(div);
+        resultsBar.appendChild(div);
     });
+}
 
-    // Initialize the chart
+let topology;
+async function initChart(data) {
+    if (!topology) {
+        topology = await fetch(
+            'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
+        ).then(response => response.json());
+
+        // Prepare map data for joining
+        topology.objects.default.geometries.forEach(function (g) {
+            if (g.properties && g.properties.name) {
+                g.properties.ucName = g.properties.name.toUpperCase();
+            }
+        });
+    }
+
     Highcharts.mapChart('map-container', {
         title: {
             text: 'US Electoral College Poll Results 2024',
@@ -247,5 +353,10 @@ async function load538Data() {
             }
         }]
     });
+}
 
+(async () => {
+    allData = await load538Data();
+    addPollsters(allData);
+    update();
 })();

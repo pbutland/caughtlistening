@@ -13,7 +13,8 @@
 <body>
     <div class="election-results-container">
         <div id="dem-cand">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joe_Biden_official_portrait_2013_square.jpg/600px-Joe_Biden_official_portrait_2013_square.jpg?20201120213818" />
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joe_Biden_official_portrait_2013_square.jpg/600px-Joe_Biden_official_portrait_2013_square.jpg?20201120213818" />
         </div>
 
         <div class="election-bar-container">
@@ -31,6 +32,17 @@
 
         <div id="rep-cand">
             <img width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Donald_Trump_mug_shot.jpg" />
+        </div>
+    </div>
+    <div id="options">
+        <div id="voters">
+            <div class="options-title">Voter type</div>
+            <div><input type="checkbox" id="adult" name="voters" value="a" onclick="update()" checked><label for="adult">&nbsp;Adult</label></div>
+            <div><input type="checkbox" id="voter" name="voters" value="v" onclick="update()" checked><label for="voter">&nbsp;Voter</label></div>
+            <div><input type="checkbox" id="registered" name="voters" value="rv" onclick="update()" checked><label for="registered">&nbsp;Registered</label></div>
+            <div><input type="checkbox" id="likely" name="voters" value="lv" onclick="update()" checked><label for="likely">&nbsp;Likely</label></div>
+        </div>
+        <div id="pollsters">
         </div>
     </div>
     <div id="map-container"></div>

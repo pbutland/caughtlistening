@@ -80,8 +80,6 @@ body {
     padding: 8px;
 }
 
-
-
 .election-results-container {
 
     display: flex;
@@ -177,6 +175,37 @@ body {
     /* Candidate portraits */
     width: 100%;
     border-radius: 50%;
+}
+
+#options {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: stretch;
+    border-radius: 5px;
+    background-color: #474554;
+    padding: 15px;
+    margin: 20px;
+    gap: 5px;
+}
+
+#options>div {
+    padding: 8px;
+    color: #ccc;
+}
+
+#voters {
+    white-space: nowrap;
+}
+
+#pollsters {
+    flex-grow:1;
+    margin-left: 100px;
+}
+
+.options-title {
+    padding-bottom: 12px;
+    font-weight: 700;
 }
 
 #map-container {
