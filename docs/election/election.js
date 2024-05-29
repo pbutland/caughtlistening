@@ -20,681 +20,51 @@ function setBinValue(bins, idx, item, binRange, numBins) {
     bins[idx].votes = bins[idx].votes + item.custom.state_votes;
 }
 
-function loadData() {
-    return [
-        {
-            ucName: 'WASHINGTON',
-            value: -12,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 12,
-                elVotesRep: 0,
-                votesDem: 48.5,
-                votesRep: 36.5,
-                state_votes: 12
-            }
-        },
-        {
-            ucName: 'ARIZONA',
-            value: 2.67,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 11,
-                votesDem: 43.5,
-                votesRep: 46.17,
-                state_votes: 11
-            }
-        },
-        {
-            ucName: 'MASSACHUSETTS',
-            value: -29.5,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 11,
-                elVotesRep: 0,
-                votesDem: 53.5,
-                votesRep: 24,
-                state_votes: 11
-            }
-        },
-        {
-            ucName: 'MICHIGAN',
-            value: 3,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 15,
-                votesDem: 42.8,
-                votesRep: 45.8,
-                state_votes: 15
-            }
-        },
-        {
-            ucName: 'NEVADA',
-            value: 6,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 42.4,
-                votesRep: 48.4,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'NEW HAMPSHIRE',
-            value: -3,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 4,
-                elVotesRep: 0,
-                votesDem: 41,
-                votesRep: 38,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'NORTH CAROLINA',
-            value: 5.6,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 16,
-                votesDem: 40,
-                votesRep: 45.6,
-                state_votes: 16
-            }
-        },
-        {
-            ucName: 'PENNSYLVANIA',
-            value: 2.83,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 19,
-                votesDem: 43.67,
-                votesRep: 46.5,
-                state_votes: 19
-            }
-        },
-        {
-            ucName: 'RHODE ISLAND',
-            value: -19,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 4,
-                elVotesRep: 0,
-                votesDem: 52,
-                votesRep: 33,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'WISCONSIN',
-            value: -1,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 10,
-                elVotesRep: 0,
-                votesDem: 46.6,
-                votesRep: 45.6,
-                state_votes: 10
-            }
-        },
-        {
-            ucName: 'GEORGIA',
-            value: 5.25,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 16,
-                votesDem: 41.25,
-                votesRep: 46.5,
-                state_votes: 16
-            }
-        },
-        {
-            ucName: 'NEW YORK',
-            value: -14,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 28,
-                elVotesRep: 0,
-                votesDem: 51.5,
-                votesRep: 37.5,
-                state_votes: 28
-            }
-        },
-        {
-            ucName: 'TENNESSEE',
-            value: 18,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 11,
-                votesDem: 29,
-                votesRep: 47,
-                state_votes: 11
-            }
-        },
-        {
-            ucName: 'TEXAS',
-            value: 9,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 40,
-                votesDem: 35.5,
-                votesRep: 44.5,
-                state_votes: 40
-            }
-        },
-        {
-            ucName: 'FLORIDA',
-            value: 9,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 30,
-                votesDem: 41.5,
-                votesRep: 50.5,
-                state_votes: 30
-            }
-        },
-        {
-            ucName: 'MINNESOTA',
-            value: -2,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 10,
-                elVotesRep: 0,
-                votesDem: 44,
-                votesRep: 42,
-                state_votes: 10
-            }
-        },
-        {
-            ucName: 'LOUISIANA',
-            value: 14,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 8,
-                votesDem: 38,
-                votesRep: 52,
-                state_votes: 8
-            }
-        },
-        {
-            ucName: 'MARYLAND',
-            value: -21,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 10,
-                elVotesRep: 0,
-                votesDem: 56,
-                votesRep: 35,
-                state_votes: 10
-            }
-        },
-        {
-            ucName: 'UTAH',
-            value: 28,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 26,
-                votesRep: 54,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'CALIFORNIA',
-            value: -23,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 54,
-                elVotesRep: 0,
-                votesDem: 54,
-                votesRep: 31,
-                state_votes: 54
-            }
-        },
-        {
-            ucName: 'COLORADO',
-            value: -10,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 10,
-                elVotesRep: 0,
-                votesDem: 49,
-                votesRep: 39,
-                state_votes: 10
-            }
-        },
-        {
-            ucName: 'NEW JERSEY',
-            value: -7,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 14,
-                elVotesRep: 0,
-                votesDem: 46,
-                votesRep: 39,
-                state_votes: 14
-            }
-        },
-        {
-            ucName: 'OHIO',
-            value: 10.5,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 17,
-                votesDem: 39.25,
-                votesRep: 49.75,
-                state_votes: 17
-            }
-        },
-        {
-            ucName: 'ALASKA',
-            value: 12,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 3,
-                votesDem: 41,
-                votesRep: 53,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'INDIANA',
-            value: 21,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 11,
-                votesDem: 34,
-                votesRep: 55,
-                state_votes: 11
-            }
-        },
-        {
-            ucName: 'MONTANA',
-            value: 21.5,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 4,
-                votesDem: 32,
-                votesRep: 53.5,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'IOWA',
-            value: 12,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 36.5,
-                votesRep: 48.5,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'MAINE',
-            value: 6,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 2,
-                votesDem: 32,
-                votesRep: 38,
-                state_votes: 2
-            }
-        },
-        {
-            ucName: 'MAINE DIST. 1',
-            value: -8,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 1,
-                elVotesRep: 0,
-                votesDem: 39,
-                votesRep: 31,
-                state_votes: 1
-            }
-        },
-        {
-            ucName: 'MAINE DIST. 2',
-            value: 20,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 1,
-                votesDem: 25,
-                votesRep: 45,
-                state_votes: 1
-            }
-        },
-        {
-            ucName: 'SOUTH CAROLINA',
-            value: 16.5,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 9,
-                votesDem: 35.75,
-                votesRep: 52.25,
-                state_votes: 9
-            }
-        },
-        {
-            ucName: 'MISSOURI',
-            value: 17,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 10,
-                votesDem: 32,
-                votesRep: 49,
-                state_votes: 10
-            }
-        },
-        {
-            ucName: 'SOUTH DAKOTA',
-            value: 29,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 3,
-                votesDem: 26,
-                votesRep: 55,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'VIRGINIA',
-            value: -6,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 13,
-                elVotesRep: 0,
-                votesDem: 49,
-                votesRep: 43,
-                state_votes: 13
-            }
-        },
-        {
-            ucName: 'WYOMING',
-            value: 53,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 3,
-                votesDem: 15,
-                votesRep: 68,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'ARKANSAS',
-            value: 33,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 24,
-                votesRep: 57,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'ILLINOIS',
-            value: -9,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 19,
-                elVotesRep: 0,
-                votesDem: 43,
-                votesRep: 34,
-                state_votes: 19
-            }
-        },
-        {
-            ucName: 'NORTH DAKOTA',
-            value: 37,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 3,
-                votesDem: 17,
-                votesRep: 54,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'NEBRASKA',
-            value: 16,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 2,
-                votesDem: 31,
-                votesRep: 47,
-                state_votes: 2
-            }
-        },
-        {
-            ucName: 'WEST VIRGINIA',
-            value: 36,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 4,
-                votesDem: 23,
-                votesRep: 59,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'KANSAS',
-            value: 16,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 31,
-                votesRep: 47,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'IDAHO',
-            value: 29,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 4,
-                votesDem: 26,
-                votesRep: 55,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'OKLAHOMA',
-            value: 28,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 7,
-                votesDem: 27,
-                votesRep: 55,
-                state_votes: 7
-            }
-        },
-        {
-            ucName: 'KENTUCKY',
-            value: 29,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 8,
-                votesDem: 26,
-                votesRep: 55,
-                state_votes: 8
-            }
-        },
-        {
-            ucName: 'NEW MEXICO',
-            value: -8,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 5,
-                elVotesRep: 0,
-                votesDem: 49,
-                votesRep: 41,
-                state_votes: 5
-            }
-        },
-        {
-            ucName: 'ALABAMA',
-            value: 100,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 9,
-                votesDem: 0,
-                votesRep: 100,
-                state_votes: 9
-            }
-        },
-        {
-            ucName: 'CONNECTICUT',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 7,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 7
-            }
-        },
-        {
-            ucName: 'DELAWARE',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 3,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'DISTRICT OF COLUMBIA',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 3,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 3
-            }
-        },
-        {
-            ucName: 'HAWAII',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 4,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 4
-            }
-        },
-        {
-            ucName: 'MISSISSIPPI',
-            value: 100,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 6,
-                votesDem: 0,
-                votesRep: 100,
-                state_votes: 6
-            }
-        },
-        {
-            ucName: 'NEBRASKA DIST. 1',
-            value: 100,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 1,
-                votesDem: 0,
-                votesRep: 100,
-                state_votes: 1
-            }
-        },
-        {
-            ucName: 'NEBRASKA DIST. 2',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 1,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 1
-            }
-        },
-        {
-            ucName: 'NEBRASKA DIST. 3',
-            value: 100,
-            custom: {
-                winner: 'Republican',
-                elVotesDem: 0,
-                elVotesRep: 1,
-                votesDem: 0,
-                votesRep: 100,
-                state_votes: 1
-            }
-        },
-        {
-            ucName: 'OREGON',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 8,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 8
-            }
-        },
-        {
-            ucName: 'VERMONT',
-            value: -100,
-            custom: {
-                winner: 'Democrat',
-                elVotesDem: 3,
-                elVotesRep: 0,
-                votesDem: 100,
-                votesRep: 0,
-                state_votes: 3
-            }
+async function loadState(state) {
+    const baseUrl = 'https://projects.fivethirtyeight.com/polls/president-general';
+    const stateName = state.ucName.toLowerCase().replace(/ dist. \d/, '').replaceAll(/ /g, '-');
+    let data = await fetch(`${baseUrl}/2024/${stateName}/polls.json`).then(response => response.json());
+
+    // Filter based on date range
+    // const dateRangeFilter = data.filter(item => Date.parse(item.endDate) > (new Date(new Date() - (90 * 24 * 60 * 60 * 1000))));
+
+    // Filter out polls that don't include BOTH republican and democrat candidates or a sample size
+    let filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+    if (!filtered || filtered.length === 0) {
+        // Fallback onto 2020 results
+        data = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json());
+        filtered = data && data.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+    }
+
+    // Aggregate votes from all polls
+    const demVotes = filtered.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * a.sampleSize, 0);
+    const repVotes = filtered.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * a.sampleSize, 0);
+    const totalVotes = filtered.reduce((partialSum, a) => partialSum + parseInt(a.sampleSize), 0);
+
+    const demPct = demVotes * 100 / totalVotes;
+    const repPct = repVotes * 100 / totalVotes;
+    const diff = repPct - demPct;
+    console.log(`Returning ${stateName}`);
+    return {
+        ucName: state.ucName,
+        value: diff.toFixed(2),
+        custom: {
+            winner: diff > 0 ? 'Republican' : 'Democrat',
+            elVotesDem: diff < 0 ? state.custom.state_votes : 0,
+            elVotesRep: diff > 0 ? state.custom.state_votes : 0,
+            votesDem: demPct.toFixed(2),
+            votesRep: repPct.toFixed(2),
+            state_votes: state.custom.state_votes,
         }
-    ];
+    };
+}
+
+async function load538Data() {
+    const results = await fetch(
+        'https://caughtlistening.net/election/data/base-map-data.json'
+    ).then(response => response.json());
+    const states = results.map(state => loadState(state));
+    return await Promise.all(states);
 }
 
 (async () => {
@@ -703,7 +73,8 @@ function loadData() {
         'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
     ).then(response => response.json());
 
-    const data = loadData();
+    const data = await load538Data();
+    console.log(data);
 
     // Prepare map data for joining
     topology.objects.default.geometries.forEach(function (g) {
@@ -724,14 +95,10 @@ function loadData() {
 
     data.unshift({
         ucName: 'NATIONAL',
-        value: 1.63,
         custom: {
             winner: 'Republican',
             elVotesDem: demVotes,
             elVotesRep: repVotes,
-            votesDem: 43.82,
-            votesRep: 45.45,
-            state_votes: null
         }
     });
 
@@ -776,7 +143,6 @@ function loadData() {
         }
     });
 
-    console.log(demBins);
     // create divs for result bar
     let demColour = '#0913df';
     const demResults = document.getElementById("results-bar");
@@ -825,7 +191,7 @@ function loadData() {
     // Initialize the chart
     Highcharts.mapChart('map-container', {
         title: {
-            text: 'US Electoral College Poll - 24th May 2024',
+            text: 'US Electoral College Poll Results 2024',
             align: 'center'
         },
 
