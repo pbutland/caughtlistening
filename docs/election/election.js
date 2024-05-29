@@ -75,7 +75,8 @@ async function transform538Data(data) {
 }
 
 let allData;
-const MAX_POLLSTERS = 10;
+let numPollsters;
+const MAX_POLLSTERS = 50;
 
 async function update() {
     const voterAdult = document.getElementById("adult");
@@ -91,7 +92,7 @@ async function update() {
     const data = JSON.parse(JSON.stringify(allData));
 
     const pollsters = [];
-    for (let idx = 0; idx < MAX_POLLSTERS; ++idx) {
+    for (let idx = 0; idx < numPollsters; ++idx) {
         const pollster = document.getElementById(`pollster-${idx}`);
         pollster.checked && pollsters.push(pollster.value);
     }
@@ -119,13 +120,11 @@ async function addPollsters(data) {
     }, new Map());
 
     const sortedPollsters = new Map([...pollsterCounts.entries()].sort((a, b) => b[1] - a[1]));
-    const topPollsters = Array.from(sortedPollsters.entries()).slice(0, MAX_POLLSTERS);
+    const pollsters = Array.from(sortedPollsters.entries());
+    numPollsters = MAX_POLLSTERS === -1 ? pollsters.length : MAX_POLLSTERS;
+    const topPollsters = pollsters.slice(0, numPollsters);
     const pollstersDiv = document.getElementById("pollsters");
     pollstersDiv.innerHTML = '';
-    const heading = document.createElement('div');
-    heading.className = 'options-title';
-    heading.innerText = 'Polls';
-    pollstersDiv.appendChild(heading);
     topPollsters.forEach((item, index) => {
         const div = document.createElement('div');
         const input = document.createElement('input');

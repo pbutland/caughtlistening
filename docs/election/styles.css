@@ -198,9 +198,14 @@ body {
     white-space: nowrap;
 }
 
-#pollsters {
+#pollsters-container {
     flex-grow:1;
     margin-left: 100px;
+}
+
+#pollsters {
+    height: 150px;
+    overflow: auto;
 }
 
 .options-title {
