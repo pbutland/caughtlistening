@@ -50,7 +50,12 @@ async function load538Data() {
 }
 
 async function transform538Data(data) {
-    return data.map(state => {
+    let nationalDemVotes = 0;
+    let nationalRepVotes = 0;
+    let nationalDemElVotes = 0;
+    let nationalRepElVotes = 0;
+    let nationalTotalVotes = 0;
+    const transformed = data.map(state => {
         // Aggregate votes from all polls
         const demVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * a.sampleSize, 0);
         const repVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * a.sampleSize, 0);
@@ -59,19 +64,47 @@ async function transform538Data(data) {
         const demPct = demVotes * 100 / totalVotes;
         const repPct = repVotes * 100 / totalVotes;
         const diff = repPct - demPct;
+        const demElVotes = diff < 0 ? state.state_votes : 0;
+        const repElVotes = diff > 0 ? state.state_votes : 0;
+
+        nationalDemVotes += demVotes;
+        nationalRepVotes += repVotes;
+        nationalDemElVotes += demElVotes;
+        nationalRepElVotes += repElVotes;
+        nationalTotalVotes += totalVotes;
+
         return {
             ucName: state.ucName,
             value: diff.toFixed(2),
             custom: {
                 winner: diff > 0 ? 'Republican' : 'Democrat',
-                elVotesDem: diff < 0 ? state.state_votes : 0,
-                elVotesRep: diff > 0 ? state.state_votes : 0,
+                elVotesDem: demElVotes,
+                elVotesRep: repElVotes,
                 votesDem: demPct.toFixed(2),
                 votesRep: repPct.toFixed(2),
                 state_votes: state.state_votes,
             }
         };
     }).sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
+
+    const nationalDemPct = nationalDemVotes * 100 / nationalTotalVotes;
+    const nationalRepPct = nationalRepVotes * 100 / nationalTotalVotes;
+    const nationalDiff = nationalRepPct - nationalDemPct;
+
+    transformed.unshift({
+        ucName: 'NATIONAL',
+        value: nationalDiff,
+        custom: {
+            winner: nationalRepVotes > nationalDemVotes ? 'Republican' : 'Democrat',
+            elVotesDem: nationalDemElVotes,
+            elVotesRep: nationalRepElVotes,
+            votesDem: nationalDemPct.toFixed(2),
+            votesRep: nationalRepPct.toFixed(2),
+            state_votes: null
+        }
+    });
+
+    return transformed;
 }
 
 let allData;
@@ -249,21 +282,8 @@ async function addPollsters(data) {
 
 async function updateDataTable(data) {
     // Sum electoral college votes
-    const demVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesDem, 0);
-    const repVotes = data.reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
-
-    data.unshift({
-        ucName: 'NATIONAL',
-        value: undefined,
-        custom: {
-            winner: repVotes > demVotes ? 'Republican' : 'Democrat',
-            elVotesDem: demVotes,
-            elVotesRep: repVotes,
-            votesDem: undefined,
-            votesRep: undefined,
-            state_votes: null
-        }
-    });
+    const demVotes = data.filter(item => item.ucName !== 'NATIONAL').reduce((partialSum, a) => partialSum + a.custom.elVotesDem, 0);
+    const repVotes = data.filter(item => item.ucName !== 'NATIONAL').reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
 
     let element = document.getElementById('info-dem1');
     element.innerHTML = `Biden: ${demVotes}`;
