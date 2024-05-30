@@ -27,9 +27,6 @@ async function loadState(state) {
     // const baseUrl = 'http://localhost:3000/data/poll-results';
     // let polls = await fetch(`${baseUrl}/${stateName}.json`).then(response => response.json()).catch(err => console.log(err));
 
-    // Filter based on date range
-    // const dateRangeFilter = data.filter(item => Date.parse(item.endDate) > (new Date(new Date() - (90 * 24 * 60 * 60 * 1000))));
-
     // Filter out polls that don't include BOTH republican and democrat candidates or a sample size
     let eligiblePolls = polls && polls.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
     if (!eligiblePolls || eligiblePolls.length === 0) {
@@ -111,7 +108,7 @@ let allData;
 let numPollsters;
 const MAX_POLLSTERS = -1;
 
-async function update(event) {
+async function update(event, minDate, maxDate) {
     const voterAdult = document.getElementById("adult");
     const voterVoter = document.getElementById("voter");
     const voterRegistered = document.getElementById("registered");
@@ -128,6 +125,12 @@ async function update(event) {
     for (let idx = 0; idx < numPollsters; ++idx) {
         const pollster = document.getElementById(`pollster-${idx}`);
         pollster.checked && pollsters.push(pollster.value);
+    }
+
+    if (minDate && maxDate) {
+        data.forEach(state => {
+            state.polls = state.polls.filter(poll => Date.parse(poll.endDate) > minDate && Date.parse(poll.endDate) < maxDate)
+        });
     }
 
     data.forEach(state => {
@@ -401,6 +404,29 @@ async function updateDataTable(data) {
     });
 }
 
+async function initDateSlider(data) {
+    const dates = data.map(state => state.polls).flat().map(poll => poll.endDate).map(date => Date.parse(date)).filter(date => date !==undefined).flat();//.getTime());
+    const minDate = new Date(Math.min(...dates));
+    const maxDate = new Date(Math.max(...dates));
+    const timeLineTitle = document.getElementById('time-line-title');
+    timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
+
+    $( "#time-line" ).slider({
+        range: true,
+        min: minDate.getTime() / 1000,
+        max: maxDate.getTime() / 1000,
+        step: 86400,
+        values: [ minDate.getTime() / 1000, maxDate.getTime() / 1000 ],
+        slide: function( event, ui ) {
+            const minDate = new Date(ui.values[0] * 1000);
+            const maxDate = new Date(ui.values[1] * 1000);
+            const timeLineTitle = document.getElementById('time-line-title');
+            timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
+            update(null, minDate, maxDate);
+        }
+      });
+}
+
 let topology;
 async function initChart(data) {
     if (!topology) {
@@ -418,7 +444,7 @@ async function initChart(data) {
 
     Highcharts.mapChart('map-container', {
         title: {
-            text: 'US Electoral College Poll Results 2024',
+            text: '',
             align: 'center'
         },
 
@@ -482,5 +508,6 @@ async function initChart(data) {
     allData = await load538Data();
     updateVoters(allData);
     addPollsters(allData);
+    initDateSlider(allData);
     update();
 })();

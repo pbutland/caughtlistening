@@ -7,10 +7,40 @@
     <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
     <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
     <script src="election.js"></script>
 </head>
 
 <body>
+    <div id="title-container"><div>US Electoral College Poll Results</div></div>
+    <div id="options-container">
+        <div id="options">
+            <div id="voters">
+                <div id="voters-title" class="options-title">Voters</div>
+                <div><input type="checkbox" id="adult" name="voters" value="a" onclick="update(event)" checked><label
+                        id="adult-label" for="adult">Adult</label></div>
+                <div><input type="checkbox" id="voter" name="voters" value="v" onclick="update(event)" checked><label
+                        id="voter-label" for="voter">Voter</label></div>
+                <div><input type="checkbox" id="registered" name="voters" value="rv" onclick="update(event)"
+                        checked><label id="registered-label" for="registered">Registered</label></div>
+                <div><input type="checkbox" id="likely" name="voters" value="lv" onclick="update(event)" checked><label
+                        id="likely-label" for="likely">Likely</label></div>
+            </div>
+            <div id="pollsters-container">
+                <div id="polls-title" class="options-title">Polls</div>
+                <div><input type="checkbox" id="pollster-all" name="pollsters" value="all" onclick="updateAllPolls()"
+                        checked><label id="all-polls-label" for="pollster-all"> All polls</label></div>
+                <div id="pollsters">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div id="time-line-title" class="options-title">Timeline</div>
+            <div id="time-line"></div>
+        </div>
+    </div>
     <div class="election-results-container">
         <div id="dem-cand">
             <img
@@ -32,21 +62,6 @@
 
         <div id="rep-cand">
             <img width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Donald_Trump_mug_shot.jpg" />
-        </div>
-    </div>
-    <div id="options">
-        <div id="voters">
-            <div id="voters-title" class="options-title">Voters</div>
-            <div><input type="checkbox" id="adult" name="voters" value="a" onclick="update(event)" checked><label id="adult-label" for="adult">Adult</label></div>
-            <div><input type="checkbox" id="voter" name="voters" value="v" onclick="update(event)" checked><label id="voter-label" for="voter">Voter</label></div>
-            <div><input type="checkbox" id="registered" name="voters" value="rv" onclick="update(event)" checked><label id="registered-label" for="registered">Registered</label></div>
-            <div><input type="checkbox" id="likely" name="voters" value="lv" onclick="update(event)" checked><label id="likely-label" for="likely">Likely</label></div>
-        </div>
-        <div id="pollsters-container">
-            <div id="polls-title" class="options-title">Polls</div>
-            <div><input type="checkbox" id="pollster-all" name="pollsters" value="all" onclick="updateAllPolls()" checked><label id="all-polls-label" for="pollster-all"> All polls</label></div>
-            <div id="pollsters">
-            </div>
         </div>
     </div>
     <div id="map-container"></div>
