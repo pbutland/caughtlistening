@@ -316,10 +316,14 @@ async function updateDataTableMetaData(data) {
         item.sponsors.forEach(sponsor => {
             const listItem = document.createElement('li');
             list.appendChild(listItem);
-            const anchor = document.createElement('a');
-            anchor.href = sponsor.url;
-            anchor.innerText = sponsor.name;
-            listItem.appendChild(anchor);
+            if (sponsor.url) {
+                const anchor = document.createElement('a');
+                anchor.href = sponsor.url;
+                anchor.innerText = sponsor.name;
+                listItem.appendChild(anchor);
+            } else {
+                listItem.innerText = sponsor.name;
+            }
         });
         cell.appendChild(span);
 
