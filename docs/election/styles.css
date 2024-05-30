@@ -393,3 +393,32 @@ body {
 #data-table-container .datagrid-cell:nth-child(5) {
     min-width: 70px;
 }
+
+.sponsor-tooltip-icon {
+    padding-left: 15px;
+    width: 16px;
+    height: 16px;
+}
+
+.sponsor-tooltip {
+    padding: 5px 10px;
+    margin: 0px 0px 30px 60px;
+    background-color: #fcfcfc;
+    border-radius: 6px;
+    border: 3px solid #474554;
+    white-space: nowrap;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.sponsor-tooltip ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+.sponsor-tooltip li {
+    padding: 2px;
+}

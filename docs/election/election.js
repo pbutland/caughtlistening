@@ -155,6 +155,7 @@ async function update(event, minDate, maxDate) {
 
     const transformedData = await transform538Data(data);
     updateDataTable(transformedData);
+    updateDataTableMetaData(data);
     initChart(transformedData);
 }
 
@@ -283,6 +284,48 @@ async function addPollsters(data) {
     });
 }
 
+async function updateDataTableMetaData(data) {
+    const statePollSponsors = data.map(state => {
+        const sponsors = state.polls.map(poll => poll.sponsors).flat().map(sponsor => {return { name: sponsor.sponsor, url: sponsor.url }});
+        return { name: state.ucName, sponsors: [...new Map(sponsors.map(item => [item['name'], item])).values()] };
+    }).filter(state => state.sponsors.length);
+
+    console.log(statePollSponsors);
+    statePollSponsors.forEach(item => {
+        const cellId = `table-${item.name}`;
+        const cell = document.getElementById(cellId);
+        const span = document.createElement('span');
+        const list = document.createElement('ul');
+        const image = document.createElement('img');
+        image.className = 'sponsor-tooltip-icon';
+        image.src = 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Eo_circle_indigo_letter-s.svg';
+        
+        const div = document.createElement('div');
+        div.className = 'sponsor-tooltip';
+        span.onmouseenter = (() => {
+            div.hidden = false;
+        });
+        span.onmouseleave = (() => {
+            div.hidden = true;
+        });
+        div.hidden = true;
+        span.appendChild(image);
+        span.appendChild(div);
+        div.innerText = "Sponsors:";
+        div.appendChild(list);
+        item.sponsors.forEach(sponsor => {
+            const listItem = document.createElement('li');
+            list.appendChild(listItem);
+            const anchor = document.createElement('a');
+            anchor.href = sponsor.url;
+            anchor.innerText = sponsor.name;
+            listItem.appendChild(anchor);
+        });
+        cell.appendChild(span);
+
+    });
+}
+
 async function updateDataTable(data) {
     // Sum electoral college votes
     const demVotes = data.filter(item => item.ucName !== 'NATIONAL').reduce((partialSum, a) => partialSum + a.custom.elVotesDem, 0);
@@ -308,6 +351,7 @@ async function updateDataTable(data) {
         const newRow = table.insertRow();
         newRow.className = 'datagrid-row';
         const state = newRow.insertCell(0);
+        state.id = `table-${item.ucName}`;
         state.className = 'datagrid-cell';
         const democrat = newRow.insertCell(1);
         democrat.className = 'datagrid-cell';
@@ -317,11 +361,11 @@ async function updateDataTable(data) {
         demVotes.className = 'datagrid-cell';
         const repVotes = newRow.insertCell(4);
         repVotes.className = 'datagrid-cell';
-        state.innerHTML = item.ucName;
-        democrat.innerHTML = item.custom.elVotesDem;
-        republican.innerHTML = item.custom.elVotesRep;
-        demVotes.innerHTML = isNaN(item.custom.votesDem) ? '-' : `${item.custom.votesDem}%`;
-        repVotes.innerHTML = isNaN(item.custom.votesRep) ? '-' : `${item.custom.votesRep}%`;
+        state.innerText = item.ucName;
+        democrat.innerText = item.custom.elVotesDem;
+        republican.innerText = item.custom.elVotesRep;
+        demVotes.innerText = isNaN(item.custom.votesDem) ? '-' : `${item.custom.votesDem}%`;
+        repVotes.innerText = isNaN(item.custom.votesRep) ? '-' : `${item.custom.votesRep}%`;
 
         // Add values to histogram
         if (index > 0) { // ignore national
