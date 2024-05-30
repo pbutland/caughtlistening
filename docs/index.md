@@ -123,6 +123,11 @@ It appears that the transcripts are getting published on to the [New York State 
 * [240528.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240528.pdf)
 * [240528.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240528.txt)
 
+### Tuesday 29<sup>th</sup> May 2024
+
+* [240529.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240529.pdf)
+* [240529.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240529.txt)
+
 ## Disclaimers
 
 No guarantee is provided that any files hosted on this site are accurate representations of the original transcripts.
