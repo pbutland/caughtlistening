@@ -112,7 +112,7 @@ body {
 .bar-segment .bar-segment-tooltip {
     visibility: hidden;
     /* width: 80px; */
-    margin: 0px 0px 30px 60px;
+    margin: 0px 0px 20px 60px;
     background-color: #474554;
     color: #fff;
     text-align: center;
@@ -394,15 +394,17 @@ body {
     min-width: 70px;
 }
 
-.sponsor-tooltip-icon {
+.poll-tooltip-icon,
+.sponsor-tooltip-icon,
+.voter-tooltip-icon {
     padding-left: 15px;
     width: 16px;
     height: 16px;
 }
 
-.sponsor-tooltip {
+.poll-tooltip {
     padding: 5px 10px;
-    margin: 0px 0px 30px 60px;
+    margin: 0px 0px 130px 70px;
     background-color: #fcfcfc;
     border-radius: 6px;
     border: 3px solid #474554;
@@ -413,12 +415,42 @@ body {
     z-index: 1;
 }
 
-.sponsor-tooltip ul {
+.sponsor-tooltip {
+    padding: 5px 10px;
+    margin: 0px 0px 30px 100px;
+    background-color: #fcfcfc;
+    border-radius: 6px;
+    border: 3px solid #474554;
+    white-space: nowrap;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.voter-tooltip {
+    padding: 5px 10px;
+    margin: 0px 0px 30px 130px;
+    background-color: #fcfcfc;
+    border-radius: 6px;
+    border: 3px solid #474554;
+    white-space: nowrap;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.poll-tooltip ul,
+.sponsor-tooltip ul,
+.voter-tooltip ul {
     list-style-type: none;
     margin: 0;
     padding: 5px;
 }
 
-.sponsor-tooltip li {
+.poll-tooltip li,
+.sponsor-tooltip li,
+.voter-tooltip li {
     padding: 2px;
 }
