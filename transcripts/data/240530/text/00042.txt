@@ -1,0 +1,29 @@
+Verdict
+4951
+1 THE CLERK: How say you to count 21?
+2 JUROR #1: Guilty.
+3 THE CLERK: How say you to count 22?
+4 JUROR #1: Guilty.
+5 THE CLERK: How say you to count 23?
+6 JUROR #1: Guilty.
+7 THE CLERK: How say you to count 24?
+8 JUROR #1: Guilty.
+9 THE CLERK: How say you to count 25?
+10 JUROR #1: Guilty.
+11 THE CLERK: How say you to count 26?
+12 JUROR #1: Guilty.
+13 THE CLERK: How say you to count 27?
+14 JUROR #1: Guilty.
+15 THE CLERK: How say you to count 28?
+16 JUROR #1: Guilty.
+17 THE CLERK: How say you to count 29?
+18 JUROR #1: Guilty.
+19 THE CLERK: How say you to count 30?
+20 JUROR #1: Guilty.
+21 THE CLERK: How say you to count 31?
+22 JUROR #1: Guilty.
+23 THE CLERK: How say you to count 32?
+24 JUROR #1: Guilty.
+25 THE CLERK: How say you to count 33?
+Laurie Eisenberg, CSR, RPR
+Senior Court Reporter

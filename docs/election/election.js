@@ -54,8 +54,8 @@ async function transform538Data(data) {
     let nationalTotalVotes = 0;
     const transformed = data.map(state => {
         // Aggregate votes from all polls
-        const demVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * a.sampleSize, 0);
-        const repVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * a.sampleSize, 0);
+        const demVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * parseInt(a.sampleSize), 0);
+        const repVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * parseInt(a.sampleSize), 0);
         const totalVotes = state.polls.reduce((partialSum, a) => partialSum + parseInt(a.sampleSize), 0);
 
         const demPct = demVotes * 100 / totalVotes;
@@ -180,7 +180,7 @@ async function updateVoters(data) {
         if (value === undefined) {
             value = 0;
         }
-        value += c.sampleSize;
+        value += parseInt(c.sampleSize);
         return p.set(c.population, value);
     }, new Map());
 
@@ -232,7 +232,7 @@ async function updateTotals(data) {
         if (value === undefined) {
             value = 0;
         }
-        value += c.sampleSize;
+        value += parseInt(c.sampleSize);
         return p.set(c.population, value);
     }, new Map());
     const totalVoters = Array.from(populationCounts.values()).reduce((partialSum, a) => partialSum + a, 0);
@@ -402,7 +402,7 @@ async function addVoters(stateName, polls) {
         if (value === undefined) {
             value = 0;
         }
-        value += c.sampleSize;
+        value += parseInt(c.sampleSize);
         return p.set(c.population, value);
     }, new Map());
 
