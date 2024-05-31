@@ -436,11 +436,101 @@ async function addVoters(stateName, polls) {
     cell.appendChild(span);
 }
 
+async function showChart(stateName, polls) {
+    const uniquePolls = [...new Map(polls.map(poll => [poll.endDate, poll])).values()]
+
+    const demData = uniquePolls.map(poll => {
+        return {
+            x: new Date(Date.parse(poll.endDate)),
+            y: parseInt(poll.answers.find(a => a.party === 'Dem')?.pct),
+        }
+    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
+
+    const repData = uniquePolls.map(poll => {
+        return {
+            x: new Date(Date.parse(poll.endDate)),
+            y: parseInt(poll.answers.find(a => a.party === 'Rep')?.pct),
+        }
+    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
+
+    Highcharts.chart(`${stateName}-map-container`, {
+        chart: {
+            type: 'spline'
+        },
+        title: {
+            text: `${stateName}`,
+            align: 'center'
+        },
+        yAxis: {
+            title: {
+                text: 'Votes (%)'
+            }
+        },
+        xAxis: {
+            type: 'datetime',
+            accessibility: {
+                rangeDescription: 'Date'
+            }
+        },
+        legend: {
+            layout: 'horizontal',
+            align: 'center',
+            verticalAlign: 'bottom'
+        },
+        plotOptions: {
+            series: {
+                label: {
+                    connectorAllowed: false
+                }
+            }
+        },
+        colors: ['#0913df', '#df1309'],
+        series: [{
+            name: 'Democrat',
+            data: demData
+        }, {
+            name: 'Republican',
+            data: repData
+        }]
+    });
+}
+
+async function addTrend(stateName, polls) {
+    if (polls.length === 0) {
+        return;
+    }
+
+    const cellId = `table-${stateName}`;
+    const cell = document.getElementById(cellId);
+
+    const container = document.createElement('div');
+    container.id = `${stateName}-map-container`;
+    const span = document.createElement('span');
+    const image = document.createElement('img');
+    image.className = 'trend-tooltip-icon';
+    image.src = 'https://upload.wikimedia.org/wikipedia/commons/5/50/Eo_circle_amber_letter-t.svg';
+    const div = document.createElement('div');
+    div.className = 'trend-tooltip';
+    span.onmouseenter = (() => {
+        div.hidden = false;
+        showChart(stateName, polls);
+    });
+    span.onmouseleave = (() => {
+        div.hidden = true;
+    });
+    div.hidden = true;
+    span.appendChild(image);
+    span.appendChild(div);
+    div.appendChild(container);
+    cell.appendChild(span);
+}
+
 async function updateDataTableMetaData(data) {
     data.forEach(state => {
         addPolls(state.ucName, state.polls);
         addSponsors(state.ucName, state.polls.map(poll => poll.sponsors).flat().filter(sponsors => sponsors !== undefined)); // sponsors
         addVoters(state.ucName, state.polls);
+        addTrend(state.ucName, state.polls);
     });
 }
 
