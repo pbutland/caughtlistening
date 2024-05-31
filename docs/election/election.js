@@ -108,7 +108,10 @@ let allData;
 let numPollsters;
 const MAX_POLLSTERS = -1;
 
-async function update(event, minDate, maxDate, includeTableMetaData) {
+async function update(event, includeTableMetaData = true, minDate, maxDate) {
+    if (event?.target?.id?.startsWith('pollster-') && !event?.target?.checked) {
+        document.getElementById('pollster-all').checked = false;
+    }
     const voterAdult = document.getElementById("adult");
     const voterVoter = document.getElementById("voter");
     const voterRegistered = document.getElementById("registered");
@@ -674,14 +677,14 @@ async function initDateSlider(data) {
             const maxDate = new Date(ui.values[1] * 1000);
             const timeLineTitle = document.getElementById('time-line-title');
             timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
-            update(null, minDate, maxDate);
+            update(null, false, minDate, maxDate);
         },
         stop: function (event, ui) {
             const minDate = new Date(ui.values[0] * 1000);
             const maxDate = new Date(ui.values[1] * 1000);
             const timeLineTitle = document.getElementById('time-line-title');
             timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
-            update(null, minDate, maxDate, true);
+            update(null, true, minDate, maxDate);
         }
     });
 }
@@ -771,5 +774,5 @@ async function initChart(data) {
     updateVoters(allData);
     addPollsters(allData);
     initDateSlider(allData);
-    update(undefined, undefined, undefined, true);
+    update(undefined, true);
 })();
