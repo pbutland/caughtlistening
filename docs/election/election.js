@@ -508,7 +508,7 @@ async function addTrend(stateName, polls) {
     const span = document.createElement('span');
     const image = document.createElement('img');
     image.className = 'trend-tooltip-icon';
-    image.src = 'https://upload.wikimedia.org/wikipedia/commons/5/50/Eo_circle_amber_letter-t.svg';
+    image.src = 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Eo_circle_blue-grey_letter-c.svg';
     const div = document.createElement('div');
     div.className = 'trend-tooltip';
     span.onmouseenter = (() => {

@@ -487,3 +487,22 @@ body {
 .trend-tooltip li {
     padding: 2px;
 }
+
+#footer {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 0px 30px 0px;
+    font-size: 14px;
+}
+
+#footer a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
