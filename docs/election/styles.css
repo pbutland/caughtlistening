@@ -171,6 +171,23 @@ body {
     padding: 1%;
 }
 
+.image-container {
+    position: relative;
+}
+
+.bars {
+    position: absolute;
+    width: 1px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: linear-gradient(to right, black 4px, transparent 4px);
+    background-repeat: repeat-x;
+    background-size: 12px;
+
+    z-index: 1;
+}
+
 .election-results-container img {
     /* Candidate portraits */
     width: 100%;
@@ -228,7 +245,7 @@ body {
 }
 
 #pollsters-container {
-    flex-grow:1;
+    flex-grow: 1;
     margin-left: 100px;
 }
 
