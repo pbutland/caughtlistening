@@ -255,7 +255,7 @@
     "page": "4915",
     "lineNumber": "20",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Yes, sir."
   },
   {
@@ -269,7 +269,7 @@
     "page": "4915",
     "lineNumber": "24",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Yes."
   },
   {
@@ -283,7 +283,7 @@
     "page": "4916",
     "lineNumber": "5",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Yes ."
   },
   {
@@ -297,7 +297,7 @@
     "page": "4916",
     "lineNumber": "19",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "The instructions first, please, your Honor."
   },
   {
@@ -311,7 +311,7 @@
     "page": "4942",
     "lineNumber": "16",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Yes ."
   },
   {
@@ -458,7 +458,7 @@
     "page": "4944",
     "lineNumber": "21",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Yes, you have."
   },
   {
@@ -472,7 +472,7 @@
     "page": "4945",
     "lineNumber": "l",
     "character": "JURY FOREPERSON:",
-    "voice": "female_voice_22",
+    "voice": "male_voice_19",
     "text": "Both."
   },
   {
@@ -1055,7 +1055,7 @@
     "page": "4952",
     "lineNumber": "15",
     "character": "THE JURORS:",
-    "voice": "female_voice_23",
+    "voice": "male_voice_19",
     "text": "Yes."
   },
   {
