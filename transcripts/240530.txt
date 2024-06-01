@@ -48,7 +48,9 @@ MR. BLANCHE: Yes, your Honor.
 
 THE COURT: Yesterday, at the end of the day I mentioned that the laptop did not have Wi—Fi capability. I wasn’t sure that was put on the record. You both acknowledge that you heard that?
 
-MR. BLANCHE: Yes . 9 MS . HOFFINGER: Yes .
+MR. BLANCHE: Yes .
+
+9 MS . HOFFINGER: Yes .
 
 MR. STEINGLASS: Yes.
 
@@ -208,77 +210,147 @@ MR. BLANCHE: Yes.
 
 MR. BOVE: Yes.
 
-THE COURT: Jurors, we received a note from you. It was signed by your jury foreperson at 4:20. It's been marked as Court Exhibit Number 7. It says: "We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?" Mr. Foreperson, without telling me the verdict, has the jury, in fact, reached a jury? JUROR #1: Yes, they have.
+THE COURT: Jurors, we received a note from you. It was signed by your jury foreperson at 4:20. It's been marked as Court Exhibit Number 7. It says: "We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?" Mr. Foreperson, without telling me the verdict, has the jury, in fact, reached a jury?
+
+JUROR #1: Yes, they have.
 
 THE COURT: Take the verdict, please.
 
-THE CLERK: Will the foreperson please rise. Have the members of the jury agreed upon a verdict? JUROR #1: Yes, we have.
+THE CLERK: Will the foreperson please rise. Have the members of the jury agreed upon a verdict?
 
-THE CLERK: How say you to the first count of the indictment, charging Donald J. Trump with the crime of falsifying business records in the first degree, guilty or not guilty? JUROR #1: Guilty.
+JUROR #1: Yes, we have.
 
-THE CLERK: How say you to count two? JUROR #1: Guilty.
+THE CLERK: How say you to the first count of the indictment, charging Donald J. Trump with the crime of falsifying business records in the first degree, guilty or not guilty?
 
-THE CLERK: How say you to count three? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count five? JUROR #1: Guilty.
+THE CLERK: How say you to count two?
 
-THE CLERK: How say you to count six? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count seven? JUROR #1: Guilty.
+THE CLERK: How say you to count three?
 
-THE CLERK: How say you to count eight? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count nine? JUROR #1: Guilty.
+THE CLERK: How say you to count five?
 
-THE CLERK: How say you to count ten? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 11? JUROR #1: Guilty.
+THE CLERK: How say you to count six?
 
-THE CLERK: How say you to count 12? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 13? JUROR #1: Guilty.
+THE CLERK: How say you to count seven?
 
-THE CLERK: How say you to count 14? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 15? JUROR #1: Guilty.
+THE CLERK: How say you to count eight?
 
-THE CLERK: How say you to count 16? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 17? JUROR #1: Guilty.
+THE CLERK: How say you to count nine?
 
-THE CLERK: How say you to count 18? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 19? JUROR #1: Guilty.
+THE CLERK: How say you to count ten?
 
-THE CLERK: How say you to count 20? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 21? JUROR #1: Guilty.
+THE CLERK: How say you to count 11?
 
-THE CLERK: How say you to count 22? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 23? JUROR #1: Guilty.
+THE CLERK: How say you to count 12?
 
-THE CLERK: How say you to count 24? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 25? JUROR #1: Guilty.
+THE CLERK: How say you to count 13?
 
-THE CLERK: How say you to count 26? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 27? JUROR #1: Guilty.
+THE CLERK: How say you to count 14?
 
-THE CLERK: How say you to count 28? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 29? JUROR #1: Guilty.
+THE CLERK: How say you to count 15?
 
-THE CLERK: How say you to count 30? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 31? JUROR #1: Guilty.
+THE CLERK: How say you to count 16?
 
-THE CLERK: How say you to count 32? JUROR #1: Guilty.
+JUROR #1: Guilty.
 
-THE CLERK: How say you to count 33? JUROR #1: Guilty.
+THE CLERK: How say you to count 17?
 
-THE CLERK: And how say you to count 34? JUROR #1: Guilty.
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 18?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 19?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 20?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 21?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 22?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 23?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 24?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 25?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 26?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 27?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 28?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 29?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 30?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 31?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 32?
+
+JUROR #1: Guilty.
+
+THE CLERK: How say you to count 33?
+
+JUROR #1: Guilty.
+
+THE CLERK: And how say you to count 34?
+
+JUROR #1: Guilty.
 
 THE CLERK: Please be seated.
 
@@ -294,27 +366,49 @@ THE CLERK: Would either party like the jury polled?
 
 MR. BLANCHE: Yes, please.
 
-THE CLERK: Members of the jury, you have said through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts of falsifying business records in the first degree. Juror Number 1, is that your verdict? JUROR #1: Yes, it is.
+THE CLERK: Members of the jury, you have said through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts of falsifying business records in the first degree. Juror Number 1, is that your verdict?
 
-THE CLERK: Juror Number 2, is that your verdict? JUROR #2: Yes, it is.
+JUROR #1: Yes, it is.
 
-THE CLERK: Juror Number 3, is that your verdict? JUROR #3: Yes, it is.
+THE CLERK: Juror Number 2, is that your verdict?
 
-THE CLERK: Juror Number 4, is that your verdict? JUROR #4: Yes.
+JUROR #2: Yes, it is.
 
-THE CLERK: Juror Number 5, is that your verdict? JUROR #5: Yes.
+THE CLERK: Juror Number 3, is that your verdict?
 
-THE CLERK: Juror Number 7, is that your verdict? JUROR #7: Yes, it is.
+JUROR #3: Yes, it is.
 
-THE CLERK: Juror Number 8, is that your verdict? JUROR #8: Yes.
+THE CLERK: Juror Number 4, is that your verdict?
 
-THE CLERK: Juror Number 9, is that your verdict? JUROR #9: Yes.
+JUROR #4: Yes.
 
-THE CLERK: Juror Number 10, is that your verdict? JUROR #10: Yes.
+THE CLERK: Juror Number 5, is that your verdict?
 
-THE CLERK: Juror Number 11, is that your verdict? JUROR #11: Yes.
+JUROR #5: Yes.
 
-THE CLERK: And Juror Number 12, is that your verdict? JUROR #12: Yes.
+THE CLERK: Juror Number 7, is that your verdict?
+
+JUROR #7: Yes, it is.
+
+THE CLERK: Juror Number 8, is that your verdict?
+
+JUROR #8: Yes.
+
+THE CLERK: Juror Number 9, is that your verdict?
+
+JUROR #9: Yes.
+
+THE CLERK: Juror Number 10, is that your verdict?
+
+JUROR #10: Yes.
+
+THE CLERK: Juror Number 11, is that your verdict?
+
+JUROR #11: Yes.
+
+THE CLERK: And Juror Number 12, is that your verdict?
+
+JUROR #12: Yes.
 
 THE CLERK: Your Honor, the jury has been polled.
 
