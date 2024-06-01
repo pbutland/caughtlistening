@@ -179,7 +179,14 @@
     "lineNumber": "18",
     "character": "MR. BLANCHE:",
     "voice": "male_voice_3",
-    "text": "Yes . 9 MS . HOFFINGER: Yes ."
+    "text": "Yes ."
+  },
+  {
+    "page": "4913",
+    "lineNumber": "l",
+    "character": "9 MS . HOFFINGER:",
+    "voice": "female_voice_5",
+    "text": "Yes ."
   },
   {
     "page": "4913",
@@ -783,7 +790,14 @@
     "lineNumber": "21",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "Jurors, we received a note from you. It was signed by your jury foreperson at 4:20. It's been marked as Court Exhibit Number 7. It says: \"We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?\" Mr. Foreperson, without telling me the verdict, has the jury, in fact, reached a jury? JUROR #1: Yes, they have."
+    "text": "Jurors, we received a note from you. It was signed by your jury foreperson at 4:20. It's been marked as Court Exhibit Number 7. It says: \"We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?\" Mr. Foreperson, without telling me the verdict, has the jury, in fact, reached a jury?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "4",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Yes, they have."
   },
   {
     "page": "4949",
@@ -797,238 +811,476 @@
     "lineNumber": "6",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Will the foreperson please rise. Have the members of the jury agreed upon a verdict? JUROR #1: Yes, we have."
+    "text": "Will the foreperson please rise. Have the members of the jury agreed upon a verdict?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "9",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Yes, we have."
   },
   {
     "page": "4949",
     "lineNumber": "10",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to the first count of the indictment, charging Donald J. Trump with the crime of falsifying business records in the first degree, guilty or not guilty? JUROR #1: Guilty."
+    "text": "How say you to the first count of the indictment, charging Donald J. Trump with the crime of falsifying business records in the first degree, guilty or not guilty?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "14",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "15",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count two? JUROR #1: Guilty."
+    "text": "How say you to count two?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "16",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "17",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count three? JUROR #1: Guilty."
+    "text": "How say you to count three?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "18",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "19",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count five? JUROR #1: Guilty."
+    "text": "How say you to count five?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "20",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "21",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count six? JUROR #1: Guilty."
+    "text": "How say you to count six?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "22",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "23",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count seven? JUROR #1: Guilty."
+    "text": "How say you to count seven?"
+  },
+  {
+    "page": "4949",
+    "lineNumber": "24",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4949",
     "lineNumber": "25",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count eight? JUROR #1: Guilty."
+    "text": "How say you to count eight?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "1",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "2",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count nine? JUROR #1: Guilty."
+    "text": "How say you to count nine?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "3",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "4",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count ten? JUROR #1: Guilty."
+    "text": "How say you to count ten?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "5",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "6",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 11? JUROR #1: Guilty."
+    "text": "How say you to count 11?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "7",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "8",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 12? JUROR #1: Guilty."
+    "text": "How say you to count 12?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "9",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "10",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 13? JUROR #1: Guilty."
+    "text": "How say you to count 13?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "11",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "12",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 14? JUROR #1: Guilty."
+    "text": "How say you to count 14?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "13",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "14",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 15? JUROR #1: Guilty."
+    "text": "How say you to count 15?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "15",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "16",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 16? JUROR #1: Guilty."
+    "text": "How say you to count 16?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "17",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "18",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 17? JUROR #1: Guilty."
+    "text": "How say you to count 17?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "19",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "20",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 18? JUROR #1: Guilty."
+    "text": "How say you to count 18?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "21",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "22",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 19? JUROR #1: Guilty."
+    "text": "How say you to count 19?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "23",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4950",
     "lineNumber": "24",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 20? JUROR #1: Guilty."
+    "text": "How say you to count 20?"
+  },
+  {
+    "page": "4950",
+    "lineNumber": "25",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "1",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 21? JUROR #1: Guilty."
+    "text": "How say you to count 21?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "2",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "3",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 22? JUROR #1: Guilty."
+    "text": "How say you to count 22?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "4",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "5",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 23? JUROR #1: Guilty."
+    "text": "How say you to count 23?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "6",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "7",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 24? JUROR #1: Guilty."
+    "text": "How say you to count 24?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "8",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "9",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 25? JUROR #1: Guilty."
+    "text": "How say you to count 25?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "10",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "11",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 26? JUROR #1: Guilty."
+    "text": "How say you to count 26?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "12",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "13",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 27? JUROR #1: Guilty."
+    "text": "How say you to count 27?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "14",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "15",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 28? JUROR #1: Guilty."
+    "text": "How say you to count 28?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "16",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "17",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 29? JUROR #1: Guilty."
+    "text": "How say you to count 29?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "18",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "19",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 30? JUROR #1: Guilty."
+    "text": "How say you to count 30?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "20",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "21",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 31? JUROR #1: Guilty."
+    "text": "How say you to count 31?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "22",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "23",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 32? JUROR #1: Guilty."
+    "text": "How say you to count 32?"
+  },
+  {
+    "page": "4951",
+    "lineNumber": "24",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4951",
     "lineNumber": "25",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "How say you to count 33? JUROR #1: Guilty."
+    "text": "How say you to count 33?"
+  },
+  {
+    "page": "4952",
+    "lineNumber": "1",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4952",
     "lineNumber": "2",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "And how say you to count 34? JUROR #1: Guilty."
+    "text": "And how say you to count 34?"
+  },
+  {
+    "page": "4952",
+    "lineNumber": "3",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Guilty."
   },
   {
     "page": "4952",
@@ -1084,77 +1336,154 @@
     "lineNumber": "21",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Members of the jury, you have said through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts of falsifying business records in the first degree. Juror Number 1, is that your verdict? JUROR #1: Yes, it is."
+    "text": "Members of the jury, you have said through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts of falsifying business records in the first degree. Juror Number 1, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "1",
+    "character": "JUROR #1:",
+    "voice": "female_voice_19",
+    "text": "Yes, it is."
   },
   {
     "page": "4953",
     "lineNumber": "2",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 2, is that your verdict? JUROR #2: Yes, it is."
+    "text": "Juror Number 2, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "3",
+    "character": "JUROR #2:",
+    "voice": "female_voice_19",
+    "text": "Yes, it is."
   },
   {
     "page": "4953",
     "lineNumber": "4",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 3, is that your verdict? JUROR #3: Yes, it is."
+    "text": "Juror Number 3, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "5",
+    "character": "JUROR #3:",
+    "voice": "female_voice_19",
+    "text": "Yes, it is."
   },
   {
     "page": "4953",
     "lineNumber": "6",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 4, is that your verdict? JUROR #4: Yes."
+    "text": "Juror Number 4, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "7",
+    "character": "JUROR #4:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "8",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 5, is that your verdict? JUROR #5: Yes."
+    "text": "Juror Number 5, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "9",
+    "character": "JUROR #5:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "10",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 7, is that your verdict? JUROR #7: Yes, it is."
+    "text": "Juror Number 7, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "11",
+    "character": "JUROR #7:",
+    "voice": "female_voice_19",
+    "text": "Yes, it is."
   },
   {
     "page": "4953",
     "lineNumber": "12",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 8, is that your verdict? JUROR #8: Yes."
+    "text": "Juror Number 8, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "13",
+    "character": "JUROR #8:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "14",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 9, is that your verdict? JUROR #9: Yes."
+    "text": "Juror Number 9, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "15",
+    "character": "JUROR #9:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "16",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 10, is that your verdict? JUROR #10: Yes."
+    "text": "Juror Number 10, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "18",
+    "character": "JUROR #10:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "19",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "Juror Number 11, is that your verdict? JUROR #11: Yes."
+    "text": "Juror Number 11, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "21",
+    "character": "JUROR #11:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
     "lineNumber": "22",
     "character": "THE CLERK:",
     "voice": "female_voice_1",
-    "text": "And Juror Number 12, is that your verdict? JUROR #12: Yes."
+    "text": "And Juror Number 12, is that your verdict?"
+  },
+  {
+    "page": "4953",
+    "lineNumber": "24",
+    "character": "JUROR #12:",
+    "voice": "female_voice_19",
+    "text": "Yes."
   },
   {
     "page": "4953",
