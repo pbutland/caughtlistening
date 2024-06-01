@@ -132,6 +132,7 @@ It appears that the transcripts are getting published on to the [New York State 
 
 * [240530.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240530.pdf)
 * [240530.txt](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240530.txt)
+* [240530-openvoice-v1.mp3](https://raw.githubusercontent.com/pbutland/caughtlistening/main/transcripts/240530-openvoice-v1.mp3)
 
 ## Disclaimers
 
