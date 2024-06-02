@@ -27,12 +27,14 @@ async function loadState(state) {
     // const baseUrl = 'http://localhost:3000/data/poll-results';
     // let polls = await fetch(`${baseUrl}/${stateName}.json`).then(response => response.json()).catch(err => console.log(err));
 
+    const district = /.* DIST. \d{1}/.test(state.ucName) ? state.ucName.match(/.* DIST. (\d{1})/)[1] : undefined;
     // Filter out polls that don't include BOTH republican and democrat candidates or a sample size
-    let eligiblePolls = polls && polls.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+    let eligiblePolls = polls && polls.filter(poll => poll.answers.find(a => a.party === 'Dem') && poll.answers.find(a => a.party === 'Rep') && poll.sampleSize && district === poll.district);
     if (!eligiblePolls || eligiblePolls.length === 0) {
         // Fallback onto 2020 results
         polls = await fetch(`${baseUrl}/2020/${stateName}/polls.json`).then(response => response.json()).catch(err => console.log(err));;
-        eligiblePolls = polls && polls.filter(item => item.answers.find(i => i.party === 'Dem') && item.answers.find(i => i.party === 'Rep') && item.sampleSize);
+        // polls = await fetch(`${baseUrl}/${stateName}.json`).then(response => response.json()).catch(err => console.log(err));
+        eligiblePolls = polls && polls.filter(poll => poll.answers.find(a => a.party === 'Dem') && poll.answers.find(a => a.party === 'Rep') && poll.sampleSize && district === poll.district);
     }
 
     return { ucName: state.ucName, state_votes: state.custom.state_votes, polls: eligiblePolls };
@@ -80,6 +82,7 @@ async function transform538Data(data) {
                 votesDem: demPct.toFixed(2),
                 votesRep: repPct.toFixed(2),
                 state_votes: state.state_votes,
+                sample_size: totalVotes,
             }
         };
     }).sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
@@ -161,7 +164,26 @@ async function update(event, includeTableMetaData = true, minDate, maxDate) {
     if (includeTableMetaData) {
         updateDataTableMetaData(data);
     }
-    initChart(transformedData);
+
+    // roll-up states with districts
+    const rolledUpData = JSON.parse(JSON.stringify(transformedData));
+    const districts = rolledUpData.filter(state => /.* DIST. \d{1}/.test(state.ucName));
+    districts.forEach(district => {
+        const stateName = district.ucName.replace(/ DIST. \d{1}/, '');
+        const state = rolledUpData.find(state => state.ucName === stateName);
+        state.custom.elVotesDem += district.custom.elVotesDem;
+        state.custom.elVotesRep += district.custom.elVotesRep;
+        const stateVotesDem = state.custom.votesDem * state.custom.sample_size / 100;
+        const districtVotesDem = district.custom.votesDem * district.custom.sample_size / 100;
+        state.votesDem = (stateVotesDem + districtVotesDem) * 100 / (state.custom.sample_size + district.custom.sample_size);
+        const stateVotesRep = state.custom.votesRep * state.custom.sample_size / 100;
+        const districtVotesRep = district.custom.votesRep * district.custom.sample_size / 100;
+        state.votesRep = (stateVotesRep + districtVotesRep) * 100 / (state.custom.sample_size + district.custom.sample_size);
+        state.custom.state_votes += district.custom.state_votes;
+        const idx = rolledUpData.indexOf(district);
+        rolledUpData.splice(idx, 1);
+    });
+    initChart(rolledUpData);
 }
 
 async function updateAllPolls() {
@@ -319,6 +341,7 @@ async function addPolls(stateName, polls) {
     const div = document.createElement('div');
     div.className = 'poll-tooltip';
     span.onmouseenter = (() => {
+        div.style.left = span.offsetLeft + 140;
         div.hidden = false;
     });
     span.onmouseleave = (() => {
@@ -366,6 +389,7 @@ async function addSponsors(stateName, sponsors) {
     const div = document.createElement('div');
     div.className = 'sponsor-tooltip';
     span.onmouseenter = (() => {
+        div.style.left = span.offsetLeft + 140;
         div.hidden = false;
     });
     span.onmouseleave = (() => {
@@ -418,6 +442,7 @@ async function addVoters(stateName, polls) {
     const div = document.createElement('div');
     div.className = 'voter-tooltip';
     span.onmouseenter = (() => {
+        div.style.left = span.offsetLeft + 100;
         div.hidden = false;
     });
     span.onmouseleave = (() => {
@@ -515,6 +540,7 @@ async function addTrend(stateName, polls) {
     const div = document.createElement('div');
     div.className = 'trend-tooltip';
     span.onmouseenter = (() => {
+        div.style.left = span.offsetLeft + 70;
         div.hidden = false;
         showChart(stateName, polls);
     });
