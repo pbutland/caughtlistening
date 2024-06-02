@@ -8581,7 +8581,14 @@
     "lineNumber": "9",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Pause.) —— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not"
+    "text": "Pause."
+  },
+  {
+    "page": "Page 1415",
+    "lineNumber": "10",
+    "character": "A",
+    "voice": "male_voice_5",
+    "text": "—— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not."
   },
   {
     "page": "Page 1415",
@@ -19305,8 +19312,8 @@
   {
     "page": "Page 1528",
     "lineNumber": "17",
-    "character": "AUDIO DESCRIPTION:",
-    "voice": "female_voice_2",
+    "character": "COURT OFFICER:",
+    "voice": "female_voice_7",
     "text": "G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:"
   },
   {

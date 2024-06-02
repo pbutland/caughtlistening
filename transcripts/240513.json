@@ -121,8 +121,8 @@
   {
     "page": "3257",
     "lineNumber": "25",
-    "character": "AUDIO DESCRIPTION:",
-    "voice": "female_voice_2",
+    "character": "COURT OFFICER:",
+    "voice": "female_voice_7",
     "text": "M I C H A E L D E A N C O H E N, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:"
   },
   {
@@ -12390,7 +12390,14 @@
     "lineNumber": "19",
     "character": "A.",
     "voice": "male_voice_15",
-    "text": "2016. And it says: Michael, please find Ms. Daniels’ Settlement Agreement and Side Letter Agreement attached. I have not filled in the Side Letter Agreement (SLA) which identifies the parties to this agreement. Under the terms of the Agreement, neither my client or I are entitled to possession of the SLA. Settlement sum is $130,000. l have also attached my firm's wiring instructions for your reference. Ms. Daniels' expressed dissatisfaction with your schedule of the delay of ten days for funding. To that end, you will see that I placed this Friday, October 14 of 2016, as the funding deadline. Let me know if this is a problem. Let me know if you have any questions or concerns about anything. Keith."
+    "text": "2016. And it says: Michael, please find Ms. Daniels’ Settlement Agreement and Side Letter Agreement attached. I have not filled in the Side Letter Agreement (SLA)"
+  },
+  {
+    "page": "3391",
+    "lineNumber": "23",
+    "character": "A.",
+    "voice": "male_voice_15",
+    "text": "which identifies the parties to this agreement. Under the terms of the Agreement, neither my client or I are entitled to possession of the SLA. Settlement sum is $130,000. l have also attached my firm's wiring instructions for your reference. Ms. Daniels' expressed dissatisfaction with your schedule of the delay of ten days for funding. To that end, you will see that I placed this Friday, October 14 of 2016, as the funding deadline. Let me know if this is a problem. Let me know if you have any questions or concerns about anything. Keith."
   },
   {
     "page": "3392",

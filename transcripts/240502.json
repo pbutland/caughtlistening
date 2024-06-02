@@ -13686,7 +13686,14 @@
     "lineNumber": "1",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, a recess is taken.) 7k~k*~k9c~k*~k*~k*~k9c~k*~k*~k*~k***~k*~k*~k***~k*~k*~k*~k*~"
+    "text": "Whereupon, a recess is taken."
+  },
+  {
+    "page": "1969",
+    "lineNumber": "2",
+    "character": "THE COURT:",
+    "voice": "male_voice_1",
+    "text": "7k~k*~k9c~k*~k*~k*~k9c~k*~k*~k*~k***~k*~k*~k***~k*~k*~k*~k*~k"
   },
   {
     "page": "1969",

@@ -4571,7 +4571,14 @@
     "lineNumber": "15",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Pause.) I was brought to Michael Cohen's office with my boss at the time for an introduction"
+    "text": "Pause."
+  },
+  {
+    "page": "Page 1620",
+    "lineNumber": "16",
+    "character": "A",
+    "voice": "male_voice_9",
+    "text": "I was brought to Michael Cohen's office with my boss at the time for an introduction."
   },
   {
     "page": "Page 1620",
@@ -4886,7 +4893,7 @@
     "lineNumber": "4",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.) ~k*~k*~k~k**~k~"
+    "text": "Whereupon, Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky."
   },
   {
     "page": "Page 1624",
@@ -17533,7 +17540,14 @@
     "lineNumber": "3",
     "character": "A.",
     "voice": "male_voice_11",
-    "text": "\"Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached.” \"I have notified in the Side Letter Agreement (SLA) which identities the parties to this agreement.\" \"Under the terms of the agreement, neither my client nor I are entitled to possession of the Side Letter Agreement.\" That's Paragraph 1."
+    "text": "\"Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached.” \"I have notified in the Side Letter Agreement (SLA)"
+  },
+  {
+    "page": "Page 1768",
+    "lineNumber": "6",
+    "character": "A.",
+    "voice": "male_voice_11",
+    "text": "which identities the parties to this agreement.\" \"Under the terms of the agreement, neither my client nor I are entitled to possession of the Side Letter Agreement.\" That's Paragraph 1."
   },
   {
     "page": "Page 1768",

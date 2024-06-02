@@ -1706,7 +1706,14 @@
     "lineNumber": "10",
     "character": "MR. BLANCHE:",
     "voice": "male_voice_3",
-    "text": "Your Honor, may we approach? 1 THE COURT: NO ."
+    "text": "Your Honor, may we approach?"
+  },
+  {
+    "page": "3779",
+    "lineNumber": "1",
+    "character": "1 THE COURT:",
+    "voice": "male_voice_1",
+    "text": "NO ."
   },
   {
     "page": "3779",

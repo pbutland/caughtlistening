@@ -12843,7 +12843,14 @@
     "lineNumber": "5",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, a luncheon recess is taken.) *~k*~k9c~k*~k*~k*****~k*~k*~k9c~k*~k*~k*****~k*~k***~k*~k*~k*****~"
+    "text": "Whereupon, a luncheon recess is taken."
+  },
+  {
+    "page": "3649",
+    "lineNumber": "6",
+    "character": "AUDIO DESCRIPTION:",
+    "voice": "female_voice_2",
+    "text": "*~k*~k9c~k*~k*~k*****~k*~k*~k9c~k*~k*~k*****~k*~k***~k*~k*~k*****~"
   },
   {
     "page": "3649",
@@ -19060,7 +19067,7 @@
     "lineNumber": "24",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, a recess is taken.) ~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k*~k*~k*~k~k~k*~k*~k*~k~k~k*~k*~k*~k~k~"
+    "text": "Whereupon, a recess is taken."
   },
   {
     "page": "3712",
@@ -19610,7 +19617,7 @@
     "lineNumber": "1",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, the proceedings were continued from the previous page:) ~k~k~"
+    "text": "Whereupon, the proceedings were continued from the previous page:"
   },
   {
     "page": "3718",

@@ -1304,7 +1304,9 @@ Q Can you tell us about that?
 
 A Yes. I —— excuse me, pardon me for a second.
 
-AUDIO DESCRIPTION: Pause.) I was brought to Michael Cohen's office with my boss at the time for an introduction
+AUDIO DESCRIPTION: Pause.
+
+A I was brought to Michael Cohen's office with my boss at the time for an introduction.
 
 Q And that's the office at the Trump Tower?
 
@@ -1394,7 +1396,7 @@ Q —— you were no longer responsible for that relationship?
 
 A They didn't want me to have communication with the client any longer.
 
-AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.) ~k*~k*~k~k**~k~
+AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -4956,7 +4958,9 @@ A. Would you like me to read it?
 
 Q. Please.
 
-A. "Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached.” "I have notified in the Side Letter Agreement (SLA) which identities the parties to this agreement." "Under the terms of the agreement, neither my client nor I are entitled to possession of the Side Letter Agreement." That's Paragraph 1.
+A. "Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached.” "I have notified in the Side Letter Agreement (SLA)
+
+A. which identities the parties to this agreement." "Under the terms of the agreement, neither my client nor I are entitled to possession of the Side Letter Agreement." That's Paragraph 1.
 
 Q. I am sorry.
 

@@ -102,7 +102,7 @@ COURT OFFICER: Witness entering.
 
 AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.
 
-AUDIO DESCRIPTION: J E F F R E Y M C C O N N E Y, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
+COURT OFFICER: J E F F R E Y M C C O N N E Y, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
 
 THE WITNESS: Hi, your Honor.
 

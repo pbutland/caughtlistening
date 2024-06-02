@@ -3866,7 +3866,9 @@ AUDIO DESCRIPTION: Recess.
 
 AUDIO DESCRIPTION: T. Magniccari relieved by . Eisenberg as Senior Court Reporter.
 
-AUDIO DESCRIPTION: Whereupon, a recess is taken.) 7k~k*~k9c~k*~k*~k*~k9c~k*~k*~k*~k***~k*~k*~k***~k*~k*~k*~k*~
+AUDIO DESCRIPTION: Whereupon, a recess is taken.
+
+THE COURT: 7k~k*~k9c~k*~k*~k*~k9c~k*~k*~k*~k***~k*~k*~k***~k*~k*~k*~k*~k
 
 COURT OFFICER: Come to Order. Part 59 is back in session.
 

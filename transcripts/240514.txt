@@ -3640,7 +3640,9 @@ THE COURT: You can step down, Mr. Cohen.
 
 AUDIO DESCRIPTION: Whereupon, the witness is excused.
 
-AUDIO DESCRIPTION: Whereupon, a luncheon recess is taken.) *~k*~k9c~k*~k*~k*****~k*~k*~k9c~k*~k*~k*****~k*~k***~k*~k*~k*****~
+AUDIO DESCRIPTION: Whereupon, a luncheon recess is taken.
+
+AUDIO DESCRIPTION: *~k*~k9c~k*~k*~k*****~k*~k*~k9c~k*~k*~k*****~k*~k***~k*~k*~k*****~
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Lisa Kramsky relieves Senior Court Reporter Laurie Eisenberg after the luncheon recess, when the case was called in the afternoon session, and the transcript continues on the following page.
 
@@ -5390,7 +5392,7 @@ THE COURT: Sir, you can step out.
 
 AUDIO DESCRIPTION: Whereupon, the witness is excused.
 
-AUDIO DESCRIPTION: Whereupon, a recess is taken.) ~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k~k*~k*~k*~k~k~k*~k*~k*~k~k~k*~k*~k*~k~k~
+AUDIO DESCRIPTION: Whereupon, a recess is taken.
 
 COURT OFFICER: Come to Order. Part 59 is back in session.
 
@@ -5526,7 +5528,7 @@ A I didn’t —— I didn’t ask that, and they didn’t discuss that with me.
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Theresa Magniccari relieves Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.
 
-AUDIO DESCRIPTION: Whereupon, the proceedings were continued from the previous page:) ~k~k~
+AUDIO DESCRIPTION: Whereupon, the proceedings were continued from the previous page:
 
 CONTINUED CROSS EXAMINATION BY MR. BLANCHE:
 

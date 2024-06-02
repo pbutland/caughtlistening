@@ -350,7 +350,7 @@ THE COURT: Mr. Bove, do you want to speak to Mr. Blanche?
 
 MR. BOVE: Yes, your Honor. Thank you.
 
-AUDIO DESCRIPTION: Defense counsel confer.) ~k*~k*~k***~k~
+AUDIO DESCRIPTION: Defense counsel confer.
 
 MR. BOVE: Thank you.
 
@@ -468,7 +468,7 @@ THE COURT: Good morning, jurors. Welcome back. Jurors, before we continue with t
 
 MR. STEINGLASS: Thank you. ~k~k~k***
 
-DIRECT EXAMINATION (Continued.) 9 BY MR . STE INGLASS :
+9 BY MR . STE INGLASS :
 
 Q Good morning, Mr. Pecker.
 
@@ -1588,7 +1588,9 @@ MR. STEINGLASS: Yeah. I think they are. I think to the extent that —— I thin
 
 THE COURT: Right .
 
-MR. STEINGLASS: The second is: Are there, perhaps, embedded hearsay in some of these, not admissible by another hearsay exception? 9 THE COURT: Right .
+MR. STEINGLASS: The second is: Are there, perhaps, embedded hearsay in some of these, not admissible by another hearsay exception?
+
+9 THE COURT: Right .
 
 MR. STEINGLASS: We're all working hard here. I do feel like it's a little late in the game to be raising these objections. They've had these exhibits for nine months, and they've been designated as exhibits since August of last year. But, to the extent that there may be some embedded hearsay in some of those, I think what the defense needs to do is identify those portions of the exhibits that they believe is embedded hearsay, and then we can have argument as to whether or not there's a valid hearsay objection. But, we've laid a foundation they're admissible as business records. To the extent ——
 
@@ -1620,7 +1622,9 @@ MR. BOVE: Judge —— Judge, that's the law, that when there's embedded hearsay
 
 THE COURT: I'm accepting the records into evidence as business records. If something comes up that you believe is hearsay and is not admissible, you can make your objection.
 
-MR. BOVE: Just, can I lay out numbers? 6 THE COURT: Yes .
+MR. BOVE: Just, can I lay out numbers?
+
+6 THE COURT: Yes .
 
 MR. BOVE: 173 and 174 are text messages between Mr. Pecker and Dylan Howard. So, we are not objecting to those coming in on this hearsay within hearsay argument on the basis I described. Mr. Pecker, I understand, comes in. Mr. Howard's statements are inadmissible hearsay, but they're admissible to provide contents to what Mr. Pecker said. 171—A, for example, is a series of messages between Dylan Howard and Gina Rodriguez, with factual assertions being offered for the truth. So, we can address them in realtime. We raised this yesterday. We sent the People more objections last night at eight o'clock. I respect that the People were observing last night.
 

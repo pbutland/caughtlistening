@@ -2440,7 +2440,9 @@ Q Uh—huh.
 
 A And I know what I remember. This is going back to 2018. I didn't recall back from —— what I'm saying here is that——
 
-AUDIO DESCRIPTION: Pause.) —— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not
+AUDIO DESCRIPTION: Pause.
+
+A —— during the FBI investigation, I know what I said yesterday happened, so I can't reconcile what the FBI interview was —— if someone made a mistake or not.
 
 Q So you can't reconcile because what you said yesterday is inconsistent with what's in this report; correct?
 
@@ -5476,7 +5478,7 @@ COURT OFFICER: Witness entering.
 
 AUDIO DESCRIPTION: Whereupon, the witness takes the witness stand.
 
-AUDIO DESCRIPTION: G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
+COURT OFFICER: G A R Y F A R R O, having first been duly sworn and/or affirmed by the court clerk, was examined and testified as follows:
 
 COURT OFFICER: State your full name, spelling your last name.
 

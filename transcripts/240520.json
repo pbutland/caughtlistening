@@ -403,7 +403,7 @@
     "lineNumber": "8",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, the transcript continues on the following page.) ~k~k****~k~k~k**~k~k~k~k**~k~k*****~k~k~k~k~k***~k~"
+    "text": "Whereupon, the transcript continues on the following page."
   },
   {
     "page": "4017",
@@ -592,7 +592,7 @@
     "lineNumber": "8",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Whereupon, a recess is taken.) ~k**~k*~k*~k*~k7k—9c~k***~k~k~k~k~k~k~k~k~k********~k~k"
+    "text": "Whereupon, a recess is taken."
   },
   {
     "page": "Proceedings",
@@ -2221,7 +2221,7 @@
     "lineNumber": "1",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "The following proceedings are continued from the previous page.) ~k~k~k~k~k~k~"
+    "text": "The following proceedings are continued from the previous page."
   },
   {
     "page": "4039",
@@ -14559,7 +14559,14 @@
     "lineNumber": "13",
     "character": "THE COURT:",
     "voice": "male_voice_1",
-    "text": "I understand it's a strategic decision. Have you discussed this with your client? 6 MR . BLANCHE: Yes ."
+    "text": "I understand it's a strategic decision. Have you discussed this with your client?"
+  },
+  {
+    "page": "4183",
+    "lineNumber": "1",
+    "character": "6 MR . BLANCHE:",
+    "voice": "male_voice_3",
+    "text": "Yes ."
   },
   {
     "page": "4183",

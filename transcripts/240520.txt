@@ -112,7 +112,7 @@ THE COURT: Sure.
 
 AUDIO DESCRIPTION: Whereupon, the parties approach sidebar.
 
-AUDIO DESCRIPTION: Whereupon, the transcript continues on the following page.) ~k~k****~k~k~k**~k~k~k~k**~k~k*****~k~k~k~k~k***~k~
+AUDIO DESCRIPTION: Whereupon, the transcript continues on the following page.
 
 AUDIO DESCRIPTION: Whereupon, the following proceedings were preceded by a sealed discussion at sidebar.
 
@@ -142,7 +142,7 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 THE COURT: Let's take a short ten—minute break. We'll start up around 9:30.
 
-AUDIO DESCRIPTION: Whereupon, a recess is taken.) ~k**~k*~k*~k*~k7k—9c~k***~k~k~k~k~k~k~k~k~k********~k~k
+AUDIO DESCRIPTION: Whereupon, a recess is taken.
 
 THE CLERK: Remain seated. Come to order. Part 59 is back in session.
 
@@ -608,7 +608,7 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Laurie Eisenberg is relieved by Senior Court Reporter Lisa Kramsky, and the transcript continues on the following page.
 
-AUDIO DESCRIPTION: The following proceedings are continued from the previous page.) ~k~k~k~k~k~k~
+AUDIO DESCRIPTION: The following proceedings are continued from the previous page.
 
 CONTINUED CROSS—EXAMINATION BY MR. BLANCHE:
 
@@ -4132,7 +4132,9 @@ THE COURT: Mr. Blanche, you consent to that?
 
 MR. BLANCHE: Yes .
 
-THE COURT: I understand it's a strategic decision. Have you discussed this with your client? 6 MR . BLANCHE: Yes .
+THE COURT: I understand it's a strategic decision. Have you discussed this with your client?
+
+6 MR . BLANCHE: Yes .
 
 MR. STEINGLASS: So maybe we will read the stipulation after we move it into evidence, after we move the exhibit into evidence.
 

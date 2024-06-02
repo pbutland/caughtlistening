@@ -1316,7 +1316,7 @@
     "lineNumber": "16",
     "character": "AUDIO DESCRIPTION:",
     "voice": "female_voice_2",
-    "text": "Defense counsel confer.) ~k*~k*~k***~k~"
+    "text": "Defense counsel confer."
   },
   {
     "page": "Page 984",
@@ -1726,8 +1726,8 @@
   },
   {
     "page": "Page 995",
-    "lineNumber": "18",
-    "character": "DIRECT EXAMINATION (Continued.) 9 BY MR . STE INGLASS :"
+    "lineNumber": "1",
+    "character": "9 BY MR . STE INGLASS :"
   },
   {
     "page": "Page 995",
@@ -5765,7 +5765,14 @@
     "lineNumber": "16",
     "character": "MR. STEINGLASS:",
     "voice": "male_voice_2",
-    "text": "The second is: Are there, perhaps, embedded hearsay in some of these, not admissible by another hearsay exception? 9 THE COURT: Right ."
+    "text": "The second is: Are there, perhaps, embedded hearsay in some of these, not admissible by another hearsay exception?"
+  },
+  {
+    "page": "Page 1053",
+    "lineNumber": "1",
+    "character": "9 THE COURT:",
+    "voice": "male_voice_1",
+    "text": "Right ."
   },
   {
     "page": "Page 1053",
@@ -5877,7 +5884,14 @@
     "lineNumber": "15",
     "character": "MR. BOVE:",
     "voice": "male_voice_6",
-    "text": "Just, can I lay out numbers? 6 THE COURT: Yes ."
+    "text": "Just, can I lay out numbers?"
+  },
+  {
+    "page": "Page 1057",
+    "lineNumber": "1",
+    "character": "6 THE COURT:",
+    "voice": "male_voice_1",
+    "text": "Yes ."
   },
   {
     "page": "Page 1057",
