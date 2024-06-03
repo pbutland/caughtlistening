@@ -1356,7 +1356,7 @@
     "page": "4953",
     "lineNumber": "3",
     "character": "JUROR #2:",
-    "voice": "male_voice_19",
+    "voice": "male_voice_20",
     "text": "Yes, it is."
   },
   {
@@ -1370,7 +1370,7 @@
     "page": "4953",
     "lineNumber": "5",
     "character": "JUROR #3:",
-    "voice": "male_voice_19",
+    "voice": "female_voice_21",
     "text": "Yes, it is."
   },
   {
@@ -1384,7 +1384,7 @@
     "page": "4953",
     "lineNumber": "7",
     "character": "JUROR #4:",
-    "voice": "male_voice_19",
+    "voice": "female_voice_22",
     "text": "Yes."
   },
   {
@@ -1398,7 +1398,7 @@
     "page": "4953",
     "lineNumber": "9",
     "character": "JUROR #5:",
-    "voice": "male_voice_19",
+    "voice": "male_voice_21",
     "text": "Yes."
   },
   {
@@ -1412,7 +1412,7 @@
     "page": "4953",
     "lineNumber": "11",
     "character": "JUROR #7:",
-    "voice": "male_voice_19",
+    "voice": "male_voice_23",
     "text": "Yes, it is."
   },
   {
@@ -1426,7 +1426,7 @@
     "page": "4953",
     "lineNumber": "13",
     "character": "JUROR #8:",
-    "voice": "male_voice_19",
+    "voice": "female_voice_23",
     "text": "Yes."
   },
   {
@@ -1440,7 +1440,7 @@
     "page": "4953",
     "lineNumber": "15",
     "character": "JUROR #9:",
-    "voice": "male_voice_19",
+    "voice": "male_voice_24",
     "text": "Yes."
   },
   {
@@ -1454,7 +1454,7 @@
     "page": "4953",
     "lineNumber": "18",
     "character": "JUROR #10:",
-    "voice": "male_voice_19",
+    "voice": "female_voice_24",
     "text": "Yes."
   },
   {
@@ -1468,7 +1468,7 @@
     "page": "4953",
     "lineNumber": "21",
     "character": "JUROR #11:",
-    "voice": "male_voice_19",
+    "voice": "male_voice_25",
     "text": "Yes."
   },
   {
@@ -1482,7 +1482,7 @@
     "page": "4953",
     "lineNumber": "24",
     "character": "JUROR #12:",
-    "voice": "male_voice_19",
+    "voice": "female_voice_25",
     "text": "Yes."
   },
   {
