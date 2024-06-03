@@ -177,14 +177,12 @@ body {
 
 .bars {
     position: absolute;
-    width: 1px;
     height: 100px;
     width: 100px;
     border-radius: 50%;
     background: linear-gradient(to right, black 4px, transparent 4px);
     background-repeat: repeat-x;
     background-size: 12px;
-
     z-index: 1;
 }
 
@@ -345,7 +343,6 @@ body {
     background-color: #acabba;
     text-align: left;
     padding: 10px;
-    /* border-bottom: 1px solid #000; */
 }
 
 #data-table-container .datagrid-column-headers .datagrid-column-header,
@@ -353,19 +350,12 @@ body {
     color: #000;
 }
 
-#data-table datagrid-cell {
-    font-size: 14px;
-    padding-left: 5px;
-}
-
 .datagrid-cell {
+    width: auto;
     padding: 8px 12px;
-    /* box-sizing: border-box; */
-    /* border-color: #ccc; */
 }
 
 .datagrid-column-header {
-    /* border-bottom: 1px solid var(--highcharts-neutral-color-20); */
     padding: 4px 4px 4px 12px;
     font-weight: 700;
     box-sizing: border-box;
@@ -409,6 +399,19 @@ body {
 #data-table-container .datagrid-cell:nth-child(4),
 #data-table-container .datagrid-cell:nth-child(5) {
     min-width: 70px;
+}
+
+@media (max-width: 1200px) {
+    /* Candidate votes columns */
+    #data-table-container .datagrid-cell:nth-child(4),
+    #data-table-container .datagrid-cell:nth-child(5) {
+        display: none;
+    }
+
+    #data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(4),
+    #data-table-container .datagrid-column-headers .datagrid-column-header:nth-child(5) {
+        display: none;
+    }
 }
 
 .poll-tooltip-icon,

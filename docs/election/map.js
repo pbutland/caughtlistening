@@ -1,58 +1,79 @@
-async function showChart(stateName, polls) {
-    const uniquePolls = [...new Map(polls.map(poll => [poll.endDate, poll])).values()]
+let topology;
+async function initChart(data) {
+    if (!topology) {
+        topology = await fetch(
+            'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
+        ).then(response => response.json());
 
-    const demData = uniquePolls.map(poll => {
-        return {
-            x: new Date(Date.parse(poll.endDate)),
-            y: parseInt(poll.answers.find(a => a.party === 'Dem')?.pct),
-        }
-    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
+        // Prepare map data for joining
+        topology.objects.default.geometries.forEach(function (g) {
+            if (g.properties && g.properties.name) {
+                g.properties.ucName = g.properties.name.toUpperCase();
+            }
+        });
+    }
 
-    const repData = uniquePolls.map(poll => {
-        return {
-            x: new Date(Date.parse(poll.endDate)),
-            y: parseInt(poll.answers.find(a => a.party === 'Rep')?.pct),
-        }
-    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
-
-    Highcharts.chart(`${stateName}-map-container`, {
-        chart: {
-            type: 'spline'
-        },
+    Highcharts.mapChart('map-container', {
         title: {
-            text: `${stateName}`,
+            text: '',
             align: 'center'
         },
-        yAxis: {
-            title: {
-                text: 'Votes (%)'
+
+        mapNavigation: {
+            enabled: true,
+            enableButtons: false
+        },
+
+        xAxis: {
+            labels: {
+                enabled: false
             }
         },
-        xAxis: {
-            type: 'datetime',
-            accessibility: {
-                rangeDescription: 'Date'
-            }
+
+        colorAxis: {
+            labels: {
+                format: '{value}%'
+            },
+            stops: [
+                [0, '#0913df'], // Blue
+                [0.5, '#caccfd'], // Light Blue
+                [0.51, '#fdccca'], // Light Red
+                [1, '#df1309'] // Red
+            ],
+            min: -20,
+            max: 20
+        },
+        tooltip: {
+            useHTML: true,
+            headerFormat: '<table class="map-tooltip"><caption>{point.key}</caption><tr><th>Party</th><th>Electors</th><th>Votes</th></tr>',
+            pointFormat: '<tr><td>Dem.</td><td>{point.custom.elVotesDem}</td><td>{point.custom.votesDem}%</td></tr>' +
+                '<tr><td>Rep.</td><td>{point.custom.elVotesRep}</td><td>{point.custom.votesRep}%</td></tr>' +
+                '<tr><th colspan="3">{point.custom.winner}</th></tr>',
+            footerFormat: '</table>'
         },
         legend: {
-            layout: 'horizontal',
-            align: 'center',
-            verticalAlign: 'bottom'
+            symbolWidth: 300
         },
-        plotOptions: {
-            series: {
-                label: {
-                    connectorAllowed: false
-                }
-            }
-        },
-        colors: ['#0913df', '#df1309'],
         series: [{
-            name: 'Democrat',
-            data: demData
+            mapData: topology,
+            data,
+            joinBy: 'ucName',
+            name: 'US Electoral College Poll',
+            dataLabels: {
+                enabled: true,
+                format: '{point.properties.hc-a2} ({point.custom.state_votes})',
+                style: {
+                    fontSize: '10px'
+                }
+            },
         }, {
-            name: 'Republican',
-            data: repData
+            // The connector lines
+            type: 'mapline',
+            data: Highcharts.geojson(topology, 'mapline'),
+            color: 'silver',
+            accessibility: {
+                enabled: false
+            }
         }]
     });
 }
