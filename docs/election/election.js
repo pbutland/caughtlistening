@@ -112,18 +112,18 @@ async function update(event, includeTableMetaData = true, minDate, maxDate) {
 
     if (minDate && maxDate) {
         data.forEach(state => {
-            state.polls = state.polls.filter(poll => Date.parse(poll.endDate) > minDate && Date.parse(poll.endDate) < maxDate)
+            state.polls = state.polls.filter(poll => Date.parse(poll.endDate) > minDate && Date.parse(poll.endDate) < maxDate);
         });
     }
 
     data.forEach(state => {
-        state.polls = state.polls.filter(poll => pollsters.includes(poll.pollster))
+        state.polls = state.polls.filter(poll => pollsters.includes(poll.pollster));
     });
 
     updateVoters(data);
 
     data.forEach(state => {
-        state.polls = state.polls.filter(poll => voterTypes.includes(poll.population))
+        state.polls = state.polls.filter(poll => voterTypes.includes(poll.population));
     });
 
     updateTotals(data);

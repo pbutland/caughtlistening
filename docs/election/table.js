@@ -155,19 +155,44 @@ async function showChart(stateName, polls) {
     const uniquePolls = [...new Map(polls.map(poll => [poll.endDate, poll])).values()]
 
     const demData = uniquePolls.map(poll => {
-        return {
-            x: new Date(Date.parse(poll.endDate)),
-            y: parseInt(poll.answers.find(a => a.party === 'Dem')?.pct),
-        }
-    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
-
+        return [
+            new Date(Date.parse(poll.endDate)).getTime(),
+            parseInt(poll.answers.find(a => a.party === 'Dem')?.pct)
+        ];
+    }).sort((lhs, rhs) => rhs[0] - lhs[0]);
     const repData = uniquePolls.map(poll => {
-        return {
-            x: new Date(Date.parse(poll.endDate)),
-            y: parseInt(poll.answers.find(a => a.party === 'Rep')?.pct),
-        }
-    }).sort((lhs, rhs) => rhs.x.getTime() - lhs.x.getTime());
+        return [
+            new Date(Date.parse(poll.endDate)).getTime(),
+            parseInt(poll.answers.find(a => a.party === 'Rep')?.pct)
+        ];
+    }).sort((lhs, rhs) => rhs[0] - lhs[0]);
 
+    let averageDem = [];
+    const rollingAverageDem = uniquePolls.map(poll => {
+        const pct = parseInt(poll.answers.find(a => a.party === 'Dem')?.pct);
+        const pollSize = parseInt(poll.sampleSize);
+        averageDem.push([pct*pollSize/100, pollSize]);
+        const totalVotes = averageDem.reduce((partialSum, a) => partialSum + a[0], 0);
+        const totalSize = averageDem.reduce((partialSum, a) => partialSum + a[1], 0);
+        return [
+            new Date(Date.parse(poll.endDate)).getTime(),
+            Number(`${Math.round(`${totalVotes*100/totalSize}e2`)}e-2`)
+        ];
+    }).sort((lhs, rhs) => rhs[0] - lhs[0]);
+
+    let averageRep = [];
+    const rollingAverageRep = uniquePolls.map(poll => {
+        const pct = parseInt(poll.answers.find(a => a.party === 'Rep')?.pct);
+        const pollSize = parseInt(poll.sampleSize);
+        averageRep.push([pct*pollSize/100, pollSize]);
+        const totalVotes = averageRep.reduce((partialSum, a) => partialSum + a[0], 0);
+        const totalSize = averageRep.reduce((partialSum, a) => partialSum + a[1], 0);
+        return [
+            new Date(Date.parse(poll.endDate)).getTime(),
+            Number(`${Math.round(`${totalVotes*100/totalSize}e2`)}e-2`)
+        ];
+    }).sort((lhs, rhs) => rhs[0] - lhs[0]);
+    
     Highcharts.chart(`${stateName}-map-container`, {
         chart: {
             type: 'spline'
@@ -178,8 +203,11 @@ async function showChart(stateName, polls) {
         },
         yAxis: {
             title: {
-                text: 'Votes (%)'
+                text: 'xVotes (%)'
             }
+        },
+        tooltip: {
+            split: true
         },
         xAxis: {
             type: 'datetime',
@@ -199,14 +227,27 @@ async function showChart(stateName, polls) {
                 }
             }
         },
-        colors: ['#0913df', '#df1309'],
+        colors: ['#0913df', '#0913df', '#df1309', '#df1309'],
         series: [{
             name: 'Democrat',
-            data: demData
-        }, {
+            data: demData,
+        },
+        {
+            name: 'Democrat (Avg)',
+            data: rollingAverageDem,
+            lineWidth: 3,
+            dashStyle: 'longdash'
+        },
+        {
             name: 'Republican',
-            data: repData
-        }]
+            data: repData,
+        },
+        {
+            name: 'Republican (Avg)',
+            data: rollingAverageRep,
+            lineWidth: 3,
+            dashStyle: 'longdash'
+        }],
     });
 }
 

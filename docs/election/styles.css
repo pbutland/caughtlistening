@@ -257,6 +257,22 @@ body {
     font-weight: 700;
 }
 
+#time-line {
+    margin: 0px 10px;
+}
+
+#time-line .ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	width: .7em;
+	height: 1.4em;
+	cursor: pointer;
+	-ms-touch-action: none;
+	touch-action: none;
+	top: -.4em;
+	margin-left: -.6em;
+}
+
 #map-container {
     border-radius: 5px;
     height: 700px;
