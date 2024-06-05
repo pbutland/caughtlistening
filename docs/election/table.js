@@ -227,20 +227,20 @@ async function showChart(stateName, polls) {
                 }
             }
         },
-        colors: ['#0913df', '#0913df', '#df1309', '#df1309'],
+        colors: ['#0913df', '#df1309'],
         series: [{
             name: 'Democrat',
             data: demData,
+        },
+        {
+            name: 'Republican',
+            data: repData,
         },
         {
             name: 'Democrat (Avg)',
             data: rollingAverageDem,
             lineWidth: 3,
             dashStyle: 'longdash'
-        },
-        {
-            name: 'Republican',
-            data: repData,
         },
         {
             name: 'Republican (Avg)',
