@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1987
-1 you open it up, you may see the title of it, maybe the author,
-2 but you don’t know who published it, who wrote it and when it
-3 was done. You would simply open up the book cover, and that’s
-4 the information that would be considered metadata.
-5 Q How is that metadata on the phone created?
-6 A It’s created by the year and/or the operating system
-7 itself and applications.
-8 Q And does that depend on what kind of metadata it is?
-9 A It just depends on the artifact.
-10 Q As part of your work in HTAU, were you assigned to an
-11 investigation involving Donald Trump?
-12 A I was.
-13 Q Were you assigned to two devices to analyze as part of
-14 that investigation?
-15 A Yes, I was.
-16 Q What kinds of devices?
-17 A There are two iPhones. The first one is an iPhone 6s,
-18 and the second one is an iPhone 7.
-19 Q Did you understand the authority that HTAU had to be
-20 in possession and look at those two phones?
-21 A As mentioned before, it was a Consent.
-22 Q And whose Consent, if you know?
-23 A The Consent was Michael Cohen.
-24 Q And do you know whose phones those were?
-25 A They were Michael Cohen’s.
+1   you open it up, you may see the title of it, maybe the author,
+2   but you don't know who published it, who wrote it and when it
+3   was done. You would simply open up the book cover, and that's
+4   the information that would be considered metadata.
+5       Q    How is that metadata on the phone created?
+6       A    It's created by the year and/or the operating system
+7   itself and applications.
+8       Q    And does that depend on what kind of metadata it is?
+9       A    It just depends on the artifact.
+10       Q    As part of your work in HTAU, were you assigned to an
+11   investigation involving Donald Trump?
+12       A    I was.
+13       Q    Were you assigned to two devices to analyze as part of
+14   that investigation?
+15       A    Yes, I was.
+16       Q    What kinds of devices?
+17       A    There are two iPhones. The first one is an iPhone 6s,
+18   and the second one is an iPhone 7.
+19       Q    Did you understand the authority that HTAU had to be
+20   in possession and look at those two phones?
+21       A    As mentioned before, it was a Consent.
+22       Q    And whose Consent, if you know?
+23       A    The Consent was Michael Cohen.
+24       Q    And do you know whose phones those were?
+25       A    They were Michael Cohen's.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

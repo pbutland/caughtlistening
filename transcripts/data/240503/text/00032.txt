@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2066
-1 A Yes.
-2 Q And so, you know that there was the possibility to ask
-3 Mr. Cohen for the laptop; right?
-4 A There certainly could be.
-5 Q Certainly, if you had the laptop, you could know with a
-6 lot of precision all of the things that Mr. Cohen loaded on to
-7 the phone in January of 2017; right?
-8 A I could.
-9 Q But that did not happen here; correct?
-10 A No. It did not.
-11 Q And so, you testified yesterday that there were 39,745
-12 contacts saved on CPl; right?
-13 A I did.
-14 Q And I think you said that was unusual; correct?
-15 A It is.
-16 Q But isn't it a fact that that is entirely consistent
-17 with Michael Cohen dumping a bunch of data from his laptop onto
-18 this phone?
-19 A It's the contacts that are assigned in his iCloud
-20 account that over the years have accumulated to that many
-21 contents.
-22 Q Yes, over the years on the laptop; right?
-23 A In whatever the account that he used to log in, yes.
-24 Q And we can only guess, because neither of us have seen
-25 the laptop; right?
+1       A    Yes.
+2       Q    And so, you know that there was the possibility to ask
+3   Mr. Cohen for the laptop; right?
+4       A    There certainly could be.
+5       Q    Certainly, if you had the laptop, you could know with a
+6   lot of precision all of the things that Mr. Cohen loaded on to
+7   the phone in January of 2017; right?
+8       A    I could.
+9       Q    But that did not happen here; correct?
+10       A    No.  It did not.
+11       Q    And so, you testified yesterday that there were 39,745
+12   contacts saved on CP1; right?
+13       A    I did.
+14       Q    And I think you said that was unusual; correct?
+15       A    It is.
+16       Q    But isn't it a fact that that is entirely consistent
+17   with Michael Cohen dumping a bunch of data from his laptop onto
+18   this phone?
+19       A    It's the contacts that are assigned in his iCloud
+20   account that over the years have accumulated to that many
+21   contents.
+22       Q    Yes, over the years on the laptop; right?
+23       A    In whatever the account that he used to log in, yes.
+24       Q    And we can only guess, because neither of us have seen
+25   the laptop; right?
 Lisa Kramsky,
 Senior Court Reporter

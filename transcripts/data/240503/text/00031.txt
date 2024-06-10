@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2065
-1 correct?
-2 A From what I know, it is generally a complete iTunes
-3 backup. Normally people don't select things, they select the
-4 entire thing.
-5 Q But you don't know what happened here?
-6 A An entire backup happened.
-7 Q Right. And you don't know what that backup entailed;
-8 correct?
-9 A Meaning?
-10 Q Meaning, you don't know what was transferred onto the
-11 phone in January 2017?
-12 A That file certainly.
-13 Q We are going to come back to the metadata associated
-14 with the, the September 6th file ——
-15 A Uh—huh.
-16 Q —— you —— but I want to talk about this laptop a little
-17 bit.
-18 You didn't collect Michael Cohen's laptop; right?
-19 A I did not.
-20 Q And you know that Michael Cohen is cooperating with the
-21 District Attorney's Office; correct?
-22 A Sure. He's consenting to the phones. He's
-23 cooperating.
-24 Q He's going to testify at this trial on behalf of the
-25 Government; right?
+1   correct?
+2       A    From what I know, it is generally a complete iTunes
+3   backup.  Normally people don't select things, they select the
+4   entire thing.
+5       Q    But you don't know what happened here?
+6       A    An entire backup happened.
+7       Q    Right.  And you don't know what that backup entailed;
+8   correct?
+9       A    Meaning?
+10       Q    Meaning, you don't know what was transferred onto the
+11   phone in January 2017?
+12       A    That file certainly.
+13       Q    We are going to come back to the metadata associated
+14   with the, the September 6th file --
+15       A    Uh-huh.
+16       Q    -- you -- but I want to talk about this laptop a little
+17   bit.
+18       You didn't collect Michael Cohen's laptop; right?
+19       A    I did not.
+20       Q    And you know that Michael Cohen is cooperating with the
+21   District Attorney's Office; correct?
+22       A    Sure.  He's consenting to the phones.  He's
+23   cooperating.
+24       Q    He's going to testify at this trial on behalf of the
+25   Government; right?
 Lisa Kramsky,
 Senior Court Reporter

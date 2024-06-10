@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2056
-1 A Sometimes.
-2 Q Meaning sometimes only one member of the District
-3 Attorney's office collects the phone; is that right?
-4 A Yes.
-5 Q And in that situation, like the one we have here with
-6 CP1, there is only one witness who knows what happened during
-7 that collection process; right?
-8 A Yes.
-9 Q Well, there is one witness from the District Attorney's
-10 office?
-11 A One signature.
-12 Q Mr. Rosenberg. And then there is another witness,
-13 Michael Cohen; right?
-14 A That's correct.
-15 Q And the reason that is not an ideal way to handle it in
-16 this fashion is that if there is a dispute about what happened
-17 during the acquisition, it's sort of what Mr. Rosenberg said
-18 versus what Mr. Cohen said; right?
-19 A Theoretically.
-20 Q And so, the reason that there is a second witness space
-21 on that form is that in an ideal situation, from a forensic
-22 perspective, you would have two witnesses in a position to say,
-23 this is what happened when I picked up the phone?
-24 A Ideally.
-25 Q And we don't have that here?
+1       A    Sometimes.
+2       Q    Meaning sometimes only one member of the District
+3   Attorney's office collects the phone; is that right?
+4       A    Yes.
+5       Q    And in that situation, like the one we have here with
+6   CP1, there is only one witness who knows what happened during
+7   that collection process; right?
+8       A    Yes.
+9       Q    Well, there is one witness from the District Attorney's
+10   office?
+11       A    One signature.
+12       Q    Mr. Rosenberg.  And then there is another witness,
+13   Michael Cohen; right?
+14       A    That's correct.
+15       Q    And the reason that is not an ideal way to handle it in
+16   this fashion is that if there is a dispute about what happened
+17   during the acquisition, it's sort of what Mr. Rosenberg said
+18   versus what Mr. Cohen said; right?
+19       A    Theoretically.
+20       Q    And so, the reason that there is a second witness space
+21   on that form is that in an ideal situation, from a forensic
+22   perspective, you would have two witnesses in a position to say,
+23   this is what happened when I picked up the phone?
+24       A    Ideally.
+25       Q    And we don't have that here?
 Lisa Kramsky,
 Senior Court Reporter

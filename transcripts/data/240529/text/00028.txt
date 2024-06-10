@@ -1,6 +1,6 @@
 Jury Charge
 4843
-1 Kramsky.)
+1       Kramsky.)
 2
 3
 4
@@ -25,5 +25,5 @@ Jury Charge
 23
 24
 25
-Susan Pearce—Bates, RPR, CCR, RSA
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

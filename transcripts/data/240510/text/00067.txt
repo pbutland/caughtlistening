@@ -1,29 +1,29 @@
-J. Tomalin — Cross/Bove
+J. Tomalin - Cross/Bove
 3155
-1 A Good morning.
-2 Q My name is Emil Bove and I represent President Trump,
-3 who is over here on my left.
-4 I want to talk a little lit about the subscriber
-5 records that are part of Exhibit 401 if we could.
-6 A Yes.
-7 MR. BOVE: Because they are not redacted, I am
-8 just going to ask ——
-9 THE COURT: Sure.
-10 MR. BOVE: So, Mr. Bernik, this is just for the
-11 Court, the parties and the witness.
-12 Q Take a look at the spreadsheet with Bates ending
-13 64591.
-14 And Ms. Tomalin, do you see that in Column D it says,
-15 MTN?
-16 A Yes.
-17 Q That’s Mobile Telephone Number in Verizon records,
-18 right?
-19 A Yes.
-20 Q The phone number linked to the account, correct?
-21 A Yes.
-22 Q And so, if you look at cell D3, Column D, row three,
-23 that row relates to telephone number ending 5361?
-24 A Yes.
-25 Q And if you look, staying on that row, at Columns F and
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    Good morning.
+2       Q    My name is Emil Bove and I represent President Trump,
+3   who is over here on my left.
+4            I want to talk a little lit about the subscriber
+5   records that are part of Exhibit 401 if we could.
+6       A    Yes.
+7                 MR. BOVE:  Because they are not redacted, I am
+8       just going to ask --
+9                 THE COURT:  Sure.
+10                 MR. BOVE:  So, Mr. Bernik, this is just for the
+11       Court, the parties and the witness.
+12       Q    Take a look at the spreadsheet with Bates ending
+13   64591.
+14            And Ms. Tomalin, do you see that in Column D it says,
+15   MTN?
+16       A    Yes.
+17       Q    That's Mobile Telephone Number in Verizon records,
+18   right?
+19       A    Yes.
+20       Q    The phone number linked to the account, correct?
+21       A    Yes.
+22       Q    And so, if you look at cell D3, Column D, row three,
+23   that row relates to telephone number ending 5361?
+24       A    Yes.
+25       Q    And if you look, staying on that row, at Columns F and
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

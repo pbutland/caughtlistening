@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2285
-1 A Yes.
-2 Q Do these exhibits include Form 1099’s?
-3 A Yes.
-4 Q Does The Trump Organization keep records relating to
-5 the checks it cuts?
-6 A Yes.
-7 Q Does that include records for checks cut from the
-8 Donald J. Trump Revocable Trust account?
-9 A Yes.
-10 Q If I refer to that as "The Trust account" going
-11 forward, will you know I mean the Donald J. Trump Revocable
-12 Trust account?
-13 A Yes.
-14 Q Does that include records for the checks cut from the
-15 DJT account?
-16 A Yes.
-17 Q Do those records include invoices?
-18 A Yes.
-19 Q Do those include entries for the General Ledger?
-20 A No.
-21 Q Can you explain?
-22 A We don’t print out the General Ledger, so we have ——
-23 I'll try to describe it.
-24 When you print a check, the record for that check and the
-25 information that you put in is in Multi Data. You can access it
+1       A    Yes.
+2       Q    Do these exhibits include Form 1099's?
+3       A    Yes.
+4       Q    Does The Trump Organization keep records relating to
+5   the checks it cuts?
+6       A    Yes.
+7       Q    Does that include records for checks cut from the
+8   Donald J. Trump Revocable Trust account?
+9       A    Yes.
+10       Q    If I refer to that as "The Trust account" going
+11   forward, will you know I mean the Donald J. Trump Revocable
+12   Trust account?
+13       A    Yes.
+14       Q    Does that include records for the checks cut from the
+15   DJT account?
+16       A    Yes.
+17       Q    Do those records include invoices?
+18       A    Yes.
+19       Q    Do those include entries for the General Ledger?
+20       A    No.
+21       Q    Can you explain?
+22       A    We don't print out the General Ledger, so we have --
+23   I'll try to describe it.
+24       When you print a check, the record for that check and the
+25   information that you put in is in Multi Data. You can access it
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

@@ -1,29 +1,29 @@
 Summation/Steinglass
 4654
-1 "Question: When you say 'we', who is 'we'?"
-2 "Answer: Myself and Michael Cohen."
-3 "Question: But for Mr. Cohen's promise that
-4 Mr. Trump would reimburse AMI, would you have entered into
-5 this Agreement?"
-6 "Answer: No."
-7 And you know from the discussion at the Trump
-8 Tower meeting that everyone understood Cohen was acting as
-9 the liaison with Pecker, Mr. Trump's liaison with Pecker,
-10 conveying Mr. Trump's instructions every step of the way.
-11 Many of the facts in those questions and answers
-12 that I just read to you are also contained in the
-13 Statement of Admitted Facts that was part of the
-14 Non—Prosecution Agreement that AMI executed with the
-15 Southern District of New York.
-16 That's in evidence, and you can examine it
-17 whenever you like.
-18 It was admitted to assist you in assessing
-19 Mr. Pecker's credibility and, also, to provide context for
-20 the surrounding events.
-21 It sounded to me like maybe Mr. Blanche was
-22 trying to suggest in his summation that maybe AMI admitted
-23 to these campaign finance violations because they were in
-24 a rush to get some other deal done.
-25 MR. BLANCHE: Objection, your Honor.
+1            "Question: When you say 'we', who is 'we'?"
+2            "Answer: Myself and Michael Cohen."
+3            "Question:  But for Mr. Cohen's promise that
+4   Mr. Trump would reimburse AMI, would you have entered into
+5   this Agreement?"
+6            "Answer: No."
+7            And you know from the discussion at the Trump
+8   Tower meeting that everyone understood Cohen was acting as
+9   the liaison with Pecker, Mr. Trump's liaison with Pecker,
+10   conveying Mr. Trump's instructions every step of the way.
+11            Many of the facts in those questions and answers
+12   that I just read to you are also contained in the
+13   Statement of Admitted Facts that was part of the
+14   Non-Prosecution Agreement that AMI executed with the
+15   Southern District of New York.
+16            That's in evidence, and you can examine it
+17   whenever you like.
+18            It was admitted to assist you in assessing
+19   Mr. Pecker's credibility and, also, to provide context for
+20   the surrounding events.
+21            It sounded to me like maybe Mr. Blanche was
+22   trying to suggest in his summation that maybe AMI admitted
+23   to these campaign finance violations because they were in
+24   a rush to get some other deal done.
+25            MR. BLANCHE:  Objection, your Honor.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

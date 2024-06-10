@@ -1,29 +1,29 @@
-K. Davidson — Direct/Steinglass
+K. Davidson - Direct/Steinglass
 Page 1707
-1 texts?
-2 A I have.
-3 Q And are the texts that appear on this exhibit the
-4 exact texts you sent and received to and from Dylan Howard?
-5 A They are.
-6 Q Do you have any reason to doubt the accuracy of the
-7 date and timestamps?
-8 A I do not.
-9 Q Okay.
-10 MR. STEINGLASS: I am going to ask that we blow
-11 up the last two text boxes —— I mean, the last —— the last
-12 column, the first two boxes in the last column. Lines 111
-13 through 112.
-14 Q Let me ask you, first, can you tell what time zone
-15 these —— the date and timestamp is in?
-16 A I think it's UTC.
-17 Q Are you familiar with the relationship between UTC
-18 time and, let's say, West Coast Time or East Coast Time?
-19 A Not particularly.
-20 Q But these texts are dated particularly in UTC Time; is
-21 that right?
-22 A Yes.
-23 Q What is the date on this first text?
-24 A June 7th.
-25 Q And who is the first text in this chain from?
+1   texts?
+2       A    I have.
+3       Q    And are the texts that appear on this exhibit the
+4   exact texts you sent and received to and from Dylan Howard?
+5       A    They are.
+6       Q    Do you have any reason to doubt the accuracy of the
+7   date and timestamps?
+8       A    I do not.
+9       Q    Okay.
+10                 MR. STEINGLASS:  I am going to ask that we blow
+11        up the last two text boxes -- I mean, the last -- the last
+12        column, the first two boxes in the last column. Lines 111
+13        through 112.
+14       Q    Let me ask you, first, can you tell what time zone
+15   these -- the date and timestamp is in?
+16       A    I think it's UTC.
+17       Q    Are you familiar with the relationship between UTC
+18   time and, let's say, West Coast Time or East Coast Time?
+19       A    Not particularly.
+20       Q    But these texts are dated particularly in UTC Time; is
+21   that right?
+22       A    Yes.
+23       Q    What is the date on this first text?
+24       A    June 7th.
+25       Q    And who is the first text in this chain from?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

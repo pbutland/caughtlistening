@@ -1,29 +1,29 @@
-J. Jarmel—Schneider — Cross/Bove
+J. Jarmel-Schneider - Cross/Bove
 3230
-1 Q But, you were here when he said VM means voicemail;
-2 right?
-3 A Yes.
-4 MR. BOVE: If we could zoom out, please. Just to
-5 get oriented.
-6 (Whereupon, an exhibit is shown on the screens.)
-7 Q The three columns there, the right side there's a
-8 field that says IMEI; right?
-9 A Yes.
-10 MR. BOVE: If we could zoom in on the IMEI column
-11 of this whole page, please.
-12 Q You were here when Mr. Dixon said the IMEI is the
-13 number associated with the physical device itself; right?
-14 A Yes.
-15 I think you’re blowing up the wrong column, but that is my
-16 understanding also.
-17 Sorry.
-18 Q Thank you.
-19 Do we have the IMEI up now?
-20 A Yes.
-21 Q So, you were here when Mr. Dixon said this IMEI number
-22 is the number associated with the physical device itself;
-23 right?
-24 A Yes.
-25 Q So, this IMEI associated with the two calls, the
+1       Q    But, you were here when he said VM means voicemail;
+2   right?
+3       A    Yes.
+4                 MR. BOVE:  If we could zoom out, please. Just to
+5        get oriented.
+6                 (Whereupon, an exhibit is shown on the screens.)
+7       Q    The three columns there, the right side there's a
+8   field that says IMEI; right?
+9       A    Yes.
+10                 MR. BOVE:  If we could zoom in on the IMEI column
+11        of this whole page, please.
+12       Q    You were here when Mr. Dixon said the IMEI is the
+13   number associated with the physical device itself; right?
+14       A    Yes.
+15       I think you're blowing up the wrong column, but that is my
+16   understanding also.
+17       Sorry.
+18       Q    Thank you.
+19       Do we have the IMEI up now?
+20       A    Yes.
+21       Q    So, you were here when Mr. Dixon said this IMEI number
+22   is the number associated with the physical device itself;
+23   right?
+24       A    Yes.
+25       Q    So, this IMEI associated with the two calls, the
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

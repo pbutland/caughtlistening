@@ -1,29 +1,29 @@
 Jury Charge
 4832
-1 not have, a motive to lie.
-2 If I witness had a motive to lie, you may
-3 consider whether and to what extent, if any, that motive
-4 affected the truthfulness of that witness's testimony.
-5 If a witness did not have a motive to lie, you
-6 may consider that as well in evaluating the witness’s
-7 truthfulness.
-8 You may consider whether a witness hopes for or
-9 expects to receive a benefit for testifying. If so, you
-10 may consider whether and to what extent it affected the
-11 truthfulness of the witness’s testimony.
-12 You may consider whether a witness has any
-13 interest in the outcome of the case, or instead, whether
-14 the witness has no such interest.
-15 You are not required to reject the testimony of
-16 an interested witness, or to accept the testimony of a
-17 witness who has no interest in the outcome of the case.
-18 You may, however, consider whether an interest in
-19 the outcome, or the lack of such interest, affected the
-20 truthfulness of the witness’s testimony.
-21 You may consider whether a witness has been
-22 convicted of a crime or has engaged in criminal conduct,
-23 and if so, whether and to what extent it affects your
-24 evaluation of the truthfulness of that witness's testimony.
-25 You are not required to reject the testimony of a
-Susan Pearce—Bates, RPR, CCR, RSA
+1       not have, a motive to lie.
+2                 If I witness had a motive to lie, you may
+3       consider whether and to what extent, if any, that motive
+4       affected the truthfulness of that witness's testimony.
+5                 If a witness did not have a motive to lie, you
+6       may consider that as well in evaluating the witness's
+7       truthfulness.
+8                 You may consider whether a witness hopes for or
+9       expects to receive a benefit for testifying.  If so, you
+10       may consider whether and to what extent it affected the
+11       truthfulness of the witness's testimony.
+12                 You may consider whether a witness has any
+13       interest in the outcome of the case, or instead, whether
+14       the witness has no such interest.
+15                 You are not required to reject the testimony of
+16       an interested witness, or to accept the testimony of a
+17       witness who has no interest in the outcome of the case.
+18                 You may, however, consider whether an interest in
+19       the outcome, or the lack of such interest, affected the
+20       truthfulness of the witness's testimony.
+21                 You may consider whether a witness has been
+22       convicted of a crime or has engaged in criminal conduct,
+23       and if so, whether and to what extent it affects your
+24       evaluation of the truthfulness of that witness's testimony.
+25                 You are not required to reject the testimony of a
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

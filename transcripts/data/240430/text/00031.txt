@@ -1,29 +1,29 @@
-G. Farro — Direct/Mangold
+G. Farro - Direct/Mangold
 Page 1607
-1 form, below the double line. Do you see that fine print above
-2 the signature line?
-3 A I do.
-4 Q What does the first sentence of that say?
-5 A "I/we certify that the information contained herein is
-6 true, complete and accurate."
-7 Q And do you recognize the signature?
-8 A Yes. "Michael Cohen."
-9 Q And what's the date?
-10 A 10/27/2016.
-11 Q Are there two more signatures below that?
-12 A Yes.
-13 Q Do you know who those signatures are from?
-14 A Yes. Dewitt Hutchins and Andrea Wang.
-15 Q And are both Dewitt Hutchins and Andrea Wang First
-16 Republic Bank personnel?
-17 A Yes. They both worked in the same office.
-18 Q And does this indicate that multiple people from the
-19 bank had to approve this wire before it was sent out?
-20 A Yes. Wire approval requires certain levels. Each
-21 person has a level of allowance, if you will, on what they are
-22 allowed to do as a singular signer; and given that it is over
-23 $100,000, it requires two signatures.
-24 Q Now, turning to Page 3 of the same PDF.
-25 (Displayed.)
+1   form, below the double line.  Do you see that fine print above
+2   the signature line?
+3       A    I do.
+4       Q    What does the first sentence of that say?
+5       A    "I/we certify that the information contained herein is
+6   true, complete and accurate."
+7       Q    And do you recognize the signature?
+8       A    Yes.  "Michael Cohen."
+9       Q    And what's the date?
+10       A    10/27/2016.
+11       Q    Are there two more signatures below that?
+12       A    Yes.
+13       Q    Do you know who those signatures are from?
+14       A    Yes.  DeWitt Hutchins and Andrea Wang.
+15       Q    And are both DeWitt Hutchins and Andrea Wang First
+16   Republic Bank personnel?
+17       A    Yes.  They both worked in the same office.
+18       Q    And does this indicate that multiple people from the
+19   bank had to approve this wire before it was sent out?
+20       A    Yes.  Wire approval requires certain levels.  Each
+21   person has a level of allowance, if you will, on what they are
+22   allowed to do as a singular signer; and given that it is over
+23   $100,000, it requires two signatures.
+24       Q    Now, turning to Page 3 of the same PDF.
+25                 (Displayed.)
 Lisa Kramsky,
 Senior Court Reporter

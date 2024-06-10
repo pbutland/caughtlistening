@@ -1,29 +1,29 @@
-D. Pecker — Cross/Bove
+D. Pecker - Cross/Bove
 Page 1383
-1 Account, Department, and Operating Unit?
-2 A Yes.
-3 Q There were people at AMI and the accounting department
-4 who completed that information; right?
-5 A That's correct.
-6 Q And they did that based on whatever invoice
-7 Mr. Davidson sent; correct?
-8 A Yes.
-9 Q You didn't put those codes yourself?
-10 A No, I did not.
-11 Q You trusted people to do it accurately; right?
-12 A I did.
-13 Q And that was AMI's standard operating procedure?
-14 A Yes.
-15 MR. BOVE: Mr. Bernik, can we please take a look
-16 at Government Exhibit 159, which is also in evidence.
-17 (Displayed.)
-18 **********
-19 Q You testified about this one yesterday also?
-20 A I did.
-21 Q And I think you said that it is a general ledger detail
-22 for the $150,000 transaction with Mr. Davidson?
-23 A That's correct.
-24 Q And, basically, the data from the document that we just
-25 looked at, People's 158, feeds into a general ledger entry like
+1   Account, Department, and Operating Unit?
+2       A    Yes.
+3       Q    There were people at AMI and the accounting department
+4   who completed that information; right?
+5       A    That's correct.
+6       Q    And they did that based on whatever invoice
+7   Mr. Davidson sent; correct?
+8       A    Yes.
+9       Q    You didn't put those codes yourself?
+10       A    No, I did not.
+11       Q    You trusted people to do it accurately; right?
+12       A    I did.
+13       Q    And that was AMI's standard operating procedure?
+14       A    Yes.
+15                 MR. BOVE:  Mr. Bernik, can we please take a look
+16   at   Government Exhibit 159, which is also in evidence.
+17                  (Displayed.)
+18                  **********
+19       Q    You testified about this one yesterday also?
+20       A    I did.
+21       Q    And I think you said that it is a general ledger detail
+22   for the $150,000 transaction with Mr. Davidson?
+23       A    That's correct.
+24       Q    And, basically, the data from the document that we just
+25   looked at, People's 158, feeds into a general ledger entry like
 Lisa Kramsky,
 Senior Court Reporter

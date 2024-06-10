@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1982
-1 A I’m a Supervising Computer Forensic Analyst.
-2 Q Can you just give a brief description of what computer
-3 and phone forensics means?
-4 A It means that when we get a device that is a computer
-5 or phone, we then process that device. At that moment, we take
-6 a digital copy of the entire evidence, preserve it, and then
-7 work with that copy to perform an analysis of those devices.
-8 Q Can you describe your day—to—day responsibilities as a
-9 supervising analyst in HTAU?
-10 A Besides the daily supervision of the Lab, keeping up
-11 with technology, software, hardware. I am also an analyst, so
-12 any type of cases that come my way, I may also perform the
-13 extractions and produce reports for them.
-14 Q What kinds of devices do you analyze on a day—to—day
-15 basis?
-16 A Cell phones, primarily. It could be computers, as
-17 well, thumb drives, iCloud accounts. Actually, anything that
-18 would contain digital media.
-19 Q In the time you’ve been in HTAU, about how many
-20 devices have you analyzed?
-21 A Here, as of today, 3,392.
-22 Q Approximately?
-23 A Approximately.
-24 Q How many of those are phones?
-25 A Anywhere from 80 to 90 percent are phones.
+1       A    I'm a Supervising Computer Forensic Analyst.
+2       Q    Can you just give a brief description of what computer
+3   and phone forensics means?
+4       A    It means that when we get a device that is a computer
+5   or phone, we then process that device. At that moment, we take
+6   a digital copy of the entire evidence, preserve it, and then
+7   work with that copy to perform an analysis of those devices.
+8       Q    Can you describe your day-to-day responsibilities as a
+9   supervising analyst in HTAU?
+10       A    Besides the daily supervision of the Lab, keeping up
+11   with technology, software, hardware. I am also an analyst, so
+12   any type of cases that come my way, I may also perform the
+13   extractions and produce reports for them.
+14       Q    What kinds of devices do you analyze on a day-to-day
+15   basis?
+16       A    Cell phones, primarily. It could be computers, as
+17   well, thumb drives, iCloud accounts. Actually, anything that
+18   would contain digital media.
+19       Q    In the time you've been in HTAU, about how many
+20   devices have you analyzed?
+21       A    Here, as of today, 3,392.
+22       Q    Approximately?
+23       A    Approximately.
+24       Q    How many of those are phones?
+25       A    Anywhere from 80 to 90 percent are phones.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

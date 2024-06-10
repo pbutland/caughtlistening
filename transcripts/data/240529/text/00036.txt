@@ -1,29 +1,29 @@
 Jury Charge
 4851
-1 J. Trump, and kept or maintained by The Trump Organization.
-2 The 15th count pertains to an entry in the Detail
-3 General Ledger for Donald J. Trump, dated June 19th, 2017,
-4 bearing voucher number 858772, and kept or maintained by The
-5 Trump Organization.
-6 The 16th count pertains to a Donald J. Trump
-7 account check and check stub dated June 19th, 2017, bearing
-8 check number 002741, and kept or maintained by The Trump
-9 Organization.
-10 The 17th count pertains to an invoice from Michael
-11 Cohen dated July 11th, 2017, marked as a record of Donald J.
-12 Trump, and kept or maintained by The Trump Organization.
-13 The 18th count pertains to an entry in the Detail
-14 General Ledger for Donald J. Trump, dated July 11, 2017,
-15 bearing voucher number 861096, and kept or maintained by The
-16 Trump Organization.
-17 The 19th count pertains to a Donald J. Trump
-18 account check and check stub dated July 11th, 2017, bearing
-19 number check number 002781, and kept or maintained by The
-20 Trump Organization.
-21 The 20th count pertains to an invoice from Michael
-22 Cohen dated August 1st, 2017, marked as a record of Donald
-23 J. Trump, and kept or maintained by The Trump Organization.
-24 The 21st count pertains to an entry in the Detail
-25 General Ledger for Donald J. Trump, dated August 1, 2017,
+1   J. Trump, and kept or maintained by The Trump Organization.
+2            The 15th count pertains to an entry in the Detail
+3   General Ledger for Donald J. Trump, dated June 19th, 2017,
+4   bearing voucher number 858772, and kept or maintained by The
+5   Trump Organization.
+6            The 16th count pertains to a Donald J. Trump
+7   account check and check stub dated June 19th, 2017, bearing
+8   check number 002741, and kept or maintained by The Trump
+9   Organization.
+10            The 17th count pertains to an invoice from Michael
+11   Cohen dated July 11th, 2017, marked as a record of Donald J.
+12   Trump, and kept or maintained by The Trump Organization.
+13            The 18th count pertains to an entry in the Detail
+14   General Ledger for Donald J. Trump, dated July 11, 2017,
+15   bearing voucher number 861096, and kept or maintained by The
+16   Trump Organization.
+17            The 19th count pertains to a Donald J. Trump
+18   account check and check stub dated July 11th, 2017, bearing
+19   number check number 002781, and kept or maintained by The
+20   Trump Organization.
+21            The 20th count pertains to an invoice from Michael
+22   Cohen dated August 1st, 2017, marked as a record of Donald
+23   J. Trump, and kept or maintained by The Trump Organization.
+24             The 21st count pertains to an entry in the Detail
+25   General Ledger for Donald J. Trump, dated August 1, 2017,
 Lisa Kramsky,
 Senior Court Reporter

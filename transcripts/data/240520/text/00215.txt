@@ -1,29 +1,29 @@
-D. Sitko — Direct/Blanche
+D. Sitko - Direct/Blanche
 4206
-1 Um, the third is the time that the call was made in the
-2 call logs. I adjusted that from —— on the call logs it appeared
-3 in UTC. I adjusted it to be 12—hour time and also Eastern Time.
-4 The fourth column is call "Duration".
-5 The fifth and sixth columns are the identity that
-6 correspond to the seventh and eighth columns, which is the
-7 redacted phone numbers that appeared in the call logs.
-8 I got those identities, um, again, from the exhibits
-9 that have been admitted, including numbers that appeared in
-10 Mr. Costello’s email signature.
-11 Q It looks like the first call, for example, the
-12 duration is 0000.
-13 Is that true of a handful of the calls?
-14 A Yes.
-15 Q Do you have an understanding of what that means?
-16 A That means that the call was not answered.
-17 MR. BLANCHE: So, if we can back this out and go
-18 to the end of this chart.
-19 (Whereupon, an exhibit is shown on the screens.)
-20 Q Do you know how many calls there were, in total,
-21 including the ones that went unanswered?
-22 A Seventy—five, in total.
-23 Q Did you know whether there were several calls that
-24 were longer than half an hour?
-25 A Yes.
+1       Um, the third is the time that the call was made in the
+2   call logs. I adjusted that from -- on the call logs it appeared
+3   in UTC. I adjusted it to be 12-hour time and also Eastern Time.
+4       The fourth column is call "Duration".
+5       The fifth and sixth columns are the identity that
+6   correspond to the seventh and eighth columns, which is the
+7   redacted phone numbers that appeared in the call logs.
+8       I got those identities, um, again, from the exhibits
+9   that have been admitted, including numbers that appeared in
+10   Mr. Costello's email signature.
+11       Q    It looks like the first call, for example, the
+12   duration is 0000.
+13       Is that true of a handful of the calls?
+14       A    Yes.
+15       Q    Do you have an understanding of what that means?
+16       A    That means that the call was not answered.
+17                 MR. BLANCHE:  So, if we can back this out and go
+18        to the end of this chart.
+19                 (Whereupon, an exhibit is shown on the screens.)
+20       Q    Do you know how many calls there were, in total,
+21   including the ones that went unanswered?
+22       A    Seventy-five, in total.
+23       Q    Did you know whether there were several calls that
+24   were longer than half an hour?
+25       A    Yes.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

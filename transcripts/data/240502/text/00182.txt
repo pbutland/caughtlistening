@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1985
-1 data from smartphones or cell phones?
-2 A As mentioned before, Cellebrite is one of them.
-3 Graykey is another one.
-4 Q What do those tools do when they're extracting
-5 information from the phone? What does it extract?
-6 A It extracts the entire content of the device and puts
-7 it in a format that’s readable by the format itself.
-8 Q When you say "content of the device", is that data?
-9 A That is all the data on those devices.
-10 Q How do you read that data once its been extracted?
-11 A We use, again, the software called Cellebrite to then
-12 take the contents of those devices and put it into a meaningful
-13 format.
-14 Q Once it’s in that format, what kinds of things can you
-15 look at from the extraction?
-16 A Anything that you would normally see on the device,
-17 your call history, your contacts, your text messages, videos,
-18 pictures and such.
-19 Q In that process, is any of the data on the phone
-20 changed in any way?
-21 A We’re dealing with a live phone, so perhaps some
-22 things in the background like software. But, for all intents
-23 and purposes, things do not change.
-24 Q Can —— withdrawn.
-25 What kinds of data, specifically, can be extracted from a
+1   data from smartphones or cell phones?
+2       A    As mentioned before, Cellebrite is one of them.
+3   Graykey is another one.
+4       Q    What do those tools do when they're extracting
+5   information from the phone?  What does it extract?
+6       A    It extracts the entire content of the device and puts
+7   it in a format that's readable by the format itself.
+8       Q    When you say "content of the device", is that data?
+9       A    That is all the data on those devices.
+10       Q    How do you read that data once its been extracted?
+11       A    We use, again, the software called Cellebrite to then
+12   take the contents of those devices and put it into a meaningful
+13   format.
+14       Q    Once it's in that format, what kinds of things can you
+15   look at from the extraction?
+16       A    Anything that you would normally see on the device,
+17   your call history, your contacts, your text messages, videos,
+18   pictures and such.
+19       Q    In that process, is any of the data on the phone
+20   changed in any way?
+21       A    We're dealing with a live phone, so perhaps some
+22   things in the background like software. But, for all intents
+23   and purposes, things do not change.
+24       Q    Can -- withdrawn.
+25       What kinds of data, specifically, can be extracted from a
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1996
-1 text?
-2 A That’s correct.
-3 Q I want to talk a little bit about the time here.
-4 In your work, have you become familiar with different time
-5 zones and how timestamps work on different phones and other
-6 devices?
-7 A Yes, I have.
-8 Q Are you familiar with UTC?
-9 A Yes.
-10 Q What is UTC?
-11 A Universal Time Coordinated. Basically stands for the
-12 old way of weighing time. GMT, Greenwich Mean Time.
-13 We’re on an Earth with 24 Time Zones, so one place starts
-14 with zero. There are a few zones that go around. New York here,
-15 we’re either two different times, depending upon when it
-16 changes twice a year. So, it would be UTC minus 4 or UTC minus
-17 5.
-18 Q Meaning, if the time up there says 7:09:12 P.M. UTC
-19 minus 4, what Time Zone is that time in?
-20 A So, it’s already converted to Eastern Standard Time,
-21 so it’s 7:09 PM.
-22 Q And you mentioned the time change either being UTC
-23 minus 4 or UTC minus 5.
-24 Does that relate to Daylight Saving Time?
-25 A Yes, it does.
+1   text?
+2       A    That's correct.
+3       Q    I want to talk a little bit about the time here.
+4       In your work, have you become familiar with different time
+5   zones and how timestamps work on different phones and other
+6   devices?
+7       A    Yes, I have.
+8       Q    Are you familiar with UTC?
+9       A    Yes.
+10       Q    What is UTC?
+11       A    Universal Time Coordinated. Basically stands for the
+12   old way of weighing time. GMT, Greenwich Mean Time.
+13       We're on an Earth with 24 Time Zones, so one place starts
+14   with zero. There are a few zones that go around. New York here,
+15   we're either two different times, depending upon when it
+16   changes twice a year. So, it would be UTC minus 4 or UTC minus
+17   5.
+18       Q    Meaning, if the time up there says 7:09:12 P.M. UTC
+19   minus 4, what Time Zone is that time in?
+20       A    So, it's already converted to Eastern Standard Time,
+21   so it's 7:09 PM.
+22       Q    And you mentioned the time change either being UTC
+23   minus 4 or UTC minus 5.
+24       Does that relate to Daylight Saving Time?
+25       A    Yes, it does.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

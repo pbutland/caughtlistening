@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2022
-1 Q Parsing the data means converting ones and zeroes into
-2 the types of things that you and I are used to looking at;
-3 right?
-4 A Yes.
-5 Q And so pictures, right —— we looked at that picture of
-6 Michael Cohen at the podium; right?
-7 A That's correct.
-8 Q That came onto your machine as ones and zeroes and then
-9 you had some equipment that converted it so that you could see
-10 what the picture looked like?
-11 A Yes.
-12 Q Same thing with the phone logs; right?
-13 A It's in the format on the phone, yes.
-14 Q It's pulled out as ones and zeroes parsed on your
-15 machine, and ultimately generates these reports that we are
-16 looking at in evidence; right?
-17 A It does.
-18 Q When you are working with these —— just to back up for
-19 one minute, so we just talked about three methods: Manual,
-20 logical, physical.
-21 You did all of those on both of these phones; right?
-22 A I did a full file system on the phone, that's it.
-23 Q You also —— someone from your staff did a manual
-24 review; correct?
-25 A When I turned —— when I got the device, I simply
+1       Q    Parsing the data means converting ones and zeroes into
+2   the types of things that you and I are used to looking at;
+3   right?
+4       A    Yes.
+5       Q    And so pictures, right -- we looked at that picture of
+6   Michael Cohen at the podium; right?
+7       A    That's correct.
+8       Q    That came onto your machine as ones and zeroes and then
+9   you had some equipment that converted it so that you could see
+10   what the picture looked like?
+11       A    Yes.
+12       Q    Same thing with the phone logs; right?
+13       A    It's in the format on the phone, yes.
+14       Q    It's pulled out as ones and zeroes parsed on your
+15   machine, and ultimately generates these reports that we are
+16   looking at in evidence; right?
+17       A    It does.
+18       Q    When you are working with these -- just to back up for
+19   one minute, so we just talked about three methods:  Manual,
+20   logical, physical.
+21       You did all of those on both of these phones; right?
+22       A    I did a full file system on the phone, that's it.
+23       Q    You also -- someone from your staff did a manual
+24   review; correct?
+25       A    When I turned -- when I got the device, I simply
 Lisa Kramsky,
 Senior Court Reporter

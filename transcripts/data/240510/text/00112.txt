@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3200
-1 contained in what was admitted earlier today in People's Exhibit
-2 400?
-3 A. Yes.
-4 Q. Did it also include the Verizon records that were
-5 admitted into evidence earlier today as People's Exhibit 401?
-6 A. Yes.
-7 Q. Can you tell us, generally, what is contained within
-8 those phone records?
-9 A. So we generally get two kinds of records.
-10 Subscriber records review basic information about the
-11 user associated with the phone record.
-12 Call detail records, which are kind of a log of all the
-13 incoming and outgoing calls associated with whatever number was
-14 subpoenaed.
-15 Q. What format are the phone records in when you get
-16 them?
-17 A. Depends on the phone carrier.
-18 So, for AT&T, we got them as PDF text files, image
-19 files.
-20 For Verizon, we get them as Excel spreadsheets and Word
-21 documents and PDF.
-22 Q. In your work reviewing various phone records, did you
-23 also review information contained in data extractions from
-24 Michael Cohen's phones?
-25 A. Yes.
+1   contained in what was admitted earlier today in People's Exhibit
+2   400?
+3       A.   Yes.
+4       Q.   Did it also include the Verizon records that were
+5   admitted into evidence earlier today as People's Exhibit 401?
+6       A.   Yes.
+7       Q.   Can you tell us, generally, what is contained within
+8   those phone records?
+9       A.   So we generally get two kinds of records.
+10            Subscriber records review basic information about the
+11   user associated with the phone record.
+12            Call detail records, which are kind of a log of all the
+13   incoming and outgoing calls associated with whatever number was
+14   subpoenaed.
+15       Q.   What format are the phone records in when you get
+16   them?
+17       A.   Depends on the phone carrier.
+18            So, for AT&T, we got them as PDF text files, image
+19   files.
+20            For Verizon, we get them as Excel spreadsheets and Word
+21   documents and PDF.
+22       Q.   In your work reviewing various phone records, did you
+23   also review information contained in data extractions from
+24   Michael Cohen's phones?
+25       A.   Yes.
 Theresa Magniccari
 Senior Court Reporter

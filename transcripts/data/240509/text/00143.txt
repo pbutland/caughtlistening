@@ -1,29 +1,29 @@
-R. Manochio — Direct/Mangold
+R. Manochio - Direct/Mangold
 2923
-1 A Donald Trump.
-2 Q What was your title when you joined The Trump
-3 Organization?
-4 A Administrative Assistant.
-5 Q And did your title later change?
-6 A Yes.
-7 Q To what?
-8 A Executive Assistant.
-9 Q And when you were an Administrative Assistant and
-10 Executive Assistant, who did you work for?
-11 A Allen Weisselberg and Jeff McConney.
-12 Q Who is Allen Weisselberg?
-13 A He was the CFO of the company.
-14 Q And do you know what CFO is?
-15 A Chief Financial Officer.
-16 Q And how about Jeff McConney?
-17 A He was the controller.
-18 Q What's a controller?
-19 A I am not really sure.
-20 Q How long were you an assistant to Mr. Weisselberg?
-21 A A long time. I would say like eight years.
-22 Q Did your role at The Trump Organization change again
-23 at some point?
-24 A Yes.
-25 Q To what?
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    Donald Trump.
+2       Q    What was your title when you joined The Trump
+3   Organization?
+4       A    Administrative Assistant.
+5       Q    And did your title later change?
+6       A    Yes.
+7       Q    To what?
+8       A    Executive Assistant.
+9       Q    And when you were an Administrative Assistant and
+10   Executive Assistant, who did you work for?
+11       A    Allen Weisselberg and Jeff McConney.
+12       Q    Who is Allen Weisselberg?
+13       A    He was the CFO of the company.
+14       Q    And do you know what CFO is?
+15       A    Chief Financial Officer.
+16       Q    And how about Jeff McConney?
+17       A    He was the controller.
+18       Q    What's a controller?
+19       A    I am not really sure.
+20       Q    How long were you an assistant to Mr. Weisselberg?
+21       A    A long time.  I would say like eight years.
+22       Q    Did your role at The Trump Organization change again
+23   at some point?
+24       A    Yes.
+25       Q    To what?
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

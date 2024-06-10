@@ -20,15 +20,15 @@ AUDIO DESCRIPTION: Counsel confer.
 
 MR. BLANCHE: May 17th and June 3rd.
 
-THE COURT: All right. We got through the jury selection really quickly, I think we are ahead of schedule and I think we have been moving well ahead since, so I don't think that the May 17th date is a problem. So Mr. Trump can certainly attend that date —— attend his son's graduation. June 3rd, it's really up to you. I think, at that point, the jury might be deliberating. It could be a challenge.
+THE COURT: All right. We got through the jury selection really quickly, I think we are ahead of schedule and I think we have been moving well ahead since, so I don't think that the May 17th date is a problem. So Mr. Trump can certainly attend that date -- attend his son's graduation. June 3rd, it's really up to you. I think, at that point, the jury might be deliberating. It could be a challenge.
 
-MS. NECHELES: I understand, your Honor. And, of course, if they are deliberating ——
+MS. NECHELES: I understand, your Honor. And, of course, if they are deliberating --
 
 THE COURT: And if they are not deliberating, I think that that will be fine as well.
 
 MS. NECHELES: Thank you.
 
-THE COURT: I believe the clerk of the court called the SMZs into the record. Let the record reflect that I'm about to hand down the Court's decisions on the hearing that we had for contempt, on SMZ—71762 of '24, which covered Counts 1 through 3. The Court finds that the People have met their burden of proof and demonstrated contempt as to the second and third incident, but not as to the first. Mr. Trump is fined a thousand dollars on each of those two. As to SMZ—71764 of '24, covering incidents 4 through 10, the Court finds the People have met their burden as to all of those. And the Court imposes a punishment of $1,000 on each of those six. I am handing down written decision copies for both sides. The details of the decision are in the written decision.
+THE COURT: I believe the clerk of the court called the SMZs into the record. Let the record reflect that I'm about to hand down the Court's decisions on the hearing that we had for contempt, on SMZ-71762 of '24, which covered Counts 1 through 3. The Court finds that the People have met their burden of proof and demonstrated contempt as to the second and third incident, but not as to the first. Mr. Trump is fined a thousand dollars on each of those two. As to SMZ-71764 of '24, covering incidents 4 through 10, the Court finds the People have met their burden as to all of those. And the Court imposes a punishment of $1,000 on each of those six. I am handing down written decision copies for both sides. The details of the decision are in the written decision.
 
 AUDIO DESCRIPTION: Handed.
 
@@ -86,7 +86,7 @@ Q So before we adjourned on Friday, I think you were talking to the jury about a
 
 A That's correct.
 
-Q And you testified that he was —— he had called to open a new bank account for an entity called Essential Consultants LLC; right?
+Q And you testified that he was -- he had called to open a new bank account for an entity called Essential Consultants LLC; right?
 
 A That's correct.
 
@@ -144,15 +144,15 @@ A Yes.
 
 Q And who is it to?
 
-A It is to Melissa Duran, Client Service Group New York, and Dewitt Hutchins.
+A It is to Melissa Duran, Client Service Group New York, and DeWitt Hutchins.
 
 Q And who is Melissa Duran?
 
 A Melissa Duran worked in our Client Service Group, and specifically handled some of the wire transactions.
 
-Q And would you remind everyone who Dewitt Hutchins is?
+Q And would you remind everyone who DeWitt Hutchins is?
 
-A Dewitt Hutchins, at the time, was a preferred banker working in the 56th and Madison office.
+A DeWitt Hutchins, at the time, was a preferred banker working in the 56th and Madison office.
 
 Q What is the date of this email?
 
@@ -164,7 +164,7 @@ A Yes, it is.
 
 Q Can you read this email to the jury?
 
-A "Dewitt — please provide the account docs for Michael Cohen. Thank you."
+A "DeWitt - please provide the account docs for Michael Cohen. Thank you."
 
 Q I'm directing you to the top email on the page. Do you see that there is an attachment?
 
@@ -194,7 +194,7 @@ Q What entity is this for?
 
 A Essential Consultants LLC.
 
-Q And if you look at the bottom of the box that we are looking at, in the lower—most row, where it says "Type of Business," what type of business is listed?
+Q And if you look at the bottom of the box that we are looking at, in the lower-most row, where it says "Type of Business," what type of business is listed?
 
 A Consulting.
 
@@ -248,7 +248,7 @@ Q And what are the last four digits of the account number?
 
 A 1897.
 
-Q And in the right—most column it says "open by." Who is listed there?
+Q And in the right-most column it says "open by."  Who is listed there?
 
 A DeWitt Hutchins.
 
@@ -280,7 +280,7 @@ Q And what's the date?
 
 A 10/26/16.
 
-Q All right. Now, flipping through the last few pages of the PDF. Are Pages 6 through 9 of the PDF —— well, what are these documents?
+Q All right. Now, flipping through the last few pages of the PDF. Are Pages 6 through 9 of the PDF -- well, what are these documents?
 
 A These are the opening of a LLC's accounts as well as the tax ID number provided by the Internal Revenue Service.
 
@@ -292,15 +292,15 @@ Q And turning now to Page 6 of the PDF. What is this?
 
 AUDIO DESCRIPTION: Displayed.
 
-A This is —— the account was opened in Delaware, as most LLCs are that I do business with. And it's a Certificate of Formation of Essential Consultants.
+A This is -- the account was opened in Delaware, as most LLCs are that I do business with. And it's a Certificate of Formation of Essential Consultants.
 
 Q And what is the date and time that Essential Consultants was formed?
 
 A October 17th, 2016 at 10:21 a.m.
 
-Q And just for —— in the interest of clarity, is this provided by the IRS or some other entity?
+Q And just for -- in the interest of clarity, is this provided by the IRS or some other entity?
 
-A My understanding is it's provided by —— the tax ID is provided by the IRS. And this is provided by the State of Delaware.
+A My understanding is it's provided by -- the tax ID is provided by the IRS. And this is provided by the State of Delaware.
 
 MS. MANGOLD: If we could flip to Page 7 of the PDF please.
 
@@ -310,7 +310,7 @@ Q What is this?
 
 A This is the State of Delaware's Limited Liability Company formation doc, and it shows Michael Cohen as the authorized person.
 
-MS. MANGOLD: And then, finally, flipping to —— if we can flip through Page 8 to Page 9 of the PDF; and focusing on the bottom of the page.
+MS. MANGOLD: And then, finally, flipping to -- if we can flip through Page 8 to Page 9 of the PDF; and focusing on the bottom of the page.
 
 AUDIO DESCRIPTION: Displayed.
 
@@ -324,7 +324,7 @@ A Yes.
 
 Q What is that?
 
-A It's essentially —— to equate it to something, it's like the Social Security number for businesses. It's a tax ID for businesses.
+A It's essentially -- to equate it to something, it's like the Social Security number for businesses. It's a tax ID for businesses.
 
 Q All right.
 
@@ -354,7 +354,7 @@ A "Michael Cohen."
 
 Q And can you read the first line of the email, please?
 
-A Sure. "Account is good to go — gave him wire instructions and ordered checks."
+A Sure. "Account is good to go - gave him wire instructions and ordered checks."
 
 Q What did you understand "good to go" to mean?
 
@@ -386,7 +386,7 @@ A Five to six hours or so.
 
 Q Did Mr. Cohen indicate that opening this account was urgent when he called you?
 
-A Yes. Michael Cohen —— everything was urgent with Michael Cohen.
+A Yes. Michael Cohen -- everything was urgent with Michael Cohen.
 
 Q So why did it take five or six hours to open the account?
 
@@ -396,7 +396,7 @@ Q Is that because there is some processes that the bank needs to undertake in or
 
 A Absolutely.
 
-Q And does that require certain checks by the back office, is —— I think you called it?
+Q And does that require certain checks by the back office, is -- I think you called it?
 
 A Correct. As well as data entry, getting the paperwork back, et cetera.
 
@@ -516,7 +516,7 @@ Q Good math. Do you see something called "Importance" at the bottom of the top b
 
 A Yes. It's of high importance.
 
-Q And do you know what that is —— like, what that designation indicates?
+Q And do you know what that is -- like, what that designation indicates?
 
 A That something needs to be done quickly.
 
@@ -524,15 +524,15 @@ Q Can you read the body of the email to the jury?
 
 A "Good afternoon, Mr. Cohen. Per our conversation over the phone, please confirm your request to transfer $131,000 from your home equity line of credit account number ending in 6194 to your checking account ending in 1897."
 
-Q Is the account ending in 1897 the same account that was set up for Essential Consultants ——
+Q Is the account ending in 1897 the same account that was set up for Essential Consultants --
 
 A Yes, it is.
 
-Q —— that you discussed with us earlier?
+Q -- that you discussed with us earlier?
 
 A Yes, it is.
 
-Q And when you say ”home equity line of credit," is that also referred to as a HELOC?
+Q And when you say "home equity line of credit," is that also referred to as a HELOC?
 
 A Yes, it is.
 
@@ -550,7 +550,7 @@ A It was a second mortgage in this scenario, yes.
 
 Q Can you explain what's going on in this email?
 
-A Sure. Obviously, a conversation was —— had taken place between Elizabeth and Michael where he had asked to drawdown on his home equity line of credit to fund the account at Essential Consultants.
+A Sure. Obviously, a conversation was -- had taken place between Elizabeth and Michael where he had asked to drawdown on his home equity line of credit to fund the account at Essential Consultants.
 
 Q What's the next email in the chain?
 
@@ -588,13 +588,13 @@ A "High."
 
 Q Can you read this email to the jury?
 
-A "Please transfer $131,000 from HELOC account ending in 6194 to checking account ending in 1897. Please note this is a time—sensitive request. Please confirm once complete."
+A "Please transfer $131,000 from HELOC account ending in 6194 to checking account ending in 1897. Please note this is a time-sensitive request. Please confirm once complete."
 
-Q When Ms. Rappaport says "it's a time—sensitive request," is that something that would come from Ms. Rappaport or from the client?
+Q When Ms. Rappaport says "it's a time-sensitive request," is that something that would come from Ms. Rappaport or from the client?
 
-A In this scenario, it could be from either. And the reason why I say that is because this is now 2:56 p.m. and the wire cut off time is 3:00 p.m., so my assumption would be it started with —— with Michael saying it's urgent, because he did in a prior email; however, that would be purely an assumption.
+A In this scenario, it could be from either. And the reason why I say that is because this is now 2:56 p.m. and the wire cut off time is 3:00 p.m., so my assumption would be it started with -- with Michael saying it's urgent, because he did in a prior email; however, that would be purely an assumption.
 
-Q And when you say ”the wire cut off," what does that mean?
+Q And when you say "the wire cut off," what does that mean?
 
 A At 3:00 p.m. is when the wires have to be sent out to be received same day.
 
@@ -606,11 +606,11 @@ Q Is that reference to a subsequent wire after the transfer from the HELOC?
 
 A Well, a transfer from a HELOC is not a wire so it's a bank transfer; so it transfers over and then the wire would be the secondary move that went to someone else.
 
-Q So was it your understanding that after this account was funded, Mr. Cohen wanted to subsequently send a wire transfer out using that account ——
+Q So was it your understanding that after this account was funded, Mr. Cohen wanted to subsequently send a wire transfer out using that account --
 
 A That's correct.
 
-Q —— later that day?
+Q -- later that day?
 
 A That's correct.
 
@@ -638,7 +638,7 @@ A That's correct.
 
 Q Looking now at the top half of the page?
 
-A Uh—huh.
+A Uh-huh.
 
 Q What is the request type?
 
@@ -734,7 +734,7 @@ Q Take a look at the bottom two emails on this page. Are these First Republic Ba
 
 A Yes, they are.
 
-Q Looking at the bottom—most email on the page. Is this an email that we've already seen?
+Q Looking at the bottom-most email on the page. Is this an email that we've already seen?
 
 A Yes, it is.
 
@@ -752,7 +752,7 @@ A It's from Michael Cohen to Elizabeth Rappaport.
 
 Q Can you read this email?
 
-A "Can you please send me confirmation that the funds were deposited into the other account? Important."
+A "Can you please send me confirmation that the funds were deposited into the other account?  Important."
 
 Q And do you have an understanding of what this means?
 
@@ -820,13 +820,13 @@ AUDIO DESCRIPTION: Displayed.
 
 Q Can you see where the wire transfer is coming from?
 
-A Are you talking about —— who the originator is of the wire?
+A Are you talking about -- who the originator is of the wire?
 
 Q Yes.
 
 A It's Essential Consultants LLC.
 
-Q And on the top right—hand side of the page does it say who prepared this Wire Transfer Authorization Agreement form?
+Q And on the top right-hand side of the page does it say who prepared this Wire Transfer Authorization Agreement form?
 
 A Yes. DeWitt Hutchins.
 
@@ -906,7 +906,7 @@ A Michael Cohen.
 
 Q Do you know what a retainer is?
 
-A A retainer is money that is given to another individual in advance of business that —— or work that is to be done.
+A A retainer is money that is given to another individual in advance of business that -- or work that is to be done.
 
 Q And is a wire for a retainer to an attorney for the attorney's client consistent with the stated purpose of the account for real estate consulting?
 
@@ -914,7 +914,7 @@ A It certainly could be, yes.
 
 Q And can you elaborate on that a little bit more?
 
-A I could only make suggestions on what it could be for; however, a retainer could be held for individuals who are doing appraisals for other parts of the business, doing an analysis on a cash flow statement if it's a multi—family business. There could be a number of things why a retainer would be given from one attorney to another for a real estate transaction.
+A I could only make suggestions on what it could be for; however, a retainer could be held for individuals who are doing appraisals for other parts of the business, doing an analysis on a cash flow statement if it's a multi-family business. There could be a number of things why a retainer would be given from one attorney to another for a real estate transaction.
 
 Q And you are basing that from your experience with working with real estate clients?
 
@@ -942,9 +942,9 @@ A Yes.
 
 Q Do you know who those signatures are from?
 
-A Yes. Dewitt Hutchins and Andrea Wang.
+A Yes. DeWitt Hutchins and Andrea Wang.
 
-Q And are both Dewitt Hutchins and Andrea Wang First Republic Bank personnel?
+Q And are both DeWitt Hutchins and Andrea Wang First Republic Bank personnel?
 
 A Yes. They both worked in the same office.
 
@@ -988,7 +988,7 @@ A This form is when it's physically input into the system, this is what comes ou
 
 Q Is this confirmation that the wire transfer has already gone out?
 
-A I do not see a number on it; however, this is if —— that it has been input. The confirmation would be something different.
+A I do not see a number on it; however, this is if -- that it has been input. The confirmation would be something different.
 
 Q Okay. What is the date and time of this form?
 
@@ -998,7 +998,7 @@ Q And looking now at the amount and customer name at the top, is this the same w
 
 A Yes, it appears that way.
 
-Q And do you see ——
+Q And do you see --
 
 MS. MANGOLD: If we could zoom out.
 
@@ -1020,13 +1020,13 @@ AUDIO DESCRIPTION: Displayed.
 
 Q Can you describe what this is?
 
-A This is an email from Dewitt Hutchins to Michael Cohen with the confirmation that the wire has been executed and is on its way.
+A This is an email from DeWitt Hutchins to Michael Cohen with the confirmation that the wire has been executed and is on its way.
 
 Q And based on the time stamp and who the email is to and from what wires, what do you understand this to be a reference to?
 
 A This is the reference to the wire that was being sent to Davidson and Associates.
 
-Q And what date and time —— is there a confirmation of the wire that went out?
+Q And what date and time -- is there a confirmation of the wire that went out?
 
 A 10/27/2016 at 10:50 a.m. Eastern Time; 7:50 a.m. Pacific Time.
 
@@ -1058,17 +1058,17 @@ A October 26th, 2016 to October 31st, 2016.
 
 Q Is it typical to have a statement period that's only five days?
 
-A No, it's usually a 30—day statement.
+A No, it's usually a 30-day statement.
 
 Q Do you know why this is five days?
 
-A Because the cut—off period is —— we would issue a statement regardless of what day you opened it during the month to maintain the schedule of you receiving it the first of every month.
+A Because the cut-off period is -- we would issue a statement regardless of what day you opened it during the month to maintain the schedule of you receiving it the first of every month.
 
 Q So did the account exist before October 26th, 2016?
 
 A No. That's why it started on October 26th.
 
-MS. MANGOLD: Can we look at the bottom two—thirds of the page, please.
+MS. MANGOLD: Can we look at the bottom two-thirds of the page, please.
 
 AUDIO DESCRIPTION: Displayed.
 
@@ -1084,7 +1084,7 @@ Q And the wire out is on the subsequent day?
 
 A That's correct.
 
-Q So did all of the Essential Consultants transactions that we just looked at take place in that approximately 24—hour period?
+Q So did all of the Essential Consultants transactions that we just looked at take place in that approximately 24-hour period?
 
 A Yes, it did.
 
@@ -1094,7 +1094,7 @@ A In fact, it starts from an initial phone call to open the account, to funding 
 
 Q Now, is that timing typical for a real estate transaction?
 
-A It's not atypical. Wires —— you know, real estate transactions for people who own significant amounts of real estate, they like to move very quickly because, opportunistically, it locks it up and that way they can avoid getting other bids; or quickly getting into attorney review, which, essentially, would take it off the market.
+A It's not atypical. Wires -- you know, real estate transactions for people who own significant amounts of real estate, they like to move very quickly because, opportunistically, it locks it up and that way they can avoid getting other bids; or quickly getting into attorney review, which, essentially, would take it off the market.
 
 Q Having now looked at the wire transfer paperwork for the amount, timing and description of the wire, are they all consistent with using this account and sending that wire as a real estate transaction?
 
@@ -1146,7 +1146,7 @@ A It certainly would have.
 
 Q Is it possible that the wire wouldn't have been approved at all by the bank?
 
-A Yes. If we —— if it was something like that, we might be —— that our reputation is at risk, and we might not have wanted to send the wire.
+A Yes. If we -- if it was something like that, we might be -- that our reputation is at risk, and we might not have wanted to send the wire.
 
 MS. MANGOLD: I have no further questions.
 
@@ -1160,7 +1160,7 @@ Q Good morning. How are you?
 
 A Good morning, sir.
 
-Q You —— my name is Todd Blanche. You and I have never met; correct?
+Q You -- my name is Todd Blanche. You and I have never met; correct?
 
 A We have not.
 
@@ -1202,7 +1202,7 @@ A Yes, I did.
 
 Q Who?
 
-A The —— I was in Washington to discuss the same matter.
+A The -- I was in Washington to discuss the same matter.
 
 Q In Washington D.C.?
 
@@ -1210,7 +1210,7 @@ A Correct.
 
 Q And when was that?
 
-A I believe this —— and I could be wrong on the date, it's 2018, 'l9.
+A I believe this -- and I could be wrong on the date, it's 2018, '19.
 
 Q And in 2018, '19, on how many occasions did you go to D.C. to meet with the prosecutors?
 
@@ -1220,7 +1220,7 @@ Q The same trip or two separate occasions?
 
 A No, two separate occasions.
 
-Q During all of the times that you just talked about, so D.C. on two separate occasions, last year a couple of times —— I'm sorry, last year one time and then this year a couple of times, you were represented by counsel; correct?
+Q During all of the times that you just talked about, so D.C. on two separate occasions, last year a couple of times -- I'm sorry, last year one time and then this year a couple of times, you were represented by counsel; correct?
 
 A Yes, I was.
 
@@ -1230,9 +1230,9 @@ A I am not.
 
 Q Who is paying for your lawyers, Chase?
 
-A Well, when I went to D.C., it was paid by First Republic. And when —— now it's being paid by Flagstone, my new institution.
+A Well, when I went to D.C., it was paid by First Republic. And when -- now it's being paid by Flagstone, my new institution.
 
-Q So when —— but Chase took over First Republic after the collapse, I believe you testified; correct?
+Q So when -- but Chase took over First Republic after the collapse, I believe you testified; correct?
 
 A That's correct.
 
@@ -1284,7 +1284,7 @@ MR. BLANCHE: Can we put up what has already been admitted in evidence as People'
 
 AUDIO DESCRIPTION: Displayed.
 
-Q If you —— this is one of the documents that you looked at last week. If we look at, towards the bottom of this document, there is a series of questions at the bottom right. If you see, it says, "Referral source's length of relationship with the bank." And it says, "five years?" And then if we could look at the top of that same document, I believe this document was updated in October of 2016. Do you see that?
+Q If you -- this is one of the documents that you looked at last week. If we look at, towards the bottom of this document, there is a series of questions at the bottom right. If you see, it says, "Referral source's length of relationship with the bank." And it says, "five years?" And then if we could look at the top of that same document, I believe this document was updated in October of 2016. Do you see that?
 
 A Yes, so that would be 2011.
 
@@ -1292,7 +1292,7 @@ Q All right. 2011. And, by the way, you have no reason to believe that there is 
 
 A No.
 
-Q And so, again, you testified on Friday that when you were given the Mr. Cohen assignment, you were told that Mr. Cohen could be —— was difficult; is that fair?
+Q And so, again, you testified on Friday that when you were given the Mr. Cohen assignment, you were told that Mr. Cohen could be -- was difficult; is that fair?
 
 A Yes. He was a challenging client because of his desire to get things done so quickly.
 
@@ -1302,7 +1302,7 @@ A I do.
 
 Q Can you tell us about that?
 
-A Yes. I —— excuse me, pardon me for a second.
+A Yes. I -- excuse me, pardon me for a second.
 
 AUDIO DESCRIPTION: Pause.
 
@@ -1336,17 +1336,17 @@ Q And folks there, the Client Services team could handle most of the stuff that 
 
 A That's correct.
 
-Q Now, you testified that every time you spoke —— well, that when you spoke with Michael Cohen, everything was urgent; is that a fair way to describe it?
+Q Now, you testified that every time you spoke -- well, that when you spoke with Michael Cohen, everything was urgent; is that a fair way to describe it?
 
 A So 90 percent of the time it was an urgent matter, yes.
 
-Q You —— is it true that when you first were assigned Mr. Cohen, your leadership team told you that you were picked to take over the relationship because you were firm with clients?
+Q You -- is it true that when you first were assigned Mr. Cohen, your leadership team told you that you were picked to take over the relationship because you were firm with clients?
 
 A Yes.
 
 Q And that you don't accept any nonsense from clients; correct?
 
-A Well, not that I don't accept any nonsense, it's just that I, I try to rationalize with clients that things —— that certain things aren't as urgent as they may seem.
+A Well, not that I don't accept any nonsense, it's just that I, I try to rationalize with clients that things -- that certain things aren't as urgent as they may seem.
 
 Q And Mr. Cohen, I believe you said, you believe he's an aggressive guy. He's a fast speaker, someone who is not the easiest guy to work with if you are not familiar with him; is that a fair way to describe it?
 
@@ -1368,35 +1368,35 @@ MR. BLANCHE: I'm sorry. Not up at the top. Thank you.
 
 AUDIO DESCRIPTION: Shown to just the witness, all counsel and the Court.
 
-Q So do you recall meeting —— I think you talked about not with the prosecutors at this table, but with different prosecutors at the Manhattan District Attorney's office on March 6th of last year?
+Q So do you recall meeting -- I think you talked about not with the prosecutors at this table, but with different prosecutors at the Manhattan District Attorney's office on March 6th of last year?
 
-A Do I remember speaking to —— yes.
+A Do I remember speaking to -- yes.
 
 Q And if you could just take a look at the first line of that, of what's marked for identification as D10.
 
-A Uh—huh.
+A Uh-huh.
 
 Q Can you see if that refreshes your recollection that you told the District Attorney that, unfortunately, Mr. Cohen was still your client?
 
-A What was —— this is 2016. You just asked me about 2023.
+A What was -- this is 2016. You just asked me about 2023.
 
 Q So in 2023, when you met with the District Attorney, he was not your client?
 
-A In 2023 he was not —— no longer my client.
+A In 2023 he was not -- no longer my client.
 
-Q Do you remember the —— so when was he taken away? When was he no longer your client?
+Q Do you remember the -- so when was he taken away?  When was he no longer your client?
 
 A 2017, at some point, once this information went public.
 
-Q So when you say when "this information went public," at some point when something came out about, in part, the transaction that you testified about on direct ——
+Q So when you say when "this information went public," at some point when something came out about, in part, the transaction that you testified about on direct --
 
 A That's right.
 
-Q —— you were no longer responsible for that relationship?
+Q -- you were no longer responsible for that relationship?
 
 A They didn't want me to have communication with the client any longer.
 
-AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Susan Pearce—Bates relieved Senior Court Reporter Lisa Kramsky.
+AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Susan Pearce-Bates relieved Senior Court Reporter Lisa Kramsky.
 
 AUDIO DESCRIPTION: Continued from the previous page.
 
@@ -1408,11 +1408,11 @@ Q Is that true with Mr. Cohen, as far as you know?
 
 A Yes.
 
-Q Maybe, this is what you were just talking about. Are you familiar with the term de—risk?
+Q Maybe, this is what you were just talking about. Are you familiar with the term de-risk?
 
 A I am not familiar with that term, no.
 
-Q When a bank determines that there is something about a client, or the type of accounts the client wants to have with the banks, they can decide —— the bank can decide to no longer do business with them, correct?
+Q When a bank determines that there is something about a client, or the type of accounts the client wants to have with the banks, they can decide -- the bank can decide to no longer do business with them, correct?
 
 A That's correct.
 
@@ -1456,7 +1456,7 @@ Q And you didn't complete this with Mr. Cohen, Mr. Hutchins did, is that right?
 
 A That's right.
 
-Q And you —— what was your business relationship with Mr. Hutchins?
+Q And you -- what was your business relationship with Mr. Hutchins?
 
 A He worked in one of the offices. So, at times he would service my clientele.
 
@@ -1572,11 +1572,11 @@ Q What type of paperwork?
 
 A We would have to know. We would have to determine exactly who he was acting as agent for.
 
-Q And by, know, just have him tell you, or would there have to be ——
+Q And by, know, just have him tell you, or would there have to be --
 
 A No.
 
-Q —— proof, documentation?
+Q -- proof, documentation?
 
 A Documentation.
 
@@ -1584,7 +1584,7 @@ Q So, it's not just a conversation. It is, actually, collecting additional docum
 
 A We would have to ensure that he is not working with a person of interest.
 
-Q And you testified on Friday about —— the prosecutors asked you about what your understanding of a shell corporation is. Do you remember those questions?
+Q And you testified on Friday about -- the prosecutors asked you about what your understanding of a shell corporation is. Do you remember those questions?
 
 A I do.
 
@@ -1602,7 +1602,7 @@ A I don't open up shell corporations. I open up LLC accounts that have operating
 
 Q Why is that?
 
-A Because it's —— shell corporations that have no business behind them would give me pause. Very frankly, I would want to understand what the purpose of simply opening an account to simply send out wires would be.
+A Because it's -- shell corporations that have no business behind them would give me pause. Very frankly, I would want to understand what the purpose of simply opening an account to simply send out wires would be.
 
 Q So, your expectation from your client is that when they open an account, whether it be a LLC or otherwise, it would not be a shell corporation, it would be something in business?
 
@@ -1620,7 +1620,7 @@ Q And, indeed, that's what he said he was doing, correct?
 
 A That's correct.
 
-Q Did you —— so, if we can put up Exhibit 366, which is already in evidence, and I would like to turn to paragraph eight, the first page, so we can see it. So, you were shown this document on Friday, and then if we can turn to page eight with the Bates number ending 94230. And then if we can just blow up the middle, please. You were asked a question on Friday, and then you were asked a series of questions today about the boxes that were checked on forms like this, both this one, and then also the one that was later completed for the other LLC. And you were asked about question 12, is this entity associated with political fundraising, Political Action Committees, PACs, and the box is checked no, right? Do you remember those questions?
+Q Did you -- so, if we can put up Exhibit 366, which is already in evidence, and I would like to turn to paragraph eight, the first page, so we can see it. So, you were shown this document on Friday, and then if we can turn to page eight with the Bates number ending 94230. And then if we can just blow up the middle, please. You were asked a question on Friday, and then you were asked a series of questions today about the boxes that were checked on forms like this, both this one, and then also the one that was later completed for the other LLC. And you were asked about question 12, is this entity associated with political fundraising, Political Action Committees, PACs, and the box is checked no, right? Do you remember those questions?
 
 A I do.
 
@@ -1628,7 +1628,7 @@ Q So there is a series of other questions that we are looking at on the screen n
 
 A It does not.
 
-Q It just means that there is going to be some sort of follow—up question from you or from your Compliance Department or something like that, correct?
+Q It just means that there is going to be some sort of follow-up question from you or from your Compliance Department or something like that, correct?
 
 A That's correct. But I do want to clarify one thing, if I may.
 
@@ -1636,9 +1636,9 @@ Q Yes, please, sir.
 
 A If the box is checked, yes, referring to, Persons/Entities Found on the OFAC/SDN List, that would be a hard no.
 
-Q Can you —— can you just indicate what you are referring to, sir?
+Q Can you -- can you just indicate what you are referring to, sir?
 
-A Underneath 16A, to the right, you will see, on the OFAC/SDN list. I would like to be concise. If they were on the OFAC list, we would not open that account. That would be totally non—optional.
+A Underneath 16A, to the right, you will see, on the OFAC/SDN list. I would like to be concise. If they were on the OFAC list, we would not open that account. That would be totally non-optional.
 
 Q Understood. So there are some boxes that could be checked and would likely be fatal to the LLC opening an account with your bank?
 
@@ -1656,15 +1656,15 @@ Q As far as you knew, at the time from your communications with your team that w
 
 A That's not what he told me or my team.
 
-Q Do you recall —— I want to move forward a little bit to 2017.
+Q Do you recall -- I want to move forward a little bit to 2017.
 
 A Okay.
 
-Q Do you recall on March 2, 2017, that you emailed Mr. Cohen at his Trump Organization email address and received a bounce—back saying, as of January 20th, Mr. Cohen had accepted the role as personal counsel to President Donald J. Trump? Do you recall that?
+Q Do you recall on March 2, 2017, that you emailed Mr. Cohen at his Trump Organization email address and received a bounce-back saying, as of January 20th, Mr. Cohen had accepted the role as personal counsel to President Donald J. Trump?  Do you recall that?
 
 A I do recall that, yes.
 
-Q Was that email bounce—back on March 17, 2017, the first time you learned that Mr. Cohen had left the Trump Organization to be President Trump's personal lawyer?
+Q Was that email bounce-back on March 17, 2017, the first time you learned that Mr. Cohen had left the Trump Organization to be President Trump's personal lawyer?
 
 A No, it, actually, was sent errantly.
 
@@ -1676,7 +1676,7 @@ Q Putting aside the reason for why the email was sent, my question to you was, w
 
 A Oh, yes, sir.
 
-Q So, up until —— so between —— well, up until March 2lst of 2017, you didn't know anything about whether Mr. Cohen was still at the Trump Organization or where he was working?
+Q So, up until -- so between -- well, up until March 21st of 2017, you didn't know anything about whether Mr. Cohen was still at the Trump Organization or where he was working?
 
 A No.
 
@@ -1688,15 +1688,15 @@ Q If we can just show, and not to the jury, but just to the witness, the Court a
 
 A Okay.
 
-Q If you can take a look at D13, and take your time. It is a couple ——
+Q If you can take a look at D13, and take your time. It is a couple --
 
 A This refreshes my memory.
 
-Q So, does that refresh your recollection that around the same time as that errant email was sent ——
+Q So, does that refresh your recollection that around the same time as that errant email was sent --
 
 A Yes.
 
-Q —— you opened an account, or you and your team, opened an account for Mr. Cohen and his new law firm?
+Q -- you opened an account, or you and your team, opened an account for Mr. Cohen and his new law firm?
 
 A Yes.
 
@@ -1708,7 +1708,7 @@ Q Now, are you familiar with the term PEP?
 
 A Politically Exposed Person.
 
-Q Yes. Can you tell the jury —— are you familiar with that term?
+Q Yes. Can you tell the jury -- are you familiar with that term?
 
 A I am.
 
@@ -1724,7 +1724,7 @@ Q So, when you were just talking about someone who held office, do you mean a do
 
 A Yes.
 
-Q Now, as —— if Mr. Cohen is a personal attorney to President Donald Trump in 2017, in your view, would that make him a PEP?
+Q Now, as -- if Mr. Cohen is a personal attorney to President Donald Trump in 2017, in your view, would that make him a PEP?
 
 A As the attorney for him, I would not consider that a PEP.
 
@@ -1742,7 +1742,7 @@ A That would bring it up to the second level, BSA/AML.
 
 Q So, the BSA/AML, the second layer that you testified about on Friday, the Compliance Department, would presumably ask questions of you or ask questions of the client?
 
-A They will —— well, they would ask both. They wouldn't go directly to the client. They would come through me, typically. But in some cases they would speak directly to the client to understand how deep of a relationship it is and if that could, potentially, put us at risk in any way.
+A They will -- well, they would ask both. They wouldn't go directly to the client. They would come through me, typically. But in some cases they would speak directly to the client to understand how deep of a relationship it is and if that could, potentially, put us at risk in any way.
 
 Q Have you, to the best of your knowledge, ever had a client who was a PEP?
 
@@ -1752,7 +1752,7 @@ Q So what types of safeguards or traps are put around an account or relationship
 
 A The accounts are monitored pretty closely to ensure that activity is not going in any way that would put us at risk.
 
-Q Is the monitoring —— can you explain to the jury what you mean by that?
+Q Is the monitoring -- can you explain to the jury what you mean by that?
 
 A Transaction activity monitoring, limits are done on all accounts, but there would be an added layer on this.
 
@@ -1760,7 +1760,7 @@ Q So, algorithms and whatnot that are behind the scenes, and also, of course, th
 
 A As well as a second line of defense. We would continue to monitor that account.
 
-Q Do you recall an email from Mr. Cohen to you, again, we are moving a little further along to September of 2017, saying, on September lst, where he said that he needed to speak with you, important, asking when you are free?
+Q Do you recall an email from Mr. Cohen to you, again, we are moving a little further along to September of 2017, saying, on September 1st, where he said that he needed to speak with you, important, asking when you are free?
 
 A September 30th?
 
@@ -1790,7 +1790,7 @@ A It's not unusual. It's not every time, but it's not unusual.
 
 Q But it is not just real estate transactions, right, that would also be true of other types of contracts, such as purchasing a yacht which you testified?
 
-A A yacht, an aircraft, for —— there are many different reasons why clients came to us and why they work with us is our ability to execute transactions quickly.
+A A yacht, an aircraft, for -- there are many different reasons why clients came to us and why they work with us is our ability to execute transactions quickly.
 
 Q Correct. But I am focused more on the speed and the way that this happened with Mr. Cohen where he calls you, you send him to Mr. Hutchins, and literally within a day, the account is opened, the account is funded and a wire going out. My question is that, that could be the case for all kinds of contractual transactions between your client and another party, correct?
 
@@ -1808,7 +1808,7 @@ Q And my point is this, my point is, at the time, in October 2016, nothing about
 
 A Not based upon the answers that I was given for the questions I asked.
 
-Q And similarly to your team, if one of them had a red flag from —— if Ms. Rappaport had a concern from her communications with Mr. Cohen, she would have raised that to you?
+Q And similarly to your team, if one of them had a red flag from -- if Ms. Rappaport had a concern from her communications with Mr. Cohen, she would have raised that to you?
 
 A That would have been brought to my attention and the process would have been delayed.
 
@@ -1818,7 +1818,7 @@ A That did not happen.
 
 MR. BLANCHE: Can I just have one moment, your Honor?
 
-AUDIO DESCRIPTION: whereupon, defense counsel confer.
+AUDIO DESCRIPTION: Whereupon, defense counsel confer.
 
 BY MR. BLANCHE:
 
@@ -1836,7 +1836,7 @@ THE COURT: Any redirect?
 
 MS. MANGOLD: Just a little bit, your Honor.
 
-REDIRECT EXAMINATION BY MS . MANGOLD:
+REDIRECT EXAMINATION BY MS. MANGOLD:
 
 Q Now, Mr. Farro, you just testified that at a certain point the bank took away the client relationship from you and that Mr. Cohen's accounts were largely closed at First Republic Bank, is that correct?
 
@@ -1844,7 +1844,7 @@ A The accounts that we could close were closed, yes.
 
 Q Can you describe the circumstances of that to the jury?
 
-A Yes, when —— we have the optionality to close the account at any time we chose not to be attached to what we consider to be negative press. When we saw negative press, we chose to close the accounts which we could, which are the operational bank accounts. We cannot close out a mortgage, simply because you can't expect the client to pay it off in full. So, we maintained the mortgage accounts and closed out the bank accounts.
+A Yes, when -- we have the optionality to close the account at any time we chose not to be attached to what we consider to be negative press. When we saw negative press, we chose to close the accounts which we could, which are the operational bank accounts. We cannot close out a mortgage, simply because you can't expect the client to pay it off in full. So, we maintained the mortgage accounts and closed out the bank accounts.
 
 Q And what is the negative press you are referring to here?
 
@@ -1868,7 +1868,7 @@ THE COURT: Anything else, Mr. Blanche?
 
 MR. BLANCHE: Just very brief.
 
-RECROSS—EXAMINATION BY MR. BLANCHE:
+RECROSS-EXAMINATION BY MR. BLANCHE:
 
 Q So, just to understand, were you part of the decision to close the accounts that could be closed with Mr. Cohen?
 
@@ -1882,11 +1882,11 @@ Q You were informed that the decision was made?
 
 A Yes.
 
-Q And you —— do you have any reason to believe that when that decision was made, it had anything to do with anything other than the public pressure reports about what you just testified?
+Q And you -- do you have any reason to believe that when that decision was made, it had anything to do with anything other than the public pressure reports about what you just testified?
 
 A That was my understanding.
 
-Q And, if true —— and, by the way, you have no personal knowledge of whether it is true or not, do you?
+Q And, if true -- and, by the way, you have no personal knowledge of whether it is true or not, do you?
 
 A No.
 
@@ -1898,7 +1898,7 @@ THE COURT: Overruled.
 
 A I don't know if that's a fair statement.
 
-Q Well ——
+Q Well --
 
 A Due diligence is done prior to an account being opened. After a transaction happens, it goes from one lawyer to another lawyer. I can't be expected to know where it is going to end up after that.
 
@@ -1918,13 +1918,13 @@ MS. MANGOLD: Nothing further, your Honor.
 
 THE COURT: Thank you, sir, you can step down.
 
-AUDIO DESCRIPTION: whereupon, the witness was excused.
+AUDIO DESCRIPTION: Whereupon, the witness was excused.
 
 THE COURT: Jurors, let's take our morning recess. Please remember to follow my instructions.
 
 COURT OFFICER: All rise.
 
-AUDIO DESCRIPTION: whereupon, the jury exited the courtroom.
+AUDIO DESCRIPTION: Whereupon, the jury exited the courtroom.
 
 THE COURT: Thank you. Please be seated. People, is there anything you need to go over?
 
@@ -1932,13 +1932,13 @@ MR. STEINGLASS: Is this the time that you would like us to take up some of those
 
 THE COURT: Sure.
 
-MR. STEINGLASS: Briefly, the parties did confer. I am handing up to the Court —— do you need another copy of this? I am handing up to the Court some proposed redactions as to Exhibit 171. The items that are circled in red, those are items that we have agreed to redact beyond what is already blacked out. The three tabbed red items are the remaining points of contention. We did reach a lot of progress on this.
+MR. STEINGLASS: Briefly, the parties did confer. I am handing up to the Court -- do you need another copy of this? I am handing up to the Court some proposed redactions as to Exhibit 171. The items that are circled in red, those are items that we have agreed to redact beyond what is already blacked out. The three tabbed red items are the remaining points of contention. We did reach a lot of progress on this.
 
 THE COURT: Thank you.
 
 MR. STEINGLASS: So, would you like me to talk about three?
 
-THE COURT: Yes .
+THE COURT: Yes.
 
 MR. STEINGLASS: So, the first item in contention is on line 38909, in which Gina Rodriguez says she stopped it a long time ago because he threatened to sue me. Then the next one is on October 19th, and this is in the midst of, you can tell from the context here, in the midst of negotiations over the Stormy Daniels deal and kind of delays that were perceived as happening by Michael Cohen, that Ms. Rodriguez tells Dylan Howard, quote, very shady shit is going on.
 
@@ -1950,9 +1950,9 @@ MR. BLANCHE: Second from the bottom.
 
 THE COURT: I see it.
 
-MR. STEINGLASS: And then, finally, on page 11, and this is —— both of these are within about a week of the execution of the contract between Stormy Daniels and Mr. Trump. Yes, he is sending what she signed with Trump so he can get the story out with Fox this morning and nobody else would be afraid. Daily Mail is scared of Trump. This is on 39551 is the line for that and is the third tab. So, as I believe your Honor has, and will continue to instruct the jury, the Rodriguez portions of —— Ms. Rodriguez is not alleged to be a co—conspirator in this case. So, her texts are only coming in to contextualize Dylan Howard's texts. And Dylan Howard clearly is a co—conspirator in this case. We have no problem with the limiting instructions. We are not trying to argue the truth of the statements contained in Ms. Rodriguez's texts, but they do contextualize, A, what was going on in terms of the transactions and the negotiations at the time, and also Mr. Howard's responses. of all of these three, we can, and I actually communicated this with Mr. Blanche, we can live without number one, if they feel so strongly about it. But I do think that the others are very relevant and very timely in terms of that being fact, that they are happening within a week or so of the transaction being finalized. So those are the ones we could not agree on.
+MR. STEINGLASS: And then, finally, on page 11, and this is -- both of these are within about a week of the execution of the contract between Stormy Daniels and Mr. Trump. Yes, he is sending what she signed with Trump so he can get the story out with Fox this morning and nobody else would be afraid. Daily Mail is scared of Trump. This is on 39551 is the line for that and is the third tab. So, as I believe your Honor has, and will continue to instruct the jury, the Rodriguez portions of -- Ms. Rodriguez is not alleged to be a co-conspirator in this case. So, her texts are only coming in to contextualize Dylan Howard's texts. And Dylan Howard clearly is a co-conspirator in this case. We have no problem with the limiting instructions. We are not trying to argue the truth of the statements contained in Ms. Rodriguez's texts, but they do contextualize, A, what was going on in terms of the transactions and the negotiations at the time, and also Mr. Howard's responses. Of all of these three, we can, and I actually communicated this with Mr. Blanche, we can live without number one, if they feel so strongly about it. But I do think that the others are very relevant and very timely in terms of that being fact, that they are happening within a week or so of the transaction being finalized. So those are the ones we could not agree on.
 
-MR. BLANCHE: We feel very strongly about all three. I think what we have done to try to appreciate your Honor's ruling, there are two —— and Ms. Rodriguez is not alleged to be an accomplice, and the only reason these are coming in is to provide, as the People just said, context. And so, with the first one, there is just no —— there is just no necessary reason to include that for context. So, it's not being offered for the truth. The very small potential, you know, benefit of it providing context, in our view, is greatly outweighed by the potential for the jury to have confusion and take it for the wrong reason, even with a limited instruction. That is the exact same reason for the other one as well. If you read all the texts and with all the evidence that has been permitted about what's happening in that week, no context is necessary in that situation given the risks that they are going to —— the jury would take, very shady shit is going on, for improper reasons. Who knows why she said it. We can all guess and speculate, but that's why it shouldn't come in. And then the last, your Honor, look, we don't think it should come in at all. We certainly do not think the last sentence in the clause of the first sentence should come in at the end of it. So, yes, he is sending what she signed with Trump so we can get the story out with Fox this morning, and then no one will be afraid. And the Daily Mail is scared of Trump. I mean, that's a hearsay statement that provides no context to the rest of the text exchange. So, that's —— we did agree on virtually everything. That's our very strong belief that those should be excluded as well.
+MR. BLANCHE: We feel very strongly about all three. I think what we have done to try to appreciate your Honor's ruling, there are two -- and Ms. Rodriguez is not alleged to be an accomplice, and the only reason these are coming in is to provide, as the People just said, context. And so, with the first one, there is just no -- there is just no necessary reason to include that for context. So, it's not being offered for the truth. The very small potential, you know, benefit of it providing context, in our view, is greatly outweighed by the potential for the jury to have confusion and take it for the wrong reason, even with a limited instruction. That is the exact same reason for the other one as well. If you read all the texts and with all the evidence that has been permitted about what's happening in that week, no context is necessary in that situation given the risks that they are going to -- the jury would take, very shady shit is going on, for improper reasons. Who knows why she said it. We can all guess and speculate, but that's why it shouldn't come in. And then the last, your Honor, look, we don't think it should come in at all. We certainly do not think the last sentence in the clause of the first sentence should come in at the end of it. So, yes, he is sending what she signed with Trump so we can get the story out with Fox this morning, and then no one will be afraid. And the Daily Mail is scared of Trump. I mean, that's a hearsay statement that provides no context to the rest of the text exchange. So, that's -- we did agree on virtually everything. That's our very strong belief that those should be excluded as well.
 
 THE COURT: All right. I will rule after the break. Thank you.
 
@@ -1968,7 +1968,7 @@ MR. STEINGLASS: And I believe there are two additional applications that Mr. Col
 
 THE COURT: Sure.
 
-MR. COLANGELO: First, in light of the Court's order this morning, holding the defendant in criminal contempt for nine willful violations of the Court's April 1st Order, the People wish to give supplemental Sandoval notice that if the defendant testifies in this trial, the People will seek to cross—examine him on those findings. We are not asking to be heard further now on this issue, but we would like to give notice to the Court and defense counsel as soon as possible so that if the defense intends to ask the Court to limit or prohibit cross—examination on any those nine willful violations, the Court can schedule a Sandoval hearing at the Court's convenience and we will be prepared to address the remaining issues.
+MR. COLANGELO: First, in light of the Court's order this morning, holding the defendant in criminal contempt for nine willful violations of the Court's April 1st Order, the People wish to give supplemental Sandoval notice that if the defendant testifies in this trial, the People will seek to cross-examine him on those findings. We are not asking to be heard further now on this issue, but we would like to give notice to the Court and defense counsel as soon as possible so that if the defense intends to ask the Court to limit or prohibit cross-examination on any those nine willful violations, the Court can schedule a Sandoval hearing at the Court's convenience and we will be prepared to address the remaining issues.
 
 THE COURT: Would you like to be heard briefly?
 
@@ -1976,17 +1976,17 @@ MR. BLANCHE: I haven't read the Decision yet. We very much want to be heard, not
 
 THE COURT: Okay. You have time to read the Decision.
 
-MR. COLANGELO: Thank you, your Honor. The second matter relates to one of the Court's pretrial evidentiary rulings that the Court asked the People to re—raise at an appropriate point. We think now is not that point, but soon is the appropriate point. This relates to the People's request to introduce evidence regarding the defendant's attempt to dissuade witnesses, including Michael Cohen and Stormy Daniels, through a public pressure campaign, retaliation, harassing comments, including in public remarks and online. The Court originally held in its Order on the People's motions in limine, reserved the item pending an offer of proof. We made the offer of proof on April 15th. The Court held at that time that the evidence regarding the intimidation and pressure campaign was probative for multiple purposes, including the defendant's guilty conscious and to explain witnesses changing their position, but the Court excluded that evidence subject to the defense opening the door. And the Court —— I believe the Court said the issue might well be academic because the defense was likely to open the door. We believe the defense did, in fact, as your Honor predicted, open the door in opening statements last week, and they did so in the opening statement in several ways. Counsel stated that the evidence would show that Mr. Cohen was previously loyal and defended the defendant on television, publicly and privately. And then, after getting caught in 2018, Mr. Cohen made the decision to blame the defendant for his problems, and he is an admitted liar, and that's at pages 899 to 900. Defense counsel also said the evidence would show that Mr. Cohen's expected testimony can't be believed because his goal is to go on television and social media and his entire financial livelihood depends on attacking the defendant. The defense made a similar or same assertions as to Stormy Daniels, another expected witness, stating that the evidence would show that she previously denied an improper relationship in writing, and that she was now making a living off of the defendant by talking about her interactions with him, including through a book and a documentary. All of those assertions that defense counsel made in the opening statement about what the evidence would show regarding the credibility of those witnesses are precisely the kinds of arguments or assertions that your Honor predicted the defense would make and stated, would open the door to the People being allowed to elicit evidence regarding the defendant's efforts to keep them in the fold, keep Mr. Cohen in the fold originally, followed by subsequent harassment online. So we ask the Court —— I am sorry. When the Court made that ruling on April 15th, the Court said the People should bring this back to me if at any point you believe that the defense has opened the door. So we ask the Court, in light of the opening statements, to hold that the People may introduce evidence to offset the defense claim that these witnesses are somehow benefiting from their willingness to testify to explain why both witnesses initially denied certain facts and now acknowledge those facts and as evidence of the defendant's consciousness of guilt. Thank you.
+MR. COLANGELO: Thank you, your Honor. The second matter relates to one of the Court's pretrial evidentiary rulings that the Court asked the People to re-raise at an appropriate point. We think now is not that point, but soon is the appropriate point. This relates to the People's request to introduce evidence regarding the defendant's attempt to dissuade witnesses, including Michael Cohen and Stormy Daniels, through a public pressure campaign, retaliation, harassing comments, including in public remarks and online. The Court originally held in its Order on the People's motions in limine, reserved the item pending an offer of proof. We made the offer of proof on April 15th. The Court held at that time that the evidence regarding the intimidation and pressure campaign was probative for multiple purposes, including the defendant's guilty conscious and to explain witnesses changing their position, but the Court excluded that evidence subject to the defense opening the door. And the Court -- I believe the Court said the issue might well be academic because the defense was likely to open the door. We believe the defense did, in fact, as your Honor predicted, open the door in opening statements last week, and they did so in the opening statement in several ways. Counsel stated that the evidence would show that Mr. Cohen was previously loyal and defended the defendant on television, publicly and privately. And then, after getting caught in 2018, Mr. Cohen made the decision to blame the defendant for his problems, and he is an admitted liar, and that's at pages 899 to 900. Defense counsel also said the evidence would show that Mr. Cohen's expected testimony can't be believed because his goal is to go on television and social media and his entire financial livelihood depends on attacking the defendant. The defense made a similar or same assertions as to Stormy Daniels, another expected witness, stating that the evidence would show that she previously denied an improper relationship in writing, and that she was now making a living off of the defendant by talking about her interactions with him, including through a book and a documentary. All of those assertions that defense counsel made in the opening statement about what the evidence would show regarding the credibility of those witnesses are precisely the kinds of arguments or assertions that your Honor predicted the defense would make and stated, would open the door to the People being allowed to elicit evidence regarding the defendant's efforts to keep them in the fold, keep Mr. Cohen in the fold originally, followed by subsequent harassment online. So we ask the Court -- I am sorry. When the Court made that ruling on April 15th, the Court said the People should bring this back to me if at any point you believe that the defense has opened the door. So we ask the Court, in light of the opening statements, to hold that the People may introduce evidence to offset the defense claim that these witnesses are somehow benefiting from their willingness to testify to explain why both witnesses initially denied certain facts and now acknowledge those facts and as evidence of the defendant's consciousness of guilt. Thank you.
 
-MR. BLANCHE: Your Honor, at the very least, there should be a proffer beyond just we are going to elicit all of this information about a pressure campaign and what the questions will be. We certainly opened the door that we will expose bias by Mr. Cohen and by other witnesses, for sure, and we intend to cross—examine witnesses about their bias, including their financial motivation in testifying the way they are today. That's different in kind than eliciting —— well, depending on what the questions will be, questions about a pressure campaign, because of public tweets or Truths by President Trump at the time, and presumably now. So, before we —— before your Honor rules, we would ask the People to proffer what it is, specifically, they intend to elicit from the witnesses or extrinsically prove regarding this and go from there.
+MR. BLANCHE: Your Honor, at the very least, there should be a proffer beyond just we are going to elicit all of this information about a pressure campaign and what the questions will be. We certainly opened the door that we will expose bias by Mr. Cohen and by other witnesses, for sure, and we intend to cross-examine witnesses about their bias, including their financial motivation in testifying the way they are today. That's different in kind than eliciting -- well, depending on what the questions will be, questions about a pressure campaign, because of public tweets or Truths by President Trump at the time, and presumably now. So, before we -- before your Honor rules, we would ask the People to proffer what it is, specifically, they intend to elicit from the witnesses or extrinsically prove regarding this and go from there.
 
 THE COURT: Well, if the door has been opened, I think we will know what they are going to ask when they ask it, and if there is an objection, you can make your objection, unless the People would like to disclose what it is.
 
-MR. COLANGELO: Your Honor, the evidence that we will offer is the evidence that Mr. Steinglass presented during the offer of proof that we made to your Honor on April 15th. That was —— that's recorded in the transcript on April 15th, I believe, starting at page 41 and going through your Honor's ruling at 58. In that colloquy, the People disclosed and —— described broadly and disclosed half a dozen or more exhibits that we intend to elicit as part of the pressure campaign and the intimidation effort. We also described it at length in our February 22nd motion in limine describing the Molineux information that we intended to bring out. So, we are happy to bring those exhibits up again to the extent your Honor wishes to see them again. It's the evidence and the discussion of that evidence that we presented on April 15th.
+MR. COLANGELO: Your Honor, the evidence that we will offer is the evidence that Mr. Steinglass presented during the offer of proof that we made to your Honor on April 15th. That was -- that's recorded in the transcript on April 15th, I believe, starting at page 41 and going through your Honor's ruling at 58. In that colloquy, the People disclosed and -- described broadly and disclosed half a dozen or more exhibits that we intend to elicit as part of the pressure campaign and the intimidation effort. We also described it at length in our February 22nd motion in limine describing the Molineux information that we intended to bring out. So, we are happy to bring those exhibits up again to the extent your Honor wishes to see them again. It's the evidence and the discussion of that evidence that we presented on April 15th.
 
 THE COURT: Could you go over that one more time, the three purposes you want to elicit this?
 
-MR. COLANGELO: Yes. First, is to offset the defense claim that the witnesses are benefiting from their willingness to testify. And by showing, to rebut that claim, that, in fact, their cooperation with law enforcement has harmed them more than it has helped them. Your Honor will remember that in explaining the allowable use of this evidence for that purpose, my colleague mentioned the People versus Edwards case and handed it up on April 15th to the Court. The second purpose is to explain why both witnesses initially denied certain facts and have now acknowledged those facts. And the third purpose is as evidence of the defendant's consciousness of guilt. And if I can just direct your Honor's attention to the transcript —— to the transcript of the April 15th proceeding, starting at page 56. Your Honor already observed following the People's proffer of that evidence, quote, you can't dispute that virtually everything that you put up is probative of something to some degree, whether it is consciousness of guilt to explain Mr. Cohen's turnaround to offset allegations that the witness is somehow benefiting from this. So, your Honor recognized those purposes that the People should not elicit anything until the defense opened the door, and our point now is that it is clear that the opening statements opened the door wide.
+MR. COLANGELO: Yes. First, is to offset the defense claim that the witnesses are benefiting from their willingness to testify. And by showing, to rebut that claim, that, in fact, their cooperation with law enforcement has harmed them more than it has helped them. Your Honor will remember that in explaining the allowable use of this evidence for that purpose, my colleague mentioned the People versus Edwards case and handed it up on April 15th to the Court. The second purpose is to explain why both witnesses initially denied certain facts and have now acknowledged those facts. And the third purpose is as evidence of the defendant's consciousness of guilt. And if I can just direct your Honor's attention to the transcript -- to the transcript of the April 15th proceeding, starting at page 56. Your Honor already observed following the People's proffer of that evidence, quote, you can't dispute that virtually everything that you put up is probative of something to some degree, whether it is consciousness of guilt to explain Mr. Cohen's turnaround to offset allegations that the witness is somehow benefiting from this. So, your Honor recognized those purposes that the People should not elicit anything until the defense opened the door, and our point now is that it is clear that the opening statements opened the door wide.
 
 THE COURT: Can you go ahead and articulate what the consciousness of guilt would be? What was it about these actions that goes to consciousness of guilt?
 
@@ -1994,7 +1994,7 @@ MR. COLANGELO: Sure. So, your Honor, public statements, and the public statement
 
 THE COURT: Go on.
 
-MR. BLANCHE: Your Honor, consciousness of guilt is much different than what the People just described. Consciousness of guilt would allow the People to say, how do you know that he is guilty, Ladies and Gentlemen? Well, look what he did on this day which shows consciousness of guilt. The idea that President Trump was somehow feeling guilty or consciousness of guilt about the indictment in this case, when he was speaking about Michael Cohen and pleading guilty in the Southern District of New York to crimes that Presidents Trump isn't charged with and never was charged with, doesn't work, right. Meaning that there are 34 counts here of falsifying business records. There is —— the statements that President Trump made at the time of leading up to, and at the time of Michael Cohen's guilty plea were not consciousness of guilt of anything happening in this courtroom. And the risk that the jury will hear that and use it for an improper purpose is huge, right. Is it frustrating to have your lawyer plead guilty and publicly say he is going to cooperate and testify against you? Of course. And similarly, statements along the way encouraging his lawyer not to is not surprising either. Consciousness of guilt is of a different order. Consciousness of guilt would be President Trump doing something as it relates to the charges in this case that would show his motivation for doing it was to cover something up that would show that he is guilty. So, with respect to the other proffered reasons for some of this testimony to counter financial benefits to Mr. Cohen and Ms. Daniels and to explain why they changed their story, that makes sense. And I think they are going to talk about that on direct, but consciousness of guilt is of a different order, in our view.
+MR. BLANCHE: Your Honor, consciousness of guilt is much different than what the People just described. Consciousness of guilt would allow the People to say, how do you know that he is guilty, Ladies and Gentlemen?  Well, look what he did on this day which shows consciousness of guilt. The idea that President Trump was somehow feeling guilty or consciousness of guilt about the indictment in this case, when he was speaking about Michael Cohen and pleading guilty in the Southern District of New York to crimes that Presidents Trump isn't charged with and never was charged with, doesn't work, right. Meaning that there are 34 counts here of falsifying business records. There is -- the statements that President Trump made at the time of leading up to, and at the time of Michael Cohen's guilty plea were not consciousness of guilt of anything happening in this courtroom. And the risk that the jury will hear that and use it for an improper purpose is huge, right. Is it frustrating to have your lawyer plead guilty and publicly say he is going to cooperate and testify against you?  Of course. And similarly, statements along the way encouraging his lawyer not to is not surprising either. Consciousness of guilt is of a different order. Consciousness of guilt would be President Trump doing something as it relates to the charges in this case that would show his motivation for doing it was to cover something up that would show that he is guilty. So, with respect to the other proffered reasons for some of this testimony to counter financial benefits to Mr. Cohen and Ms. Daniels and to explain why they changed their story, that makes sense. And I think they are going to talk about that on direct, but consciousness of guilt is of a different order, in our view.
 
 THE COURT: Do you need a ruling on this?
 
@@ -2004,7 +2004,7 @@ THE COURT: Thank you. See you in a few minutes.
 
 COURT OFFICER: All rise.
 
-AUDIO DESCRIPTION: whereupon, the Court exited the courtroom.
+AUDIO DESCRIPTION: Whereupon, the Court exited the courtroom.
 
 AUDIO DESCRIPTION: Short recess is taken.
 
@@ -2014,27 +2014,27 @@ THE COURT: Mr. Blanche, I will ask you again, let's try to keep it very short be
 
 MR. BLANCHE: Your Honor, can we argue that at another time?
 
-THE COURT: Sure. With regard to the transcripts, I agree with the defense that these are exchanges between a co—conspirator and someone who is not a co—conspirator saying pretty prejudicial things, and I don't really think they serve a purpose. So, I am going to rule with the defense, that those must stay out. Regarding the defense opening the door, I think going through the words by the defense, they mostly concede they opened the door. The question is as to what, what can you use that for. I agree that it opened the door, and you can use it to explain what I will describe as a lot of back and forth amongst the main witnesses. Also, you can use it to reply or explain that they have not made as much money as the defense would have people think. At this point, I don't believe that it really goes to consciousness of guilt. So, I am going to deny that request. They can use it for the first two reasons, not for the third.
+THE COURT: Sure. With regard to the transcripts, I agree with the defense that these are exchanges between a co-conspirator and someone who is not a co-conspirator saying pretty prejudicial things, and I don't really think they serve a purpose. So, I am going to rule with the defense, that those must stay out. Regarding the defense opening the door, I think going through the words by the defense, they mostly concede they opened the door. The question is as to what, what can you use that for. I agree that it opened the door, and you can use it to explain what I will describe as a lot of back and forth amongst the main witnesses. Also, you can use it to reply or explain that they have not made as much money as the defense would have people think. At this point, I don't believe that it really goes to consciousness of guilt. So, I am going to deny that request. They can use it for the first two reasons, not for the third.
 
 MR. STEINGLASS: Thank you. Just to confirm, Judge, 171A is in. It's just the three texts we talked about that have to be redacted?
 
 THE COURT: That's right. Thank you both for working that out. I appreciate it. Can we bring the jury in? Let's get the jury, please.
 
-AUDIO DESCRIPTION: whereupon, Principal Court Reporter, Susan Pearce—Bates, was relieved by Senior Court Reporter, Theresa Magniccari.
+AUDIO DESCRIPTION: Whereupon, Principal Court Reporter, Susan Pearce-Bates, was relieved by Senior Court Reporter, Theresa Magniccari.
 
 AUDIO DESCRIPTION: The following proceedings are continued from previous page:
 
-THE COURT: There was one issue that was raised on the break. One of the jurors, I believe it was Juror Number 9, asked the sergeant if we were going to be working Friday before Memorial Day. Apparently, she has a flight at 11 o’clock in the morning. That is May 24th. Is there any objection from either side to not working that day so that this juror can remain with us?
+THE COURT: There was one issue that was raised on the break. One of the jurors, I believe it was Juror Number 9, asked the sergeant if we were going to be working Friday before Memorial Day. Apparently, she has a flight at 11 o'clock in the morning. That is May 24th. Is there any objection from either side to not working that day so that this juror can remain with us?
 
-MR. STEINGLASS: No objection. Mr. BlANCHE: No objection.
+MR. STEINGLASS: No objection. Mr. BlANCHE:  No objection.
 
 THE COURT: Okay.
 
 AUDIO DESCRIPTION: Jury entering courtroom.
 
-THE CLERK: Continued case on trial, People versus Donald J. Trump. All parties and all jurors are present.
+THE CLERK: Continued case on trial, People versus  Donald J. Trump. All parties and all jurors are present.
 
-THE COURT: Before we call the next witness, I did want to go over two scheduling matters. I was informed by the sergeant that one of the jurors was asking whether we’re going to work on the Friday before Memorial Day. Apparently, that juror has travel plans and they have a flight at 11. I was intending to work that day. Given that one of the jurors is not able to join us, we will go ahead and take that day off. That is May 24th. We will also not be working on May 17th. May 17th and May 24th. Thank you. Please call your next witness.
+THE COURT: Before we call the next witness, I did want to go over two scheduling matters. I was informed by the sergeant that one of the jurors was asking whether we're going to work on the Friday before Memorial Day. Apparently, that juror has travel plans and they have a flight at 11. I was intending to work that day. Given that one of the jurors is not able to join us, we will go ahead and take that day off. That is May 24th. We will also not be working on May 17th. May 17th and May 24th. Thank you. Please call your next witness.
 
 MS. MANGOLD: The People call Dr. Robert Browning.
 
@@ -2048,11 +2048,11 @@ THE WITNESS: I do.
 
 THE CLERK: Have a seat.
 
-AUDIO DESCRIPTION: D.R. R—O—B—E—R—T B—R—O—W—N—I—N—G, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+AUDIO DESCRIPTION: D.R.  R-O-B-E-R-T   B-R-O-W-N-I-N-G,  called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 COURT OFFICER: Pull your chair all the way up. State your full name, spelling your last name.
 
-THE WITNESS: My name is Robert X. Browning, B—R—O—W—N—I—N—G.
+THE WITNESS: My name is Robert X. Browning, B-R-O-W-N-I-N-G.
 
 COURT OFFICER: County of residence?
 
@@ -2060,19 +2060,19 @@ THE WITNESS: Thibodaux County, Louisiana.
 
 THE COURT: Good morning, Doctor. You may inquire.
 
-DIRECT EXAMINATION BY MS . MANGOLD:
+DIRECT EXAMINATION BY MS. MANGOLD:
 
 Q. Good morning, Dr. Browning. I am going to ask you to speak slowly into the microphone in front of you so the Court Reporter can take down what you are saying. Can you tell everyone where you work?
 
-A. I work for C—Span.
+A. I work for C-Span.
 
-Q. What is your position at C—Span?
+Q. What is your position at C-Span?
 
-A. Executive Director of the C—Span Archives.
+A. Executive Director of the C-Span Archives.
 
 Q. How long have you held that position?
 
-A. Thirty—seven years.
+A. Thirty-seven years.
 
 Q. Have you ever testified in a legal proceeding before?
 
@@ -2082,7 +2082,7 @@ Q. Are you nervous?
 
 A. A little bit.
 
-Q. We can take it slowly. If you need me to repeat a question, I am happy to do that. Do you understand that you are testifying today solely as a custodian of records for C—Span?
+Q. We can take it slowly. If you need me to repeat a question, I am happy to do that. Do you understand that you are testifying today solely as a custodian of records for C-Span?
 
 A. Yes, I do.
 
@@ -2090,11 +2090,11 @@ Q. Did you travel from Louisiana for the purpose of testifying today?
 
 A. Yes. Yes, I did.
 
-Q. Is C—Span testifying at this trial voluntarily or was C—Span compelled to testify because it received a subpoena?
+Q. Is C-Span testifying at this trial voluntarily or was C-Span compelled to testify because it received a subpoena?
 
-A. C—Span was compelled to testify with a subpoena.
+A. C-Span was compelled to testify with a subpoena.
 
-Q. Is C—Span represented by counsel?
+Q. Is C-Span represented by counsel?
 
 A. Yes.
 
@@ -2102,19 +2102,19 @@ Q. Is that counsel here today?
 
 A. Yes, he is.
 
-Q. Can you tell the jury a little bit more about C—Span. What does C—Span stand for?
+Q. Can you tell the jury a little bit more about C-Span. What does C-Span stand for?
 
-A. C—Span, Cable Satellite Public Affairs Network.
+A. C-Span, Cable Satellite Public Affairs Network.
 
-Q. What is C—Span?
+Q. What is C-Span?
 
-A. C—Span is a public television network to telecast events in their entirety.
+A. C-Span is a public television network to telecast events in their entirety.
 
-Q. As Executive Director of the C—Span Archives, what do you do?
+Q. As Executive Director of the C-Span Archives, what do you do?
 
 A. I mainly collect video that is aired on the network.
 
-Q. In that role, have you become familiar with C—Span's business and recordkeeping practices?
+Q. In that role, have you become familiar with C-Span's business and recordkeeping practices?
 
 A. Yes, I have.
 
@@ -2126,11 +2126,11 @@ Q. Does that include Donald Trump?
 
 A. Yes, it does.
 
-Q. As part of its business, does C—Span air political events on TV?
+Q. As part of its business, does C-Span air political events on TV?
 
 A. Yes, it does.
 
-Q. How does C—Span get the video footage for the events that it airs?
+Q. How does C-Span get the video footage for the events that it airs?
 
 A. In a couple of ways. One, we would send our own cameras to events. Two, we would use what is known as a network pool.
 
@@ -2152,13 +2152,13 @@ A. Yes, that's the obligation.
 
 Q. Does the pool camera operator have a business duty to record that event accurately?
 
-A. Yes, because C—Span wants the entire event.
+A. Yes, because C-Span wants the entire event.
 
-Q. How does C—Span ensure that the video that it is getting is the correct video?
+Q. How does C-Span ensure that the video that it is getting is the correct video?
 
 A. Once the event is taking place, there is a producer who watches the video from the beginning to the end and makes sure there are no interruptions in the transmission.
 
-Q. Does a producer watching the video come in whether or not the video is being aired live on C—Span?
+Q. Does a producer watching the video come in whether or not the video is being aired live on C-Span?
 
 A. That is true.
 
@@ -2178,23 +2178,23 @@ Q. That's for every event?
 
 A. Yes, that's true.
 
-Q. While the video is being transmitted, does C—Span record it to its own servers in any way?
+Q. While the video is being transmitted, does C-Span record it to its own servers in any way?
 
 A. Yes, we make copies of the video as it is coming in.
 
-Q. And does C—Span save those videos?
+Q. And does C-Span save those videos?
 
-A. Yes, in the video library, the C—Span archives.
+A. Yes, in the video library, the C-Span archives.
 
-Q. Can you tell the jurors a little bit about the video library at the C—Span archives?
+Q. Can you tell the jurors a little bit about the video library at the C-Span archives?
 
-A. The video library is an online collection of everything that is telecast on C—Span. That's 278,000 digital hours a day.
+A. The video library is an online collection of everything that is telecast on C-Span. That's 278,000 digital hours a day.
 
-Q. And that is everything that is ever aired on C—Span?
+Q. And that is everything that is ever aired on C-Span?
 
 A. That's correct.
 
-Q. It's still being maintained by C—Span?
+Q. It's still being maintained by C-Span?
 
 A. That's right.
 
@@ -2202,23 +2202,23 @@ Q. Are you able to retrieve videos that were previously recorded?
 
 A. Yes, we can search by a person's name or location or anything, even a word about the video.
 
-Q. Does C—Span routinely record and save videos this way in the regular course of its business?
+Q. Does C-Span routinely record and save videos this way in the regular course of its business?
 
 A. Yes, it's the nature of our business.
 
-Q. Does C—Span rely on these videos to conduct their business?
+Q. Does C-Span rely on these videos to conduct their business?
 
-A. We might re—air a program or search a program, as well as let the public use the program.
+A. We might re-air a program or search a program, as well as let the public use the program.
 
-Q. Is it the regular course of business for C—Span to record and save these videos?
+Q. Is it the regular course of business for C-Span to record and save these videos?
 
 A. Yes, it is.
 
-Q. Now, at some point did C—Span receive a document subpoena from the Manhattan District Attorney's office requiring the company to turn over video recordings of events featuring Donald Trump?
+Q. Now, at some point did C-Span receive a document subpoena from the Manhattan District Attorney's office requiring the company to turn over video recordings of events featuring Donald Trump?
 
 A. Yes, it did.
 
-Q. Did C—Span comply with its legal obligations to turn over those subpoenaed videos?
+Q. Did C-Span comply with its legal obligations to turn over those subpoenaed videos?
 
 A. Yes, we did.
 
@@ -2228,7 +2228,7 @@ A. Yes, I was.
 
 Q. Can you tell the jury how you identified those videos?
 
-A. Well, the subpoena indicated the videos that were requested, including what we call the URL of the video. But we would verify what each video —— that it matched the subpoena —— what the subpoena was.
+A. Well, the subpoena indicated the videos that were requested, including what we call the URL of the video. But we would verify what each video -- that it matched the subpoena -- what the subpoena was.
 
 Q. Did you confirm that the videos were, in fact, events featuring Donald Trump as identified in the subpoena?
 
@@ -2242,7 +2242,7 @@ Q. Before testifying today, did you have the opportunity to review files marked 
 
 A. Yes, I did.
 
-Q. Are all of those files video clips of videos that C—Span produced to the Manhattan District Attorney's office?
+Q. Are all of those files video clips of videos that C-Span produced to the Manhattan District Attorney's office?
 
 A. Yes, they were.
 
@@ -2268,29 +2268,29 @@ MR. BLANCHE: No objection.
 
 THE COURT: People's 409A through 409D are accepted into evidence.
 
-AUDIO DESCRIPTION: whereupon, People's Exhibit 409A through 409D was received into evidence.
+AUDIO DESCRIPTION: Whereupon, People's Exhibit 409A through 409D was received into evidence.
 
 MS. MANGOLD: Can we now play for the jury what is in evidence as People's Exhibit 409A.
 
-AUDIO DESCRIPTION: whereupon, audio recording played in open court.
+AUDIO DESCRIPTION: Whereupon, audio recording played in open court.
 
-Q. Dr. Browning, is that a portion of the video recording that was produced by C—Span?
+Q. Dr. Browning, is that a portion of the video recording that was produced by C-Span?
 
 A. Yes, it is.
 
 MS. MANGOLD: Can we now play for the jury what is in evidence as People's 409B.
 
-AUDIO DESCRIPTION: whereupon, audio recording played in open court.
+AUDIO DESCRIPTION: Whereupon, audio recording played in open court.
 
-Q. Dr. Browning, is that a portion of the video recording produced by C—Span?
+Q. Dr. Browning, is that a portion of the video recording produced by C-Span?
 
-A. Yes, it was —— is.
+A. Yes, it was -- is.
 
 MS. MANGOLD: Can we now play for the record what is in evidence as People's Exhibit 409C.
 
-AUDIO DESCRIPTION: whereupon, audio recording was played in open court.
+AUDIO DESCRIPTION: Whereupon, audio recording was played in open court.
 
-Q. Dr. Browning, is that portion of the video recording produced by C—Span?
+Q. Dr. Browning, is that portion of the video recording produced by C-Span?
 
 A. Yes, it is.
 
@@ -2298,7 +2298,7 @@ MS. MANGOLD: Finally, can we play People's Exhibit 409D for the jury.
 
 AUDIO DESCRIPTION: Whereupon, audio recording played in open court.
 
-Q. Is that also a portion of the video clip from a video produced by C—Span?
+Q. Is that also a portion of the video clip from a video produced by C-Span?
 
 A. Yes, it is.
 
@@ -2326,7 +2326,7 @@ THE CLERK: Do you solemnly swear or affirm that the testimony that you are going
 
 THE WITNESS: I do.
 
-AUDIO DESCRIPTION: P—H—I—L—I—P T—H—O—M—P—S—O—N, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+AUDIO DESCRIPTION: P-H-I-L-I-P    T-H-O-M-P-S-O-N,  called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 COURT OFFICER: Have a seat. Name and county of residence.
 
@@ -2334,7 +2334,7 @@ THE WITNESS: Philip Thompson, Montgomery County, Texas.
 
 THE COURT: Good morning. You may inquire.
 
-DIRECT EXAMINATION BY MS . MANGOLD:
+DIRECT EXAMINATION BY MS. MANGOLD:
 
 Q. Good morning, Mr. Thompson.
 
@@ -2500,7 +2500,7 @@ A. The transcripts would have been saved in their share file account.
 
 Q. What is a share file account in case people don't know?
 
-A. It's similar —— it's more popularly known as dropbox or Box.com. It is a secure way to store large or voluminous files.
+A. It's similar -- it's more popularly known as dropbox or Box.com. It is a secure way to store large or voluminous files.
 
 Q. In what ways was it secured?
 
@@ -2538,7 +2538,7 @@ Q. And did TSG keep a record of any corrections by a witness to a deposition?
 
 A. Yes.
 
-Q. Does Esquire and TSG —— as part of Esquire, do they make and keep deposition transcripts and videos in the regular course of business?
+Q. Does Esquire and TSG -- as part of Esquire, do they make and keep deposition transcripts and videos in the regular course of business?
 
 A. Yes, we do.
 
@@ -2590,7 +2590,7 @@ Q. Did Esquire have a record of the witness admitting any connections to that tr
 
 A. We do not have a record of that.
 
-Q. Did Esquire confirm that the transcripts produced to the Manhattan District Attorney's office —— did you confirm they were exact copies of the originals?
+Q. Did Esquire confirm that the transcripts produced to the Manhattan District Attorney's office -- did you confirm they were exact copies of the originals?
 
 A. Yes.
 
@@ -2646,7 +2646,7 @@ Q. Did you also review what's been marked for identification as People's Exhibit
 
 A. I did.
 
-Q. Did those contain —— were those portions of the transcript from the same deposition?
+Q. Did those contain -- were those portions of the transcript from the same deposition?
 
 A. They were.
 
@@ -2666,7 +2666,7 @@ MR. BLANCHE: No objection.
 
 THE COURT: There being no objection, the exhibits are accepted into evidence.
 
-AUDIO DESCRIPTION: whereupon, People's Exhibits 403A, 403B, 404, 404A, 404B and 404C were admitted into evidence.
+AUDIO DESCRIPTION: Whereupon, People's Exhibits 403A, 403B, 404, 404A, 404B and 404C were admitted into evidence.
 
 MS. MANGOLD: Can we please display for everybody what is in evidence as People's Exhibit 404.
 
@@ -2678,19 +2678,19 @@ A. I do.
 
 Q. What is this document?
 
-A. This is the cover page for the deposition —— video deposition of Donald J. Trump.
+A. This is the cover page for the deposition -- video deposition of Donald J. Trump.
 
-Q. Do you see in the top right—hand corner there is a page number?
+Q. Do you see in the top right-hand corner there is a page number?
 
 A. I do.
 
-Q. And along the left hand—side of the page, do you see numbers 1 through 25?
+Q. And along the left hand-side of the page, do you see numbers 1 through 25?
 
 A. Yes, I do.
 
-Q. What are those numbers on the left—hand side of the page?
+Q. What are those numbers on the left-hand side of the page?
 
-A. Those are line numbers. On every deposition transcript —— in this state the format is 25 lines per page. So there are 25 lines on this page as well.
+A. Those are line numbers. On every deposition transcript -- in this state the format is 25 lines per page. So there are 25 lines on this page as well.
 
 Q. Looking at the bottom of the page, does it indicate what court reporting company produced this transcript?
 
@@ -2714,7 +2714,7 @@ A. I do.
 
 Q. What is the case number?
 
-A. Case Number 2OCIB.7311.
+A. Case Number 20CIB.7311.
 
 Q. Do you know what CIB stands for?
 
@@ -2746,9 +2746,9 @@ A. It does.
 
 Q. You don't need to read the whole address.
 
-A. The Mar—a—Lago Club.
+A. The Mar-a-Lago Club.
 
-Q. In looking at the bottom left—hand portion of the page, without reading the name, does it designate there was a court reporter present at the deposition?
+Q. In looking at the bottom left-hand portion of the page, without reading the name, does it designate there was a court reporter present at the deposition?
 
 A. It does.
 
@@ -2756,7 +2756,7 @@ Q. Turning now to Page 2 of the PDF. Does this page indicate there was a videogr
 
 A. It does.
 
-Q. Turning to Page 3 of the PDF. What page number is indicated in the top right—hand corner?
+Q. Turning to Page 3 of the PDF. What page number is indicated in the top right-hand corner?
 
 A. Page 219.
 
@@ -2782,13 +2782,13 @@ A. It is.
 
 MS. MANGOLD: Can we now show the jury what is in evidence as People's Exhibit 403A.
 
-AUDIO DESCRIPTION: whereupon, audio recording was played in open court.
+AUDIO DESCRIPTION: Whereupon, audio recording was played in open court.
 
 MS. MANGOLD: Can we now display for the jury what is in evidence as People's Exhibit 404A.
 
 AUDIO DESCRIPTION: Displayed.
 
-Q. Mr. Thompson, do you see that there are —— well, what is this?
+Q. Mr. Thompson, do you see that there are -- well, what is this?
 
 A. This appears to be pages from the deposition that have been redacted.
 
@@ -2798,7 +2798,7 @@ A. Page 125 and Page 126.
 
 Q. Can you read just the unredacted portion of this from, Page 125, line 2 through Page 126, line 3?
 
-A. Yes. "QUESTION: What is Truth Social? "ANSWER: It's a platform that's been open by me as an alternative to Twitter. "QUESTION: And your handle on Truth Social is 'At Real Donald Trump?’ "ANSWER: I believe so, yes." Is this the official written record of the portion of the deposition video that we just saw?
+A. Yes. "QUESTION:  What is Truth Social? "ANSWER:  It's a platform that's been open by me as an alternative to Twitter. "QUESTION:  And your handle on Truth Social is 'At Real Donald Trump?' "ANSWER:  I believe so, yes." Is this the official written record of the portion of the deposition video that we just saw?
 
 A. It is.
 
@@ -2816,7 +2816,7 @@ A. Yes.
 
 Q. Can you read the unredacted portions from lines 3 to 9.
 
-A. Sure. "QUESTION: Your current wife is Melania Trump? "ANSWER: That is correct, yes. "QUESTION: And you married her, according to my records, in 2005? "ANSWER: Yes. "QUESTION: And you're still married to her today? "ANSWER: Yes." Is this the official written record of the portion of the deposition that we just saw in the video?
+A. Sure. "QUESTION:  Your current wife is Melania Trump? "ANSWER:  That is correct, yes. "QUESTION:  And you married her, according to my records, in 2005? "ANSWER:  Yes. "QUESTION:  And you're still married to her today? "ANSWER:  Yes." Is this the official written record of the portion of the deposition that we just saw in the video?
 
 A. It is.
 
@@ -2830,7 +2830,7 @@ A. It is.
 
 Q. Can you please read the unredacted portion from Page 168, line 19 through 169, line 9.
 
-A. Yes. By Ms. Kaplan: "QUESTION: Are you familiar, I'm sure you are, with something that is often referred to as the Access Hollywood tape?" "ANSWER: Yes. "MS. KAPLAN: Okay. Let's mark it and play it as 35. And I apologize, I am hoping the technology works better. "Parenthetical DJT Exhibit 35 is marked for identification. "Another parenthetical: Video played. "MS. KAPLAN: That's you in that video speaking? "ANSWER: Yes, correct." On the second page, where you see the parenthesis, can you tell the jury what the parenthesis is?
+A. Yes. By Ms. Kaplan: "QUESTION:  Are you familiar, I'm sure you are, with something that is often referred to as the Access Hollywood tape?" "ANSWER:  Yes. "MS. KAPLAN:  Okay. Let's mark it and play it as 35. And I apologize, I am hoping the technology works better. "Parenthetical DJT Exhibit 35 is marked for identification. "Another parenthetical:  Video played. "MS. KAPLAN:  That's you in that video speaking? "ANSWER:  Yes, correct." On the second page, where you see the parenthesis, can you tell the jury what the parenthesis is?
 
 A. It denotes an action that happened that is not a verbal response.
 
@@ -2864,13 +2864,13 @@ THE CLERK: Do you solemnly swear or affirm that the testimony that you are going
 
 THE WITNESS: I do.
 
-AUDIO DESCRIPTION: K—E—I—T—H D—A—V—I—D—S—O—N, called as witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+AUDIO DESCRIPTION: K-E-I-T-H   D-A-V-I-D-S-O-N,  called as witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
 
 THE CLERK: Have a seat.
 
 COURT OFFICER: State your full name, spelling your last name.
 
-THE WITNESS: Keith Davidson, D—A—V—I—D—S—O—N.
+THE WITNESS: Keith Davidson, D-A-V-I-D-S-O-N.
 
 THE COURT: Your county of residence.
 
@@ -2880,7 +2880,7 @@ THE COURT: Good afternoon.
 
 MR. STEINGLASS: Thank you, Judge.
 
-DIRECT EXAMINATION BY MR . STE INGLASS :
+DIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q. Good afternoon, Mr. Davidson.
 
@@ -2888,7 +2888,7 @@ A. Good afternoon.
 
 Q. Can you tell us how old you are?
 
-A. Fifty—three.
+A. Fifty-three.
 
 Q. Are you married?
 
@@ -2896,7 +2896,7 @@ A. Yes.
 
 Q. How long have you been married?
 
-A. Twenty—five years.
+A. Twenty-five years.
 
 Q. Do you have any children?
 
@@ -3020,7 +3020,7 @@ A. I do.
 
 Q. Can you explain to the jury, who is Gina Rodriguez?
 
-A. Gina Rodriguez is a talent manager in Los Angeles. She manages talent, and really I think the majority of her clients are reality—type talent.
+A. Gina Rodriguez is a talent manager in Los Angeles. She manages talent, and really I think the majority of her clients are reality-type talent.
 
 Q. When you say "reality type talent," you are talking about reality television?
 
@@ -3030,7 +3030,7 @@ Q. How do you know Gina Rodriguez?
 
 A. I can't recall. I have known Gina for well over ten years.
 
-Q. And —— withdrawn. Have you at times during your relationship represented Gina Davidson in certain matters?
+Q. And -- withdrawn. Have you at times during your relationship represented Gina Davidson in certain matters?
 
 A. I have represented Gina Rodriguez in certain matters.
 
@@ -3132,7 +3132,7 @@ A. Yes.
 
 Q. What date is that?
 
-A. Today's April —— April 30th.
+A. Today's April -- April 30th.
 
 Q. Did you briefly have the opportunity to examine the contents of that drive?
 
@@ -3198,7 +3198,7 @@ Q. Are you a custodian of your law firm's business records?
 
 A. I am.
 
-Q. Did you produce each of the records, I am speaking specifically of People's Exhibits 276 through 286 —— are each of those records produced by you pursuant to a subpoena by the New York County District Attorney's office?
+Q. Did you produce each of the records, I am speaking specifically of People's Exhibits 276 through 286 -- are each of those records produced by you pursuant to a subpoena by the New York County District Attorney's office?
 
 A. They were produced pursuant to a subpoena.
 
@@ -3232,7 +3232,7 @@ MR. BOVE: No objection.
 
 THE COURT: People's 276 through 286 and 62 through 65 are received into evidence.
 
-AUDIO DESCRIPTION: whereupon, People's Exhibits 276 through 286, and 62 through 65 were received into evidence.
+AUDIO DESCRIPTION: Whereupon, People's Exhibits 276 through 286, and 62 through 65 were received into evidence.
 
 Q. Do you know somebody named Karen McDougal?
 
@@ -3268,7 +3268,7 @@ A. Yes.
 
 Q. Can you tell us, please?
 
-A. Her former brother—in—law was a client of mine and her former brother—in—law, by the name of Jay Grdina, made the introduction or the re—introduction between Karen and I.
+A. Her former brother-in-law was a client of mine and her former brother-in-law, by the name of Jay Grdina, made the introduction or the re-introduction between Karen and I.
 
 AUDIO DESCRIPTION: Displayed.
 
@@ -3302,15 +3302,15 @@ A. Yes.
 
 Q. I am going to ask that we blow up Paragraph 2. I am going to ask you to read that for us.
 
-A. Paragraph 2: Scope of Services: Client is hiring attorney to represent client in the matter of client's claims against Donald Trump, and/or assisting client in negotiating a confidential agreement and other live rights related to actions with Donald Trump, and/or negotiating an assignment with exclusive press opportunities regarding the same.
+A. Paragraph 2:  Scope of Services: Client is hiring attorney to represent client in the matter of client's claims against Donald Trump, and/or assisting client in negotiating a confidential agreement and other live rights related to actions with Donald Trump, and/or negotiating an assignment with exclusive press opportunities regarding the same.
 
 Q. Can you translate that for us?
 
 A. I was to provide legal services to Karen McDougal and provide advice and counsel to her surrounding a personal interaction she had allegedly had with Donald Trump.
 
-AUDIO DESCRIPTION: Whereupon, Theresa Magniccari, Senior Court Reporter was lieved by Laurie Eisenberg, as Senior Court Reporter.
+AUDIO DESCRIPTION: Whereupon, Theresa Magniccari, Senior Court Reporter wa
 
-Q And is one of the ways in which —— withdrawn. This paragraph is entitled Scope of Services; correct?
+Q And is one of the ways in which -- withdrawn. This paragraph is entitled Scope of Services; correct?
 
 A Yes.
 
@@ -3320,17 +3320,17 @@ A That's true.
 
 Q What does that mean, "negotiating the assignment of exclusive press opportunities"?
 
-A (Pause) At that time, in mid—Two—Thousand—Teens or so, media outlets, both traditional and tabloid, would, often times, enter into exclusive arrangements where someone would provide an exclusive content to that media outlet in exchange for money.
+A (Pause) At that time, in mid-Two-Thousand-Teens or so, media outlets, both traditional and tabloid, would, often times, enter into exclusive arrangements where someone would provide an exclusive content to that media outlet in exchange for money.
 
-Q And did you —— you wrote this Retainer Agreement; correct?
+Q And did you -- you wrote this Retainer Agreement; correct?
 
 A I believe so.
 
-Q And did you contemplate —— withdrawn. Did you discuss with Ms. McDougal the fact that you were authorized to negotiate on her behalf in dealing with various media outlets?
+Q And did you contemplate -- withdrawn. Did you discuss with Ms. McDougal the fact that you were authorized to negotiate on her behalf in dealing with various media outlets?
 
 A I can't and won't discuss what I discussed with Ms. McDougal. I think that the paragraph speaks for itself.
 
-Q Okay. Thank you for pointing that out. So, let me ask the question a different way. Did this Agreement —— did you interpret this Agreement as authorizing you to interact and negotiate with media companies on your client's behalf?
+Q Okay. Thank you for pointing that out. So, let me ask the question a different way. Did this Agreement -- did you interpret this Agreement as authorizing you to interact and negotiate with media companies on your client's behalf?
 
 A Yes.
 
@@ -3348,7 +3348,7 @@ A No.
 
 Q I'm going to show you what is already in evidence and can be displayed to everyone as People's Exhibit 176A.
 
-AUDIO DESCRIPTION: whereupon, People's Exhibits are shown on the screens throughout the following testimonyz
+AUDIO DESCRIPTION: Whereupon, People's Exhibits are shown on the screens throughout the following testimony:
 
 Q I'm going to ask you if you recognize this series of messages to be texts between yourself and Dylan Howard from the year 2016?
 
@@ -3368,9 +3368,9 @@ A I do not.
 
 Q Okay.
 
-MR. STEINGLASS: I am going to ask that we blow up the last two text boxes —— I mean, the last —— the last column, the first two boxes in the last column. Lines 111 through 112.
+MR. STEINGLASS: I am going to ask that we blow up the last two text boxes -- I mean, the last -- the last column, the first two boxes in the last column. Lines 111 through 112.
 
-Q Let me ask you, first, can you tell what time zone these —— the date and timestamp is in?
+Q Let me ask you, first, can you tell what time zone these -- the date and timestamp is in?
 
 A I think it's UTC.
 
@@ -3402,7 +3402,7 @@ Q What did you mean by that?
 
 A Sort of an entree or teaser to Dylan to let him know that I had, perhaps, an opportunity for him.
 
-Q And what was the —— generally speaking, and certainly without revealing client confidences, what was the opportunity about which you were contacting him?
+Q And what was the -- generally speaking, and certainly without revealing client confidences, what was the opportunity about which you were contacting him?
 
 A Regarding the interaction between Karen McDougal and Donald Trump.
 
@@ -3416,7 +3416,7 @@ A That he would call me in the morning.
 
 Q What did you understand the rest of the text to mean?
 
-A That —— I don't know if I had a clear understanding at that time, but I knew that Dylan's boss, David Pecker, and Mr. Trump were long—time friends and had a former business relationship, that Mr. Pecker published Trump Magazine, and that at the time AMI had announced —— they hadn't announced explicitly, at least impliedly, that they had endorsed Mr. Trump's candidacy.
+A That -- I don't know if I had a clear understanding at that time, but I knew that Dylan's boss, David Pecker, and Mr. Trump were long-time friends and had a former business relationship, that Mr. Pecker published Trump Magazine, and that at the time AMI had announced -- they hadn't announced explicitly, at least impliedly, that they had endorsed Mr. Trump's candidacy.
 
 Q So, Mr. Howard said, "Talk 1st thing." Did you, in fact, speak with Mr. Howard the following morning?
 
@@ -3430,7 +3430,7 @@ Q During the course of those text messages, were there also times when you spoke
 
 A Yes.
 
-Q So, I want to display some more texts from this exhibit, also still on Page 1 —— I'm just going to ask you to tell us who says what here.
+Q So, I want to display some more texts from this exhibit, also still on Page 1 -- I'm just going to ask you to tell us who says what here.
 
 A You would like me to read these texts?
 
@@ -3496,7 +3496,7 @@ A I was.
 
 Q Okay. Let's see if some more texts in this chain can help refresh your recollection.
 
-MR. STEINGLASS: Switch to Page 2, Line 11 —— 11140.
+MR. STEINGLASS: Switch to Page 2, Line 11 -- 11140.
 
 AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
@@ -3530,19 +3530,19 @@ A I can summarize it.
 
 Q That's fine.
 
-A Ms. McDougal alleged that she had had a —— a romantic affair with Donald Trump some years prior.
+A Ms. McDougal alleged that she had had a -- a romantic affair with Donald Trump some years prior.
 
-Q And —— withdrawn. When you say "romantic", does that include sexual?
+Q And -- withdrawn. When you say "romantic", does that include sexual?
 
 A That's what she expressed.
 
-Q And do you know how long that romantic and sexual affair lasted —— withdrawn. As a result of what Ms. McDougal said in that meeting, which was non—privileged, do you know how long that affair lasted for or how long she said it lasted for?
+Q And do you know how long that romantic and sexual affair lasted -- withdrawn. As a result of what Ms. McDougal said in that meeting, which was non-privileged, do you know how long that affair lasted for or how long she said it lasted for?
 
 A I can't recall, specifically. It was several weeks to months, if not more. I can't recall, specifically.
 
 Q Okay. Now, generally speaking, Mr. Davidson, what was the purpose of this meeting between your client and Dylan Howard?
 
-A It was sort of a proffer session where —— where Ms. McDougal would —— under agreement that nothing was to be published, where Ms. McDougal would tell her story to Dylan Howard on behalf of AMI, so that Dylan could gauge interest in the story, whether or not AMI did or did not have interest in this story.
+A It was sort of a proffer session where -- where Ms. McDougal would -- under agreement that nothing was to be published, where Ms. McDougal would tell her story to Dylan Howard on behalf of AMI, so that Dylan could gauge interest in the story, whether or not AMI did or did not have interest in this story.
 
 Q Now, did the meeting result in an immediate deal with AMI?
 
@@ -3550,7 +3550,7 @@ A No, it did not.
 
 Q How did you leave it with Dylan Howard?
 
-A Um, Dylan wanted to —— to return to New York, um, run it up the flagpole, and stated that he would get back to me.
+A Um, Dylan wanted to -- to return to New York, um, run it up the flagpole, and stated that he would get back to me.
 
 Q When you say "run it up the flagpole", who, to your knowledge, was higher at AMI, higher than Dylan Howard?
 
@@ -3558,7 +3558,7 @@ A It's my understanding that the only one higher than Dylan Howard at AMI was Da
 
 Q So, very generally speaking, in the weeks that followed, what happened after that?
 
-A I think Dylan —— the first entree, if you will, was that Dylan stated that AMI was not interested at that time because Karen lacked —— excuse me —— Karen, Karen McDougal lacked documentary evidence of the interaction.
+A I think Dylan -- the first entree, if you will, was that Dylan stated that AMI was not interested at that time because Karen lacked -- excuse me -- Karen, Karen McDougal lacked documentary evidence of the interaction.
 
 Q So, how did you leave it?
 
@@ -3566,17 +3566,17 @@ A Um, I think we just said we would keep in touch.
 
 Q Okay. So, let me show you some more of these texts, and I'll blow up Page 4, Lines 11116 and 67.
 
-AUDIO DESCRIPTION: Whereupon, further exhibits are shown on the screens throughout the following testimonyz
+AUDIO DESCRIPTION: Whereupon, further exhibits are shown on the screens throughout the following testimony:
 
 Q I'm going to ask you again to read us these texts and tell us who sent them.
 
-A This is June 27th, from me to Dylan Howard. "It's a story" —— misspelling, but —— "a story that should be told."
+A This is June 27th, from me to Dylan Howard. "It's a story" -- misspelling, but -- "a story that should be told."
 
-Q Just to clarify for the record, the body of the text actually says: "It's a story hat should be told." You're saying that's a typo, and it should be, "It's a story that should be told"?
+Q Just to clarify for the record, the body of the text actually says:  "It's a story hat should be told." You're saying that's a typo, and it should be, "It's a story that should be told"?
 
 A Yes. Correct.
 
-Q How —— withdrawn. What "story" were you referring to?
+Q How -- withdrawn. What "story" were you referring to?
 
 A The interaction between Ms. McDougal and Mr. Trump.
 
@@ -3586,25 +3586,25 @@ A "I agree."
 
 Q Now, moving to some later texts on this page, we'll blow them up, Lines 11227 through 31. I'll ask you, first of all, what is the date of this particular exchange?
 
-A June 2lst.
+A June 21st.
 
 Q You sure about that month?
 
-A July. July 2lst.
+A July. July 21st.
 
 Q So, it had been some time at this point?
 
 A That's right.
 
-Q What —— who sent what and when?
+Q What -- who sent what and when?
 
 A This is from Dylan Howard: "Let's talk DT, slash, Ross tomorrow. I think this is the entree for me to go back to them."
 
-Q To reiterate, Mr. Davidson, during this period, the —— more than a month had passed since your June 20th meeting with Dylan Howard, and your client, and the others in your offices. Were you in phone communication with Dylan Howard, as well, during this time?
+Q To reiterate, Mr. Davidson, during this period, the -- more than a month had passed since your June 20th meeting with Dylan Howard, and your client, and the others in your offices. Were you in phone communication with Dylan Howard, as well, during this time?
 
 A Yes.
 
-Q And so, when —— first of all, I'm going to ask you, what did you understand it to mean when Dylan Howard wrote, "Let's talk DT, slash, Ross tomorrow"? Who's "DT"? What's "DT"?
+Q And so, when -- first of all, I'm going to ask you, what did you understand it to mean when Dylan Howard wrote, "Let's talk DT, slash, Ross tomorrow"? Who's "DT"? What's "DT"?
 
 A My understanding was it was Donald Trump.
 
@@ -3632,11 +3632,11 @@ Q What did you mean by that?
 
 A At the time, as is often the case with negotiations, I was trying to play two entities off of each other.
 
-Q And what's the —— what's the objective?
+Q And what's the -- what's the objective?
 
 A To create a sense of urgency, if you will.
 
-Q And —— withdrawn. Is there anything wrong with that?
+Q And -- withdrawn. Is there anything wrong with that?
 
 A No.
 
@@ -3646,13 +3646,13 @@ A I don't understand your question.
 
 Q Yeah. I'm not sure I do, either. You've been a lawyer for how long?
 
-A Twenty—four years.
+A Twenty-four years.
 
 Q Is there anything wrong with a lawyer negotiating on behalf of their client to get the best possible deal for their client?
 
 A I think that's our duty.
 
-Q And did you View it as your duty to try to get the best deal you could for your client at the time?
+Q And did you view it as your duty to try to get the best deal you could for your client at the time?
 
 A Yes.
 
@@ -3666,7 +3666,7 @@ A That's fair.
 
 Q Okay. Keep going, please.
 
-A This is from me to Dylan Howard: "Will do."
+A This is from me to Dylan Howard:  "Will do."
 
 Q What did Dylan Howard say?
 
@@ -3680,21 +3680,21 @@ Q What do you understand that to mean? Who had Dylan Howard emailed?
 
 A Perhaps, David Pecker.
 
-Q Okay. So, directing your attention to the last blown—up line on Page 4, is this another exchange between you and Dylan Howard?
+Q Okay. So, directing your attention to the last blown-up line on Page 4, is this another exchange between you and Dylan Howard?
 
 A Yes.
 
 Q And who wrote this?
 
-A This is from Dylan Howard —— no. This is from me.
+A This is from Dylan Howard -- no. This is from me.
 
 Q On what day?
 
 A July 22nd.
 
-Q And what's the body of the email or —— sorry —— the body of the text?
+Q And what's the body of the email or -- sorry -- the body of the text?
 
-A "Don't forget about Cohen. Time is of the essence. The girl is being cornered" —— this is —— "the girl is being cornered by the estrogen mafia."
+A "Don't forget about Cohen. Time is of the essence. The girl is being cornered" -- this is -- "the girl is being cornered by the estrogen mafia."
 
 Q So, who is "Cohen" in this email?
 
@@ -3704,11 +3704,11 @@ Q And what did you mean by "time is of the essence"? The same as the "better be 
 
 A Yeah. I think, at the time, Karen was sort of teetering. She was about to enter into a deal with ABC.
 
-Q And what did you mean by ”The girl is being cornered by the estrogen mafia"?
+Q And what did you mean by "The girl is being cornered by the estrogen mafia"?
 
-A It's a very unfortunate, regrettable text I sent. That phrase is —— is not one that I used or came up with. That —— that term, I think, by one of —— one of Karen's ——
+A It's a very unfortunate, regrettable text I sent. That phrase is -- is not one that I used or came up with. That -- that term, I think, by one of -- one of Karen's --
 
-AUDIO DESCRIPTION: witness clears throat) —— associates that was at that first meeting. There was several women who were, um, leaning on Karen to sign the deal with ABC
+AUDIO DESCRIPTION: witness clears throat) -- associates that was at that first meeting. There was several women who were, um, leaning on Karen to sign the deal with ABC
 
 Q So, taken as a whole, is this text another effort to spur Dylan Howard into action?
 
@@ -3744,7 +3744,7 @@ A Karen had expressed at that initial meeting that she had three goals that she 
 
 Q What were the three goals?
 
-A To rejuvenate her career, one. To —— to make money, two. And, three, um, to avoid telling a story and being termed "the scarlet letter", becoming "the scarlet letter"; the, quote, "other woman".
+A To rejuvenate her career, one. To -- to make money, two. And, three, um, to avoid telling a story and being termed "the scarlet letter", becoming "the scarlet letter"; the, quote, "other woman".
 
 Q So, if possible, Ms. McDougal did not want to have to tell her story?
 
@@ -3758,11 +3758,11 @@ Q I'm not going to ask you about client confidences, so I'll just ask you this: 
 
 A Well, that was one of her stated goals, and that would be in alignment with one of her very important stated goals.
 
-Q So, Mr. Howard says: "Get me a price. All in," et cetera. How do you respond?
+Q So, Mr. Howard says:  "Get me a price. All in," et cetera. How do you respond?
 
 A It's a negotiation, and so I started high and threw out a million dollars. I said: "How about one million now and 75,000 a year for the next two years as a fitness correspondent for AMI and your related publications?"
 
-Q So, you —— you almost translated that text a little bit as you read it; right? The number "1M" you read as "one million"; is that correct?
+Q So, you -- you almost translated that text a little bit as you read it; right? The number "1M" you read as "one million"; is that correct?
 
 A Would you like me to read it?
 
@@ -3778,7 +3778,7 @@ Q I know this sounds silly, but "ur" is shorthand for the words "you are"?
 
 A Yes.
 
-Q And "pubs” is short for "publications"?
+Q And "pubs" is short for "publications"?
 
 A Yes.
 
@@ -3788,13 +3788,13 @@ A "I'll take it to them but thinking it's more hundreds than millions."
 
 Q What did you understand that to mean?
 
-A That was —— I should expect a counteroffer that was substantially less than a million.
+A That was -- I should expect a counteroffer that was substantially less than a million.
 
 Q Okay. And how did you respond to that?
 
 A "800,000 now and 100,000 per year for two years for a total of one million."
 
-Q Again, just to make a clear record —— I'm sorry I have to do that each time. "800" means "800,000"; "100" means "100,000"; and "1M" means "one million"?
+Q Again, just to make a clear record -- I'm sorry I have to do that each time. "800" means "800,000"; "100" means "100,000"; and "1M" means "one million"?
 
 A Yes.
 
@@ -3812,11 +3812,11 @@ A July 28th.
 
 Q Okay. And what do the texts say? Start with the first one you sent back.
 
-A This is from Dylan: "We are going to lay it on thick for her."
+A This is from Dylan:  "We are going to lay it on thick for her."
 
 Q What did you understand that to mean?
 
-A I think at this point in time, Karen was teetering between two competing deals, and we had requested a meeting where —— where each entity could make a pitch as to why they were the correct avenue for Karen.
+A I think at this point in time, Karen was teetering between two competing deals, and we had requested a meeting where -- where each entity could make a pitch as to why they were the correct avenue for Karen.
 
 Q Okay. And how did you respond to that?
 
@@ -3824,11 +3824,11 @@ A "Good. Throw in an ambassadorship for me. I'm thinking the Isle of Mann."
 
 Q What did you mean by that, Mr. Davidson?
 
-A It was sort of in jest. But, it was —— it was just a joke.
+A It was sort of in jest. But, it was -- it was just a joke.
 
-Q Um, so, what —— I'm trying to think about how to phrase this question. Why was that a joke? Why was that funny? What was going on in your mind when you made that joke?
+Q Um, so, what -- I'm trying to think about how to phrase this question. Why was that a joke? Why was that funny? What was going on in your mind when you made that joke?
 
-A Well, I don't think —— I don't think —— I don't even think the Isle of Mann is a country.
+A Well, I don't think -- I don't think -- I don't even think the Isle of Mann is a country.
 
 MR. STEINGLASS: (Laughs).
 
@@ -3838,7 +3838,7 @@ Q Can you just explain that a little bit more?
 
 A That, somehow, if Karen did this deal with AMI, that it would help Donald Trump's candidacy.
 
-Q And at the time that you sent that text in jest, did you understand that AMI was working with then—candidate Trump regarding your client?
+Q And at the time that you sent that text in jest, did you understand that AMI was working with then-candidate Trump regarding your client?
 
 A I don't know about that. I don't know that I had specific information that they were or not working with him. I knew that they had announced their support for Mr. Trump, but I don't know that they were working with him.
 
@@ -3860,27 +3860,27 @@ A Yes.
 
 Q What did you understand that to mean?
 
-A I —— I understand the first part, the first sentence. I'm not so sure I understand the second sentence.
+A I -- I understand the first part, the first sentence. I'm not so sure I understand the second sentence.
 
 Q Okay. Well, tell us about the part you do understand.
 
-A "She'll get more out of a deal with AMI than ABC," I think that's self—explanatory. And Dylan was making his case why they were the right avenue for Karen to choose.
+A "She'll get more out of a deal with AMI than ABC," I think that's self-explanatory. And Dylan was making his case why they were the right avenue for Karen to choose.
 
 Q Okay. How did you respond?
 
 A "I need this to happen."
 
-Q Now, Mr. Davidson, based on non—privileged communications to which you were privy, why did you need this to happen? Why did Karen McDougal prefer the AMI deal to the ABC deal?
+Q Now, Mr. Davidson, based on non-privileged communications to which you were privy, why did you need this to happen? Why did Karen McDougal prefer the AMI deal to the ABC deal?
 
-A Because she —— at that time —— at that time, based on non—privileged information, she had announced her desire to not tell the story about her interaction with Donald Trump.
+A Because she -- at that time -- at that time, based on non-privileged information, she had announced her desire to not tell the story about her interaction with Donald Trump.
 
-Q So that —— withdrawn. Part of the allure of the AMI deal was that she wouldn't have to; is that your understanding?
+Q So that -- withdrawn. Part of the allure of the AMI deal was that she wouldn't have to; is that your understanding?
 
 A Yes.
 
 Q I am showing you now People's 280 in evidence.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q I'm going to ask you if you recognize this?
 
@@ -3888,7 +3888,7 @@ A I do.
 
 Q What is it?
 
-A This is —— it's a meeting invitation, a Zoom invitation from me to Jay Grdina, Karen McDougal, and Dylan Howard.
+A This is -- it's a meeting invitation, a Zoom invitation from me to Jay Grdina, Karen McDougal, and Dylan Howard.
 
 Q You said "Zoom". Is it a video conference? Is Ring Central a video conferencing platform, much like Zoom?
 
@@ -3896,7 +3896,7 @@ A Yes.
 
 Q Who did you invite? You just told us. Did this meeting, in fact, take place on this day?
 
-A I believe —— it definitely took place. I assume it took place this day.
+A I believe -- it definitely took place. I assume it took place this day.
 
 Q The date of the invite was August 2, 2016?
 
@@ -3908,17 +3908,17 @@ THE COURT: Jurors, let's take our recess for lunch. I remind you, please, do not
 
 COURT OFFICER: All rise.
 
-AUDIO DESCRIPTION: whereupon, the jurors and the alternate jurors are excused.
+AUDIO DESCRIPTION: Whereupon, the jurors and the alternate jurors are excused.
 
 THE COURT: Thank you, sir. You can step down.
 
-AUDIO DESCRIPTION: whereupon, the witness is excused.
+AUDIO DESCRIPTION: Whereupon, the witness is excused.
 
 THE COURT: See you at 2:15.
 
-AUDIO DESCRIPTION: whereupon, a luncheon recess is taken.
+AUDIO DESCRIPTION: Whereupon, a luncheon recess is taken.
 
-AUDIO DESCRIPTION: whereupon, the case is recalled in the afternoon session.
+AUDIO DESCRIPTION: Whereupon, the case is recalled in the afternoon session.
 
 THE CLERK: Continuing case on trial, People v. Donald J. Trump. All parties are present.
 
@@ -3930,7 +3930,7 @@ THE COURT: Let's get the witness, please.
 
 COURT OFFICER: Witness entering.
 
-AUDIO DESCRIPTION: whereupon, the witness, Keith Davidson, having been previously duly sworn and/or affirmed, resumes the witness stand and testifies as follows:
+AUDIO DESCRIPTION: Whereupon, the witness, Keith Davidson, having been previously duly sworn and/or affirmed, resumes the witness stand and testifies as follows:
 
 THE COURT: I remind you, you're under oath. Let's get the jury, please.
 
@@ -3944,9 +3944,9 @@ MR. STEINGLASS: Thank you, Judge.
 
 CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
-Q Good afternoon, Mr. Howard [sic]. I just want to put —— that's the second time. Good afternoon, Mr. Davidson. I want to show you part of a text exchange we were looking at before lunch. This is from People's 176A, Lines —— Page 6, Lines 292 to 293.
+Q Good afternoon, Mr. Howard [sic]. I just want to put -- that's the second time. Good afternoon, Mr. Davidson. I want to show you part of a text exchange we were looking at before lunch. This is from People's 176A, Lines -- Page 6, Lines 292 to 293.
 
-AUDIO DESCRIPTION: whereupon, exhibits are shown on the screens throughout the following testimony.
+AUDIO DESCRIPTION: Whereupon, exhibits are shown on the screens throughout the following testimony.
 
 Q So, that last text that's sent on July 29th at 2:24 AM UTC time, is that text to you from Dylan Howard or the other way around?
 
@@ -3960,7 +3960,7 @@ Q You mean, "it" being the deal with Karen McDougal and AMI?
 
 A Yes, sir.
 
-Q Okay. Continuing on with this exhibit to the next page, Page 7, I'm going to blow up Lines 314 to 319. Again, I'll ask you to give us the date, the to and the from, and the substance of these emails —— texts.
+Q Okay. Continuing on with this exhibit to the next page, Page 7, I'm going to blow up Lines 314 to 319. Again, I'll ask you to give us the date, the to and the from, and the substance of these emails -- texts.
 
 A You want me to read right through all of them?
 
@@ -4010,7 +4010,7 @@ A Rhonda was with the Investigation Department at ABC News. She works or worked 
 
 Q Okay. How did he respond?
 
-A Dylan responded: "We are figuring out the mechanics of the deal already."
+A Dylan responded:  "We are figuring out the mechanics of the deal already."
 
 Q What did you understand that to mean?
 
@@ -4032,33 +4032,33 @@ Q Okay. Also, on Page 7, Lines 320 and 321, what is the date of this exchange?
 
 A August 5, 2016.
 
-Q And who sent the first text in this blown—up portion of these —— this exchange?
+Q And who sent the first text in this blown-up portion of these -- this exchange?
 
-A Dylan Howard to me. "Cameron's" —— excuse me. This is August 5, 2016. It's from me to Dylan.
+A Dylan Howard to me. "Cameron's" -- excuse me. This is August 5, 2016. It's from me to Dylan.
 
 Q Okay. What did you say?
 
-A "Cameron's agreement wasn't really even close to what we were expecting. Please review the red—line I just sent. Need to handle this quickly."
+A "Cameron's agreement wasn't really even close to what we were expecting. Please review the red-line I just sent. Need to handle this quickly."
 
 Q First of all, who is "Cameron"?
 
 A Cameron Stracher is General Counsel for AMI.
 
-Q What is a "red—line"?
+Q What is a "red-line"?
 
-A A "red—line" is just modifications or corrections to an editable document that's like —— it's a step along the way in modifying a document.
+A A "red-line" is just modifications or corrections to an editable document that's like -- it's a step along the way in modifying a document.
 
 Q So, what did you mean when you said that his agreement wasn't close to what you were expecting?
 
-A We had come to terms by this point with AMI on the deal points. And there was a Short—Form Agreement or at least deal points. And that that was negotiated between Dylan and I. And then Dylan, as a content editor, handed it off to the Legal Department at AMI, Cameron. And when the Short—Form Agreement or the deal points morphed into the Long—Form Agreement with Cameron, they didn't jive.
+A We had come to terms by this point with AMI on the deal points. And there was a Short-Form Agreement or at least deal points. And that that was negotiated between Dylan and I. And then Dylan, as a content editor, handed it off to the Legal Department at AMI, Cameron. And when the Short-Form Agreement or the deal points morphed into the Long-Form Agreement with Cameron, they didn't jive.
 
 Q So, do I understand you correctly to be saying that Cameron had sent you a contract, and it did not match your understanding of what you thought the deal was that had been negotiated between yourself and Mr. Howard?
 
 A Correct.
 
-Q So, when you refer to "the red—line", does that mean you made proposed changes to the contract they had sent over and sent it back?
+Q So, when you refer to "the red-line", does that mean you made proposed changes to the contract they had sent over and sent it back?
 
-A I believe so. But, it —— the red lines were either extremely extensive —— I mean, it was difficult to red—line something that didn't even closely resemble, I believe to my recollection, the deal points that we came up with.
+A I believe so. But, it -- the red lines were either extremely extensive -- I mean, it was difficult to red-line something that didn't even closely resemble, I believe to my recollection, the deal points that we came up with.
 
 Q And you ended the text by saying: "Need to handle this quickly." Why was there a need to "handle this quickly"?
 
@@ -4068,13 +4068,13 @@ Q And how, if at all, did Dylan Howard respond to your text?
 
 A "I asked Cam to call you."
 
-Q Continuing on to the next page and directing your attention to the blown—up line, which is 322. Did you send another text that same day?
+Q Continuing on to the next page and directing your attention to the blown-up line, which is 322. Did you send another text that same day?
 
 A Yes.
 
 Q And can you read us that text, please?
 
-A "He" —— this is from me to Dylan. "He wants me to call Cohen. You think that's okay? I've been trying like hell to avoid that."
+A "He" -- this is from me to Dylan. "He wants me to call Cohen. You think that's okay? I've been trying like hell to avoid that."
 
 Q What did you mean by that? First of all, who wanted you to call him?
 
@@ -4090,7 +4090,7 @@ A I did.
 
 Q Can you tell us about it?
 
-A Not only —— not only were we not on the same page between the Short—Form and the Long—Form, and then Dylan asked me to call Cameron; and I did call Cameron, and even when we spoke, we still weren't on the same page. I think I told him that. I know I told him that. I said, "Look, this agreement doesn't nearly comport to what was agreed to in the deal points." I think I was frustrated. He was frustrated, and he said, "Why don't you just call Cohen?"
+A Not only -- not only were we not on the same page between the Short-Form and the Long-Form, and then Dylan asked me to call Cameron; and I did call Cameron, and even when we spoke, we still weren't on the same page. I think I told him that. I know I told him that. I said, "Look, this agreement doesn't nearly comport to what was agreed to in the deal points." I think I was frustrated. He was frustrated, and he said, "Why don't you just call Cohen?"
 
 Q "He", meaning Cam suggested you call Cohen?
 
@@ -4098,7 +4098,7 @@ A Yes.
 
 Q Did you ask Mr. Stracher why he wanted you to call Michael Cohen if Michael Cohen had nothing to do with the deal?
 
-A I —— I believe so. I probably did. I don't have a specific recollection. I thought it was odd, certainly.
+A I -- I believe so. I probably did. I don't have a specific recollection. I thought it was odd, certainly.
 
 Q Sorry?
 
@@ -4106,9 +4106,9 @@ A I thought it was odd.
 
 Q And so, what did you mean when you said, "I've been trying like hell to avoid that?"
 
-A My first interaction with Michael Cohen was in 2011, regarding that blog post that we discussed earlier. And my interaction with him around that time in 2011 was —— was not pleasant or —— or constructive, and I didn't particularly like dealing with him. And that's why I was trying like hell to avoid talking to him.
+A My first interaction with Michael Cohen was in 2011, regarding that blog post that we discussed earlier. And my interaction with him around that time in 2011 was -- was not pleasant or -- or constructive, and I didn't particularly like dealing with him. And that's why I was trying like hell to avoid talking to him.
 
-Q Continuing on this text string from the same day, did —— I'm speaking, specifically, of Page 8, Lines 326 through 330. I'll just ask you to, again, read us through these texts, who sent them, and what they mean.
+Q Continuing on this text string from the same day, did -- I'm speaking, specifically, of Page 8, Lines 326 through 330. I'll just ask you to, again, read us through these texts, who sent them, and what they mean.
 
 A August 5th, from Dylan Howard to me: "Okay. We are paying."
 
@@ -4116,7 +4116,7 @@ Q Let me stop you right there for a second. What did you understand that to mean
 
 A That they were ready to pay for the deal.
 
-Q Okay. How did you respond? Or, how —— I guess, is that next text another text from Dylan Howard?
+Q Okay. How did you respond? Or, how -- I guess, is that next text another text from Dylan Howard?
 
 A Yes.
 
@@ -4130,17 +4130,17 @@ A "Fucken Jesus."
 
 Q You're quoting, so it's okay. Did you have any understanding of what that all meant, those three texts?
 
-A I think it was just a frustrating deal for everybody involved, and it was —— it was just a lot of, sort of, heavy lifting.
+A I think it was just a frustrating deal for everybody involved, and it was -- it was just a lot of, sort of, heavy lifting.
 
 Q And then what did you say?
 
-A "Yes —— I believe so. I told Cohen this never would have happened without you.”
+A "Yes -- I believe so. I told Cohen this never would have happened without you."
 
 Q How did Dylan Howard respond to that?
 
 A "He's hopeless. Oh well. Another one done."
 
-Q So, from this text exchange, does it appear —— let me ask this a different way. Did you call Cohen at some point in the middle of this text exchange?
+Q So, from this text exchange, does it appear -- let me ask this a different way. Did you call Cohen at some point in the middle of this text exchange?
 
 A I recall that I did, yes.
 
@@ -4148,9 +4148,9 @@ Q And did you discuss the Karen McDougal contract with him at all?
 
 A Yes.
 
-Q And I'll come back to exactly how that conversation went in a minute. I want to take a minute to show you Grand Jury —— I'm sorry —— to show you People's Exhibit 62, which is in evidence.
+Q And I'll come back to exactly how that conversation went in a minute. I want to take a minute to show you Grand Jury -- I'm sorry -- to show you People's Exhibit 62, which is in evidence.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q I'll just ask if you recognize this?
 
@@ -4172,7 +4172,7 @@ Q Do you know if you produced this document or if this was produced by The Trump
 
 A Sure.
 
-Q On the —— on the documents that you produced, do your Bates start with the letters KMD?
+Q On the -- on the documents that you produced, do your Bates start with the letters KMD?
 
 A It did.
 
@@ -4186,7 +4186,7 @@ A I'm not sure. I know I called him after the deal closed with AMI and Karen.
 
 Q This seems like a good opportunity to just tell us about the conversation you had with Michael Cohen.
 
-A I seem to recall that after the deal closed with Michael Cohen —— excuse me. After the deal closed with AMI, I called Michael Cohen. And I can't recall specifically whether —— maybe Dylan asked me to or something, but I called him and let him know, as a professional courtesy, that the deal involving his client had closed. And I told him, as I stated to you and Dylan Howard, that: "This deal wouldn't have happened without Dylan."
+A I seem to recall that after the deal closed with Michael Cohen -- excuse me. After the deal closed with AMI, I called Michael Cohen. And I can't recall specifically whether -- maybe Dylan asked me to or something, but I called him and let him know, as a professional courtesy, that the deal involving his client had closed. And I told him, as I stated to you and Dylan Howard, that: "This deal wouldn't have happened without Dylan."
 
 Q Now, you said that you called Michael Cohen as a professional courtesy because the deal involving his client closed. What client is that?
 
@@ -4204,7 +4204,7 @@ Q What was Michael Cohen's reaction when you told him that the deal was closed?
 
 A He was pleased.
 
-Q Now, that deal between AMI and Karen McDougal, did that eventually —— did the contract eventually get signed?
+Q Now, that deal between AMI and Karen McDougal, did that eventually -- did the contract eventually get signed?
 
 A Yes.
 
@@ -4212,7 +4212,7 @@ Q And, generally speaking, what were the terms?
 
 A There was a financial aspect of the deal. I think it was $150,000. It involved certain personal services that Karen would render to AMI, which included, um, magazine covers, weekly or monthly columns where she could write on subject matters that interested her, um, and I believe that was it.
 
-Q As part of that deal, did AMI acquire Karen McDougal's limited life story rights to any romantic, personal and/or physical relationship with any then—married man?
+Q As part of that deal, did AMI acquire Karen McDougal's limited life story rights to any romantic, personal and/or physical relationship with any then-married man?
 
 A Yes.
 
@@ -4228,7 +4228,7 @@ Q I am now showing you what's in evidence already as People's Exhibit 156.
 
 MR. STEINGLASS: Can you show them to everyone?
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q Is this the final deal signed between AMI and Karen McDougal?
 
@@ -4236,7 +4236,7 @@ A Assuming that it's signed.
 
 Q Well, we can skip to the last page, and I'll show you that.
 
-AUDIO DESCRIPTION: whereupon, another page of the exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, another page of the exhibit is shown on the screens.
 
 A Yes. This is the final deal.
 
@@ -4246,15 +4246,15 @@ A August 5, 2016.
 
 Q I am going to blow up Paragraph 3. I am just going to ask you to read it to yourself. You don't have to read the whole thing out loud. Read it to yourself, and let us know what you understood this paragraph to mean.
 
-AUDIO DESCRIPTION: whereupon, the witness reviews the exhibit on his screen.
+AUDIO DESCRIPTION: Whereupon, the witness reviews the exhibit on his screen.
 
 A Well, I'm ready.
 
 Q Okay. Can you tell us what it means?
 
-A That Karen had, in the process of entering into this contract with AMI, that she granted her Limited Life Rights related to the subject matter, any affairs she had with any then—married man to AMI. So that became, in effect, their intellectual property, their exclusive intellectual property.
+A That Karen had, in the process of entering into this contract with AMI, that she granted her Limited Life Rights related to the subject matter, any affairs she had with any then-married man to AMI. So that became, in effect, their intellectual property, their exclusive intellectual property.
 
-Q Now, based on non—privileged communications to which you were privy, was there a particular then—married man with whom you understood this to apply?
+Q Now, based on non-privileged communications to which you were privy, was there a particular then-married man with whom you understood this to apply?
 
 A Yes.
 
@@ -4272,7 +4272,7 @@ A 150,000.
 
 Q How much of that went to you?
 
-A Somewhere between —— I think 45 percent.
+A Somewhere between -- I think 45 percent.
 
 Q And Paragraph 5, can you read that paragraph out loud?
 
@@ -4284,7 +4284,7 @@ A Yes.
 
 Q What does this paragraph mean, Paragraph 5?
 
-A It means that it was really AMI's option as to whether or not they ever wanted to run the story of Karen's interaction with any then—married man or not. It was their option to either run it or not.
+A It means that it was really AMI's option as to whether or not they ever wanted to run the story of Karen's interaction with any then-married man or not. It was their option to either run it or not.
 
 Q Now, at the time this agreement was executed, did you believe AMI intended to publish the story?
 
@@ -4296,11 +4296,11 @@ A I believe it was stated.
 
 Q Stated by whom, if you remember?
 
-A AMI .
+A AMI.
 
 Q Did you have an understanding as to why AMI would be purchasing a story that they didn't intend to print?
 
-A I think there were two. I think one was —— one explanation that was given was that they were trying to build Karen into a brand and didn't want to diminish her reputation. And the second was more of an unspoken understanding that there was a close affiliation between David Pecker and Donald Trump, and that AMI would not run this story or any story related to Karen and Donald Trump as it would tend to hurt Donald Trump.
+A I think there were two. I think one was -- one explanation that was given was that they were trying to build Karen into a brand and didn't want to diminish her reputation. And the second was more of an unspoken understanding that there was a close affiliation between David Pecker and Donald Trump, and that AMI would not run this story or any story related to Karen and Donald Trump as it would tend to hurt Donald Trump.
 
 Q When you say "hurt Donald Trump", you mean hurt Donald Trump's campaign?
 
@@ -4308,13 +4308,13 @@ A Yes.
 
 Q Thank you. I want to show you Page 2, Paragraph 7.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q Again, I'm not going to ask you to read this whole paragraph out loud. You can just read it to yourself, and when you're done, maybe you can tell us what it means.
 
-AUDIO DESCRIPTION: whereupon, the witness reviews the exhibit on his screen.
+AUDIO DESCRIPTION: Whereupon, the witness reviews the exhibit on his screen.
 
-A This is really an Exclusivity paragraph. It means the rights that Karen was transferring to AMI were Exclusive, and she could not —— she could not —— she retained no intellectual property rights in the story for herself; and that's one. And, two, that she cannot transfer them, subsequently, to anybody else.
+A This is really an Exclusivity paragraph. It means the rights that Karen was transferring to AMI were Exclusive, and she could not -- she could not -- she retained no intellectual property rights in the story for herself; and that's one. And, two, that she cannot transfer them, subsequently, to anybody else.
 
 Q She no longer owned her own story?
 
@@ -4350,7 +4350,7 @@ MR. STEINGLASS: Can you blow up the bottom, please?
 
 A Yes. Yes.
 
-Q And ——
+Q And --
 
 MR. STEINGLASS: Can you blow up a little more of the bottom?
 
@@ -4362,7 +4362,7 @@ A Yeah. This is Johnny Crawford that we mentioned earlier, which is a notary. Au
 
 Q And who, if anyone, signed the Agreement on behalf of AMI?
 
-A I don't —— it looks to be Chief Content Officer, which would be Dylan Howard.
+A I don't -- it looks to be Chief Content Officer, which would be Dylan Howard.
 
 Q So, Dylan Howard's title is listed. Do you recognize whether or not that's his signature?
 
@@ -4370,13 +4370,13 @@ A Not particularly.
 
 Q Okay. Let's go back to People's 176A in evidence. Specifically, Page 9, Lines 357 to 61.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q I'm going to ask you, this is this another text exchange between you and Dylan Howard from August 5, 2016?
 
 A Yes.
 
-MR. STEINGLASS: Let me double—check one moment. I think I misspoke.
+MR. STEINGLASS: Let me double-check one moment. I think I misspoke.
 
 Q Is this a text exchange between you and Dylan Howard from August 8th of 2016?
 
@@ -4384,7 +4384,7 @@ A Yes. What was the date of that AMI? The 5th? That last exhibit?
 
 Q I don't want to testify. We can pull that back up. I believe you told us it was signed on August 6th. Let me show you the first page in terms of the Effective Date.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 A Fair enough. Thank you.
 
@@ -4402,11 +4402,11 @@ A Yes.
 
 Q And what do the texts say, please?
 
-A This is from me to Dylan: "1 am going to let ABC know that Karen has decided to keep her story quiet. I'm going to let them know that the family has begged and pleaded with her to not come out and that she has promised her family she wouldn't. I will have Karen ignore all of their calls. Any objection?"
+A This is from me to Dylan: "I am going to let ABC know that Karen has decided to keep her story quiet. I'm going to let them know that the family has begged and pleaded with her to not come out and that she has promised her family she wouldn't. I will have Karen ignore all of their calls. Any objection?"
 
 Q What did you mean by that?
 
-A I stated before we had parallel negotiations with AMI and ABC, and I needed to, sort of, off—board ABC. And I'll leave it at that.
+A I stated before we had parallel negotiations with AMI and ABC, and I needed to, sort of, off-board ABC. And I'll leave it at that.
 
 Q How did Dylan Howard respond?
 
@@ -4426,7 +4426,7 @@ A Yes.
 
 Q Had a potential role on Dancing With the Stars been part of the package that you were negotiating with ABC on behalf of Ms. McDougal?
 
-A It was discussed a lot. Um, and it was —— there was an inference that best efforts would be made to make that happen, but it was never guaranteed, and it was never part of the deal. But —— best —— best efforts were discussed.
+A It was discussed a lot. Um, and it was -- there was an inference that best efforts would be made to make that happen, but it was never guaranteed, and it was never part of the deal. But -- best -- best efforts were discussed.
 
 Q Okay. And how did Dylan respond?
 
@@ -4434,7 +4434,7 @@ A "Ha." A laugh.
 
 Q Did he send you another text?
 
-A Yes. "Payment will be made this week. FYI —— sooner rather than later. Is it going to you?"
+A Yes. "Payment will be made this week. FYI -- sooner rather than later. Is it going to you?"
 
 Q Okay. Thank you very much.
 
@@ -4460,11 +4460,11 @@ Q Got it. And what was your understanding of the relationship at the time betwee
 
 A Gina was a talent manager, and Stormy was talent.
 
-Q Was —— so, I guess my question is, was Gina Stormy's manager?
+Q Was -- so, I guess my question is, was Gina Stormy's manager?
 
 A Yes.
 
-Q When you said —— earlier, you told us about a 2011 encounter Gina had with Michael Cohen and also involved Stormy Daniels?
+Q When you said -- earlier, you told us about a 2011 encounter Gina had with Michael Cohen and also involved Stormy Daniels?
 
 A Yes.
 
@@ -4478,15 +4478,15 @@ A Yeah. But, most of my conversations, I believe, were with Gina.
 
 Q What, if anything, did you do on behalf of Stormy Daniels in 2011?
 
-A Sent a Cease—and—Desist Letter to the blog that we mentioned earlier, The Dirty.com.
+A Sent a Cease-and-Desist Letter to the blog that we mentioned earlier, The Dirty.com.
 
 Q So, the name of the blog is The Dirty.com?
 
 A Yes.
 
-Q What was the nature of the story that was on the blog that caused you to send the Cease—and—Desist Letter?
+Q What was the nature of the story that was on the blog that caused you to send the Cease-and-Desist Letter?
 
-A There was a blog post or a story posted on the website that stated that Stormy Daniels and Donald Trump had —— had some sort of a physical or romantic, um, interaction.
+A There was a blog post or a story posted on the website that stated that Stormy Daniels and Donald Trump had -- had some sort of a physical or romantic, um, interaction.
 
 Q So, you said that in connection with this effort on your part, that you had a conversation with Michael Cohen?
 
@@ -4494,13 +4494,13 @@ A Yes.
 
 Q Can you tell us how that came about and how that conversation went?
 
-A Yes. Michael Cohen —— the blog post had published. And, apparently —— or, I was informed that Gina had received a phone call from Michael Cohen. And the phone call that she received from Michael Cohen, I think it was a voicemail. I know it was a voicemail. And it might have either been a voicemail or a phone call that was answered by Gina's ex—husband. In any event, Gina called me up to tell me that: "Some jerk called me and was very, very aggressive and threatened to sue me. And I, um, would like you, Keith, to call this jerk back."
+A Yes. Michael Cohen -- the blog post had published. And, apparently -- or, I was informed that Gina had received a phone call from Michael Cohen. And the phone call that she received from Michael Cohen, I think it was a voicemail. I know it was a voicemail. And it might have either been a voicemail or a phone call that was answered by Gina's ex-husband. In any event, Gina called me up to tell me that: "Some jerk called me and was very, very aggressive and threatened to sue me. And I, um, would like you, Keith, to call this jerk back."
 
 Q I hate to ask it this way, but who was that "jerk"?
 
 A It was Michael Cohen.
 
-Q So, what happened when you called —— did you call Michael Cohen?
+Q So, what happened when you called -- did you call Michael Cohen?
 
 A I did.
 
@@ -4510,21 +4510,21 @@ A Gina provided me the number that he left, either with her ex or on the voicema
 
 Q What was the gist of what he was accusing you of?
 
-A (Pause) I don't think he was accusing us of anything. He was just screaming.
+A (Pause)  I don't think he was accusing us of anything. He was just screaming.
 
 Q Okay. What was he upset about?
 
-A He was upset that —— that the story on The Dirty.com got published, and he believed that Stormy Daniels was the source behind the story.
+A He was upset that -- that the story on The Dirty.com got published, and he believed that Stormy Daniels was the source behind the story.
 
 Q So, what did you tell him?
 
-A Well, finally, um, after he finished, I —— I explained to him that I was calling because my client, Stormy Daniels, did not want the story published, and I wanted to see if he had done anything to contact The Dirty to get that story taken down as of that time. He told me that he had not yet done anything. And then, when I told him that my client wanted it taken down, he was like: "Well, why don't you go have them do it and let me know how you make out."
+A Well, finally, um, after he finished, I -- I explained to him that I was calling because my client, Stormy Daniels, did not want the story published, and I wanted to see if he had done anything to contact The Dirty to get that story taken down as of that time. He told me that he had not yet done anything. And then, when I told him that my client wanted it taken down, he was like: "Well, why don't you go have them do it and let me know how you make out."
 
-Q How —— withdrawn. You said you sent a Cease—and—Desist Letter; right?
+Q How -- withdrawn. You said you sent a Cease-and-Desist Letter; right?
 
 A Yes.
 
-Q What happened as a result of you sending that Cease—and—Desist Letter?
+Q What happened as a result of you sending that Cease-and-Desist Letter?
 
 A I was successful in accomplishing my client's goals, in having that story taken down.
 
@@ -4536,9 +4536,9 @@ Q Now, in the Summer and Fall of 2016, did you resume representation of Stormy D
 
 A In the Summer of 2016?
 
-Q Yes. The Summer —— actually, I think the question was, Summer and Fall. You can clarify.
+Q Yes. The Summer -- actually, I think the question was, Summer and Fall. You can clarify.
 
-A I —— no, I don't believe so. I don't think it was until the Fall.
+A I -- no, I don't believe so. I don't think it was until the Fall.
 
 Q Okay. So, let me show you what's in evidence as People's 176A. This is that same set of text messages. I want to go back to Page 4; specifically, Lines 175 to 177.
 
@@ -4562,7 +4562,7 @@ A Part of Gina's role and responsibility or services that she provided was to mo
 
 Q And did you respond in some way?
 
-A I responded: "LOL —— she's trying to sell a story to you?", question mark.
+A I responded: "LOL -- she's trying to sell a story to you?", question mark.
 
 Q "LOL", is that texting lingo for "laugh out loud"?
 
@@ -4574,7 +4574,7 @@ A "Yep."
 
 Q How did you interpret that whole exchange? What did you interpret that to mean?
 
-A As I previously stated, that Gina was trying to —— was bringing this story back to market.
+A As I previously stated, that Gina was trying to -- was bringing this story back to market.
 
 Q And that she had contacted Dylan Howard about it?
 
@@ -4586,15 +4586,15 @@ A Yes.
 
 Q Can you explain that a little bit?
 
-A Um, well, in 2011, we know that The Dirty published their story. And I think I later learned that there was some other interest in 2011 from In Touch Magazine. Years went by. At least five years went by until that last text message with Dylan. Um, and, really, there was very little —— to Gina's dissatisfaction, very little interest in the story publishing or in the marketability of the story. Um, this —— this continued through the Summer from what I understand. I was not involved. But, through the Summer into the Fall, where there was still being very little interest, despite the fact that Mr. Trump's notoriety was gaining.
+A Um, well, in 2011, we know that The Dirty published their story. And I think I later learned that there was some other interest in 2011 from In Touch Magazine. Years went by. At least five years went by until that last text message with Dylan. Um, and, really, there was very little -- to Gina's dissatisfaction, very little interest in the story publishing or in the marketability of the story. Um, this -- this continued through the Summer from what I understand. I was not involved. But, through the Summer into the Fall, where there was still being very little interest, despite the fact that Mr. Trump's notoriety was gaining.
 
-Q Directing your attention to October 7th —— excuse me —— of 2016. Did you come to learn about the release of something that's known as the Access Hollywood tape?
+Q Directing your attention to October 7th -- excuse me -- of 2016. Did you come to learn about the release of something that's known as the Access Hollywood tape?
 
 A Yes.
 
 Q And, briefly, for the jury, what is the Access Hollywood tape?
 
-A The Access Hollywood tape, from what I understand, was —— was what's called a hot mic, which is a microphone that's recording. Um, and I think the insinuation when you say "hot mic" is it's live and recording, but perhaps unknown to the person who is mic'd. So, this was an incident where Donald Trump and Billy Bush was in the van. They were on the set of Access Hollywood, or it was released by Access Hollywood. I don't even know. There was an allegation that —— at least a record —— the hot mic recorded some statements by both men, um, that were troublesome.
+A The Access Hollywood tape, from what I understand, was -- was what's called a hot mic, which is a microphone that's recording. Um, and I think the insinuation when you say "hot mic" is it's live and recording, but perhaps unknown to the person who is mic'd. So, this was an incident where Donald Trump and Billy Bush was in the van. They were on the set of Access Hollywood, or it was released by Access Hollywood. I don't even know. There was an allegation that -- at least a record -- the hot mic recorded some statements by both men, um, that were troublesome.
 
 Q What impact, if any, did the release of the Access Hollywood tape have on interest in Stormy Daniels' story, so far as you were aware?
 
@@ -4602,11 +4602,11 @@ A So far as I'm aware, it had tremendous influence.
 
 Q Can you explain that a little bit to the jury, please?
 
-A Before —— yes. Before Access Hollywood tape, there was very little, if any interest, from what I understand, and Gina was trying to sell the Stormy Daniels/Donald Trump story. It wasn't until Access Hollywood that interest sort of reached a crescendo.
+A Before -- yes. Before Access Hollywood tape, there was very little, if any interest, from what I understand, and Gina was trying to sell the Stormy Daniels/Donald Trump story. It wasn't until Access Hollywood that interest sort of reached a crescendo.
 
 Q So, going back to People's 176A in evidence, specifically on Page 1761, Lines 482 to 494. Is this another text exchange between you and Dylan Howard on October 8th and October 9th of 2016?
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 A Yes.
 
@@ -4640,7 +4640,7 @@ A Yes.
 
 Q What did you say after that?
 
-A Well, this is the next day. It looks like from Keith to Dylan: ”Hi, the story is already out there."
+A Well, this is the next day. It looks like from Keith to Dylan: "Hi, the story is already out there."
 
 Q And did you send that along with a link to The Dirty.com?
 
@@ -4656,7 +4656,7 @@ A Yes.
 
 Q What did Dylan say at that point?
 
-A His response on October 9th was: "Yeah" —— excuse me. "Yeah, but her talking and taping blank is the final nail in the coffin. Dot dot dot. But he's —— he's fucked already."
+A His response on October 9th was: "Yeah" -- excuse me. "Yeah, but her talking and taping blank is the final nail in the coffin. Dot dot dot. But he's -- he's fucked already."
 
 Q What did you mean by that?
 
@@ -4670,7 +4670,7 @@ Q How could it get a lot worse?
 
 A If she made comment.
 
-Q In other words, The Dirty.com story was kind of a third—party account; that would be different from one of the participants in a sexual encounter publicly revealing the details of that?
+Q In other words, The Dirty.com story was kind of a third-party account; that would be different from one of the participants in a sexual encounter publicly revealing the details of that?
 
 A Precisely.
 
@@ -4704,9 +4704,9 @@ A Yes.
 
 Q And how did that conversation go?
 
-A I don't —— I don't recall. Other than what has already been displayed.
+A I don't -- I don't recall. Other than what has already been displayed.
 
-Q Okay. So, let me show you People's l78A in evidence.
+Q Okay. So, let me show you People's 178A in evidence.
 
 MR. STEINGLASS: So everyone can see it.
 
@@ -4724,11 +4724,11 @@ Q Did you answer that?
 
 A Yes. It is a record of texts between the three of us.
 
-MR. STEINGLASS: Can we just un—blow it up for one second?
+MR. STEINGLASS: Can we just un-blow it up for one second?
 
 Q How many texts are in this chain?
 
-A Two .
+A Two.
 
 MR. STEINGLASS: Now we can blow it back up. Thank you.
 
@@ -4742,11 +4742,11 @@ A Yes.
 
 Q And what is said during this text exchange?
 
-A This is authored by Dylan: "Keith, slash, Michael. Connecting you both in regards to that business opportunity. Spoke to the client this AM and they're confirmed to proceed with the opportunity. Thanks. Dylan."
+A This is authored by Dylan:  "Keith, slash, Michael. Connecting you both in regards to that business opportunity. Spoke to the client this AM and they're confirmed to proceed with the opportunity. Thanks. Dylan."
 
 Q What did you understand that to mean?
 
-A Well, prior to this text, like I said, Gina and Dylan had come to terms on an agreement that AMI had agreed to purchase this story for $120,000. Dylan and AMI backed out of that deal. It sort of fell apart. And Gina —— excuse me —— Dylan asked Gina to call Michael Cohen and finish the deal with him. And Gina refused. So, she asked me to call Cohen. And I refused. And then Dylan called me to convince me to call Cohen.
+A Well, prior to this text, like I said, Gina and Dylan had come to terms on an agreement that AMI had agreed to purchase this story for $120,000. Dylan and AMI backed out of that deal. It sort of fell apart. And Gina -- excuse me -- Dylan asked Gina to call Michael Cohen and finish the deal with him. And Gina refused. So, she asked me to call Cohen. And I refused. And then Dylan called me to convince me to call Cohen.
 
 Q So, can we just break that down?
 
@@ -4754,7 +4754,7 @@ A Sure.
 
 Q Though you didn't use pronouns, so that was helpful.
 
-A The moral of the story was: No one wanted to talk to Cohen.
+A The moral of the story was:  No one wanted to talk to Cohen.
 
 Q Okay.
 
@@ -4782,13 +4782,13 @@ A Michael Cohen and I.
 
 Q Going back to that first text for a moment, what did you understand Dylan to be saying when he said: "Spoke to the client this AM and they're confirmed to proceed with the opportunity"?
 
-A That he spoke to either Gina or Gina and Stormy, and that they were confirmed to proceed. He —— Dylan was washing his hands of the deal and sort of handing the deal over to —— first, Gina to close; and then she didn't want to do that; and, ultimately, me to close with Cohen.
+A That he spoke to either Gina or Gina and Stormy, and that they were confirmed to proceed. He -- Dylan was washing his hands of the deal and sort of handing the deal over to -- first, Gina to close; and then she didn't want to do that; and, ultimately, me to close with Cohen.
 
 Q What was your understanding of Michael Cohen's interest in the matter?
 
-A I believe that —— I believe that Michael Cohen was personal attorney or general counsel for Donald Trump, and that this story involved his client, and that was his interest in the story.
+A I believe that -- I believe that Michael Cohen was personal attorney or general counsel for Donald Trump, and that this story involved his client, and that was his interest in the story.
 
-Q Was it it unusual —— withdrawn. You said you had known Dylan Howard for years?
+Q Was it it unusual -- withdrawn. You said you had known Dylan Howard for years?
 
 A Yes.
 
@@ -4804,33 +4804,33 @@ Q So, did there come a time, after this, that you spoke with Michael Cohen about
 
 A Yes.
 
-Q And do you remember —— withdrawn. Tell us how that conversation went.
+Q And do you remember -- withdrawn. Tell us how that conversation went.
 
-A Well, it was different than 2011. Um. And, it was fairly conciliatory. The deal had already been cut at $120,000. And —— then, um, we —— we needed to pad the deal, um, to compensate me now, because I was added to the deal, and Stormy and Gina weren't gonna take a discount for involving me. So, that 120 became 130.
+A Well, it was different than 2011. Um. And, it was fairly conciliatory. The deal had already been cut at $120,000. And -- then, um, we -- we needed to pad the deal, um, to compensate me now, because I was added to the deal, and Stormy and Gina weren't gonna take a discount for involving me. So, that 120 became 130.
 
 Q So, when you say the deal is already cut at $120,000, it was cut between Stormy Daniels and AMI; right?
 
 A Yes.
 
-Q Was this the same deal in your mind, a different deal? How ——
+Q Was this the same deal in your mind, a different deal? How --
 
 A It was the same deal. They were going to acquire the intellectual property rights in this story, exclusive rights.
 
 Q But, instead of AMI purchasing it, it was now Michael Cohen, on behalf of Donald Trump?
 
-A Well, after AMI washed their hands of the deal and then they handed it —— handed it —— AMI handed it off to Cohen, they —— in essence, Michael Cohen stepped into AMI's shoes.
+A Well, after AMI washed their hands of the deal and then they handed it -- handed it -- AMI handed it off to Cohen, they -- in essence, Michael Cohen stepped into AMI's shoes.
 
 Q And at the time that you got involved, had Michael Cohen already stepped into AMI's shoes?
 
 A I believe so.
 
-Q Did you negotiate —— withdrawn. Did you —— you said you had to "pad the deal" so that you could get compensated; is that right?
+Q Did you negotiate -- withdrawn. Did you -- you said you had to "pad the deal" so that you could get compensated; is that right?
 
 A Yes.
 
 Q How did you "pad the deal" so you could get compensated?
 
-A Gina approached me. She said, "Hey, can we have this deal?" She said, "It's going to be the easiest deal you've ever done in your entire life." (Laughs). "It's already been negotiated. It's already done. All you need to do is paper it and talk to that asshole Cohen."
+A Gina approached me. She said, "Hey, can we have this deal?"  She said, "It's going to be the easiest deal you've ever done in your entire life."  (Laughs). "It's already been negotiated. It's already done. All you need to do is paper it and talk to that asshole Cohen."
 
 Q That's what Gina said?
 
@@ -4842,7 +4842,7 @@ A Yes. I never thought otherwise.
 
 Q And how did you change the terms of the deal that had previously been negotiated between Gina and Dylan Howard so that you would be compensated now that the deal was between Stormy Daniels and Michael Cohen?
 
-A I think a little of that happened even before my involvement, and there was a —— when Dylan washed his hands of it, um, he and Gina had a conversation. And —— and Gina said, "Well, look, we already have a deal of 120. If I need to bring a lawyer into this, our net is going to be reduced." And Dylan said, "Don't worry about it. We'll make the deal or Cohen will make the deal 150,000." And then Gina called me, engaged me. I called Cohen and picked it up.
+A I think a little of that happened even before my involvement, and there was a -- when Dylan washed his hands of it, um, he and Gina had a conversation. And -- and Gina said, "Well, look, we already have a deal of 120. If I need to bring a lawyer into this, our net is going to be reduced." And Dylan said, "Don't worry about it. We'll make the deal or Cohen will make the deal 150,000." And then Gina called me, engaged me. I called Cohen and picked it up.
 
 Q And what was the price that you agreed on with Michael Cohen?
 
@@ -4852,7 +4852,7 @@ Q I am now showing you People's Exhibit 63 in evidence. I'm going to display Pag
 
 MR. STEINGLASS: This is in evidence. Everyone can see it.
 
-AUDIO DESCRIPTION: whereupon, an exhibit is shown on the screens.
+AUDIO DESCRIPTION: Whereupon, an exhibit is shown on the screens.
 
 Q Do you recognize this?
 
@@ -4880,7 +4880,7 @@ A Side Letter Agreement; Confidential Settlement Agreement, and my firm's wiring
 
 Q Who were the parties to the Settlement Agreement?
 
-A It was Stormy Daniels on one side and —— you see the subject line "SD"?
+A It was Stormy Daniels on one side and -- you see the subject line "SD"?
 
 Q Yes.
 
@@ -4890,7 +4890,7 @@ Q What's "RCI"?
 
 A "RCI" was an LLC that Michael told me he was going to use to pay for this deal.
 
-Q Do you know what that —— off the top of your head, do you remember what that stands for?
+Q Do you know what that -- off the top of your head, do you remember what that stands for?
 
 A Resolution Consultants Incorporated, I believe.
 
@@ -4924,7 +4924,7 @@ Q How does he feel about you now?
 
 A He's very upset.
 
-AUDIO DESCRIPTION: whereupon, people laugh.
+AUDIO DESCRIPTION: Whereupon, people laugh.
 
 Q Now, one of the attachments that you mentioned was called a Side Letter Agreement, I believe you said?
 
@@ -4934,7 +4934,7 @@ Q What's a Side Letter Agreement?
 
 A The Side Letter Agreement is an addendum to an underlying contract, and, um, it has terms to the original contract.
 
-AUDIO DESCRIPTION: whereupon, Senior Court Reporter Theresa Magniccari relieves Senior Court Report Laurie Eisenberg, and the transcript continues on the following page.
+AUDIO DESCRIPTION: Whereupon, Senior Court Reporter Theresa Magniccari relieves Senior Court Report Laurie Eisenberg, and the transcript continues on the following page.
 
 AUDIO DESCRIPTION: The following proceedings are continued from previous page.
 
@@ -4942,13 +4942,13 @@ CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
 Q. And is what was the purpose of using a side letter agreement with this particular deal?
 
-A. The Side Letter Agreement —— the purpose for using a Side Letter Agreement, it uses like code words that are used in a military—like operation, so it ensures the further confidentiality in case a fully executed contract was lost or stolen. So even if that occurred, you wouldn't lose the confidential nature of the document. So the Side Letter Agreement is typically used in these cases to identify the identity of the true parties involved. And it's really for attorneys' eyes only.
+A. The Side Letter Agreement -- the purpose for using a Side Letter Agreement, it uses like code words that are used in a military-like operation, so it ensures the further confidentiality in case a fully executed contract was lost or stolen. So even if that occurred, you wouldn't lose the confidential nature of the document. So the Side Letter Agreement is typically used in these cases to identify the identity of the true parties involved. And it's really for attorneys' eyes only.
 
 Q. Okay. So, just to be clear, who were the two parties to this agreement, whose names, whose identities were being protected?
 
 A. Stormy Daniels and Donald Trump.
 
-Q. One of the attachments also to this email —— withdrawn. What did you say in the body of the email in which you transmitted these documents? Let's start with Paragraph 1.
+Q. One of the attachments also to this email -- withdrawn. What did you say in the body of the email in which you transmitted these documents? Let's start with Paragraph 1.
 
 A. Paragraph 1?
 
@@ -4958,7 +4958,7 @@ A. Would you like me to read it?
 
 Q. Please.
 
-A. "Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached.” "I have notified in the Side Letter Agreement (SLA)
+A. "Please fund Ms. Daniels' settlement agreement and Side Letter Agreement attached." "I have notified in the Side Letter Agreement (SLA)
 
 A. which identities the parties to this agreement." "Under the terms of the agreement, neither my client nor I are entitled to possession of the Side Letter Agreement." That's Paragraph 1.
 
@@ -5006,7 +5006,7 @@ Q. I'm showing you People's Exhibit 64 in evidence. Do you recognize this?
 
 A. Yes.
 
-Q. Is this an email —— withdrawn. What is this?
+Q. Is this an email -- withdrawn. What is this?
 
 A. This is an email from me to Michael Cohen.
 
@@ -5024,7 +5024,7 @@ A. Yes.
 
 Q. Let's start at the bottom. Can you describe what is said in this exchange?
 
-A. "We good.”
+A. "We good."
 
 Q. Who said that?
 
@@ -5036,7 +5036,7 @@ A. Yes. It's Yom Kippur, so the office is closed for all purposes. I will start 
 
 Q. How, if at all, did you respond to that?
 
-A. Because it was a holiday, I didn't feel the need to speak that day. I said: "It was not necessary to speak today." You should have all the —— "you should have all the executed documents a few days ago. Talk to you tomorrow."
+A. Because it was a holiday, I didn't feel the need to speak that day. I said:  "It was not necessary to speak today." You should have all the -- "you should have all the executed documents a few days ago. Talk to you tomorrow."
 
 Q. When you wrote the "executed documents," was that a reference to the signed attachments that you sent the day before that were part of People's 63 that we just saw?
 
@@ -5050,7 +5050,7 @@ Q. What is this?
 
 A. This is an email from me to Michael Cohen on October 14, 2016.
 
-Q. And, among other things, are you re—forwarding the email from October 11th, which included all those attachments we just described?
+Q. And, among other things, are you re-forwarding the email from October 11th, which included all those attachments we just described?
 
 A. Yes.
 
@@ -5060,13 +5060,13 @@ A. Yes.
 
 Q. Why did you resend the documents?
 
-A. Well, after the Yom Kippur email, which I at some point began to think is an excuse for failure to fund —— there were other excuses. And the other excuses included, you know, for example, well, Yom Kippur, and included the fact that he didn't have my wiring instructions. So I re—forwarded him the wiring instructions.
+A. Well, after the Yom Kippur email, which I at some point began to think is an excuse for failure to fund -- there were other excuses. And the other excuses included, you know, for example, well, Yom Kippur, and included the fact that he didn't have my wiring instructions. So I re-forwarded him the wiring instructions.
 
 Q. Okay. I am now showing you People's Exhibit 281 in evidence. Do you recognize this?
 
 A. Yes.
 
-Q. Is this —— what is this?
+Q. Is this -- what is this?
 
 A. This is an email from me to Michael Cohen, dated October 17, 2016.
 
@@ -5074,7 +5074,7 @@ Q. And what is the subject line?
 
 A. "PP versus DD. Important."
 
-Q. And what does "PP” and "DD" refer to?
+Q. And what does "PP" and "DD" refer to?
 
 A. The pseudonyms that we used in the Settlement Agreement.
 
@@ -5092,7 +5092,7 @@ A. TrumpOrg.com.
 
 Q. Can you please read the email?
 
-A. "Michael, I have been charged by my client with forwarding the below message. We have a written Settlement Agreement which calls for settlement payment to be made by the end of business this past Friday, October 14, 2016. No payment was received." Next paragraph: ”We spoke on Friday October 14, you stated that the funds would be wired today, October 17, 2016. No funds have been received as of the sending of this email." Next paragraph: "My client informs me that she intends to cancel the settlement contract if no funds are received by 5 p.m. Pacific Time today. Please call me if you have any questions." "Keith."
+A. "Michael, I have been charged by my client with forwarding the below message. We have a written Settlement Agreement which calls for settlement payment to be made by the end of business this past Friday, October 14, 2016. No payment was received." Next paragraph:  "We spoke on Friday October 14, you stated that the funds would be wired today, October 17, 2016. No funds have been received as of the sending of this email." Next paragraph:  "My client informs me that she intends to cancel the settlement contract if no funds are received by 5 p.m. Pacific Time today. Please call me if you have any questions." "Keith."
 
 Q. What prompted you to send this email?
 
@@ -5102,7 +5102,7 @@ Q. In addition to these emails back and forth between yourself and Michael Cohen
 
 A. Yes.
 
-Q. Can you tell us, in general, every conversation —— can you tell us, in general, what those conversations were like?
+Q. Can you tell us, in general, every conversation -- can you tell us, in general, what those conversations were like?
 
 A. They were rather conciliatory, but it was sort of circular arguments. It was excuses. It was contradictions. Things that he was saying didn't make sense from one conversation to the next. Again, the contradictions just didn't leave me with a comfort level that there was a true intention to fund the deal.
 
@@ -5120,19 +5120,19 @@ A. Yes.
 
 Q. What do you remember him saying about that?
 
-A. I called him and said: Michael, this is a very bad situation. I have a client and her rep Gina who is very upset. It's making me look bad. And I don't believe really a word that you are saying. And then he said: Well, goddamn it, what do you expect me to do? My guy is in five fucking states today or three or four or five different states today. There is nothing I can do. I am doing everything I can.
+A. I called him and said:  Michael, this is a very bad situation. I have a client and her rep Gina who is very upset. It's making me look bad. And I don't believe really a word that you are saying. And then he said:  Well, goddamn it, what do you expect me to do?  My guy is in five fucking states today or three or four or five different states today. There is nothing I can do. I am doing everything I can.
 
 Q. When he said that "his guy" was in a certain number of states, who did you understand "his guy" to be making reference to?
 
 A. Donald Trump.
 
-Q. And what was the relevance based on your conversation with Michael Cohen about —— what was the relevance of the fact that Mr. Trump was in three or four or five different states?
+Q. And what was the relevance based on your conversation with Michael Cohen about -- what was the relevance of the fact that Mr. Trump was in three or four or five different states?
 
 A. What did that mean to me?
 
 Q. What did it mean to you?
 
-A. To me it was similar —— it's a situation I run into all the time. It was similar to like someone who doesn't have the purse strings. It's like an attorney has to go call an insurance adjuster. Like that. Michael Cohen didn't have the authority to actually spend money despite the fact there has been so many excuses and funding deadlines that have already been missed.
+A. To me it was similar -- it's a situation I run into all the time. It was similar to like someone who doesn't have the purse strings. It's like an attorney has to go call an insurance adjuster. Like that. Michael Cohen didn't have the authority to actually spend money despite the fact there has been so many excuses and funding deadlines that have already been missed.
 
 Q. You believe that Michael Cohen didn't have the authority to spend the money?
 
@@ -5144,11 +5144,11 @@ A. Yes.
 
 Q. What did he say?
 
-A. Well, I think you can tell by these emails that I was sending him there was a great level of frustration by me and my client —— clients and her rep. I let him know that the level of dissatisfaction was quite high. And he stated, "Goddamn it, I'll just do it myself."
+A. Well, I think you can tell by these emails that I was sending him there was a great level of frustration by me and my client -- clients and her rep. I let him know that the level of dissatisfaction was quite high. And he stated, "Goddamn it, I'll just do it myself."
 
 Q. What did you understand him to mean when he said, "I'll just do it myself?"
 
-A. That he would not seek authority to consummate the deal —— excuse me —— fund the deal. It was consummated with a signature. He would waive the authority in order to fund.
+A. That he would not seek authority to consummate the deal -- excuse me -- fund the deal. It was consummated with a signature. He would waive the authority in order to fund.
 
 Q. Did you ever believe that Michael Cohen was going to be the ultimate source of the funds?
 
@@ -5188,7 +5188,7 @@ A. It's a Latin term used in the law for void, I believe. Void from the beginnin
 
 Q. Why did you tell Michael Cohen that you no longer represented Stormy Daniels in this deal or any other matter?
 
-A. It was two—fold. One: Because I divested myself of the case. And, two: Because I didn't want to keep —— I didn't want to receive a million frustrating phone calls from Michael. He created this drama and this situation.
+A. It was two-fold. One:  Because I divested myself of the case. And, two:  Because I didn't want to keep -- I didn't want to receive a million frustrating phone calls from Michael. He created this drama and this situation.
 
 Q. Did you communicate with Stormy Daniels and/or Gina Rodriguez around this time?
 
@@ -5200,17 +5200,17 @@ A. Both.
 
 Q. And what was the nature of that conversation?
 
-A. I let them know that —— well, even leading up to this, I let them know that —— well, they wanted frequent updates. I would like to start over.
+A. I let them know that -- well, even leading up to this, I let them know that -- well, they wanted frequent updates. I would like to start over.
 
 Q. Go ahead.
 
-A. They wanted frequent updates and they received frequent updates. The only updates I could give them were the repeated excuses that I was hearing. That was a great source of frustration. And then when push came to shove, this is really —— this email that's displayed is the straw that broke the camel's back. This is where push came to shove. This is when I said, hey, this deal is over. And I said to both Cohen and to my client, "I'm out. Go in peace."
+A. They wanted frequent updates and they received frequent updates. The only updates I could give them were the repeated excuses that I was hearing. That was a great source of frustration. And then when push came to shove, this is really -- this email that's displayed is the straw that broke the camel's back. This is where push came to shove. This is when I said, hey, this deal is over. And I said to both Cohen and to my client, "I'm out. Go in peace."
 
 Q. During either that conversation, or another conversation with Stormy Daniels and/or Gina Rodriguez, did they express to you any views about what was happening here?
 
 A. I'm not going to answer that question based on attorney/client privilege.
 
-Q. Fair enough. Let me ask you this: Do you believe that you represented Gina in this matter as well?
+Q. Fair enough. Let me ask you this:  Do you believe that you represented Gina in this matter as well?
 
 A. I don't mean to parse words, but I viewed Gina's role in this situation as that of a manager, which would make her a legal agent to my client Stormy Daniels. So if I was talking to Gina, it was if I was talking to my client and the privilege would exist.
 
@@ -5242,7 +5242,7 @@ Q. Yes, in terms of Michael Cohen's failure to fund. What did you believe was re
 
 A. I thought he was trying to kick the can down the road until after the election.
 
-MR. STEINGLASS: Are we taking an afternoon break? If so, this would be a good time.
+MR. STEINGLASS: Are we taking an afternoon break?  If so, this would be a good time.
 
 THE COURT: All right; I will see you at 10 to 4.
 
@@ -5292,13 +5292,13 @@ A. This is from Dylan to me.
 
 Q. What does it say?
 
-A. "Cohen texting me if I have reached Gina." I said: "She's not taking my calls again. I want distance." He writes back: "You're kidding me. One way they can settle this impending storm."
+A. "Cohen texting me if I have reached Gina." I said:  "She's not taking my calls again. I want distance." He writes back:  "You're kidding me. One way they can settle this impending storm."
 
 Q. What did you understand this to mean?
 
 A. That Cohen was leaning on Dylan to placate Gina.
 
-Q. And —— withdrawn. Okay. Did you respond?
+Q. And -- withdrawn. Okay. Did you respond?
 
 A. Yes.
 
@@ -5308,7 +5308,7 @@ A. "I can't believe Cohen let this go. It's going to be a shit show."
 
 Q. What did you mean by that?
 
-A. Once I divested myself from the case and Gina and Stormy were —— I think they were going to publicize the matter.
+A. Once I divested myself from the case and Gina and Stormy were -- I think they were going to publicize the matter.
 
 Q. When you say "publicize the matter," you mean through a different media outlet?
 
@@ -5350,13 +5350,13 @@ Q. Okay. Moving onto Page 11, entries 504 to 506. I think, continuing this excha
 
 A. "I bet."
 
-Q. And —— withdrawn. Did he then send a follow up?
+Q. And -- withdrawn. Did he then send a follow up?
 
 A. He did.
 
 Q. And what did he say?
 
-A. I am quoting Dylan, he said: "All because Trump is tight."
+A. I am quoting Dylan, he said:  "All because Trump is tight."
 
 Q. What did you understand that to mean?
 
@@ -5368,21 +5368,21 @@ A. That they had this deal on a silver platter. It was there for the taking. It 
 
 Q. During your dealings with Michael Cohen, did he tell you who he was representing in these negotiations?
 
-A. I don't think —— every single time I talked to Michael Cohen, he leaned on his close affiliation with Donald Trump. I don't know if it was ever explicitly said, "I am negotiating this matter on behalf of Donald Trump," it was part of his identity and he let me know it every opportunity he could, that he was working for Donald Trump.
+A. I don't think -- every single time I talked to Michael Cohen, he leaned on his close affiliation with Donald Trump. I don't know if it was ever explicitly said, "I am negotiating this  matter on behalf of Donald Trump," it was part of his identity and he let me know it every opportunity he could, that he was working for Donald Trump.
 
 Q. And when you were negotiating the settlement agreement with Michael Cohen, did you have an understanding of who was ultimately going to be responsible for paying Ms. Daniels?
 
 A. No.
 
-Q. Let me show you privately Grand Jury Page 525. I believe that's People's Exhibit 508A. I am going to ask you, just yourself and the parties and the Judge ——
+Q. Let me show you privately Grand Jury Page 525. I believe that's People's Exhibit 508A. I am going to ask you, just yourself and the parties and the Judge --
 
 MR. BOVE: I object to this.
 
 THE COURT: Approach.
 
-AUDIO DESCRIPTION: whereupon, proceedings were held at sidebar:
+AUDIO DESCRIPTION: Whereupon, proceedings were held at sidebar:
 
-MR. BOVE: The last question was: Do you have an understanding of who was going to be ultimately responsible? I am summarizing. The answer is no. The witness didn't indicate there was any lack of recollection. Now we're basically —— the People's witness —— impeaching their testimony. Either way, it should not be put in front of him right now. The answer is the answer. It should stand.
+MR. BOVE: The last question was:  Do you have an understanding of who was going to be ultimately responsible?  I am summarizing. The answer is no. The witness didn't indicate there was any lack of recollection. Now we're basically -- the People's witness -- impeaching their testimony. Either way, it should not be put in front of him right now. The answer is the answer. It should stand.
 
 THE COURT: Yes.
 
@@ -5390,7 +5390,7 @@ MR. STEINGLASS: I am deliberately not violating Penal Law 60.35 by not asking hi
 
 THE COURT: He hasn't stated he needs his recollection refreshed. You haven't asked him. So your objection is sustained.
 
-MR. BOVE: He's been precise about refreshing his recollection. He did not have such an understanding. It would be improper to go back and say ——
+MR. BOVE: He's been precise about refreshing his recollection. He did not have such an understanding. It would be improper to go back and say --
 
 THE COURT: Let's see if it does.
 
@@ -5398,7 +5398,7 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 THE COURT: Your objection is sustained. Can you please read back the last question.
 
-AUDIO DESCRIPTION: Whereupon, the Official Court Reporter read back the referred—to—question.
+AUDIO DESCRIPTION: Whereupon, the Official Court Reporter read back the referred-to-question.
 
 CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
@@ -5414,7 +5414,7 @@ MR. BOVE: Objection.
 
 THE COURT: Overruled. Please approach.
 
-AUDIO DESCRIPTION: whereupon, proceedings were held at sidebar:
+AUDIO DESCRIPTION: Whereupon, proceedings were held at sidebar:
 
 MR. BOVE: This is what I was concerned about at the end of the last sidebar. The witness has not indicated that he has a lack of recollection. To ask a leading question to try to drive him to say, yes, I do have an absence of recollection so it could be refreshed, that is improper. The answer should stand.
 
@@ -5428,13 +5428,13 @@ THE COURT: You could go back and ask.
 
 MR. STEINGLASS: I can do that.
 
-THE COURT: Just in fairness, Mr. Bove, you might have a few times yourself ——
+THE COURT: Just in fairness, Mr. Bove, you might have a few times yourself --
 
 MR. BOVE: In the context where I get to lead the witness.
 
 THE COURT: That's true.
 
-AUDIO DESCRIPTION: whereupon, the following proceedings were held in open court:
+AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 THE COURT: Okay. The objection is sustained.
 
@@ -5444,21 +5444,21 @@ Q. Mr. Davidson, I notice when I asked you that last question about what your un
 
 A. Yes.
 
-Q. Does that pause —— is that pause any indication that you might want to have your recollection refreshed?
+Q. Does that pause -- is that pause any indication that you might want to have your recollection refreshed?
 
 MR. BOVE: Objection.
 
 THE COURT: Sustained to form.
 
-Q. As you sit here ——
+Q. As you sit here --
 
 A. Can I have the question read back?
 
-Q. Which question? It was sustained. I don't think it can be read back. Let me ask a different question. Is there a question that I asked that you are unclear about what I was asking?
+Q. Which question?  It was sustained. I don't think it can be read back. Let me ask a different question. Is there a question that I asked that you are unclear about what I was asking?
 
 A. I believe so.
 
-Q. So a few questions ago I asked the question: When you were negotiating the Settlement Agreement with Michael Cohen, did you have an understanding of who was ultimately going to be responsible for paying Ms. Daniels. Is that the question that you wanted to be read back?
+Q. So a few questions ago I asked the question:  When you were negotiating the Settlement Agreement with Michael Cohen, did you have an understanding of who was ultimately going to be responsible for paying Ms. Daniels. Is that the question that you wanted to be read back?
 
 A. Yes.
 
@@ -5466,15 +5466,15 @@ Q. That one, you could answer that, there is no objection. How would you answer 
 
 A. I find that question confusing.
 
-Q. Sorry. Let me see if I could clarify. Who were you negotiating with —— withdrawn. Is your problem my use of the word "negotiating;" is that a big problem?
+Q. Sorry. Let me see if I could clarify. Who were you negotiating with -- withdrawn. Is your problem my use of the word "negotiating;"  is that a big problem?
 
 A. No.
 
-Q. When you were dealing with Michael Cohen ——
+Q. When you were dealing with Michael Cohen --
 
 A. Yes.
 
-Q. —— did you have an understanding of how this deal was going to be funded?
+Q. -- did you have an understanding of how this deal was going to be funded?
 
 MR. BOVE: Objection.
 
@@ -5524,7 +5524,7 @@ MR. BOVE: Objection. May I be heard at sidebar?
 
 THE COURT: Yes, please approach.
 
-AUDIO DESCRIPTION: whereupon, proceedings were held at sidebar:
+AUDIO DESCRIPTION: Whereupon, proceedings were held at sidebar:
 
 MR. BOVE: Thank you for hearing me, Judge. My objection is that we've now endeavored to attack this several different ways. Each of them has been inadmissible. We're now in a place where this is asked and answered several times over, and I think that the Government should be required to move on from here.
 
@@ -5538,7 +5538,7 @@ AUDIO DESCRIPTION: Whereupon, the following proceedings were held in open court:
 
 CONTINUED DIRECT EXAMINATION BY MR. STEINGLASS:
 
-Q. Going back to Page 11. I am going to blow up some texts in the interim between 507 and 512. This is again People's 176 in evidence. Did these texts —— actually, can we get the few texts that happened right before it as well, please. So at the top of the page, second down, we see the line you have already told us, "Because Trump is tight;" is that right, from Dylan?
+Q. Going back to Page 11. I am going to blow up some texts in the interim between 507 and 512. This is again People's 176 in evidence. Did these texts -- actually, can we get the few texts that happened right before it as well, please. So at the top of the page, second down, we see the line you have already told us, "Because Trump is tight;" is that right, from Dylan?
 
 A. Talking with Dylan, yes.
 
@@ -5558,7 +5558,7 @@ Q. What did you interpret that to mean?
 
 A. That Trump wasn't as wealthy as he stated.
 
-Q. And what is —— what is the relevance of that observation?
+Q. And what is -- what is the relevance of that observation?
 
 A. I think that was a followup to Dylan's text where he says, "Trump is tight."
 
@@ -5568,7 +5568,7 @@ MR. STEINGLASS: I am going to ask you, please, to blow up lines 513 to 519.
 
 AUDIO DESCRIPTION: Displayed.
 
-Q. And what do we see here? What date is this? Who is talking?
+Q. And what do we see here?  What date is this?  Who is talking?
 
 A. I can't read the exhibit.
 
@@ -5578,7 +5578,7 @@ A. From the top?
 
 Q. Yes.
 
-A. This is October 25, 2016, from Dylan Howard: "Going to see Pecker in 15. Will ask for an update. Any word?"
+A. This is October 25, 2016, from Dylan Howard:  "Going to see Pecker in 15. Will ask for an update. Any word?"
 
 Q. And did you respond to that?
 
@@ -5618,7 +5618,7 @@ A. "It's like he is telling me what he wrote to someone else."
 
 Q. Maybe if you could read the text first, then I will ask you how you interpret it.
 
-A. I wrote: "Keep calling you urgently. Period. We have to coordinate something on the matter he is calling you about, or it could look awful for everyone."
+A. I wrote:  "Keep calling you urgently. Period. We have to coordinate something on the matter he is calling you about, or it could look awful for everyone."
 
 Q. You started to tell us what you understood this to mean?
 
@@ -5698,13 +5698,13 @@ A. Yes.
 
 Q. Can you tell us a little bit about that conversation, whatever you remember?
 
-A. Yes, it was very frustrating. The entire matter was very frustrating that it was on again and off again. That there were delays in funding, cancellations, disengaging from the client, reengaging with the client, Stormy and Gina. Then Dylan sort of as a peacemaker, sort of brought me back into the fold. He said he reached out to Pecker, and that everything was teed up. And then Dylan tells me: Push for the cash. And then basically tells me to call Cohen. Then when I call Cohen, he says: I'm not paying anything, AMI is paying. It was just one more snafu.
+A. Yes, it was very frustrating. The entire matter was very frustrating that it was on again and off again. That there were delays in funding, cancellations, disengaging from the client, reengaging with the client, Stormy and Gina. Then Dylan sort of as a peacemaker, sort of brought me back into the fold. He said he reached out to Pecker, and that everything was teed up. And then Dylan tells me:  Push for the cash. And then basically tells me to call Cohen. Then when I call Cohen, he says:  I'm not paying anything, AMI is paying. It was just one more snafu.
 
 Q. How did you respond to Dylan Howard?
 
 A. "I am sorry."
 
-Q. You said you sent that text: "He says you're paying?"
+Q. You said you sent that text:  "He says you're paying?"
 
 A. Yes.
 
@@ -5764,7 +5764,7 @@ A. Yes.
 
 Q. And what is this?
 
-A. Michael Cohen had called me and said: Hey, everything is A—okay. We got everything we need. You know we're sending you the money. So I told him that I didn't believe him, and he forwarded this email to me.
+A. Michael Cohen had called me and said:  Hey, everything is A-okay. We got everything we need. You know we're sending you the money. So I told him that I didn't believe him, and he forwarded this email to me.
 
 Q. And where was the email from that he was forwarding to you?
 
@@ -5782,17 +5782,17 @@ Q. Does it look like he also forwarded it to his own Gmail account?
 
 A. Yes.
 
-Q. Now, does this —— can we look at the bottom. Does this appear to be a forwarded email?
+Q. Now, does this -- can we look at the bottom. Does this appear to be a forwarded email?
 
 A. Yes.
 
 Q. Who was the original email, from whom to whom?
 
-A. This is from, it looks like Liz Rappaport, assistant to Gary Farro —— to Michael Cohen. Michael Cohen.
+A. This is from, it looks like Liz Rappaport, assistant to Gary Farro -- to Michael Cohen. Michael Cohen.
 
-Q. What is the date of that —— the date and time of that email being sent from Ms. Ms. Rappaport to Mr. Cohen?
+Q. What is the date of that -- the date and time of that email being sent from Ms. Ms. Rappaport to Mr. Cohen?
 
-A. I think this was 16 days after the original agreement was entered into: October 16, 2016.
+A. I think this was 16 days after the original agreement was entered into:  October 16, 2016.
 
 Q. What does the body say?
 
@@ -5806,19 +5806,19 @@ Q. Why not?
 
 A. Because he had my wiring instructions, all he needed to do was wire funds, but he didn't wire funds, he forwarded me an email saying that he had the money, not that he sent the money to me.
 
-Q. How would you describe Michael Cohen —— withdrawn. During this time, were you also speaking with Michael Cohen on the phone?
+Q. How would you describe Michael Cohen -- withdrawn. During this time, were you also speaking with Michael Cohen on the phone?
 
 A. Yes.
 
 Q. How would you describe his demeanor during this time?
 
-A. He was highly excitable. Sort of a pants on fire kind of guy. He had a lot of things going on. Frequently I would be on the phone with him, he would take another call, he would be talking out of two ears. Sort of like that movie with the dogs and squirrels.
+A. He was highly excitable. Sort of a pants on fire kind of guy. He had a lot of things going on.  Frequently I would be on the phone with him, he would take another call, he would be talking out of two ears. Sort of like that movie with the dogs and squirrels.
 
 THE COURT: Mr. Steinglass, is this a good time to break?
 
 MR. STEINGLASS: We can break here.
 
-THE COURT: All right. Jurors, we're going to stop at this time. We're going to pick up on Thursday at 10 a.m. We're going to start a half hour later than usual. I remind you, please, not to talk either among yourselves or with anyone else about anything related to the case. Keep an open mind. Do not form or express an opinion about the defendant's guilt or innocence until all the evidence is in and l have given you my final instructions on the law and you have begun your deliberations. Do not request, accept, agree to accept or discuss with any person the receipt or acceptance of any payment or benefit in return for supplying any information concerning the trial. Report directly to me any attempt within your knowledge involving an attempt by any person improperly to influence you or any member of the jury. Do not visit or view any of the locations discussed in the testimony. Do not use any program or electronic device to search for and view the locations discussed in the testimony. Do not read, view or listen to any accounts or discussions of the case, that includes the reading or the listening to the reading of any transcripts of the trial or the reading of posts on any court site. Do not attempt to research any fact, issue or law related to the case. Do not communicate with anyone about the case by any means, including by telephone, text message, email or the internet. And do not Google or otherwise search for information about the case or the law which applies to the case or the people involved in the case. Have a good night. I will see you Thursday.
+THE COURT: All right. Jurors, we're going to stop at this time. We're going to pick up on Thursday at 10 a.m. We're going to start a half hour later than usual. I remind you, please, not to talk either among yourselves or with anyone else about anything related to the case. Keep an open mind. Do not form or express an opinion about the defendant's guilt or innocence until all the evidence is in and I have given you my final instructions on the law and you have begun your deliberations. Do not request, accept, agree to accept or discuss with any person the receipt or acceptance of any payment or benefit in return for supplying any information concerning the trial. Report directly to me any attempt within your knowledge involving an attempt by any person improperly to influence you or any member of the jury. Do not visit or view any of the locations discussed in the testimony. Do not use any program or electronic device to search for and view the locations discussed in the testimony. Do not read, view or listen to any accounts or discussions of the case, that includes the reading or the listening to the reading of any transcripts of the trial or the reading of posts on any court site. Do not attempt to research any fact, issue or law related to the case. Do not communicate with anyone about the case by any means, including by telephone, text message, email or the internet. And do not Google or otherwise search for information about the case or the law which applies to the case or the people involved in the case. Have a good night. I will see you Thursday.
 
 AUDIO DESCRIPTION: Jury leaving courtroom.
 

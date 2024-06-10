@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2362
-1 Q Does this record the description of a retainer for
-2 each payment?
-3 A Yes.
-4 Q What's the total of the payments that were paid from
-5 the company named DJT?
-6 A This is $315,000.
-7 Q Thank you. We can take that down.
-8 Mr. McConney, are you familiar with a tax form called
-9 a 1099?
-10 A Yes.
-11 Q What's a 1099?
-12 A There are various types of 1099s. You get 1099s from
-13 banks for savings account for interest. You get them from
-14 brokerage accounts for dividends. Non—employees get a 1099
-15 miscellaneous.
-16 There are a number of 1099s that can be issued for
-17 various reasons.
-18 Q Did part of your responsibilities as controller of the
-19 Trump Organization include overseeing the preparation of 1099s?
-20 A Yes.
-21 Q How were 1099s generated?
-22 A If the checks were issued from MDS, there is a program
-23 in MDS that would literally issue 1099 forms or print the 1099
-24 form. And we can just make them out and send them to the
-25 company.
-Susan Pearce—Bates, RPR, CCR, RSA
+1       Q    Does this record the description of a retainer for
+2   each payment?
+3       A    Yes.
+4       Q    What's the total of the payments that were paid from
+5   the company named DJT?
+6       A    This is $315,000.
+7       Q    Thank you.  We can take that down.
+8            Mr. McConney, are you familiar with a tax form called
+9   a 1099?
+10       A    Yes.
+11       Q    What's a 1099?
+12       A    There are various types of 1099s.  You get 1099s from
+13   banks for savings account for interest.  You get them from
+14   brokerage accounts for dividends.  Non-employees get a 1099
+15   miscellaneous.
+16            There are a number of 1099s that can be issued for
+17   various reasons.
+18       Q    Did part of your responsibilities as controller of the
+19   Trump Organization include overseeing the preparation of 1099s?
+20       A    Yes.
+21       Q    How were 1099s generated?
+22       A    If the checks were issued from MDS, there is a program
+23   in MDS that would literally issue 1099 forms or print the 1099
+24   form.  And we can just make them out and send them to the
+25   company.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

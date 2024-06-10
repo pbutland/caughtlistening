@@ -1,29 +1,29 @@
 Verdict
 4953
-1 JUROR #1: Yes, it is.
-2 THE CLERK: Juror Number 2, is that your verdict?
-3 JUROR #2: Yes, it is.
-4 THE CLERK: Juror Number 3, is that your verdict?
-5 JUROR #3: Yes, it is.
-6 THE CLERK: Juror Number 4, is that your verdict?
-7 JUROR #4: Yes.
-8 THE CLERK: Juror Number 5, is that your verdict?
-9 JUROR #5: Yes.
-10 THE CLERK: Juror Number 7, is that your verdict?
-11 JUROR #7: Yes, it is.
-12 THE CLERK: Juror Number 8, is that your verdict?
-13 JUROR #8: Yes.
-14 THE CLERK: Juror Number 9, is that your verdict?
-15 JUROR #9: Yes.
-16 THE CLERK: Juror Number 10, is that your
-17 verdict?
-18 JUROR #10: Yes.
-19 THE CLERK: Juror Number 11, is that your
-20 verdict?
-21 JUROR #11: Yes.
-22 THE CLERK: And Juror Number 12, is that your
-23 verdict?
-24 JUROR #12: Yes.
-25 THE CLERK: Your Honor, the jury has been polled.
+1            JUROR #1:  Yes, it is.
+2            THE CLERK:  Juror Number 2, is that your verdict?
+3            JUROR #2:  Yes, it is.
+4            THE CLERK:  Juror Number 3, is that your verdict?
+5            JUROR #3:  Yes, it is.
+6            THE CLERK:  Juror Number 4, is that your verdict?
+7            JUROR #4:  Yes.
+8            THE CLERK:  Juror Number 5, is that your verdict?
+9            JUROR #5: Yes.
+10            THE CLERK:  Juror Number 7, is that your verdict?
+11            JUROR #7:  Yes, it is.
+12            THE CLERK:  Juror Number 8, is that your verdict?
+13            JUROR #8:  Yes.
+14            THE CLERK:  Juror Number 9, is that your verdict?
+15            JUROR #9:  Yes.
+16            THE CLERK:  Juror Number 10, is that your
+17   verdict?
+18            JUROR #10:  Yes.
+19            THE CLERK:  Juror Number 11, is that your
+20   verdict?
+21            JUROR #11:  Yes.
+22            THE CLERK:  And Juror Number 12, is that your
+23   verdict?
+24            JUROR #12:  Yes.
+25            THE CLERK:  Your Honor, the jury has been polled.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

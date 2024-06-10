@@ -1,29 +1,29 @@
-D. Tarasoff — Direct/Conroy
+D. Tarasoff - Direct/Conroy
 2474
-1 A It’s another invoice.
-2 Q For what month?
-3 A Looks like August.
-4 Q And, again, is it for Michael Cohen?
-5 A Yes.
-6 Q And is it for services rendered that month?
-7 A Yes.
-8 Q Does it have an amount in the invoice?
-9 A I don’t see it on this part. No. No.
-10 Q Is that your stamp down below?
-11 A Yes.
-12 Q Based on that stamp, do you believe that you got an
-13 approval email for this invoice?
-14 A Yes.
-15 Q And what's the amount written in there?
-16 A 35,000.
-17 Q And what’s the entity?
-18 A Mr. Trump’s personal account.
-19 Q And what's the General Ledger code here?
-20 A 51505. Legal.
-21 MR. CONROY: If we could pull up People’s 21.
-22 (Whereupon, an exhibit is shown on the screens.)
-23 MR. CONROY: Just blow up the top portion.
-24 (Whereupon, an exhibit is shown on the screens.)
-25 Q Is this the MDS voucher associated with that invoice?
+1       A    It's another invoice.
+2       Q    For what month?
+3       A    Looks like August.
+4       Q    And, again, is it for Michael Cohen?
+5       A    Yes.
+6       Q    And is it for services rendered that month?
+7       A    Yes.
+8       Q    Does it have an amount in the invoice?
+9       A    I don't see it on this part. No. No.
+10       Q    Is that your stamp down below?
+11       A    Yes.
+12       Q    Based on that stamp, do you believe that you got an
+13   approval email for this invoice?
+14       A    Yes.
+15       Q    And what's the amount written in there?
+16       A    35,000.
+17       Q    And what's the entity?
+18       A    Mr. Trump's personal account.
+19       Q    And what's the General Ledger code here?
+20       A    51505. Legal.
+21                 MR. CONROY:  If we could pull up People's 21.
+22                 (Whereupon, an exhibit is shown on the screens.)
+23                 MR. CONROY:  Just blow up the top portion.
+24                 (Whereupon, an exhibit is shown on the screens.)
+25       Q    Is this the MDS voucher associated with that invoice?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

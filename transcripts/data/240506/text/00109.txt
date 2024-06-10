@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2357
-1 legal expense postings for payments. In the bottom we start a
-2 new General Ledger Account, 51506, which are payments to an
-3 expense account called Accounting and Auditing, payments to
-4 accountants.
-5 Q And have you reviewed the entries in the Legal Expense
-6 code on this exhibit?
-7 A Yes.
-8 Q Does that show all of the charges to the account for
-9 legal expenses for The Trust Account in 2018?
-10 A Yes.
-11 Q Were there any payments to Michael Cohen from that
-12 account in 2018 that was billed to Legal Expense?
-13 A No.
-14 Q Let’s display, just for the witness, the Court and
-15 parties, People’s 55.
-16 Please let me know, Mr. McConney, when you have it on
-17 your screen.
-18 A It’s on my screen.
-19 Q Do you recognize this?
-20 A Yes, sir.
-21 Q What is it?
-22 A It is a detailed General Ledger printed from MDS.
-23 Q What’s the company identified in the upper left—hand
-24 corner?
-25 A DJT.
-Susan Pearce—Bates, RPR, CCR, RSA
+1   legal expense postings for payments.  In the bottom we start a
+2   new General Ledger Account, 51506, which are payments to an
+3   expense account called Accounting and Auditing, payments to
+4   accountants.
+5       Q    And have you reviewed the entries in the Legal Expense
+6   code on this exhibit?
+7       A    Yes.
+8       Q    Does that show all of the charges to the account for
+9   legal expenses for The Trust Account in 2018?
+10       A    Yes.
+11       Q    Were there any payments to Michael Cohen from that
+12   account in 2018 that was billed to Legal Expense?
+13       A    No.
+14       Q    Let's display, just for the witness, the Court and
+15   parties, People's 55.
+16            Please let me know, Mr. McConney, when you have it on
+17   your screen.
+18       A    It's on my screen.
+19       Q    Do you recognize this?
+20       A    Yes, sir.
+21       Q    What is it?
+22       A    It is a detailed General Ledger printed from MDS.
+23       Q    What's the company identified in the upper left-hand
+24   corner?
+25       A    DJT.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

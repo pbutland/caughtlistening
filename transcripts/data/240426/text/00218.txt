@@ -1,29 +1,29 @@
-G. Farro — Direct/Mangold
+G. Farro - Direct/Mangold
 Page 1548
-1 (The following proceedings are continued from the
-2 previous page.)
-3 ******
-4 CONTINUED DIRECT EXAMINATION
-5 BY MS. MANGOLD:
-6 Q And, to your knowledge, did the email server record and
-7 store that information accurately?
-8 A Yes.
-9 Q Did First Republic Bank rely on that information being
-10 accurately recorded and maintained?
-11 A Absolutely.
-12 Q So for the emails contained in the People's Exhibits
-13 marked for identification, were all of the emails and any
-14 related attachments sent or received through the First Republic
-15 Bank email server?
-16 A I'm sorry, can you repeat the question?
-17 Q Sure.
-18 Specifically looking at the email files that you reviewed,
-19 were those emails and any related attachments sent or received
-20 through the First Republic Bank email servers in San Francisco?
-21 A Yes.
-22 Q Do all of the emails that you looked at reflect bank
-23 transactions or client communications?
-24 A Yes, they do.
-25 Q Are the types of emails included the same types of
+1                 (The following proceedings are continued from the
+2        previous page.)
+3                  ******
+4   CONTINUED DIRECT EXAMINATION
+5   BY MS. MANGOLD:
+6       Q    And, to your knowledge, did the email server record and
+7   store that information accurately?
+8       A    Yes.
+9       Q    Did First Republic Bank rely on that information being
+10   accurately recorded and maintained?
+11       A    Absolutely.
+12       Q    So for the emails contained in the People's Exhibits
+13   marked for identification, were all of the emails and any
+14   related attachments sent or received through the First Republic
+15   Bank email server?
+16       A    I'm sorry, can you repeat the question?
+17       Q    Sure.
+18       Specifically looking at the email files that  you reviewed,
+19   were those emails and any related attachments sent or received
+20   through the First Republic Bank email servers in  San Francisco?
+21       A    Yes.
+22       Q    Do all of the emails that you looked at reflect bank
+23   transactions or client communications?
+24       A    Yes, they do.
+25       Q    Are the types of emails included the same types of
 Lisa Kramsky,
 Senior Court Reporter

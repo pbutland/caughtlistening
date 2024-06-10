@@ -1,29 +1,29 @@
-G. Farro — Direct/Mangold
+G. Farro - Direct/Mangold
 Page 1594
-1 A Elizabeth Rappaport to Michael Cohen.
-2 Q What is the subject of the email?
-3 A The subject is "First Republic Bank Transfer."
-4 Q And what is the date and time of this?
-5 A October 26th, 2016 at 2:53 p.m.
-6 Q And the last email that we saw was 2:35 that same day;
-7 is that correct?
-8 A That's correct.
-9 Q And so what was the approximate time between that last
-10 email and this email that was sent?
-11 A Oh, 23 minutes.
-12 Q Good math.
-13 Do you see something called "Importance" at the bottom of
-14 the top box of the email?
-15 A Yes. It's of high importance.
-16 Q And do you know what that is —— like, what that
-17 designation indicates?
-18 A That something needs to be done quickly.
-19 Q Can you read the body of the email to the jury?
-20 A "Good afternoon, Mr. Cohen. Per our conversation over
-21 the phone, please confirm your request to transfer $131,000 from
-22 your home equity line of credit account number ending in 6194 to
-23 your checking account ending in 1897."
-24 Q Is the account ending in 1897 the same account that was
-25 set up for Essential Consultants ——
+1       A    Elizabeth Rappaport to Michael Cohen.
+2       Q    What is the subject of the email?
+3       A    The subject is "First Republic Bank Transfer."
+4       Q    And what is the date and time of this?
+5       A    October 26th, 2016 at 2:53 p.m.
+6       Q    And the last email that we saw was 2:35 that same day;
+7   is that correct?
+8       A    That's correct.
+9       Q    And so what was the approximate time between that last
+10   email and this email that was sent?
+11       A    Oh, 23 minutes.
+12       Q    Good math.
+13       Do you see something called "Importance" at the bottom of
+14   the top box of the email?
+15       A    Yes.  It's of high importance.
+16       Q    And do you know what that is -- like, what that
+17   designation indicates?
+18       A    That something needs to be done quickly.
+19       Q    Can you read the body of the email to the jury?
+20       A    "Good afternoon, Mr. Cohen.  Per our conversation over
+21   the phone, please confirm your request to transfer $131,000 from
+22   your home equity line of credit account number ending in 6194 to
+23   your checking account ending in 1897."
+24       Q    Is the account ending in 1897 the same account that was
+25   set up for Essential Consultants --
 Lisa Kramsky,
 Senior Court Reporter

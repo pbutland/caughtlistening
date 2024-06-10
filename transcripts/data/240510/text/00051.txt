@@ -1,29 +1,29 @@
-D. Dixon — Cross/Bove
+D. Dixon - Cross/Bove
 3139
-1 (Continued from the previous page.)
-2 Q Could you briefly explain why that is?
-3 A So, these reports are used for network and billing
-4 purposes. They show the raw records, how that call flows
-5 through the network.
-6 Q So, if it had more than one entry, would that just
-7 mean it hit different parts of the network while the call was
-8 going on?
-9 A Correct.
-10 MR. CONROY: I have no further questions.
-11 THE COURT: Your witness.
-12 MR. BOVE: Thank you, Judge.
-13 THE COURT: You may inquire.
-14 MR. BOVE: Thank you.
-15 CROSS—EXAMINATION
-l 6 BY MR . BOVE:
-17 Q Good morning, Mr. Dixon.
-18 My names is Emil Bove and I represent President Trump,
-19 who is over here to the left.
-20 I just want to talk in a little bit more detail about
-21 some of the records we just covered to make sure I understand
-22 them.
-23 A Okay.
-24 Q I would like to start with the subscriber record.
-25 MR. BOVE: And, Mr. Bernik, if we can bring up
-Susan Pearce—Bates, RPR, CCR, RSA
+1                      (Continued from the previous page.)
+2       Q    Could you briefly explain why that is?
+3       A    So, these reports are used for network and billing
+4   purposes.  They show the raw records, how that call flows
+5   through the network.
+6       Q    So, if it had more than one entry, would that just
+7   mean it hit different parts of the network while the call was
+8   going on?
+9       A    Correct.
+10                 MR. CONROY:  I have no further questions.
+11                 THE COURT:  Your witness.
+12                 MR. BOVE:  Thank you, Judge.
+13                 THE COURT:  You may inquire.
+14                 MR. BOVE:  Thank you.
+15   CROSS-EXAMINATION
+16   BY MR. BOVE:
+17       Q    Good morning, Mr. Dixon.
+18            My names is Emil Bove and I represent President Trump,
+19   who is over here to the left.
+20            I just want to talk in a little bit more detail about
+21   some of the records we just covered to make sure I understand
+22   them.
+23       A    Okay.
+24       Q    I would like to start with the subscriber record.
+25                 MR. BOVE:  And, Mr. Bernik, if we can bring up
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2288
-1 A Yes.
-2 Q What was your Trump Organization email address in the
-3 2017 time period?
-4 A I believe it was jmcconney@Trumporg.com.
-5 Q In communicating with Mr. Cohen, using your Trump
-6 Organization email account, did you ever email him at a Gmail
-7 account?
-8 A Yes.
-9 Q Did you communicate with Allen Weisselberg using The
-10 Trump Organization’s email system?
-11 A Yes.
-12 Q In the 2017 time period, was Mr. Weisselberg's email
-13 address weisselberg@Trumporg.com?
-14 Q I believe so, yes.
-15 Q Did you communicate with Deborah Tarasoff using Trump
-16 Organization email?
-17 A Yes.
-18 Q In the 2017 time period, was her email address
-19 dtarasoff@Trumporg.com?
-20 A I believe so, yes.
-21 Q Were records of those communications stored in The
-22 Trump Organization’s email system?
-23 A Yes.
-24 MR. COLANGELO: I offer into evidence the
-25 following exhibits: People’s 37A to K, 39, 40, 43, 44, 45,
+1       A    Yes.
+2       Q    What was your Trump Organization email address in the
+3   2017 time period?
+4       A    I believe it was jmcconney@Trumporg.com.
+5       Q    In communicating with Mr. Cohen, using your Trump
+6   Organization email account, did you ever email him at a Gmail
+7   account?
+8       A    Yes.
+9       Q    Did you communicate with Allen Weisselberg using The
+10   Trump Organization's email system?
+11       A    Yes.
+12       Q    In the 2017 time period, was Mr. Weisselberg's email
+13   address weisselberg@Trumporg.com?
+14       Q    I believe so, yes.
+15       Q    Did you communicate with Deborah Tarasoff using Trump
+16   Organization email?
+17       A    Yes.
+18       Q    In the 2017 time period, was her email address
+19   dtarasoff@Trumporg.com?
+20       A    I believe so, yes.
+21       Q    Were records of those communications stored in The
+22   Trump Organization's email system?
+23       A    Yes.
+24                 MR. COLANGELO:  I offer into evidence the
+25        following exhibits: People's 37A to K, 39, 40, 43, 44, 45,
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

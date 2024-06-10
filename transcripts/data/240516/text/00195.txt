@@ -1,29 +1,29 @@
-M. Cohen — Cross/Blanche
+M. Cohen - Cross/Blanche
 3944
-1 SERGEANT: Yes, judge.
-2 All rise.
-3 Jury entering the courtroom.
-4 (Whereupon, the jury entered the courtroom
-5 and was properly seated.)
-6 THE COURT: You may be seated.
-7 THE CLERK: Case on trial continued.
-8 All jurors are present and properly seated.
-9 THE COURT: Mr. Blanche.
-lO CONTINUED CROSS—EXAMINATION
-l 1 BY MR . BLANCHE:
-12 Q I want to talk for a few minutes about the $130,000
-13 payment you made to Mr. Davidson, okay?
-14 A Yes, sir.
-15 Q So, by the way, you learned from Mr. Davidson along
-16 the way that another news organization was interested in buying
-17 Ms. Daniels’ story, correct?
-18 A Correct.
-19 Q At what time during the process did you hear that from
-20 Mr. Davidson?
-21 A After we had failed to transfer $130,000 as per Mr.
-22 Davidson's cut—off date.
-23 Q The news organization or the organization that was
-24 interested Mr. Davidson told you was ABC, correct?
-25 A ABC, and I believe it was also Daily Beast.
-Susan Pearce—Bates, RPR, CCR, RSA
+1                 SERGEANT:  Yes, judge.
+2                 All rise.
+3                 Jury entering the courtroom.
+4                      (Whereupon, the jury entered the courtroom
+5                 and was properly seated.)
+6                 THE COURT:  You may be seated.
+7                 THE CLERK:  Case on trial continued.
+8                 All jurors are present and properly seated.
+9                 THE COURT:  Mr. Blanche.
+10   CONTINUED CROSS-EXAMINATION
+11   BY MR. BLANCHE:
+12       Q    I want to talk for a few minutes about the $130,000
+13   payment you made to Mr. Davidson, okay?
+14       A    Yes, sir.
+15       Q    So, by the way, you learned from Mr. Davidson along
+16   the way that another news organization was interested in buying
+17   Ms. Daniels' story, correct?
+18       A    Correct.
+19       Q    At what time during the process did you hear that from
+20   Mr. Davidson?
+21       A    After we had failed to transfer $130,000 as per Mr.
+22   Davidson's cut-off date.
+23       Q    The news organization or the organization that was
+24   interested Mr. Davidson told you was ABC, correct?
+25       A    ABC, and I believe it was also Daily Beast.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

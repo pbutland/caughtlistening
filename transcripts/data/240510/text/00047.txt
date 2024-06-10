@@ -1,29 +1,29 @@
-D. Dixon — Direct/Conroy
+D. Dixon - Direct/Conroy
 3135
-1 Q Can you briefly describe what invoice usage means?
-2 A Invoice usage shows the transactional logs between
-3 phone calls.
-4 Q What does SMS usage mean?
-5 A That also shows the transactional logs between text
-6 messages.
-7 Q Does —— would that include text messages made through
-8 encrypted apps?
-9 A No.
-10 Q Do they include iMessages?
-11 A No.
-12 Q Generally speaking, for the two iPhone users that are
-13 messaging one another, would you expect to see those
-14 transactions in the call detail records?
-15 A It would be a transaction that’s captured in a data
-16 session.
-17 Q In a data session?
-18 A A data session, yes.
-19 Q And when you —— what does that mean? Can you explain
-20 what that means?
-21 A So, on our data records, we show logs of different
-22 sessions.
-23 Just a length of the session, we are unable to determine
-24 what took place during those sessions.
-25 Q Okay. And, actually, the next thing we are going to
+1       Q    Can you briefly describe what invoice usage means?
+2       A    Invoice usage shows the transactional logs between
+3   phone calls.
+4       Q    What does SMS usage mean?
+5       A    That also shows the transactional logs between text
+6   messages.
+7       Q    Does -- would that include text messages made through
+8   encrypted apps?
+9       A    No.
+10       Q    Do they include iMessages?
+11       A    No.
+12       Q    Generally speaking, for the two iPhone users that are
+13   messaging one another, would you expect to see those
+14   transactions in the call detail records?
+15       A    It would be a transaction that's captured in a data
+16   session.
+17       Q    In a data session?
+18       A    A data session, yes.
+19       Q    And when you -- what does that mean?  Can you explain
+20   what that means?
+21       A    So, on our data records, we show logs of different
+22   sessions.
+23       Just a length of the session, we are unable to determine
+24   what took place during those sessions.
+25       Q    Okay.  And, actually, the next thing we are going to
 Lisa Kramsky,
 Senior Court Reporter

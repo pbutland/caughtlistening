@@ -1,29 +1,29 @@
-D. Tarasoff — Direct/Conroy
+D. Tarasoff - Direct/Conroy
 2447
-1 of that.
-2 (Whereupon, an exhibit is shown on the screens.)
-3 Q You see in there invoice information?
-4 A Yep.
-5 Q In the invoice number, what’s been put in there?
-6 A I put the date.
-7 Q And the due date?
-8 A Yes.
-9 Q And so, is one the first of the month and one the last
-10 day of January?
-11 A The computer puts in the due date.
-12 Q Okay.
-13 And the invoice date?
-14 A The invoice date I put in.
-15 Q Underneath that, do you see an invoice description?
-16 A Yes.
-17 Q And what does it say there?
-18 A I put in: "Retainer for January."
-19 Q And did you put that in two times?
-20 A The computer puts it in automatically.
-21 Q Okay.
-22 Where did you get that information?
-23 A From the invoice.
-24 Q From the invoice that we just looked at?
-25 A Yes.
+1        of that.
+2                 (Whereupon, an exhibit is shown on the screens.)
+3       Q    You see in there invoice information?
+4       A    Yep.
+5       Q    In the invoice number, what's been put in there?
+6       A    I put the date.
+7       Q    And the due date?
+8       A    Yes.
+9       Q    And so, is one the first of the month and one the last
+10   day of January?
+11       A    The computer puts in the due date.
+12       Q    Okay.
+13       And the invoice date?
+14       A    The invoice date I put in.
+15       Q    Underneath that, do you see an invoice description?
+16       A    Yes.
+17       Q    And what does it say there?
+18       A    I put in: "Retainer for January."
+19       Q    And did you put that in two times?
+20       A    The computer puts it in automatically.
+21       Q    Okay.
+22       Where did you get that information?
+23       A    From the invoice.
+24       Q    From the invoice that we just looked at?
+25       A    Yes.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

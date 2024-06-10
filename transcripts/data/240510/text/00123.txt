@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3211
-1 Q. Can you see on this report the approximate time that
-2 the recording ended?
-3 A. Not exactly, but you can figure it out. The timestamp
-4 of the recording is 10:56 and 42 seconds a.m. in New York time.
-5 And the duration of the recording is 2 minutes and 51 seconds.
-6 If you add them together, the recording ended at 10:59 and about
-7 30 seconds a.m. in New York City time.
-8 MR. CONROY: Okay. We can take that down.
-9 Q. Did you also review the call records already in
-10 evidence as People's 400 and 401?
-11 A. I did.
-12 Q. Did you review records relating to the phone ending in
-13 0114?
-14 A. Yes.
-15 Q. Who did that phone number belong to?
-16 A. Michael Cohen.
-17 Q. Did you identify incoming calls to that phone number
-18 that began at approximately the same time as the recording
-19 ended?
-20 A. Yes.
-21 MR. CONROY: Could we pull up from People's 400
-22 the page, Bates Number DANY ID DJ00002726, which is
-23 redacted, to be displayed.
-24 (Displayed.)
-25 Q. Do you see the call that we just talked about on here?
+1       Q.   Can you see on this report the approximate time that
+2   the recording ended?
+3       A.   Not exactly, but you can figure it out.  The timestamp
+4   of the recording is 10:56 and 42 seconds a.m. in New York time.
+5   And the duration of the recording is 2 minutes and 51 seconds.
+6   If you add them together, the recording ended at 10:59 and about
+7   30 seconds a.m. in New York City time.
+8                 MR. CONROY:  Okay.  We can take that down.
+9       Q.   Did you also review the call records already in
+10   evidence as People's 400 and 401?
+11       A.   I did.
+12       Q.   Did you review records relating to the phone ending in
+13   0114?
+14       A.   Yes.
+15       Q.   Who did that phone number belong to?
+16       A.   Michael Cohen.
+17       Q.   Did you identify incoming calls to that phone number
+18   that began at approximately the same time as the recording
+19   ended?
+20       A.   Yes.
+21                 MR. CONROY:  Could we pull up from People's 400
+22        the page, Bates Number DANY ID DJ00002726, which is
+23        redacted, to be displayed.
+24                 (Displayed.)
+25       Q.   Do you see the call that we just talked about on here?
 Theresa Magniccari
 Senior Court Reporter

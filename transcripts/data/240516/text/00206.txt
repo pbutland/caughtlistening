@@ -1,11 +1,11 @@
-M. Cohen — Cross/Blanche
+M. Cohen - Cross/Blanche
 3955
-1 Q You were acting as a lawyer the whole time you worked
-2 for The Trump Organization?
-3 A Well, I did legal matters and non—legal matters.
-4 (Whereupon, Principal Court Reporter Susan
-5 Pearce—Bates was relieved by Senior Court
-6 Reporter Lisa Kramsky.)
+1       Q    You were acting as a lawyer the whole time you worked
+2   for The Trump Organization?
+3       A    Well, I did legal matters and non-legal matters.
+4                      (Whereupon, Principal Court Reporter Susan
+5                 Pearce-Bates was relieved by Senior Court
+6                 Reporter Lisa Kramsky.)
 7
 8
 9
@@ -25,5 +25,5 @@ M. Cohen — Cross/Blanche
 23
 24
 25
-Susan Pearce—Bates, RPR, CCR, RSA
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2021
-1 drawbacks is you can't tell what the user deleted or has not
-2 deleted; isn't that right?
-3 A Correct.
-4 Q Yes. It just pulls out the information that was
-5 present at the time that it was acquired?
-6 A That's correct.
-7 Q And there is a better way?
-8 A Yes, a better way.
-9 Q A physical acquisition?
-10 A Yes, a physical acquisition in some ways is more of an
-11 older approach for Apple iPhones.
-12 It's a full file system.
-13 Q And in a full file system, you are basically pulling a
-14 forensic image of the whole memory chip?
-15 A Yeah, the whole memory chip; that's correct.
-16 Q And you —— and it's a process that you connect the
-17 phone to a piece of equipment that you have and it pulls the
-18 data out, and there is a giant —— depending on how much metadata
-19 is on the phone, a giant file; right?
-20 A That's correct.
-21 Q And when it gets onto that equipment, it's ones and
-22 zeroes; right?
-23 A That's correct.
-24 Q And so you need something to parse the data?
-25 A You do.
+1   drawbacks is you can't tell what the user deleted or has not
+2   deleted; isn't that right?
+3       A    Correct.
+4       Q    Yes.  It just pulls out the information that was
+5   present at the time that it was acquired?
+6       A    That's correct.
+7       Q    And there is a better way?
+8       A    Yes, a better way.
+9       Q    A physical acquisition?
+10       A    Yes, a physical acquisition in some ways is more of an
+11   older approach for Apple iPhones.
+12       It's a full file system.
+13       Q    And in a full file system, you are basically pulling a
+14   forensic image of the whole memory chip?
+15       A    Yeah, the whole memory chip; that's correct.
+16       Q    And you -- and it's a process that you connect the
+17   phone to a piece of equipment that you have and it pulls the
+18   data out, and there is a giant -- depending on how much metadata
+19   is on the phone, a giant file; right?
+20       A    That's correct.
+21       Q    And when it gets onto that equipment, it's ones and
+22   zeroes; right?
+23       A    That's correct.
+24       Q    And so you need something to parse the data?
+25       A    You do.
 Lisa Kramsky,
 Senior Court Reporter

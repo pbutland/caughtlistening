@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2275
-1 reports.
-2 Q Could you customize a report to show only certain
-3 kinds of expenses from one account?
-4 A Yes.
-5 Q Did you run reports from the General Ledger for tax
-6 purposes?
-7 A Yes.
-8 Q Describe that, please.
-9 A The accounting firm would —— at the beginning of the
-10 year, would start giving us a list of entities that they wanted
-11 trial balance or General Ledgers for. We would run the entire
-12 General Ledger and trial balance and send it to them.
-13 That’s things we did for all ’17. Yeah.
-14 Q Does the Accounting Department maintain the General
-15 Ledger for the Donald J. Trump Revocable Trust account?
-16 A Yes.
-17 Q Is that General Ledger managed using MDS?
-18 A Yes.
-19 Q Does the accounting staff or Accounting Department
-20 also maintain bank accounts for The Trust?
-21 A Yes.
-22 Q What does that entail?
-23 A When a bank statement comes in at the end of the
-24 month, we reconcile the bank statement. If a deposit comes in
-25 cash received, we received money from an entity or person that
+1   reports.
+2       Q    Could you customize a report to show only certain
+3   kinds of expenses from one account?
+4       A    Yes.
+5       Q    Did you run reports from the General Ledger for tax
+6   purposes?
+7       A    Yes.
+8       Q    Describe that, please.
+9       A    The accounting firm would -- at the beginning of the
+10   year, would start giving us a list of entities that they wanted
+11   trial balance or General Ledgers for.  We would run the entire
+12   General Ledger and trial balance and send it to them.
+13       That's things we did for all '17. Yeah.
+14       Q    Does the Accounting Department maintain the General
+15   Ledger for the Donald J. Trump Revocable Trust account?
+16       A    Yes.
+17       Q    Is that General Ledger managed using MDS?
+18       A    Yes.
+19       Q    Does the accounting staff or Accounting Department
+20   also maintain bank accounts for The Trust?
+21       A    Yes.
+22       Q    What does that entail?
+23       A    When a bank statement comes in at the end of the
+24   month, we reconcile the bank statement. If a deposit comes in
+25   cash received, we received money from an entity or person that
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

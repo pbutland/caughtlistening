@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1993
-1 are both already in evidence.
-2 Q Mr. Daus, when you reviewed those exhibits, did you
-3 see redactions in many of the exhibits?
-4 A Yes, I did.
-5 Q Did you, as you were looking at the exhibit on the
-6 thumb drive, look at both an unredacted and redacted copy of
-7 each of the exhibits?
-8 A Yes, I did.
-9 Q Where there were redactions, were the exhibits, but
-10 for the redactions, the same as the corresponding exhibit
-11 without redactions?
-12 A Yes, they were.
-13 Q What kinds of information was redacted on the exhibits
-14 that you were looking at with redactions?
-15 A The parties' names.
-16 Q Was it, primarily, personal identifying information,
-17 names, email addresses, phone numbers, that kind of thing?
-18 A Yes, it was.
-19 Q Did you review each of these exhibits, except for
-20 Exhibit 248, against the data that you forensically extracted
-21 from either CP1 or CP2, depending which it came from, to make
-22 sure that each of the exhibits contained exact copies of the
-23 portions of data that you extracted from each of the phones?
-24 A Yes, I did.
-25 Q Other than People’s 248, do People’s Exhibits 246 to
+1        are both already in evidence.
+2       Q    Mr. Daus, when you reviewed those exhibits, did you
+3   see redactions in many of the exhibits?
+4       A    Yes, I did.
+5       Q    Did you, as you were looking at the exhibit on the
+6   thumb drive, look at both an unredacted and redacted copy of
+7   each of the exhibits?
+8       A    Yes, I did.
+9       Q    Where there were redactions, were the exhibits, but
+10   for the redactions, the same as the corresponding exhibit
+11   without redactions?
+12       A    Yes, they were.
+13       Q    What kinds of information was redacted on the exhibits
+14   that you were looking at with redactions?
+15       A    The parties' names.
+16       Q    Was it, primarily, personal identifying information,
+17   names, email addresses, phone numbers, that kind of thing?
+18       A    Yes, it was.
+19       Q    Did you review each of these exhibits, except for
+20   Exhibit 248, against the data that you forensically extracted
+21   from either CP1 or CP2, depending which it came from, to make
+22   sure that each of the exhibits contained exact copies of the
+23   portions of data that you extracted from each of the phones?
+24       A    Yes, I did.
+25       Q    Other than People's 248, do People's Exhibits 246 to
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

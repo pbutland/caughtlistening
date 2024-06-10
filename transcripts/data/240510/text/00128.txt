@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3216
-1 And the bottom row are the checks.
-2 Q. And, then, are there columns by month?
-3 A. Yes.
-4 Q. Starting with the invoices, is there only one invoice
-5 for the months of January and February?
-6 A. Yes.
-7 Q. And below that, for January and February, are there two
-8 vouchers?
-9 A. Yes.
-10 Q. What information is included in this chart for the
-11 vouchers?
-12 A. The dollar amount of the voucher entry in some of the
-13 months, and all of the months the number associated with the
-14 voucher entry.
-15 Q. Just going back up to the invoice, what information is
-16 included in the invoice row?
-17 A. The date of the invoice and the dollar amount requested
-18 on the invoice.
-19 Q. And then below those two things, there is something
-20 called "count number," what is that?
-21 A. Each of these exhibits is associated with a count in
-22 the indictment. So, the red "count number" corresponds to that
-23 count.
+1   And the bottom row are the checks.
+2       Q.   And, then, are there columns by month?
+3       A.   Yes.
+4       Q.   Starting with the invoices, is there only one invoice
+5   for the months of January and February?
+6       A.   Yes.
+7       Q.   And below that, for January and February, are there two
+8   vouchers?
+9       A.   Yes.
+10       Q.   What information is included in this chart for the
+11   vouchers?
+12       A.   The dollar amount of the voucher entry in some of the
+13   months, and all of the months the number associated with the
+14   voucher entry.
+15       Q.   Just going back up to the invoice, what information is
+16   included in the invoice row?
+17       A.   The date of the invoice and the dollar amount requested
+18   on the invoice.
+19       Q.   And then below those two things, there is something
+20   called "count number," what is that?
+21       A.   Each of these exhibits is associated with a count in
+22   the indictment.  So, the red "count number" corresponds to that
+23   count.
 24
-25 (Whereupon, Theresa Magniccari, Senior Court Reporter
+25   (Whereupon, Theresa Magniccari, Senior Court Reporter
 was relieved by Laurie Eisenberg, Senior Court Reporter.)
 Theresa Magniccari

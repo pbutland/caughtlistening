@@ -1,29 +1,29 @@
-G. Longstreet — Direct/Mangold
+G. Longstreet - Direct/Mangold
 2097
-1 Hashing is a process used to preserve the integrity of
-2 a file by creating what is called a hash value, which is,
-3 essentially, a digital footprint.
-4 Q And what is a hash value?
-5 A So, a hash value is a unique string of characters that
-6 captures both the date and time that the file was saved, as
-7 well as the location on the computer where the file is saved.
-8 Q You did that for the all the social media posts you
-9 saved?
-10 A I did.
-11 Q Are you familiar with a social media platform called
-12 Twitter?
-13 A I am.
-14 Q Do you know whether that company changed its name at
-15 some point?
-16 A It did.
-17 Q What did it change its name to?
-18 A X.
-19 Q But is it still, functionally, the same platform?
-20 A Yes.
-21 Q What was the platform called in 2016?
-22 A Twitter.
-23 Q Can you, briefly, describe how Twitter works?
-24 A Yes. So, users can put out a post or a tweet, and
-25 that can consist of words, photos, videos, a link. And then
-Susan Pearce—Bates, RPR, CCR, RSA
+1            Hashing is a process used to preserve the integrity of
+2   a file by creating what is called a hash value, which is,
+3   essentially, a digital footprint.
+4       Q    And what is a hash value?
+5       A    So, a hash value is a unique string of characters that
+6   captures both the date and time that the file was saved, as
+7   well as the location on the computer where the file is saved.
+8       Q    You did that for the all the social media posts you
+9   saved?
+10       A    I did.
+11       Q    Are you familiar with a social media platform called
+12   Twitter?
+13       A    I am.
+14       Q    Do you know whether that company changed its name at
+15   some point?
+16       A    It did.
+17       Q    What did it change its name to?
+18       A    X.
+19       Q    But is it still, functionally, the same platform?
+20       A    Yes.
+21       Q    What was the platform called in 2016?
+22       A    Twitter.
+23       Q    Can you, briefly, describe how Twitter works?
+24       A    Yes.  So, users can put out a post or a tweet, and
+25   that can consist of words, photos, videos, a link.  And then
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

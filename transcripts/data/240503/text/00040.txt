@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2074
-1 between a laptop and a phone like CP1; correct?
-2 A That’s correct.
-3 Q And so we’ve talked about it, a sync, that we know
-4 occurred between CP1 and Michael Cohen’s computer on January ——
-5 in January of 2017; right?
-6 A That’s correct.
-7 Q Do you recall that there is a separate property list
-8 file that reflects a date of October 17, 2020?
-9 A I do not.
-10 MR. BOVE: Mr. Bernik, this is for the Court, the
-11 witness and the parties, please.
-12 Q If you can take a look at Government Exhibit G11.
-13 (Displayed for the aforementioned parties only.)
-14 Q And so, just so we can get oriented here.
-15 You are probably more familiar with this than I am.
-16 This is a file list in the left pane, and you can see
-17 highlighted is the audio files itself; right?
-18 A Yes.
-19 Q And so, this is metadata associated with the audio
-20 file; correct?
-21 A It is.
-22 Q And so, in the right pane you see a "Last Access Time"
-23 of January 25, 2017; correct?
-24 A That's correct.
-25 MR. BOVE: So let’s take a look at Page 2,
+1   between a laptop and a phone like CP1; correct?
+2       A    That's correct.
+3       Q    And so we've talked about it, a sync, that we know
+4   occurred between CP1 and Michael Cohen's computer on January --
+5   in January of 2017; right?
+6       A    That's correct.
+7       Q    Do you recall that there is a separate property list
+8   file that reflects a date of October 17, 2020?
+9       A    I do not.
+10                MR. BOVE:  Mr. Bernik, this is for the Court, the
+11       witness and the parties, please.
+12       Q    If you can take a look at Government Exhibit G11.
+13                (Displayed for the aforementioned parties only.)
+14       Q    And so, just so we can get oriented here.
+15       You are probably more familiar with this than I am.
+16       This is a file list in the left pane, and you can see
+17   highlighted is the audio files itself; right?
+18       A    Yes.
+19       Q    And so, this is metadata associated with the audio
+20   file; correct?
+21       A    It is.
+22       Q    And so, in the right pane you see a "Last Access Time"
+23   of January 25, 2017; correct?
+24       A    That's correct.
+25                   MR. BOVE:  So let's take a look at Page 2,
 Lisa Kramsky,
 Senior Court Reporter

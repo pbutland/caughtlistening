@@ -1,29 +1,29 @@
-Browning — Direct/Mangold
+Browning - Direct/Mangold
 Page 1667
-1 Q. Does the pool camera operator have a business duty to
-2 record that event accurately?
-3 A. Yes, because C—Span wants the entire event.
-4 Q. How does C—Span ensure that the video that it is
-5 getting is the correct video?
-6 A. Once the event is taking place, there is a producer who
-7 watches the video from the beginning to the end and makes sure
-8 there are no interruptions in the transmission.
-9 Q. Does a producer watching the video come in whether or
-10 not the video is being aired live on C—Span?
-11 A. That is true.
-12 Q. Is the video camera equipment tested before an event?
-13 A. Yes, they make sure there is a valid signal; they would
-14 say the signal is good.
-15 Q. That's a signal test?
-16 A. Yes.
-17 Q. Is there also an audio test?
-18 A. Yes, they will make sure there is solid audio coming
-19 through the event.
-20 Q. That's for every event?
-21 A. Yes, that's true.
-22 Q. While the video is being transmitted, does C—Span
-23 record it to its own servers in any way?
-24 A. Yes, we make copies of the video as it is coming in.
-25 Q. And does C—Span save those videos?
+1       Q.   Does the pool camera operator have a business duty to
+2   record that event accurately?
+3       A.   Yes, because C-Span wants the entire event.
+4       Q.   How does C-Span ensure that the video that it is
+5   getting is the correct video?
+6       A.   Once the event is taking place, there is a producer who
+7   watches the video from the beginning to the end and makes sure
+8   there are no interruptions in the transmission.
+9       Q.   Does a producer watching the video come in whether or
+10   not the video is being aired live on C-Span?
+11       A.   That is true.
+12       Q.   Is the video camera equipment tested before an event?
+13       A.   Yes, they make sure there is a valid signal; they would
+14   say the signal is good.
+15       Q.   That's a signal test?
+16       A.   Yes.
+17       Q.   Is there also an audio test?
+18       A.   Yes, they will make sure there is solid audio coming
+19   through the event.
+20       Q.   That's for every event?
+21       A.   Yes, that's true.
+22       Q.   While the video is being transmitted, does C-Span
+23   record it to its own servers in any way?
+24       A.   Yes, we make copies of the video as it is coming in.
+25       Q.   And does C-Span save those videos?
 Theresa Magniccari
 Senior Court Reporter

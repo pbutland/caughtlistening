@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2025
-1 time you look at it.
-2 Q That is an automatic process; right?
-3 A It's automatic.
-4 Q Just the checkmark, yes, the hashes match; correct?
-5 A That's correct.
-6 Q And that's because these hashes, if you are really
-7 being secure about it, they are very, very long sets of numbers
-8 and letters; right?
-9 A Yes, they are.
-10 Q You don't want to spend a lot of time checking those
-11 numbers and letters one by one; right?
-12 A You do not.
-13 Q The computer does it for you. But it's as if, say,
-14 fingerprints that match. If the hash is the same, these are the
-15 same two types of —— this is the same file; right?
-16 A That's correct.
-17 Q And so you testified today about some of the artifacts
-18 that you extracted from two phones that were acquired from
-19 Michael Cohen; right?
-20 A Yes, I did.
-21 Q And these artifacts are segments of a much broader set
-22 of data that was pulled off of each phone; correct?
-23 A They are just segments.
-24 Q That's because you are able to, once the data is
-25 parsed, you can use the program to select what the pieces of it
+1   time you look at it.
+2       Q    That is an automatic process; right?
+3       A    It's automatic.
+4       Q    Just the checkmark, yes, the hashes match; correct?
+5       A    That's correct.
+6       Q    And that's because these hashes, if you are really
+7   being secure about it, they are very, very long sets of numbers
+8   and letters; right?
+9       A    Yes, they are.
+10       Q    You don't want to spend a lot of time checking those
+11   numbers and letters one by one; right?
+12       A    You do not.
+13       Q    The computer does it for you.  But it's as if, say,
+14   fingerprints that match.  If the hash is the same, these are the
+15   same two types of -- this is the same file; right?
+16       A    That's correct.
+17       Q    And so you testified today about some of the artifacts
+18   that you extracted from two phones that were acquired from
+19   Michael Cohen; right?
+20       A    Yes, I did.
+21       Q    And these artifacts are segments of a much broader set
+22   of data that was pulled off of each phone; correct?
+23       A    They are just segments.
+24       Q    That's because you are able to, once the data is
+25   parsed, you can use the program to select what the pieces of it
 Lisa Kramsky,
 Senior Court Reporter

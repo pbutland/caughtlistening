@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2272
-1 Q Through your role as Controller, were you familiar
-2 with the way The Trump Organization kept and maintained its
-3 General Ledgers?
-4 A Yes.
-5 Q Does each entity that makes up The Trump Organization
-6 have its own General Ledger?
-7 A If an entity has a bank account, it has a General
-8 Ledger.
-9 There are a number of entities that we have that did not
-10 have a bank account, so they did not have a General Ledger.
-11 So, for argument sake, if we would set up an LLC, the LLC
-12 would pay for the transactions, so it would have a bank
-13 account. The Member Corp. would be a one percent member or
-14 one—tenth percent member. We didn’t feel it was a reason for it
-15 to have a bank account. Any expenses for that entity could be
-16 paid someplace else, so there was no reason to have a bank
-17 account or a Ledger.
-18 Q For any entity that did have a bank account, it had a
-19 General Ledger?
-20 A Yes.
-21 Q Did The Trump Organization headquarters in Manhattan
-22 oversee the accounting for all the entities that make up The
-23 Trump Organization?
-24 A Not all of them, no.
-25 Q Which ones were excluded?
+1       Q    Through your role as Controller, were you familiar
+2   with the way The Trump Organization kept and maintained its
+3   General Ledgers?
+4       A    Yes.
+5       Q    Does each entity that makes up The Trump Organization
+6   have its own General Ledger?
+7       A    If an entity has a bank account, it has a General
+8   Ledger.
+9       There are a number of entities that we have that did not
+10   have a bank account, so they did not have a General Ledger.
+11       So, for argument sake, if we would set up an LLC, the LLC
+12   would pay for the transactions, so it would have a bank
+13   account. The Member Corp. would be a one percent member or
+14   one-tenth percent member. We didn't feel it was a reason for it
+15   to have a bank account. Any expenses for that entity could be
+16   paid someplace else, so there was no reason to have a bank
+17   account or a Ledger.
+18       Q    For any entity that did have a bank account, it had a
+19   General Ledger?
+20       A    Yes.
+21       Q    Did The Trump Organization headquarters in Manhattan
+22   oversee the accounting for all the entities that make up The
+23   Trump Organization?
+24       A    Not all of them, no.
+25       Q    Which ones were excluded?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

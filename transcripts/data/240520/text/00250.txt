@@ -1,29 +1,29 @@
-R. Costello — Direct/Bove
+R. Costello - Direct/Bove
 4241
-1 Do you see that?
-2 A Yes, it was.
-3 I do see it.
-4 Q And do you see the subject line "Assignment?"
-5 A Yes.
-6 Q Were you reporting back on an assignment from Michael
-7 Cohen?
-8 A Yes. What he asked me to do; right.
-9 Q And the email begins, "I spoke with the person you
-10 asked me to."
-11 Do you see that?
-12 A Correct.
-13 Q Who were you referring to?
-14 A Rudy Giuliani.
-15 Q And then it continues.
-16 He said that he would find out exactly how the matter ended
-17 up in SDNY and, in particular, who in Main Justice approved
-18 this.
-19 Do you see that?
-20 A I do.
-21 Q And is that something that Rudy Giuliani said to you in
-22 response to Michael Cohen's question?
-23 A It is.
-24 Q I would like you to take a look at the second paragraph
-25 of that email.
+1       Do you see that?
+2       A    Yes, it was.
+3       I do see it.
+4       Q    And do you see the subject line "Assignment?"
+5       A    Yes.
+6       Q    Were you reporting back on an assignment from Michael
+7   Cohen?
+8       A    Yes.  What he asked me to do; right.
+9       Q    And the email begins, "I spoke with the person you
+10   asked me to."
+11       Do you see that?
+12       A    Correct.
+13       Q    Who were you referring to?
+14       A    Rudy Giuliani.
+15       Q    And then it continues.
+16       He said that he would find out exactly how the matter ended
+17   up in SDNY and, in particular, who in Main Justice approved
+18   this.
+19       Do you see that?
+20       A    I do.
+21       Q    And is that something that Rudy Giuliani said to you in
+22   response to Michael Cohen's question?
+23       A    It is.
+24       Q    I would like you to take a look at the second paragraph
+25   of that email.
 Lisa Kramsky,
 Senior Court Reporter

@@ -1,28 +1,29 @@
+1
 4925
-1 duty.
-2 If you are not convinced beyond a reasonable
-3 doubt that the Defendant is guilty of a charged crime, you
-4 must find the Defendant not guilty of that crime, and if
-5 you are convinced beyond a reasonable doubt that the
-6 Defendant is guilty of a charged crime, you must find the
-7 Defendant guilty of that crime.
-8 As judges of the facts, you alone determine the
-9 truthfulness and accuracy of the testimony of each witness.
-10 You must decide whether a witness told the truth
-11 and was accurate, or instead, testified falsely or was
-12 mistaken.
-13 You must also decide what importance to give to
-14 the testimony you accept as truthful and accurate.
-15 It is the quality of the testimony that is
-16 controlling, not the number of witnesses who testified.
-17 If you find that any witness has intentionally
-18 testified falsely as to any material fact, you may
-19 disregard that witness's entire testimony, or you may
-20 disregard so much of it as you find was untruthful and
-21 accept so much of it as you find to have been truthful and
-22 accurate.
-23 There is no particular formula for evaluating the
-24 truthfulness and accuracy of another person’s statements or
-25 testimony. You bring to this process all of your varied
-Susan Pearce—Bates, RPR, CCR, RSA
+2                 If you are not convinced beyond a reasonable
+3       doubt that the Defendant is guilty of a charged crime, you
+4       must find the Defendant not guilty of that crime, and if
+5       you are convinced beyond a reasonable doubt that the
+6       Defendant is guilty of a charged crime, you must find the
+7       Defendant guilty of that crime.
+8                 As judges of the facts, you alone determine the
+9       truthfulness and accuracy of the testimony of each witness.
+10                 You must decide whether a witness told the truth
+11       and was accurate, or instead, testified falsely or was
+12       mistaken.
+13                 You must also decide what importance to give to
+14       the testimony you accept as truthful and accurate.
+15                 It is the quality of the testimony that is
+16       controlling, not the number of witnesses who testified.
+17                 If you find that any witness has intentionally
+18       testified falsely as to any material fact, you may
+19       disregard that witness's entire testimony, or you may
+20       disregard so much of it as you find was untruthful and
+21       accept so much of it as you find to have been truthful and
+22       accurate.
+23                 There is no particular formula for evaluating the
+24       truthfulness and accuracy of another person's statements or
+25       testimony.  You bring to this process all of your varied
+    duty.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

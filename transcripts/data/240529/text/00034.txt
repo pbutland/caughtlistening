@@ -1,29 +1,29 @@
 Jury Charge
 4849
-1 The second count pertains to an entry in the Detail
-2 General Ledger for the Donald J. Trump Revocable Trust,
-3 dated February 14th, 2017, bearing voucher number 842457,
-4 and kept or maintained by The Trump Organization.
-5 The third count pertains to an entry in the Detail
-6 General Ledger for the Donald J. Trump Revocable Trust,
-7 dated February 14th, 2017, bearing voucher number 842460,
-8 and kept or maintained by The Trump Organization.
-9 The fourth count pertains to a Donald J. Trump
-10 Revocable Trust account check and check stub dated
-11 February 14, 2017, bearing check number 000138, and kept or
-12 maintained by The Trump Organization.
-13 The fifth count pertains to an invoice from Michael
-14 Cohen dated March 16, 2017, marked as a record of the Donald
-15 J. Trump Revocable Trust and kept or maintained by The Trump
-16 Organization.
-17 The sixth count pertains to an entry in the Detail
-18 General Ledger for the Donald J. Trump Revocable Trust,
-19 dated March 17, 2017, bearing voucher number 846907, and
-20 kept or maintained by The Trump Organization.
-21 The seventh count pertains to a Donald J. Trump
-22 Revocable Trust account check and check stub dated
-23 March 17th, 2017, bearing check number 000147, and kept or
-24 maintained by The Trump Organization.
-25 The eighth count pertains to an invoice from
+1            The second count pertains to an entry in the Detail
+2   General Ledger for the Donald J. Trump Revocable Trust,
+3   dated February 14th, 2017, bearing voucher number 842457,
+4   and kept or maintained by The Trump Organization.
+5            The third count pertains to an entry in the Detail
+6   General Ledger for the Donald J. Trump Revocable Trust,
+7   dated February 14th, 2017, bearing voucher number 842460,
+8   and kept or maintained by The Trump Organization.
+9            The fourth count pertains to a Donald J. Trump
+10   Revocable Trust account check and check stub dated
+11   February 14, 2017, bearing check number 000138, and kept or
+12   maintained by The Trump Organization.
+13            The fifth count pertains to an invoice from Michael
+14   Cohen dated March 16, 2017, marked as a record of the Donald
+15   J. Trump Revocable Trust and kept or maintained by The Trump
+16   Organization.
+17            The sixth count pertains to an entry in the Detail
+18   General Ledger for the Donald J. Trump Revocable Trust,
+19   dated March 17, 2017, bearing voucher number 846907, and
+20   kept or maintained by The Trump Organization.
+21            The seventh count pertains to a Donald J. Trump
+22   Revocable Trust account check and check stub dated
+23   March 17th, 2017, bearing check number 000147, and kept or
+24   maintained by The Trump Organization.
+25            The eighth count pertains to an invoice from
 Lisa Kramsky,
 Senior Court Reporter

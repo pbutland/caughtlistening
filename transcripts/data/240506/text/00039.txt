@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2287
-1 thereafter?
-2 A Yes.
-3 Q Was the person who made or kept those records under a
-4 business duty to do so accurately?
-5 A Yes.
-6 Q Does The Trump Organization have an email system that
-7 allows you to send and receive messages?
-8 A Yes.
-9 Q Does that email system record the dates and times that
-10 those messages were sent and received in?
-11 A Yes.
-12 Q Is it part of The Trump Organization's business
-13 practice to make and keep records of email messages sent and
-14 received?
-15 A Yes.
-16 Q Are those records kept in the regular and ordinary
-17 course of business?
-18 A Yes.
-19 Q Does the email system keep records of those messages
-20 at the same time they're sent?
-21 A Yes.
-22 Q Are business decisions sometimes made by email?
-23 A Yes.
-24 Q Have you previously communicated with Michael Cohen
-25 using The Trump Organization’s email system?
+1   thereafter?
+2       A    Yes.
+3       Q    Was the person who made or kept those records under a
+4   business duty to do so accurately?
+5       A    Yes.
+6       Q    Does The Trump Organization have an email system that
+7   allows you to send and receive messages?
+8       A    Yes.
+9       Q    Does that email system record the dates and times that
+10   those messages were sent and received in?
+11       A    Yes.
+12       Q    Is it part of The Trump Organization's business
+13   practice to make and keep records of email messages sent and
+14   received?
+15       A    Yes.
+16       Q    Are those records kept in the regular and ordinary
+17   course of business?
+18       A    Yes.
+19       Q    Does the email system keep records of those messages
+20   at the same time they're sent?
+21       A    Yes.
+22       Q    Are business decisions sometimes made by email?
+23       A    Yes.
+24       Q    Have you previously communicated with Michael Cohen
+25   using The Trump Organization's email system?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

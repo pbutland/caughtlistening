@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2059
-1 yourself to recover the messages; right?
-2 A It is very difficult.
-3 Q And Telegram, which you said was on CP1; correct?
-4 A Yes.
-5 Q It has a similar function; right?
-6 A It can, if set by the user.
-7 Q It's a user option to set messages to delete or
-8 disappear from the phone; right?
-9 A You can.
-10 Q And do you recall that Mr. Cohen had a, quote,
-11 "self—destruct timer" set up in the Telegram app?
-12 A I do not recall.
-13 MR. BOVE: Mr. Bernik, this is for the parties, the
-14 Court and the witness, please.
-15 Q If you could take a look at Defense Exhibit G4?
-16 (Displayed for the aforementioned parties only.)
-17 Q And there is an entry where the numbers are in green.
-18 Do you see that?
-19 A I do.
-20 Q And does that refresh your recollection about the
-21 self—destruct timer that Mr. Cohen set up?
-22 A Yes, there appears to be a self—destruct timer on that
-23 particular conversation.
-24 Q And at least for that conversation, it was set up to
-25 self—destruct in seven seconds; do I have that right?
+1   yourself to recover the messages; right?
+2       A    It is very difficult.
+3       Q    And Telegram, which you said was on CP1; correct?
+4       A    Yes.
+5       Q    It has a similar function; right?
+6       A    It can, if set by the user.
+7       Q    It's a user option to set messages to delete or
+8   disappear from the phone; right?
+9       A    You can.
+10       Q    And do you recall that Mr. Cohen had a, quote,
+11   "self-destruct timer" set up in the Telegram app?
+12       A    I do not recall.
+13                MR. BOVE:  Mr. Bernik, this is for the parties, the
+14       Court and the witness, please.
+15       Q    If you could take a look at Defense Exhibit G4?
+16                 (Displayed for the aforementioned parties only.)
+17       Q    And there is an entry where the numbers are in green.
+18   Do you see that?
+19       A    I do.
+20       Q    And does that refresh your recollection about the
+21   self-destruct timer that Mr. Cohen set up?
+22       A    Yes, there appears to be a self-destruct timer on that
+23   particular conversation.
+24       Q    And at least for that conversation, it was set up to
+25   self-destruct in seven seconds; do I have that right?
 Lisa Kramsky,
 Senior Court Reporter

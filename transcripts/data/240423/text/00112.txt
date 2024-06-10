@@ -1,29 +1,29 @@
-D. Pecker — Direct/Steinglass
+D. Pecker - Direct/Steinglass
 Page 1049
-1 Q And, very generally speaking, how is that
-2 accomplished?
-3 A The IT Department —— the Legal Department would put a
-4 legal hold, send it to the IT Department, and the IT Director
-5 would send —— would actually put a hold on all of the
-6 content —— all of the content that was related to that case or
-7 that issue. And you would receive a letter from Legal
-8 Department telling you that this is being done.
-9 Q When you say "IT", is that information technology?
-10 A Sorry.
-11 Information Technology.
-12 Sorry about that.
-13 Q It's okay.
-14 So, during those instances where it became necessary to
-15 take the texts from the employees' phones, did AMI have the
-16 ability to physically take possession of those phones to
-17 download or otherwise forensically image the texts that were
-18 the subject of the litigation hold?
-19 A Yes.
-20 The Legal Department would actually call and ask for the
-21 phone. And they would take —— they would do it from there with
-22 the IT —— with the Information Technology Department.
-23 Q Right.
-24 Thank you.
-25 Are texts used, in part, to conduct AMI business?
+1       Q    And, very generally speaking, how is that
+2   accomplished?
+3       A    The IT Department -- the Legal Department would put a
+4   legal hold, send it to the IT Department, and the IT Director
+5   would send -- would actually put a hold on all of the
+6   content -- all of the content that was related to that case or
+7   that issue. And you would receive a letter from Legal
+8   Department telling you that this is being done.
+9       Q    When you say "IT", is that information technology?
+10       A    Sorry.
+11       Information Technology.
+12       Sorry about that.
+13       Q    It's okay.
+14       So, during those instances where it became necessary to
+15   take the texts from the employees' phones, did AMI have the
+16   ability to physically take possession of those phones to
+17   download or otherwise forensically image the texts that were
+18   the subject of the litigation hold?
+19       A    Yes.
+20       The Legal Department would actually call and ask for the
+21   phone. And they would take -- they would do it from there with
+22   the IT -- with the Information Technology Department.
+23       Q    Right.
+24       Thank you.
+25       Are texts used, in part, to conduct AMI business?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

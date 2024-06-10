@@ -1,29 +1,29 @@
-G. Farro — Direct/Mangold
+G. Farro - Direct/Mangold
 Page 1536
-1 Q What would happen if there were —— there was a
-2 transaction with paperwork that raised certain red flags? Could
-3 that delay a transaction?
-4 A It would delay an account opening or delay a wire,
-5 yes.
-6 Q Could the bank refuse to process a transaction
-7 altogether?
-8 A Yes.
-9 We have the right to not do any transaction we don't feel
-10 comfortable with.
-11 Q And could a bank shut down the client's entire account
-12 if they found something that —— in the paperwork that ran afoul
-13 of one of the regulations?
-14 A To receive a bank account, yes.
-15 An existing account that's open already on the lending
-16 side, no.
-17 Q Can you explain what you mean by that?
-18 A Well, if someone has a mortgage already, we can't just
-19 close out a mortgage once it's agreed to.
-20 Q Have you heard the term "shell corporation"?
-21 A I have.
-22 Q What is a shell corporation?
-23 A My understanding of a shell corporation is an entity
-24 that's opened up to do —— to receive monies and send out wires.
-25 It doesn't have an actual business behind it.
+1       Q    What would happen if there were -- there was a
+2   transaction with paperwork that raised certain red flags? Could
+3   that delay a transaction?
+4       A    It would delay an account opening or delay a wire,
+5   yes.
+6       Q    Could the bank refuse to process a transaction
+7   altogether?
+8       A    Yes.
+9       We have the right to not do any transaction we don't feel
+10   comfortable with.
+11       Q    And could a bank shut down the client's entire account
+12   if they found something that -- in the paperwork that ran afoul
+13   of one of the regulations?
+14       A    To receive a bank account, yes.
+15       An existing account that's open already on the lending
+16   side, no.
+17       Q    Can you explain what you mean by that?
+18       A    Well, if someone has a mortgage already, we can't just
+19   close out a mortgage once it's agreed to.
+20       Q    Have you heard the term "shell corporation"?
+21       A    I have.
+22       Q    What is a shell corporation?
+23       A    My understanding of a shell corporation is an entity
+24   that's opened up to do -- to receive monies and send out wires.
+25   It doesn't have an actual business behind it.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

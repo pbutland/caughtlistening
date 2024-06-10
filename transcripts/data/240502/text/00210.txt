@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2013
-1 maintaining the integrity of the data?
-2 A Absolutely.
-3 Q And it's important to maintain that integrity, because
-4 it ultimately goes to the reliability and the evidence that you
-5 present in a criminal trial setting like this; right?
-6 A Yes.
-7 Q That goes to how much weight the jury should put on
-8 it?
-9 A That's correct.
-10 Q Evidence that has been subject to a risk of
-11 manipulation is less reliable; isn't it?
-12 A Certainly.
-13 Q That's a basic principle of the forensic certifications
-14 that you described; right?
-15 A That is correct.
-16 Q And so, in your field, there are processes and
-17 procedures that are designed to maintain the integrity of the
-18 data?
-19 A Yes, there are.
-20 Q So let's talk a little bit more about the different
-21 steps in the process.
-22 Let's start with device collection, which I think is the
-23 first step; right?
-24 A That is correct.
-25 Q It sometimes is called the "acquisition phase?"
+1   maintaining the integrity of the data?
+2       A    Absolutely.
+3       Q    And it's important to maintain that integrity, because
+4   it ultimately goes to the reliability and the evidence that you
+5   present in a criminal trial setting like this; right?
+6       A    Yes.
+7       Q    That goes to how much weight the jury should put on
+8   it?
+9       A    That's correct.
+10       Q    Evidence that has been subject to a risk of
+11   manipulation is less reliable; isn't it?
+12       A    Certainly.
+13       Q    That's a basic principle of the forensic certifications
+14   that you described; right?
+15       A    That is correct.
+16       Q    And so, in your field, there are processes and
+17   procedures that are designed to maintain the integrity of the
+18   data?
+19       A    Yes, there are.
+20       Q    So let's talk a little bit more about the different
+21   steps in the process.
+22       Let's start with device collection, which I think is the
+23   first step; right?
+24       A    That is correct.
+25       Q    It sometimes is called the "acquisition phase?"
 Lisa Kramsky,
 Senior Court Reporter

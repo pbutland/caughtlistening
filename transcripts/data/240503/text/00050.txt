@@ -1,29 +1,29 @@
-D. Daus — Redirect/Conroy
+D. Daus - Redirect/Conroy
 2084
-1 Q Is there a difference when evidence is collected
-2 pursuant to a search warrant and when it's collected pursuant to
-3 a Consent form?
-4 A Yes.
-5 Q Can you tell us a little bit about what that is?
-6 A Well, a Consent form is just simply a user is offering
-7 their phones, they provide the code and we can perform the full
-8 extraction of that device.
-9 Q And what about when there is a search warrant?
-10 A In a search warrant, you may not have the code. It may
-11 be a hostile environment.
-12 You have to, depending on exigent circumstances, do things
-13 to a device with that search warrant that you may not from a
-14 Consent form, different things.
-15 Q And with a search warrant, the phone is often taken not
-16 with the Consent form of the owner, if the phone is taken
-17 pursuant to a Court order; is that correct?
-18 A That's correct.
-19 Q I want to go back to, again, the recording that we
-20 played at the end of the day yesterday that had the defendant
-21 speaking to Mr. Cohen, the evidence in this case that's in as
-22 People's 246.
-23 In the examination that you did —— first of all, you were
-24 working with a full forensic extraction of the device; is that
-25 right?
+1       Q    Is there a difference when evidence is collected
+2   pursuant to a search warrant and when it's collected pursuant to
+3   a Consent form?
+4       A    Yes.
+5       Q    Can you tell us a little bit about what that is?
+6       A    Well, a Consent form is just simply a user is offering
+7   their phones, they provide the code and we can perform the full
+8   extraction of that device.
+9       Q    And what about when there is a search warrant?
+10       A    In a search warrant, you may not have the code.  It may
+11   be a hostile environment.
+12       You have to, depending on exigent circumstances, do things
+13   to a device with that search warrant that you may not from a
+14   Consent form, different things.
+15       Q    And with a search warrant, the phone is often taken not
+16   with the Consent form of the owner, if the phone is taken
+17   pursuant to a Court order; is that correct?
+18       A    That's correct.
+19       Q    I want to go back to, again, the recording that we
+20   played at the end of the day yesterday that had the defendant
+21   speaking to Mr. Cohen, the evidence in this case that's in as
+22   People's 246.
+23       In the examination that you did -- first of all, you were
+24   working with a full forensic extraction of the device; is that
+25   right?
 Lisa Kramsky,
 Senior Court Reporter

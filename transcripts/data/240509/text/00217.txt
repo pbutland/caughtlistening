@@ -1,18 +1,17 @@
-Westerhout — Direct/Mangold
+Westerhout - Direct/Mangold
 2997
-1 A. Tuesday, January 20, 2017.
-2 Q. And are there certain redactions in this email?
-3 A. Yes.
-4 Q. Have you reviewed the unredacted version of this email?
-5 A. Yes.
-6 Q. And is that an email sent from your White House email
-7 address?
-8 A. Yes.
+1       A.   Tuesday, January 20, 2017.
+2       Q.   And are there certain redactions in this email?
+3       A.   Yes.
+4       Q.   Have you reviewed the unredacted version of this email?
+5       A.   Yes.
+6       Q.   And is that an email sent from your White House email
+7   address?
+8       A.   Yes.
 9
 10
 11
-12 (Whereupon, Theresa Magniccari, Senior Court Reporter
-was relieved by Laurie Eisenberg as Senior Court Reporter.)
+12   (Whereupon, Theresa Magniccari, Senior Court Reporter
 13
 14
 15
@@ -26,5 +25,6 @@ was relieved by Laurie Eisenberg as Senior Court Reporter.)
 23
 24
 25
-Theresa Magnicoari
+was relieved by Laurie Eisenberg as Senior Court Reporter.)
+Theresa Magniccari
 Senior Court Reporter

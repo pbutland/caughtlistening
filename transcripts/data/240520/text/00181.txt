@@ -1,29 +1,29 @@
-M. Cohen — Redirect/Hoffinger
+M. Cohen - Redirect/Hoffinger
 4172
-1 transmission.
-2 "QUESTION: Is the video camera equipment tested
-3 before an event?
-4 "ANSWER: Yes, they make sure there is a valid
-5 signal; they would say the signal is good.
-6 "QUESTION: That’s a signal test?
-7 "ANSWER: Yes .
-8 "QUESTION: Is there also an audio test?
-9 "ANSWER: Yes, they will make sure that there is
-10 solid audio coming through the event.
-11 "QUESTION: While the video is being transmitted,
-12 does C—Span record it to its own servers in any way?
-13 "ANSWER: Yes, we make copies of the video as it
-14 is coming in.
-15 "QUESTION: Does C—Span save those videos?
-16 "ANSWER: Yes, in the video library, the C—Span
-17 archives.
-18 "QUESTION: Can you tell the jurors a little bit
-19 about the video library that C—Span archives?
-20 "ANSWER: The video library is an online
-21 collection of everything that is telecast on C—Span. That
-22 is 278,000 digital hours a day.
-23 "QUESTION: And that is everything that is ever
-24 aired on C—Span?
-25 "ANSWER: That’s correct.
+1        transmission.
+2                 "QUESTION:  Is the video camera equipment tested
+3        before an event?
+4                 "ANSWER:  Yes, they make sure there is a valid
+5        signal; they would say the signal is good.
+6                 "QUESTION:  That's a signal test?
+7                 "ANSWER:  Yes.
+8                 "QUESTION:  Is there also an audio test?
+9                 "ANSWER:  Yes, they will make sure that there is
+10        solid audio coming through the event.
+11                 "QUESTION:  While the video is being transmitted,
+12        does C-Span record it to its own servers in any way?
+13                 "ANSWER:  Yes, we make copies of the video as it
+14        is coming in.
+15                 "QUESTION:  Does C-Span save those videos?
+16                 "ANSWER:  Yes, in the video library, the C-Span
+17        archives.
+18                 "QUESTION:  Can you tell the jurors a little bit
+19        about the video library that C-Span archives?
+20                 "ANSWER:  The video library is an online
+21        collection of everything that is telecast on C-Span.  That
+22        is 278,000 digital hours a day.
+23                 "QUESTION:  And that is everything that is ever
+24        aired on C-Span?
+25                 "ANSWER:  That's correct.
 Theresa Magniccari
 Senior Court Reporter

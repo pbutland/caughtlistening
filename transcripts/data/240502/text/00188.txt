@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1991
-1 Q Thank you.
-2 MR. CONROY: You can take that down.
-3 Q When you received the phones to forensically examine,
-4 do you recall if CPl and CP2 were powered on or powered off?
-5 A They were off.
-6 Q Did each of these two devices go through the intake
-7 process, as you just described for us?
-8 A Yes, they did.
-9 Q Did you do the intake yourself?
-10 A I did not.
-11 Q Once you were assigned the phones, what did you do
-12 with them?
-13 A Once I received the phones, I kind of mentioned
-14 before, I take them to what’s called our F Room, our Faraday
-15 Room. F—A—R—A—D—A—Y. It’s a room that separates the room from
-16 outside sources so there’s no interference.
-17 We’ll then plug that into a device, hardware device, and
-18 then proceed, after given the passcode, to extract the data
-19 from the device.
-20 Q Once you did all of that, did you end up with a full
-21 forensic extraction on each of the data on CPl and CP2?
-22 A It was a full extraction.
-23 Q We talked a little about this. In layman's terms,
-24 could you explain for the members of the jury what "full
-25 forensic extraction" means?
+1       Q    Thank you.
+2                 MR. CONROY:  You can take that down.
+3       Q    When you received the phones to forensically examine,
+4   do you recall if CP1 and CP2 were powered on or powered off?
+5       A    They were off.
+6       Q    Did each of these two devices go through the intake
+7   process, as you just described for us?
+8       A    Yes, they did.
+9       Q    Did you do the intake yourself?
+10       A    I did not.
+11       Q    Once you were assigned the phones, what did you do
+12   with them?
+13       A    Once I received the phones, I kind of mentioned
+14   before, I take them to what's called our F Room, our Faraday
+15   Room. F-A-R-A-D-A-Y. It's a room that separates the room from
+16   outside sources so there's no interference.
+17       We'll then plug that into a device, hardware device, and
+18   then proceed, after given the passcode, to extract the data
+19   from the device.
+20       Q    Once you did all of that, did you end up with a full
+21   forensic extraction on each of the data on CP1 and CP2?
+22       A    It was a full extraction.
+23       Q    We talked a little about this. In layman's terms,
+24   could you explain for the members of the jury what "full
+25   forensic extraction" means?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

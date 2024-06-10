@@ -1,29 +1,29 @@
-M. Cohen — Cross/Blanche
+M. Cohen - Cross/Blanche
 4024
-1 A It’s possible, yes.
-2 Q Well —— and I’m not looking for an exact number, but
-3 is it closer to 20 or closer to 12?
-4 A Probably closer to 20.
-5 Q Were those meetings all more than an hour?
-6 A Yes, sir.
-7 Q Were some of them more than two hours?
-8 A Yes, sir.
-9 Q When is the most recent time you met with them?
-10 A Approximately ten days ago.
-11 Q So, you testified on Monday —— you started to testify
-12 on Monday of last week. Was it over the prior weekend?
-13 A Yes, sir.
-14 Q When you met with the Prosecutors —— again, just
-15 focused on this year, 2024 —— they asked you questions similar
-16 to what they asked you last Monday or Tuesday; right?
-17 A They asked me questions, yes, sir.
-18 Q Right.
-19 But, that wasn’t my question to you.
-20 They asked you questions similar to the questions they
-21 asked you on the stand on Monday and Tuesday of last week;
-22 correct?
-23 A The same topics, yes, sir.
-24 Q Well, the topic you testified to hasn’t changed in
-25 your prep with them for a long time; right?
+1       A    It's possible, yes.
+2       Q    Well -- and I'm not looking for an exact number, but
+3   is it closer to 20 or closer to 12?
+4       A    Probably closer to 20.
+5       Q    Were those meetings all more than an hour?
+6       A    Yes, sir.
+7       Q    Were some of them more than two hours?
+8       A    Yes, sir.
+9       Q    When is the most recent time you met with them?
+10       A    Approximately ten days ago.
+11       Q    So, you testified on Monday -- you started to testify
+12   on Monday of last week. Was it over the prior weekend?
+13       A    Yes, sir.
+14       Q    When you met with the Prosecutors -- again, just
+15   focused on this year, 2024 -- they asked you questions similar
+16   to what they asked you last Monday or Tuesday; right?
+17       A    They asked me questions, yes, sir.
+18       Q    Right.
+19       But, that wasn't my question to you.
+20       They asked you questions similar to the questions they
+21   asked you on the stand on Monday and Tuesday of last week;
+22   correct?
+23       A    The same topics, yes, sir.
+24       Q    Well, the topic you testified to hasn't changed in
+25   your prep with them for a long time; right?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

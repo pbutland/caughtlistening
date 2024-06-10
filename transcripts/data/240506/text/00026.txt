@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2274
-1 Ledgers, trial balances, information that the accountants would
-2 need to prepare tax returns or financial statements.
-3 Q How long did The Trump Organization use MDS as its
-4 computerized General Ledger?
-5 A That was one of my first jobs back in the ’80’s, to
-6 set up the accounting system. So, we used it from the day it
-7 was up and running, sometime in 1990 or ’91. It was still in
-8 use when I left.
-9 Q Who enters information into the General Ledger system?
-10 A Mainly, the Accounting Department.
-11 Q Does that include the people we mentioned,
-12 Ms. Tarasoff, for example?
-13 A Right.
-14 Deb would enter bills to be paid.
-15 Q Can you use MDS to generate reports?
-16 A Yes.
-17 Q What kind of reports can MDS generate?
-18 A There are standard reports you can run for Accounts
-19 Payable if you wanted to see how much —— how many bills you had
-20 that weren't paid. If you wanted to see, um, what vendors ——
-21 that doesn’t make sense.
-22 On cash receipts, we can run multi—cash reports, tenant
-23 ledgers, rent rolls.
-24 There’s a variety of reports that you can run.
-25 You can also computerize —— I’m sorry —— customize your own
+1   Ledgers, trial balances, information that the accountants would
+2   need to prepare tax returns or financial statements.
+3       Q    How long did The Trump Organization use MDS as its
+4   computerized General Ledger?
+5       A    That was one of my first jobs back in the '80's, to
+6   set up the accounting system.  So, we used it from the day it
+7   was up and running, sometime in 1990 or '91. It was still in
+8   use when I left.
+9       Q    Who enters information into the General Ledger system?
+10       A    Mainly, the Accounting Department.
+11       Q    Does that include the people we mentioned,
+12   Ms. Tarasoff, for example?
+13       A    Right.
+14       Deb would enter bills to be paid.
+15       Q    Can you use MDS to generate reports?
+16       A    Yes.
+17       Q    What kind of reports can MDS generate?
+18       A    There are standard reports you can run for Accounts
+19   Payable if you wanted to see how much -- how many bills you had
+20   that weren't paid. If you wanted to see, um, what vendors --
+21   that doesn't make sense.
+22       On cash receipts, we can run multi-cash reports, tenant
+23   ledgers, rent rolls.
+24       There's a variety of reports that you can run.
+25       You can also computerize -- I'm sorry -- customize your own
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

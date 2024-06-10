@@ -1,29 +1,29 @@
 Verdict
 4952
-1 JUROR #1: Guilty.
-2 THE CLERK: And how say you to count 34?
-3 JUROR #1: Guilty.
-4 THE CLERK: Please be seated.
-5 (Whereupon, the court officer takes the jury's
-6 Verdict Sheet from the foreperson, gives it to the Court,
-7 and then gives it to the clerk of the court.)
-8 THE CLERK: Members of the jury, listen to your
-9 verdict as it stands recorded. You and each of you say
-10 through your foreperson that you find the Defendant,
-11 Donald J. Trump, guilty of all 34 counts charging
-12 falsifying business records in the first degree, and so
-13 say you all.
-14 Is this the verdict?
-15 THE JURORS: Yes.
-16 (Whereupon, the jurors nod and verbally respond
-17 in the affirmative.)
-18 THE CLERK: Would either party like the jury
-19 polled?
-20 MR. BLANCHE: Yes, please.
-21 THE CLERK: Members of the jury, you have said
-22 through your foreperson that you find the Defendant,
-23 Donald J. Trump, guilty of all 34 counts of falsifying
-24 business records in the first degree.
-25 Juror Number 1, is that your verdict?
+1            JUROR #1:  Guilty.
+2            THE CLERK:  And how say you to count 34?
+3            JUROR #1:  Guilty.
+4            THE CLERK:  Please be seated.
+5            (Whereupon, the court officer takes the jury's
+6   Verdict Sheet from the foreperson, gives it to the Court,
+7   and then gives it to the clerk of the court.)
+8            THE CLERK:  Members of the jury, listen to your
+9   verdict as it stands recorded. You and each of you say
+10   through your foreperson that you find the Defendant,
+11   Donald J. Trump, guilty of all 34 counts charging
+12   falsifying business records in the first degree, and so
+13   say you all.
+14            Is this the verdict?
+15            THE JURORS:  Yes.
+16            (Whereupon, the jurors nod and verbally respond
+17   in the affirmative.)
+18            THE CLERK:  Would either party like the jury
+19   polled?
+20            MR. BLANCHE:  Yes, please.
+21            THE CLERK:  Members of the jury, you have said
+22   through your foreperson that you find the Defendant,
+23   Donald J. Trump, guilty of all 34 counts of falsifying
+24   business records in the first degree.
+25            Juror Number 1, is that your verdict?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

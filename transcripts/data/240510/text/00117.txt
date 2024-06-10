@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3205
-1 formatted them to look pretty.
-2 Q. What did you do with the Verizon records?
-3 A. So the Verizon records were a particular year. They
-4 came in as a PDF. We made them text readable, uploaded the text
-5 into Excel, wrote simple scripts to extract the information that
-6 was put into a format that was file readable. Then we just
-7 filtered again by date and time, caller phone number, et cetera.
-8 Then formatted them.
-9 Q. In addition to what's in evidence as People's 400 and
-10 401, did you include any other records in the call summaries?
-11 A. Yes.
-12 Q. Do you recall what date?
-13 A. In some cases we put calls that were taken off of the
-14 call log that is in evidence as 261, which is calls pulled from
-15 Mr. Cohen's phone.
-16 Q. What was the purpose of creating these summaries?
-17 A. So, as you might have seen, the phone records are
-18 somewhat hard to decipher. They don't list which caller is
-19 associated with the phone number. They're all different time
-20 zones.
-21 And kind of, more importantly, they include a lot of
-22 extraneous outside calls of people that are not relevant. We
-23 wanted to create summaries that were a bit more digestible and
-24 easy and by time zone.
-25 Q. You mentioned different time zones; how did you
+1   formatted them to look pretty.
+2       Q.   What did you do with the Verizon records?
+3       A.   So the Verizon records were a particular year.  They
+4   came in as a PDF.  We made them text readable, uploaded the text
+5   into Excel, wrote simple scripts to extract the information that
+6   was put into a format that was file readable.  Then we just
+7   filtered again by date and time, caller phone number, et cetera.
+8   Then formatted them.
+9       Q.   In addition to what's in evidence as People's 400 and
+10   401, did you include any other records in the call summaries?
+11       A.   Yes.
+12       Q.   Do you recall what date?
+13       A.   In some cases we put calls that were taken off of the
+14   call log that is in evidence as 261, which is calls pulled from
+15   Mr. Cohen's phone.
+16       Q.   What was the purpose of creating these summaries?
+17       A.   So, as you might have seen, the phone records are
+18   somewhat hard to decipher.  They don't list which caller is
+19   associated with the phone number.  They're all different time
+20   zones.
+21            And kind of, more importantly, they include a lot of
+22   extraneous outside calls of people that are not relevant.  We
+23   wanted to create summaries that were a bit more digestible and
+24   easy and by time zone.
+25       Q.   You mentioned different time zones; how did you
 Theresa Magniccari
 Senior Court Reporter

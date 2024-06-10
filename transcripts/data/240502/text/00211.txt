@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2014
-1 A That’s correct.
-2 Q Meaning, how does law enforcement get the device that
-3 you ultimately search; right?
-4 A That's correct.
-5 Q And that could happen in a lot of ways; right?
-6 A Yes.
-7 Q Law enforcement can collect a device at a crime scene;
-8 right?
-9 A That’s correct.
-10 Q Execute a search warrant, seize a device, and bring it
-11 to you; right?
-12 A Yes.
-13 Q Issue a subpoena and collect a device and bring it to
-14 you; right?
-15 A That's correct.
-16 Q Or in this case, a device was delivered to you with an
-17 authorization from Michael Cohen; right?
-18 That’s how it was acquired, the two devices were acquired?
-19 A Yes, it was.
-20 Q And if you got to pick from the kinds of just pure
-21 forensics, the best case scenario would be that once acquired,
-22 the device goes immediately in the vault; right?
-23 A That's correct.
-24 Q It is immediately secured, to be kept away from radio
-25 waves; right?
+1       A    That's correct.
+2       Q    Meaning, how does law enforcement get the device that
+3   you ultimately search; right?
+4       A    That's correct.
+5       Q    And that could happen in a lot of ways; right?
+6       A    Yes.
+7       Q    Law enforcement can collect a device at a crime scene;
+8   right?
+9       A    That's correct.
+10       Q    Execute a search warrant, seize a device, and bring it
+11   to you; right?
+12       A    Yes.
+13       Q    Issue a subpoena and collect a device and bring it to
+14   you; right?
+15       A    That's correct.
+16       Q    Or in this case, a device was delivered to you with an
+17   authorization from Michael Cohen; right?
+18       That's how it was acquired, the two devices were acquired?
+19       A    Yes, it was.
+20       Q    And if you got to pick from the kinds of just pure
+21   forensics, the best case scenario would be that once acquired,
+22   the device goes immediately in the vault; right?
+23       A    That's correct.
+24       Q    It is immediately secured, to be kept away from radio
+25   waves; right?
 Lisa Kramsky,
 Senior Court Reporter

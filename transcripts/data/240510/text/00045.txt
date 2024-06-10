@@ -1,29 +1,29 @@
-D. Dixon — Direct/Conroy
+D. Dixon - Direct/Conroy
 3133
-1 party be different from the user information?
-2 A Yes.
-3 Q Why is that?
-4 A Because the person who pays the bill is not necessarily
-5 the one using the phone number.
-6 Q Is that something you might often see in a situation
-7 where a business gives phones to employees?
-8 A Yes.
-9 Q So the business might be the billing party, but the
-10 individual employee who uses the phone might be in the user
-11 information?
-12 A Yes.
-13 Q What is the MSISDN?
-14 A That's the phone number on the account.
-15 Q And what does "MSISDN Active" mean?
-16 A The date it was active.
-17 Q So, it's sort of a date range?
-18 A Yes, a date range.
-19 MR. CONROY: If we could take that down.
-20 And if we could —— I want to pull up now an
-21 example of call detail records.
-22 (Displayed.)
-23 Q Do the call detail records within People's Exhibit 400
-24 contain three different types of reports?
-25 A Yes.
+1   party be different from the user information?
+2       A    Yes.
+3       Q    Why is that?
+4       A    Because the person who pays the bill is not necessarily
+5   the one using the phone number.
+6       Q    Is that something you might often see in a situation
+7   where a business gives phones to employees?
+8       A    Yes.
+9       Q    So the business might be the billing party, but the
+10   individual employee who uses the phone might be in the user
+11   information?
+12       A    Yes.
+13       Q    What is the MSISDN?
+14       A    That's the phone number on the account.
+15       Q    And what does "MSISDN Active" mean?
+16       A    The date it was active.
+17       Q    So, it's sort of a date range?
+18       A    Yes, a date range.
+19                 MR. CONROY:  If we could take that down.
+20                 And if we could -- I want to pull up now an
+21        example of call detail records.
+22                  (Displayed.)
+23       Q    Do the call detail records within People's Exhibit 400
+24   contain three different types of reports?
+25       A    Yes.
 Lisa Kramsky,
 Senior Court Reporter

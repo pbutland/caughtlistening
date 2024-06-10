@@ -1,29 +1,29 @@
-D. Tarasoff — Direct/Conroy
+D. Tarasoff - Direct/Conroy
 2466
-1 A Yes.
-2 MR. CONROY: If we could pull up People’s 11.
-3 (Whereupon, an exhibit is shown on the screens.)
-4 Q Is this the invoice for May attached to that email?
-5 A Yes.
-6 Q Does it have your approval stamp on it?
-7 A Yes.
-8 Q Or your Accounts Payable stamp?
-9 Excuse me.
-10 A Yes.
-11 Q Who sent this invoice in?
-12 A Michael Cohen.
-13 Q What is the amount?
-14 A 35,000.
-15 Q And is this for services rendered in May of 2017?
-16 A Yes.
-17 Q Which account is this from?
-18 A From Mr. Trump’s personal account.
-19 Q And what is the General Ledger code assigned to it?
-20 A 51505, legal expense.
-21 MR. CONROY: We could take that down.
-22 Pull up People’s 12.
-23 (Whereupon, an exhibit is shown on the screens.)
-24 Q Now, is this the MDS voucher related to that invoice?
-25 A Yes.
+1       A    Yes.
+2                 MR. CONROY:  If we could pull up People's 11.
+3                 (Whereupon, an exhibit is shown on the screens.)
+4       Q    Is this the invoice for May attached to that email?
+5       A    Yes.
+6       Q    Does it have your approval stamp on it?
+7       A    Yes.
+8       Q    Or your Accounts Payable stamp?
+9       Excuse me.
+10       A    Yes.
+11       Q    Who sent this invoice in?
+12       A    Michael Cohen.
+13       Q    What is the amount?
+14       A    35,000.
+15       Q    And is this for services rendered in May of 2017?
+16       A    Yes.
+17       Q    Which account is this from?
+18       A    From Mr. Trump's personal account.
+19       Q    And what is the General Ledger code assigned to it?
+20       A    51505, legal expense.
+21                 MR. CONROY:  We could take that down.
+22                 Pull up People's 12.
+23                 (Whereupon, an exhibit is shown on the screens.)
+24       Q    Now, is this the MDS voucher related to that invoice?
+25       A    Yes.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

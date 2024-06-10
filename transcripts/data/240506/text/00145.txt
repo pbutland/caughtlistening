@@ -1,29 +1,29 @@
-J. McConney — Cross/Bove
+J. McConney - Cross/Bove
 2393
-1 A. Yes.
-2 Q. These things are true?
-3 A. Yes, sir.
-4 Q. You were asked a lot of questions about the MDS System
-5 and legal expenses; right?
-6 A. Yes.
-7 Q. And we talked a lot about the legal expenses account,
-8 which is Number 51505; if I have that right?
-9 A. That's correct.
-10 Q. I only have it right because I can read it.
-11 The legal expenses account was a specific item in the
-12 charter of accounts?
-13 A. Yes.
-14 Q. It was basically part of a dropdown menu?
-15 A. Yes.
-16 Q. In 2017, it sounds like the MDS System was a bit
-17 antiquated; was it not?
-18 A. Yes.
-19 Q. I think you said you actually helped design it; that
-20 was in 1991?
-21 A. 1991.
-22 Q. And, so, these categories, there was a level of
-23 rigidity to them; right?
-24 A. Yes.
-25 Q. If you are talking about payments to an attorney, legal
+1       A.   Yes.
+2       Q.   These things are true?
+3       A.   Yes, sir.
+4       Q.   You were asked a lot of questions about the MDS System
+5   and legal expenses; right?
+6       A.   Yes.
+7       Q.   And we talked a lot about the legal expenses account,
+8   which is Number 51505; if I have that right?
+9       A.   That's correct.
+10       Q.   I only have it right because I can read it.
+11            The legal expenses account was a specific item in the
+12   charter of accounts?
+13       A.   Yes.
+14       Q.   It was basically part of a dropdown menu?
+15       A.   Yes.
+16       Q.   In 2017, it sounds like the MDS System was a bit
+17   antiquated; was it not?
+18       A.   Yes.
+19       Q.   I think you said you actually helped design it; that
+20   was in 1991?
+21       A.   1991.
+22       Q.   And, so, these categories, there was a level of
+23   rigidity to them; right?
+24       A.   Yes.
+25       Q.   If you are talking about payments to an attorney, legal
 Theresa Magniccari
 Senior Court Reporter

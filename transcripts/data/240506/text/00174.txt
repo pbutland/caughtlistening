@@ -1,29 +1,29 @@
-D. Tarasoff — Direct/Conroy
+D. Tarasoff - Direct/Conroy
 2422
-1 A. I took care of my daughters.
-2 Q. Did there come a time that you went back to work?
-3 A. Yes.
-4 Q. When was that?
-5 A. In '99, when my husband passed away.
-6 Q. And did you go straight to The Trump Organization at
-7 that time?
-8 A. No, I went in 2000.
-9 Q. So, you did something else for a year?
-10 A. I stayed home with the girls.
-11 Q. Is The Trump Organization made up of a number of
-12 entities?
-13 A. Yes.
-14 Q. Where is The Trump Organization headquartered?
-15 A. Now or before?
-16 Q. Well, let's start with now.
-17 A. Now, well, technically, I think it is in Florida.
-18 Q. How about back in the timeframe of 2015, ’16, ’17?
-19 A. 725 Fifth Avenue.
-20 Q. Here in Manhattan?
-21 A. Yes.
-22 Q. Do you have any sense of how many entities make up The
-23 Trump Organization?
-24 A. There is a bunch.
-25 Q. Over 100?
+1       A.   I took care of my daughters.
+2       Q.   Did there come a time that you went back to work?
+3       A.   Yes.
+4       Q.   When was that?
+5       A.   In '99, when my husband passed away.
+6       Q.   And did you go straight to The Trump Organization at
+7   that time?
+8       A.   No, I went in 2000.
+9       Q.   So, you did something else for a year?
+10       A.   I stayed home with the girls.
+11       Q.   Is The Trump Organization made up of a number of
+12   entities?
+13       A.   Yes.
+14       Q.   Where is The Trump Organization headquartered?
+15       A.   Now or before?
+16       Q.   Well, let's start with now.
+17       A.   Now, well, technically, I think it is in Florida.
+18       Q.   How about back in the timeframe of 2015, '16, '17?
+19       A.   725 Fifth Avenue.
+20       Q.   Here in Manhattan?
+21       A.   Yes.
+22       Q.   Do you have any sense of how many entities make up The
+23   Trump Organization?
+24       A.   There is a bunch.
+25       Q.   Over 100?
 Theresa Magniccari
 Senior Court Reporter

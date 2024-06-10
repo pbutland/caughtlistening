@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2360
-1 A Yes.
-2 Q Were there any payments to Michael Cohen from the DJT
-3 account in 2018 that were billed to Legal Expenses?
-4 A No.
-5 Q Mr. McConney —— we can go ahead and take that down.
-6 And can we display People’s 43 in evidence.
-7 Mr. McConney, do you see People’s 43?
-8 A I do.
-9 Q Do you recognize this document?
-10 A I do.
-11 Q Can you tell the jury what it is?
-12 A It is a detailed General Ledger Report from MDS.
-13 Q What company and year?
-14 A The company is DJT REV for calendar years 2017 and
-15 2018.
-16 Q And does this show the three payments to Michael Cohen
-17 from The Trust Account in response to the approved invoices we
-18 discussed for January, February and March 2017?
-19 A Yes.
-20 Q And does this show what account those payments were
-21 coded to?
-22 A Yes.
-23 Q Does this record the description of a retainer for
-24 each payment?
-25 A Yes.
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    Yes.
+2       Q    Were there any payments to Michael Cohen from the DJT
+3   account in 2018 that were billed to Legal Expenses?
+4       A    No.
+5       Q    Mr. McConney -- we can go ahead and take that down.
+6            And can we display People's 43 in evidence.
+7            Mr. McConney, do you see People's 43?
+8       A    I do.
+9       Q    Do you recognize this document?
+10       A    I do.
+11       Q    Can you tell the jury what it is?
+12       A    It is a detailed General Ledger Report from MDS.
+13       Q    What company and year?
+14       A    The company is DJT REV for calendar years 2017 and
+15   2018.
+16       Q    And does this show the three payments to Michael Cohen
+17   from The Trust Account in response to the approved invoices we
+18   discussed for January, February and March 2017?
+19       A    Yes.
+20       Q    And does this show what account those payments were
+21   coded to?
+22       A    Yes.
+23       Q    Does this record the description of a retainer for
+24   each payment?
+25       A    Yes.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

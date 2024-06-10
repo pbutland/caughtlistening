@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2017
-1 A Who brought it.
-2 Q —— back to your office; right?
-3 A That is correct.
-4 Q Who participated in the intake process; right?
-5 A Yes.
-6 Q And now, there are two sides of that. Somebody brings
-7 the device and somebody accepts it, right, and so those are
-8 links in the chain?
-9 A Links in the chain.
-10 Q The more secure the chain of custody, the more reliable
-11 the evidence; right?
-12 A One could ascertain.
-13 Q But you believe that? I mean, you have been practicing
-14 this for a long time; right?
-15 A Certainly.
-16 Q And you believe that to be true; don't you?
-17 A Certainly.
-18 Q That is correct?
-19 A That is correct.
-20 Q And a break in the chain of custody, it presents a
-21 risk; right?
-22 A It could be.
-23 Q It could be a big risk, it could be a little one,
-24 but it creates a risk; and I'm not trying to quantify it right
-25 now?
+1       A    Who brought it.
+2       Q    -- back to your office; right?
+3       A    That is correct.
+4       Q    Who participated in the intake process; right?
+5       A    Yes.
+6       Q    And now, there are two sides of that.  Somebody brings
+7   the device and somebody accepts it, right, and so those are
+8   links in the chain?
+9       A    Links in the chain.
+10       Q    The more secure the chain of custody, the more reliable
+11   the evidence; right?
+12       A    One could ascertain.
+13       Q    But you believe that?  I mean, you have been practicing
+14   this for a long time; right?
+15       A    Certainly.
+16       Q    And you believe that to be true; don't you?
+17       A    Certainly.
+18       Q    That is correct?
+19       A    That is correct.
+20       Q    And a break in the chain of custody, it presents a
+21   risk; right?
+22       A    It could be.
+23       Q    It could be a big risk, it could be a little one,
+24   but it creates a risk; and I'm not trying to quantify it right
+25   now?
 Lisa Kramsky,
 Senior Court Reporter

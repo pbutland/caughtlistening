@@ -1,29 +1,29 @@
-J. Tomalin — Direct/Conroy
+J. Tomalin - Direct/Conroy
 3151
-1 A Yes, they are.
-2 Q How many different phone numbers do they relate to?
-3 A Twelve.
-4 Q Do those phone numbers all belong to Verizon
-5 customers?
-6 A Yes.
-7 Q Do all of the phone records, both subscriber and call
-8 records, relate to the general time period of 2015 to 2018?
-9 A Yes.
-10 Q Did Verizon make and keep the subscriber and call
-11 records contained in People’s Exhibit 401 for identification in
-12 the regular course of its business?
-13 A Yes.
-14 Q Was it the regular course of Verizon’s business to
-15 make and keep these particular records?
-16 A Yes.
-17 Q Are the entries made on these documents made at the
-18 time of the recorded events or transactions took place or
-19 written a reasonable time thereafter?
-20 A Yes.
-21 Q Is the date contained in these reports captured —— I
-22 am sorry. Is the data contained in these reports captured
-23 through an automated process and stored in the electronic
-24 database?
-25 A Yes.
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    Yes, they are.
+2       Q    How many different phone numbers do they relate to?
+3       A    Twelve.
+4       Q    Do those phone numbers all belong to Verizon
+5   customers?
+6       A    Yes.
+7       Q    Do all of the phone records, both subscriber and call
+8   records, relate to the general time period of 2015 to 2018?
+9       A    Yes.
+10       Q    Did Verizon make and keep the subscriber and call
+11   records contained in People's Exhibit 401 for identification in
+12   the regular course of its business?
+13       A    Yes.
+14       Q    Was it the regular course of Verizon's business to
+15   make and keep these particular records?
+16       A    Yes.
+17       Q    Are the entries made on these documents made at the
+18   time of the recorded events or transactions took place or
+19   written a reasonable time thereafter?
+20       A    Yes.
+21       Q    Is the date contained in these reports captured -- I
+22   am sorry.  Is the data contained in these reports captured
+23   through an automated process and stored in the electronic
+24   database?
+25       A    Yes.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

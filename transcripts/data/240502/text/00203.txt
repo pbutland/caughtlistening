@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 2006
-1 (Displayed.)
-2 **********
-3 MR. CONROY: And if we could blow that up a little
-4 bit.
-5 (Displayed.)
-6 Q Is this the metadata for this audio recording?
-7 A It is.
-8 Q And can you walk us through the columns here and walk
-9 us through the title and what kind of file this is and the date
-10 and time it’s created?
-11 A The title is entitled "New Recording 3," which
-12 indicates that there are two previous recordings on the Voice
-13 Memo app on the iPhone.
-14 It’s just an audio recording; it’s on the app, which is the
-15 audio recording software.
-16 It gives the date and timestamp of September 6th, 2016 at
-17 approximately 10:56:42 a.m. in the morning, Eastern Standard
-18 Time, with a duration of two minutes and 51 seconds.
-19 The Link is just the name of the file again.
-20 And the end is just the source.
-21 Every file has a source path where it exists on the device.
-22 Q Now, People’s 246 is an audio file. It’s not a
-23 recording that you were able to forensically extract from CP1;
-24 right?
-25 A That is correct.
+1                 (Displayed.)
+2                  **********
+3                MR. CONROY:  And if we could blow that up a little
+4       bit.
+5                (Displayed.)
+6       Q    Is this the metadata for this audio recording?
+7       A    It is.
+8       Q    And can you walk us through the columns here and walk
+9   us through the title and what kind of file this is and the date
+10   and time it's created?
+11       A    The title is entitled "New Recording 3," which
+12   indicates that there are two previous recordings on the Voice
+13   Memo app on the iPhone.
+14       It's just an audio recording; it's on the app, which is the
+15   audio recording software.
+16       It gives the date and timestamp of September 6th, 2016 at
+17   approximately 10:56:42 a.m. in the morning, Eastern Standard
+18   Time, with a duration of two minutes and 51 seconds.
+19       The Link is just the name of the file again.
+20       And the end is just the source.
+21       Every file has a source path where it exists on the device.
+22       Q    Now, People's 246 is an audio file.  It's not a
+23   recording that you were able to forensically extract from CP1;
+24   right?
+25       A    That is correct.
 Lisa Kramsky,
 Senior Court Reporter

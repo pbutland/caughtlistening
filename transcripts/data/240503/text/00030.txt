@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2064
-1 A I do.
-2 Q And that was on January 25, 2017; correct?
-3 A That's correct.
-4 Q And on the same day, January 25, 2017, there was a sync
-5 performed on the phone; right?
-6 A That's correct.
-7 Q And a sync is a situation where a user can connect a
-8 phone to a laptop; right?
-9 A That's correct.
-10 Q And move data from the laptop onto the device; correct?
-11 A Yes.
-12 Q And in this instance, with CPl, in the sync that
-13 happened in January of 2017, the phone was connected to a laptop
-14 with a user named Michael—dot—Cohen; right?
-15 A Yes.
-16 Q And so, more than four months after the date that you
-17 have associated with this audio file, there was some kind of
-18 sync where Mr. Cohen plugged the phone into his laptop and
-19 loaded some files from the laptop; right?
-20 A Right. When you plug it into iTunes, it does a full
-21 backup of whatever that backup is that you are restoring from
-22 iTunes and restores everything back to that phone so that file
-23 got restored at that time.
-24 Q That's one way just to do a sync, right, but there are
-25 many ways that that transfer process could have occurred;
+1       A    I do.
+2       Q    And that was on January 25, 2017; correct?
+3       A    That's correct.
+4       Q    And on the same day, January 25, 2017, there was a sync
+5   performed on the phone; right?
+6       A    That's correct.
+7       Q    And a sync is a situation where a user can connect a
+8   phone to a laptop; right?
+9       A    That's correct.
+10       Q    And move data from the laptop onto the device; correct?
+11       A    Yes.
+12       Q    And in this instance, with CP1, in the sync that
+13   happened in January of 2017, the phone was connected to a laptop
+14   with a user named Michael-dot-Cohen; right?
+15       A    Yes.
+16       Q    And so, more than four months after the date that you
+17   have associated with this audio file, there was some kind of
+18   sync where Mr. Cohen plugged the phone into his laptop and
+19   loaded some files from the laptop; right?
+20       A    Right.  When you plug it into iTunes, it does a full
+21   backup of whatever that backup is that you are restoring from
+22   iTunes and restores everything back to that phone so that file
+23   got restored at that time.
+24       Q    That's one way just to do a sync, right, but there are
+25   many ways that that transfer process could have occurred;
 Lisa Kramsky,
 Senior Court Reporter

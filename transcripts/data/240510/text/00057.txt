@@ -1,29 +1,29 @@
-D. Dixon — Cross/Bove
+D. Dixon - Cross/Bove
 3145
-1 Exhibit 400 that ends with Bates 1093, please.
-2 Q And I just want to make sure that I understand the
-3 Feature column, and so, we are going to go through a couple of
-4 these, and I am going over to the table so I can see as well.
-5 MR. BOVE: And so, let’s —— if we could zoom in
-6 on the Feature column for item seven and eight on this
-7 page.
-8 Q And, Mr. Dixon, while we are doing that, are you
-9 familiar with the codes in the Feature column?
-10 A Yes.
-11 Q And so, do you see where it says, NIOP?
-12 A Yes.
-13 Q And that’s Call Number Identity Presentation, right?
-14 A Yes.
-15 Q Basically an incoming call?
-16 A Correct.
-17 Q And then do you see where it says, CFNA?
-18 A Yes.
-19 Q Calling Number Identity Presentation, right?
-20 A No. CFNA is Call Forwarding No Answer.
-21 Q And then the next one is VM, Voice—mail?
-22 A Yes.
-23 Q So, am I understanding this right, that when I see
-24 something like this in the Feature column, what I am looking at
-25 is a call that is dialed and then it goes to voicemail, right?
-Susan Pearce—Bates, RPR, CCR, RSA
+1       Exhibit 400 that ends with Bates 1093, please.
+2       Q    And I just want to make sure that I understand the
+3   Feature column, and so, we are going to go through a couple of
+4   these, and I am going over to the table so I can see as well.
+5                 MR. BOVE:  And so, let's -- if we could zoom in
+6       on the Feature column for item seven and eight on this
+7       page.
+8       Q    And, Mr. Dixon, while we are doing that, are you
+9   familiar with the codes in the Feature column?
+10       A    Yes.
+11       Q    And so, do you see where it says, NIOP?
+12       A    Yes.
+13       Q    And that's Call Number Identity Presentation, right?
+14       A    Yes.
+15       Q    Basically an incoming call?
+16       A    Correct.
+17       Q    And then do you see where it says, CFNA?
+18       A    Yes.
+19       Q    Calling Number Identity Presentation, right?
+20       A    No.  CFNA is Call Forwarding No Answer.
+21       Q    And then the next one is VM, Voice-mail?
+22       A    Yes.
+23       Q    So, am I understanding this right, that when I see
+24   something like this in the Feature column, what I am looking at
+25   is a call that is dialed and then it goes to voicemail, right?
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

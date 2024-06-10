@@ -1,20 +1,19 @@
-M. Cohen — Cross/Blanche
+M. Cohen - Cross/Blanche
 3922
-1 record a conversations with their client; correct?
-2 A. That’s correct.
-3 Q. And you were a member of the New York Bar at the
-4 time?
-5 A. I was.
-6 Q. You know that there are a lot of New York Bar opinions
-7 on this, but unless there is very specific circumstance, you’re
-8 not supposed to record your client; correct?
-9 A. You’re not except, of course, Crime—Fraud Exception
-10 Rule 12.
+1   record a conversations with their client; correct?
+2       A.   That's correct.
+3       Q.   And you were a member of the New York Bar at the
+4   time?
+5       A.   I was.
+6       Q.   You know that there are a lot of New York Bar opinions
+7   on this, but unless there is very specific circumstance, you're
+8   not supposed to record your client; correct?
+9       A.   You're not except, of course, Crime-Fraud Exception
+10   Rule 12.
 11
 12
 13
-14 (Whereupon, Theresa Magniccari, Senior Court Reporter was
-relieved by Susan Pearce—Bates, Principal Court Reporter.)
+14   (Whereupon, Theresa Magniccari, Senior Court Reporter was
 15
 16
 17
@@ -26,5 +25,6 @@ relieved by Susan Pearce—Bates, Principal Court Reporter.)
 23
 24
 25
+relieved by Susan Pearce-Bates, Principal Court Reporter.)
 Theresa Magniccari
 Senior Court Reporter

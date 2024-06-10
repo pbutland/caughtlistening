@@ -1,29 +1,29 @@
-K. Davidson — Direct/Steinglass
+K. Davidson - Direct/Steinglass
 1845
-1 this case?
-2 A The stated liquidated damages in this contract was
-3 $1 million dollars.
-4 Q And is that $1 million dollars per breach?
-5 A Yes.
-6 Q Was it unusual to have liquidated damages that were so
-7 much greater than the original payment under the NDA?
-8 A I believe that this paragraph, the way that it was
-9 drafted, was unenforceable; yes.
-10 Q You believe it was unenforceable; why?
-11 A I —— because the Liquidated Damages Provision would
-12 have no relation to the damages caused if there was a breach.
-13 The $1 million dollars —— there needs to be a rational
-14 relationship between the expected damages in the case of a
-15 breach of contract, and the Liquidated Damages Provision are
-16 included in contracts where the expected damages, were there to
-17 be a breach, would be difficult to ascertain.
-18 And they should be reasonably related to the underlying
-19 amount of the contract.
-20 And, here, a Liquidated Damages Provision of $1 million
-21 dollars, which was demanded by Michael Cohen, was so far in
-22 excess of the —— of the settlement amount of the contract that
-23 it really served no purpose.
-24 Q And I believe you answered this, but who requested such
-25 large liquidated damages?
+1   this case?
+2       A    The stated liquidated damages in this contract was
+3   $1 million dollars.
+4       Q    And is that $1 million dollars per breach?
+5       A    Yes.
+6       Q    Was it unusual to have liquidated damages that were so
+7   much greater than the original payment under the NDA?
+8       A    I believe that this paragraph, the way that it was
+9   drafted, was unenforceable; yes.
+10       Q    You believe it was unenforceable; why?
+11       A    I -- because the Liquidated Damages Provision would
+12   have no relation to the damages caused if there was a breach.
+13        The $1 million dollars -- there needs to be a rational
+14   relationship between the expected damages in the case of a
+15   breach of contract, and the Liquidated Damages Provision are
+16   included in contracts where the expected damages, were there to
+17   be a breach, would be difficult to ascertain.
+18       And they should be reasonably related to the underlying
+19   amount of the contract.
+20       And, here, a Liquidated Damages Provision of $1 million
+21   dollars, which was demanded by Michael Cohen, was so far in
+22   excess of the -- of the settlement amount of the contract that
+23   it really served no purpose.
+24       Q    And I believe you answered this, but who requested such
+25   large liquidated damages?
 Lisa Kramsky,
 Senior Court Reporter

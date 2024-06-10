@@ -1,29 +1,29 @@
 Jury Charge
 4828
-1 the Defendant is the person who committed that crime.
-2 The burden of proof never shifts from the People
-3 to the Defendant.
-4 If the People failed to satisfy their burden of
-5 proof, you must find the Defendant not guilty, and if the
-6 People satisfy their burden of proof you must find the
-7 Defendant guilty.
-8 What does our law mean when it requires proof of
-9 guilt beyond a reasonable doubt?
-10 The law uses the term of proof beyond a
-11 reasonable doubt to tell you how convincing the evidence of
-12 guilt must be to permit a verdict of guilty.
-13 The law recognizes that in dealing with human
-14 affairs, there are very few things in this world that we
-15 know with absolute certainty. Therefore, the law does not
-16 require the People to prove a defendant guilty beyond all
-17 possible doubt.
-18 On the other hand, it is not sufficient to prove
-19 that the Defendant is probably guilty. In a criminal case,
-20 the proof of guilt must be stronger than that. It must be
-21 beyond a reasonable doubt.
-22 A reasonable doubt is an honest doubt of the
-23 Defendant's guilt for which a reason exists based upon the
-24 nature and the quality of the evidence. It is an actual
-25 doubt, not an imaginary doubt. It is a doubt that a
-Susan Pearce—Bates, RPR, CCR, RSA
+1       the Defendant is the person who committed that crime.
+2                 The burden of proof never shifts from the People
+3       to the Defendant.
+4                 If the People failed to satisfy their burden of
+5       proof, you must find the Defendant not guilty, and if the
+6       People satisfy their burden of proof you must find the
+7       Defendant guilty.
+8                 What does our law mean when it requires proof of
+9       guilt beyond a reasonable doubt?
+10                 The law uses the term of proof beyond a
+11       reasonable doubt to tell you how convincing the evidence of
+12       guilt must be to permit a verdict of guilty.
+13                 The law recognizes that in dealing with human
+14       affairs, there are very few things in this world that we
+15       know with absolute certainty.  Therefore, the law does not
+16       require the People to prove a defendant guilty beyond all
+17       possible doubt.
+18                 On the other hand, it is not sufficient to prove
+19       that the Defendant is probably guilty.  In a criminal case,
+20       the proof of guilt must be stronger than that.  It must be
+21       beyond a reasonable doubt.
+22                 A reasonable doubt is an honest doubt of the
+23       Defendant's guilt for which a reason exists based upon the
+24       nature and the quality of the evidence.  It is an actual
+25       doubt, not an imaginary doubt.  It is a doubt that a
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

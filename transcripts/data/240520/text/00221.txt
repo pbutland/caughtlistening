@@ -1,29 +1,29 @@
-D. Sitko — Cross/Mangold
+D. Sitko - Cross/Mangold
 4212
-1 Q And I believe your paralegal testified that these are
-2 made from how the call bounces off of AT&T towers?
-3 A Yes.
-4 Q That's how the records are displayed in AT&T records?
-5 A Yes.
-6 Q But, there are 75 rows in the chart; right?
-7 A Yes.
-8 Q So, are all of those 75 rows separate times that
-9 Mr. Cohen’s number connected with Mr. Costello’s number?
-10 Is your understanding there was an actual conversation, or
-11 could it be a missed call, a voicemail, or an actual connection
-12 between the two?
-13 A Yeah. So if Mr. Cohen and Mr. Costello had made a push
-14 call, it could be reflected in two different lines on this for
-15 the same call.
-16 Q So, the total number of conversations, that was less
-17 than 75?
-18 A Conversations, yes. Certainly.
-19 MS. MANGOLD: I have no further questions.
-20 THE COURT: Anything further?
-21 MR. BLANCHE: No redirect.
-22 THE COURT: Thank you.
-23 You can step down.
-24 (Whereupon, the witness is excused.)
-25 THE COURT: Your next witness, please.
+1       Q    And I believe your paralegal testified that these are
+2   made from how the call bounces off of AT&T towers?
+3       A    Yes.
+4       Q    That's how the records are displayed in AT&T records?
+5       A    Yes.
+6       Q    But, there are 75 rows in the chart; right?
+7       A    Yes.
+8       Q    So, are all of those 75 rows separate times that
+9   Mr. Cohen's number connected with Mr. Costello's number?
+10       Is your understanding there was an actual conversation, or
+11   could it be a missed call, a voicemail, or an actual connection
+12   between the two?
+13       A    Yeah. So if Mr. Cohen and Mr. Costello had made a push
+14   call, it could be reflected in two different lines on this for
+15   the same call.
+16       Q    So, the total number of conversations, that was less
+17   than 75?
+18       A    Conversations, yes. Certainly.
+19                 MS. MANGOLD:  I have no further questions.
+20                 THE COURT:  Anything further?
+21                 MR. BLANCHE:  No redirect.
+22                 THE COURT:  Thank you.
+23                 You can step down.
+24                 (Whereupon, the witness is excused.)
+25                 THE COURT:  Your next witness, please.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

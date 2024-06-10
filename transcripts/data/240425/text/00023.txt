@@ -1,29 +1,29 @@
-D. Pecker — Direct/Steinglass
+D. Pecker - Direct/Steinglass
 Page 1120
-1 **********
-2 Q Is this a series of texts between you and Dylan Howard
-3 from 2016 regarding Karen McDougal?
-4 A Yes, it is.
-5 Q And I should just clarify.
-6 Are portions of phone numbers and email addresses redacted
-7 in this exhibit to protect personal information of the parties
-8 to this text chain?
-9 A (No response.)
-10 Q Did you understand my question?
-11 A Can you repeat it? I'm sorry.
-12 Q Yeah, of course.
-13 My question was: Are portions of the phone numbers and
-14 email addresses redacted on this exhibit to protect personal
-15 information of the parties to this text chain?
-16 A Yes, that's correct.
-17 Q Okay. So I want to zoom in on the last column of the
-18 lines marked DOC 47—240 to 241.
-19 Let me first ask you, is this last column basically a
-20 summary of the date, the time of the text, who it's from, who
-21 it's to, as well as the body of the text itself?
-22 A Yes, it is.
-23 Q If you look at the —— what does the date and time
-24 marked say on this top text?
-25 A 2016/07/23, 19:21:45 UTC.
+1                  **********
+2       Q    Is this a series of texts between you and Dylan Howard
+3   from 2016 regarding Karen McDougal?
+4       A    Yes, it is.
+5       Q    And I should just clarify.
+6       Are portions of phone numbers and email addresses redacted
+7   in this exhibit to protect personal information of the parties
+8   to this text chain?
+9       A    (No response.)
+10       Q    Did you understand my question?
+11       A    Can you repeat it?  I'm sorry.
+12       Q    Yeah, of course.
+13       My question was:  Are portions of the phone numbers and
+14   email addresses redacted on this exhibit to protect personal
+15   information of the parties to this text chain?
+16       A    Yes, that's correct.
+17       Q    Okay.  So I want to zoom in on the last column of the
+18   lines marked DOC 47-240 to 241.
+19       Let me first ask you, is this last column basically a
+20   summary of the date, the time of the text, who it's from, who
+21   it's to, as well as the body of the text itself?
+22       A    Yes, it is.
+23       Q    If you look at the -- what does the date and time
+24   marked say on this top text?
+25       A    2016/07/23, 19:21:45 UTC.
 Lisa Kramsky,
 Senior Court Reporter

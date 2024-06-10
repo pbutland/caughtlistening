@@ -1,29 +1,29 @@
 Jury Charge
 4839
-1 guilty or not guilty, must be unanimous. In order to find
-2 the Defendant guilty, however, you need not be unanimous on
-3 whether the Defendant committed the crime personally, or by
-4 acting in concert with another, or both.
-5 The First Count is falsifying business records in
-6 the first degree:
-7 Under our law, a person is guilty of falsifying
-8 business records in the first degree when, with intent to
-9 defraud that includes an intent to commit another crime or
-10 to aid or conceal the commission thereof, that person:
-11 Makes or causes a false entry in the business
-12 records of an enterprise.
-13 The following terms used in that definition have
-14 a special meaning under our law:
-15 Enterprise means any entity of one or more
-16 persons, corporate or otherwise, public or private, engaged
-17 in business, commercial, professional, industrial, social,
-18 political or governmental activity.
-19 Business record means any writing or article,
-20 including computer data or a computer program, kept or
-21 maintained by an enterprise for the purpose of evidencing
-22 or reflecting its condition or activity.
-23 Intent means conscious objective or purpose.
-24 Thus, a person acts with intent to defraud when
-25 his or her conscious objective or purpose is to do so.
-Susan Pearce—Bates, RPR, CCR, RSA
+1       guilty or not guilty, must be unanimous.  In order to find
+2       the Defendant guilty, however, you need not be unanimous on
+3       whether the Defendant committed the crime personally, or by
+4       acting in concert with another, or both.
+5                 The First Count is falsifying business records in
+6       the first degree:
+7                 Under our law, a person is guilty of falsifying
+8       business records in the first degree when, with intent to
+9       defraud that includes an intent to commit another crime or
+10       to aid or conceal the commission thereof, that person:
+11                 Makes or causes a false entry in the business
+12       records of an enterprise.
+13                 The following terms used in that definition have
+14       a special meaning under our law:
+15                 Enterprise means any entity of one or more
+16       persons, corporate or otherwise, public or private, engaged
+17       in business, commercial, professional, industrial, social,
+18       political or governmental activity.
+19                 Business record means any writing or article,
+20       including computer data or a computer program, kept or
+21       maintained by an enterprise for the purpose of evidencing
+22       or reflecting its condition or activity.
+23                 Intent means conscious objective or purpose.
+24                 Thus, a person acts with intent to defraud when
+25       his or her conscious objective or purpose is to do so.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

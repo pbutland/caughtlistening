@@ -1,29 +1,29 @@
-G. Longstreet—Joseph — Direct/Mangold
+G. Longstreet-Joseph - Direct/Mangold
 3188
-1 A. Yes.
-2 Q. What is the date of all of them?
-3 A. October 9, 2016.
-4 Q. What is the timestamp range for these?
-5 A. 00:21:27 to 00:21:50 UTC time.
-6 Q. And is it your understanding that these are all
-7 October 8, 2016 in New York time?
-8 A. Yes.
-9 MS. MANGOLD: Can we please pull up the next four
-10 text messages. I am sorry, the next three text messages.
-11 (Displayed.)
-12 Q. Can you please read —— I am sorry. Withdrawn.
-13 What are the dates of the top two text messages here?
-14 A. October 9, 2016.
-15 Q. And were they sent shortly after the text messages we
-16 just saw?
-17 A. Yes.
-18 Q. Can you please read these to the jury?
-19 A. From Mr. Howard to Ms. Rodriguez: I'm at dinner. I
-20 will email contract when back at hotel or first thing in a.m.
-21 From Ms. Rodriguez to Mr. Howard: Okay.
-22 Q. And what is the third text message there, what is the
-23 date and timestamp of that one?
-24 A. October 9, 2016 at 18:54:31 UTC time.
-25 Q. What would the date for this one be in New York?
+1       A.   Yes.
+2       Q.   What is the date of all of them?
+3       A.   October 9, 2016.
+4       Q.   What is the timestamp range for these?
+5       A.   O0:21:27 to 00:21:50 UTC time.
+6       Q.   And is it your understanding that these are all
+7   October 8, 2016 in New York time?
+8       A.   Yes.
+9                 MS. MANGOLD:  Can we please pull up the next four
+10        text messages.  I am sorry, the next three text messages.
+11                 (Displayed.)
+12       Q.   Can you please read -- I am sorry.  Withdrawn.
+13            What are the dates of the top two text messages here?
+14       A.   October 9, 2016.
+15       Q.   And were they sent shortly after the text messages we
+16   just saw?
+17       A.   Yes.
+18       Q.   Can you please read these to the jury?
+19       A.   From Mr. Howard to Ms. Rodriguez:  I'm at dinner.  I
+20   will email contract when back at hotel or first thing in a.m.
+21            From Ms. Rodriguez to Mr. Howard:  Okay.
+22       Q.   And what is the third text message there, what is the
+23   date and timestamp of that one?
+24       A.   October 9, 2016 at 18:54:31 UTC time.
+25       Q.   What would the date for this one be in New York?
 Theresa Magniccari
 Senior Court Reporter

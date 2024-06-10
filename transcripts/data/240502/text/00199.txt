@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 2002
-1 (The following proceedings are continued from the
-2 previous page.)
-3 *******
-4 CONTINUED DIRECT EXAMINATION
-5 BY MR. CONROY:
-6 Q And can you tell us, what does that metadata tell us
-7 about that picture?
-8 If you could sort of explain that as you walk through the
-9 columns?
-10 A All right. So you have modified time, created time,
-11 access time.
-12 They are all on February 8th of 2017 at approximately
-13 5:39 p.m.
-14 Q Okay. And what does each of those things mean?
-15 A It just means that those are the dates, the times that
-16 existed on that phone.
-17 Q Okay. And does that mean that’s when that photo was
-18 created?
-19 A Yes.
-20 Q Okay.
-21 MR. CONROY: If we could now pull up what’s in
-22 evidence as People’s 254.
-23 And if you could blow that up a little bit.
-24 (Displayed.)
-25 Q Is this a copy of a calendar invite?
+1                 (The following proceedings are continued from the
+2        previous page.)
+3             *******
+4   CONTINUED DIRECT EXAMINATION
+5   BY MR. CONROY:
+6       Q    And can you tell us, what does that metadata tell us
+7   about that picture?
+8       If you could sort of explain that as you walk through the
+9   columns?
+10       A    All right.  So you have modified time, created time,
+11   access time.
+12       They are all on February 8th of 2017 at approximately
+13   5:39 p.m.
+14       Q    Okay.  And what does each of those things mean?
+15       A    It just means that those are the dates, the times that
+16   existed on that phone.
+17       Q    Okay.  And does that mean that's when that photo was
+18   created?
+19       A    Yes.
+20       Q    Okay.
+21                 MR. CONROY:  If we could now pull up what's in
+22        evidence as People's 254.
+23                 And if you could blow that up a little bit.
+24                 (Displayed.)
+25       Q    Is this a copy of a calendar invite?
 Lisa Kramsky,
 Senior Court Reporter

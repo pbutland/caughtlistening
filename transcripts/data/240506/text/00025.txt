@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2273
-1 A Basically, the golf courses and the hotels. They had
-2 their own accounting staff.
-3 We maintained and took care of all the other entities.
-4 Q Okay.
-5 So, everything except hotels and golf courses?
-6 A Yes.
-7 Q As Controller, was it part of your job responsibility
-8 to make sure the General Ledger was accurate?
-9 A Yes.
-10 Q Is the General Ledger computerized?
-11 A Yes.
-12 Q Did The Trump Organization use a particular software
-13 program to maintain its General Ledgers?
-14 A Yes.
-15 Q What was the name of that software program?
-16 A We called it MDS. I think it was short for Multi Data
-17 Services or Multi Data Systems. I’m not too sure of the correct
-18 name.
-19 Q But, you called it MDS?
-20 A MDS.
-21 Q Please explain, briefly, what MDS is.
-22 A MDS is a computer program where you can record your
-23 cash receipts, money that you received, your bills that you
-24 pay, your accounts payable cash disbursements, um, you can run
-25 various reports for cash receipts, cash disbursements, General
+1       A    Basically, the golf courses and the hotels. They had
+2   their own accounting staff.
+3       We maintained and took care of all the other entities.
+4       Q    Okay.
+5       So, everything except hotels and golf courses?
+6       A    Yes.
+7       Q    As Controller, was it part of your job responsibility
+8   to make sure the General Ledger was accurate?
+9       A    Yes.
+10       Q    Is the General Ledger computerized?
+11       A    Yes.
+12       Q    Did The Trump Organization use a particular software
+13   program to maintain its General Ledgers?
+14       A    Yes.
+15       Q    What was the name of that software program?
+16       A    We called it MDS. I think it was short for Multi Data
+17   Services or Multi Data Systems. I'm not too sure of the correct
+18   name.
+19       Q    But, you called it MDS?
+20       A    MDS.
+21       Q    Please explain, briefly, what MDS is.
+22       A    MDS is a computer program where you can record your
+23   cash receipts, money that you received, your bills that you
+24   pay, your accounts payable cash disbursements, um, you can run
+25   various reports for cash receipts, cash disbursements, General
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

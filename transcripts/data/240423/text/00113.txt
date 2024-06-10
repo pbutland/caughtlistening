@@ -1,29 +1,29 @@
-D. Pecker — Direct/Steinglass
+D. Pecker - Direct/Steinglass
 Page 1050
-1 A Yes.
-2 Q And are such texts relied upon in making business
-3 decisions?
-4 A Yes, they are.
-5 Q Were the texts exchanges contained on that thumb drive
-6 collected and produced by AMI and its employees in response to
-7 a search warrant seeking documents and communications relevant
-8 to the subject matter of this case?
-9 A Yes.
-10 Q Do the texts contained in these exhibits appear to be
-11 in the format in which AMI produced them in response to the
-12 search warrant?
-13 A Yes.
-14 Q Are People's Exhibits 171 through 178 text message
-15 files that were produced by AMI as Microsoft Excel documents?
-16 A Yes.
-17 Q And are People's Exhibits 171—A through 178—A PDF
-18 versions of the corresponding numbered exhibit?
-19 A Yes, they are.
-20 Q So, for example, People's 171—A is a PDF version of
-21 the Excel document of the document marked 171?
-22 A Yes.
-23 Q Are the PDF versions are exact copies?
-24 A Yes, they are.
-25 Q For each of the various types of records that you just
+1       A    Yes.
+2       Q    And are such texts relied upon in making business
+3   decisions?
+4       A    Yes, they are.
+5       Q    Were the texts exchanges contained on that thumb drive
+6   collected and produced by AMI and its employees in response to
+7   a search warrant seeking documents and communications relevant
+8   to the subject matter of this case?
+9       A    Yes.
+10       Q    Do the texts contained in these exhibits appear to be
+11   in the format in which AMI produced them in response to the
+12   search warrant?
+13       A    Yes.
+14       Q    Are People's Exhibits 171 through 178 text message
+15   files that were produced by AMI as Microsoft Excel documents?
+16       A    Yes.
+17       Q    And are People's Exhibits 171-A through 178-A PDF
+18   versions of the corresponding numbered exhibit?
+19       A    Yes, they are.
+20       Q    So, for example, People's 171-A is a PDF version of
+21   the Excel document of the document marked 171?
+22       A    Yes.
+23       Q    Are the PDF versions are exact copies?
+24       A    Yes, they are.
+25       Q    For each of the various types of records that you just
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

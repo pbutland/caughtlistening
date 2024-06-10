@@ -1,29 +1,29 @@
-D. Dixon — Direct/Conroy
+D. Dixon - Direct/Conroy
 3129
-1 Q Before testifying today, did you have opportunity to
-2 review a thumb drive containing a set of electronic documents?
-3 A Yes.
-4 MR. CONROY: Can I hand the witness a thumb drive.
-5 (Handed.)
-6 Q Is that the thumb drive that you reviewed?
-7 A Yes.
-8 Q How do you know?
-9 A It has my initials and the date.
-10 Q And does that thumb drive contain a set of AT&T records
-11 that have been marked for identification as People's
-12 Exhibit 400?
-13 A Yes.
-14 Q Are the records contained in People's 400 for
-15 identification call detail and subscriber records?
-16 A Yes.
-17 Q How many different phone numbers do they relate to?
-18 A Six numbers that belong to AT&T and eleven numbers that
-19 were just on our network for roaming or was in contact with an
-20 AT&T number.
-21 Q Okay. So there are records —— tell me if I get this
-22 right. There are records for 17 different phone numbers?
-23 A Yes.
-24 Q Of which six belong to customers of AT&T?
-25 A Yes.
+1       Q    Before testifying today, did you have opportunity to
+2   review a thumb drive containing a set of electronic documents?
+3       A    Yes.
+4                MR. CONROY:  Can I hand the witness a thumb drive.
+5                (Handed.)
+6       Q    Is that the thumb drive that you reviewed?
+7       A    Yes.
+8       Q    How do you know?
+9       A    It has my initials and the date.
+10       Q    And does that thumb drive contain a set of AT&T records
+11   that have been marked for identification as People's
+12   Exhibit 400?
+13       A    Yes.
+14       Q    Are the records contained in People's 400 for
+15   identification call detail and subscriber records?
+16       A    Yes.
+17       Q    How many different phone numbers do they relate to?
+18       A    Six numbers that belong to AT&T and eleven numbers that
+19   were just on our network for roaming or was in contact with an
+20   AT&T number.
+21       Q    Okay.  So there are records -- tell me if I get this
+22   right.  There are records for 17 different phone numbers?
+23       A    Yes.
+24       Q    Of which six belong to customers of AT&T?
+25       A    Yes.
 Lisa Kramsky,
 Senior Court Reporter

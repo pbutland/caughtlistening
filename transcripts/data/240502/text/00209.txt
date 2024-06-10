@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2012
-1 A Yes, sir.
-2 Q There are some parts of this that are a SCIF?
-3 A Sure. There are no signals coming out, so it would be
-4 a SCIF.
-5 Q And I'm guessing no windows and it has heavy doors;
-6 right?
-7 A Yes, that's correct.
-8 Q And that is to prevent the devices that you are
-9 working on from being manipulated while you are working on it;
-10 correct?
-11 A Yes. That's absolutely correct.
-12 Q And the Director of HTAU is Steve Moran; right?
-13 A He is.
-14 Q And I think I've seen him say publicly that there is a
-15 real concern that investigative targets can manipulate data and
-16 their devices remotely?
-17 A Yes.
-18 MR. CONROY: Objection.
-19 THE COURT: Overruled.
-20 You can answer.
-21 A Yes.
-22 Q You agree with Mr. Moran; right?
-23 A I do.
-24 Q And so, here in New York, one of the top priorities for
-25 the analysis and the forensics that you are conducting is
+1       A    Yes, sir.
+2       Q    There are some parts of this that are a SCIF?
+3       A    Sure.  There are no signals coming out, so it would be
+4   a SCIF.
+5       Q    And I'm guessing no windows and it has heavy doors;
+6   right?
+7       A    Yes, that's correct.
+8       Q    And that is to prevent the devices that you are
+9   working on from being manipulated while you are working on it;
+10   correct?
+11       A    Yes.  That's absolutely correct.
+12       Q    And the Director of HTAU is Steve Moran; right?
+13       A    He is.
+14       Q    And I think I've seen him say publicly that there is a
+15   real concern that investigative targets can manipulate data and
+16   their devices remotely?
+17       A    Yes.
+18                MR. CONROY:  Objection.
+19                THE COURT:  Overruled.
+20                You can answer.
+21       A    Yes.
+22       Q    You agree with Mr. Moran; right?
+23       A    I do.
+24       Q    And so, here in New York, one of the top priorities for
+25   the analysis and the forensics that you are conducting is
 Lisa Kramsky,
 Senior Court Reporter

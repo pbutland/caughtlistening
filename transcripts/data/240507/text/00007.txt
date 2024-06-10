@@ -1,29 +1,29 @@
-S. Franklin — Direct/Mangold
-25l3
-1 State your full name. Spelling your last name.
-2 THE WITNESS: Sally Franklin. F—R—A—N—K—L—I—N.
-3 THE COURT OFFICER: Give us your county of
-4 residence, please.
-5 THE WITNESS: Westchester County, New York.
-6 THE COURT: Good morning.
-7 You may inquire.
-8 MS. MANGOLD: Thank you, your Honor.
-9 *******
-lO DIRECT EXAMINATION
-ll BY MS. MANGOLD:
-12 Q Good morning, Ms. Franklin.
-13 A Good morning.
-14 Q Now, can you tell the jury where you work?
-15 A Penguin Random House.
-16 Q What kind of company is Penguin Random House?
-17 A We publish books.
-18 Q How long have you worked in the publishing industry?
-19 A For 26 years.
-20 Q How long have you worked at Penguin Random House?
-21 A For 11 years.
-22 Q What is your current position there?
-23 A Senior Vice President and Executive Managing Editor for
-24 the Random House Publishing Group.
-25 Q And can you explain to the jury what the Random House
+S. Franklin - Direct/Mangold
+2513
+1                State your full name.  Spelling your last name.
+2                THE WITNESS:  Sally Franklin.  F-R-A-N-K-L-I-N.
+3                 THE COURT OFFICER:  Give us your county of
+4       residence, please.
+5                THE WITNESS:  Westchester County, New York.
+6                THE COURT:  Good morning.
+7                You may inquire.
+8                MS. MANGOLD:  Thank you, your Honor.
+9                *******
+10   DIRECT EXAMINATION
+11   BY MS. MANGOLD:
+12       Q    Good morning, Ms. Franklin.
+13       A    Good morning.
+14       Q    Now, can you tell the jury where you work?
+15       A    Penguin Random House.
+16       Q    What kind of company is Penguin Random House?
+17       A    We publish books.
+18       Q    How long have you worked in the publishing industry?
+19       A    For 26 years.
+20       Q    How long have you worked at Penguin Random House?
+21       A    For 11 years.
+22       Q    What is your current position there?
+23       A    Senior Vice President and Executive Managing Editor for
+24   the Random House Publishing Group.
+25       Q    And can you explain to the jury what the Random House
 Lisa Kramsky,
 Senior Court Reporter

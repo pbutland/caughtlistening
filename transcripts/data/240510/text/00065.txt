@@ -1,29 +1,29 @@
-J. Tomalin — Direct/Conroy
+J. Tomalin - Direct/Conroy
 3153
-1 A Yes, it does.
-2 Q Did you have a chance to compare this redacted page to
-3 the original page that is part of what's in evidence as
-4 People’s 401?
-5 A Yes, I did.
-6 Q But for the redactions, are the pages identical?
-7 A Yes.
-8 Q Could you just walk us through the columns on this
-9 page and explain what each one is?
-10 A Yes. Starting on the left, the Date column identifies
-11 the date that the call began.
-12 The Time column identifies the time the call began.
-13 The Number column will identify the telephone number
-14 that the target telephone number was communicating with.
-15 The Rate and Usage Type columns identify what portion
-16 of a customer's calling plan will be applied to these calls.
-17 The Origination column identifies the geographical
-18 area for which we are billing the target telephone number while
-19 making or receiving the telephone call.
-20 The Destination Call Logs for FM calls, identified by
-21 the home area of the telephone number being called.
-22 For Incoming Calls it will reflect incoming CL or any
-23 other code that is needed with that call.
-24 The Min column, identifies the length of the call in
-25 minutes.
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    Yes, it does.
+2       Q    Did you have a chance to compare this redacted page to
+3   the original page that is part of what's in evidence as
+4   People's 401?
+5       A    Yes, I did.
+6       Q    But for the redactions, are the pages identical?
+7       A    Yes.
+8       Q    Could you just walk us through the columns on this
+9   page and explain what each one is?
+10       A    Yes.  Starting on the left, the Date column identifies
+11   the date that the call began.
+12            The Time column identifies the time the call began.
+13            The Number column will identify the telephone number
+14   that the target telephone number was communicating with.
+15            The Rate and Usage Type columns identify what portion
+16   of a customer's calling plan will be applied to these calls.
+17            The Origination column identifies the geographical
+18   area for which we are billing the target telephone number while
+19   making or receiving the telephone call.
+20            The Destination Call Logs for FM calls, identified by
+21   the home area of the telephone number being called.
+22            For Incoming Calls it will reflect incoming CL or any
+23   other code that is needed with that call.
+24            The Min column, identifies the length of the call in
+25   minutes.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1980
-1 your last name.
-2 THE WITNESS: Douglas Daus. D—A—U—S.
-3 COURT OFFICER: Your county of residence?
-4 THE WITNESS: Westchester County.
-5 THE COURT: Good afternoon.
-6 You may inquire.
-7 MR. CONROY: Thank you, Judge.
-8 DIRECT EXAMINATION
-9 BY MR. CONROY:
-10 Q Where do you work?
-11 A I work for the New York County District Attorney's
-12 Office.
-13 Q How long have you worked in the District Attorney's
-14 Office?
-15 A It will be ten years in July.
-16 Q Where do you work in the DA's Office?
-17 A HTAU. High Technology Analysis Unit.
-18 Q What does HTAU do?
-19 A Process all types of digital evidence that comes
-20 through our Lab to this Office. We take extractions from this
-21 type of evidence and produce reports for them.
-22 Q How long have you worked at HTAU?
-23 A It will be ten years in July.
-24 Q Can you tell us a little bit about your educational
-25 background?
+1        your last name.
+2                 THE WITNESS:  Douglas Daus. D-A-U-S.
+3                 COURT OFFICER:  Your county of residence?
+4                 THE WITNESS:  Westchester County.
+5                 THE COURT:  Good afternoon.
+6                 You may inquire.
+7                 MR. CONROY:  Thank you, Judge.
+8   DIRECT EXAMINATION
+9   BY MR. CONROY:
+10       Q    Where do you work?
+11       A    I work for the New York County District Attorney's
+12   Office.
+13       Q    How long have you worked in the District Attorney's
+14   Office?
+15       A    It will be ten years in July.
+16       Q    Where do you work in the DA's Office?
+17       A    HTAU.  High Technology Analysis Unit.
+18       Q    What does HTAU do?
+19       A    Process all types of digital evidence that comes
+20   through our Lab to this Office. We take extractions from this
+21   type of evidence and produce reports for them.
+22       Q    How long have you worked at HTAU?
+23       A    It will be ten years in July.
+24       Q    Can you tell us a little bit about your educational
+25   background?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

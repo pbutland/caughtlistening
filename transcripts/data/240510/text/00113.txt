@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3201
-1 Q. What did you review?
-2 A. I reviewed Cellebrite reports, which is the application
-3 used to review the data that is extracted on call logs, contact
-4 lists, calendar invites, various pieces of metadata, et cetera.
-5 Q. Did that include what is in evidence —— contact
-6 information from those phones, that is in evidence currently as
-7 People's 263 and 264?
-8 A. Yes.
-9 Q. Did it include text messages that are in evidence as
-10 People's 249 through 251, 255 through 260 and 262?
-11 A. Yes.
-12 Q. Did it include call logs that are in evidence as
-13 People's 261?
-14 A. Yes.
-15 Q. Did you also review subscriber information contained in
-16 People's 400 and 401?
-17 A. Yes.
-18 Q. Did you also review a contact list contained in
-19 People's 69B in evidence?
-20 A. I did.
-21 Q. In your work on the investigation, did you prepare a
-22 summary report —— several summary reports or —— withdrawn.
-23 Let me rephrase that.
-24 In your work on the investigation, did you prepare a
-25 summary report of contact information?
+1       Q.   What did you review?
+2       A.   I reviewed Cellebrite reports, which is the application
+3   used to review the data that is extracted on call logs, contact
+4   lists, calendar invites, various pieces of metadata, et cetera.
+5       Q.   Did that include what is in evidence -- contact
+6   information from those phones, that is in evidence currently as
+7   People's 263 and 264?
+8       A.   Yes.
+9       Q.   Did it include text messages that are in evidence as
+10   People's 249 through 251, 255 through 260 and 262?
+11       A.   Yes.
+12       Q.   Did it include call logs that are in evidence as
+13   People's 261?
+14       A.   Yes.
+15       Q.   Did you also review subscriber information contained in
+16   People's 400 and 401?
+17       A.   Yes.
+18       Q.   Did you also review a contact list contained in
+19   People's 69B in evidence?
+20       A.   I did.
+21       Q.   In your work on the investigation, did you prepare a
+22   summary report -- several summary reports or -- withdrawn.
+23            Let me rephrase that.
+24            In your work on the investigation, did you prepare a
+25   summary report of contact information?
 Theresa Magniccari
 Senior Court Reporter

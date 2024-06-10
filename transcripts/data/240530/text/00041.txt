@@ -1,29 +1,29 @@
 Verdict
 4950
-1 JUROR #1: Guilty.
-2 THE CLERK: How say you to count nine?
-3 JUROR #1: Guilty.
-4 THE CLERK: How say you to count ten?
-5 JUROR #1: Guilty.
-6 THE CLERK: How say you to count 11?
-7 JUROR #1: Guilty.
-8 THE CLERK: How say you to count 12?
-9 JUROR #1: Guilty.
-10 THE CLERK: How say you to count 13?
-11 JUROR #1: Guilty.
-12 THE CLERK: How say you to count 14?
-13 JUROR #1: Guilty.
-14 THE CLERK: How say you to count 15?
-15 JUROR #1: Guilty.
-16 THE CLERK: How say you to count 16?
-17 JUROR #1: Guilty.
-18 THE CLERK: How say you to count 17?
-19 JUROR #1: Guilty.
-20 THE CLERK: How say you to count 18?
-21 JUROR #1: Guilty.
-22 THE CLERK: How say you to count 19?
-23 JUROR #1: Guilty.
-24 THE CLERK: How say you to count 20?
-25 JUROR #1: Guilty.
+1            JUROR #1:  Guilty.
+2            THE CLERK:  How say you to count nine?
+3            JUROR #1:  Guilty.
+4            THE CLERK:  How say you to count ten?
+5            JUROR #1:  Guilty.
+6            THE CLERK:  How say you to count 11?
+7            JUROR #1:  Guilty.
+8            THE CLERK:  How say you to count 12?
+9            JUROR #1:  Guilty.
+10            THE CLERK:  How say you to count 13?
+11            JUROR #1:  Guilty.
+12            THE CLERK:  How say you to count 14?
+13            JUROR #1:  Guilty.
+14            THE CLERK:  How say you to count 15?
+15            JUROR #1:  Guilty.
+16            THE CLERK:  How say you to count 16?
+17            JUROR #1:  Guilty.
+18            THE CLERK:  How say you to count 17?
+19            JUROR #1:  Guilty.
+20            THE CLERK:  How say you to count 18?
+21            JUROR #1:  Guilty.
+22            THE CLERK:  How say you to count 19?
+23            JUROR #1:  Guilty.
+24            THE CLERK:  How say you to count 20?
+25            JUROR #1:  Guilty.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

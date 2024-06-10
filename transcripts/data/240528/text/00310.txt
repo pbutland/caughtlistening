@@ -1,29 +1,29 @@
 Summation/Steinglass
 4765
-1 "Answer: Correct."
-2 "Question: On whose direction —— on whose behalf
-3 did you work with AMI to do that?"
-4 "Answer: I worked with Dylan Howard, I worked
-5 with David Pecker, and also Dan Rotstein."
-6 "Question: At whose direction and whose behalf
-7 did you do that?"
-8 "Answer: At the direction of Donald J. Trump."
-9 "Question: And for whose benefit?"
-10 "Answer: For the benefit of Donald J. Trump."
-11 These guilty pleas on August 21, 2018, those are
-12 the turning point. That was the moment Mr. Cohen finally
-13 came clean about what he had done with Donald Trump and
-14 why.
-15 The Defendant was furious. His fixer had done the
-16 unthinkable.
-17 And Trump immediately went on the attack, an
-18 attack that continues to this day.
-19 The very next morning after Cohen pled guilty ——
-20 and the plea was widely reported —— the Defendant took to
-21 Twitter again.
-22 "If anyone is looking for a good lawyer, 1 would
-23 strongly suggest that you don't retain the services of
-24 Michael Cohen."
-25 This is the day after he pled guilty.
+1            "Answer:  Correct."
+2            "Question:  On whose direction -- on whose behalf
+3   did you work with AMI to do that?"
+4            "Answer:  I worked with Dylan Howard, I worked
+5   with David Pecker, and also Dan Rotstein."
+6            "Question:  At whose direction and whose behalf
+7   did you do that?"
+8            "Answer:  At the direction of Donald J. Trump."
+9            "Question:  And for whose benefit?"
+10            "Answer: For the benefit of Donald J. Trump."
+11            These guilty pleas on August 21, 2018, those are
+12   the turning point. That was the moment Mr. Cohen finally
+13   came clean about what he had done with Donald Trump and
+14   why.
+15            The Defendant was furious. His fixer had done the
+16   unthinkable.
+17            And Trump immediately went on the attack, an
+18   attack that continues to this day.
+19            The very next morning after Cohen pled guilty --
+20   and the plea was widely reported -- the Defendant took to
+21   Twitter again.
+22            "If anyone is looking for a good lawyer, I would
+23   strongly suggest that you don't retain the services of
+24   Michael Cohen."
+25            This is the day after he pled guilty.
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

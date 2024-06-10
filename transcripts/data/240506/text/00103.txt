@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2351
-1 figure she ran it. I don’t know a hundred percent.
-2 Q Can you describe the first column, please?
-3 A It says, voucher number.
-4 Q And what is a voucher number?
-5 A When you are sending, or the software puts an invoice
-6 up, or into the Accounts Payable System, it creates a voucher,
-7 and an invoice number is automatically assigned by Multi Data,
-8 MDS.
-9 Q Describe the second column, please?
-10 A COMP, which is short for company, that would be the
-11 company that paid the invoice.
-12 Q And which company does appear in the COMP column on
-13 this query voucher summary?
-14 A DJT REV, it stands for Donald J. Trump Revocable Trust
-15 and DJT is President Trump personally.
-16 Q And does DJT REV and DJT indicate the entity that
-17 issued a given payment?
-18 A Yes.
-19 Q Across the top, does this document show a range for
-20 the date paid?
-21 A Yes.
-22 Q And what is that range?
-23 A These are for checks that were cut and issued
-24 between —— from and including, January 1st, 2017 through and
-25 including January 5th of 2018.
-Susan Pearce—Bates, RPR, CCR, RSA
+1   figure she ran it.  I don't know a hundred percent.
+2       Q    Can you describe the first column, please?
+3       A    It says, voucher number.
+4       Q    And what is a voucher number?
+5       A    When you are sending, or the software puts an invoice
+6   up, or into the Accounts Payable System, it creates a voucher,
+7   and an invoice number is automatically assigned by Multi Data,
+8   MDS.
+9       Q    Describe the second column, please?
+10       A    COMP, which is short for company, that would be the
+11   company that paid the invoice.
+12       Q    And which company does appear in the COMP column on
+13   this query voucher summary?
+14       A    DJT REV, it stands for Donald J. Trump Revocable Trust
+15   and DJT is President Trump personally.
+16       Q    And does DJT REV and DJT indicate the entity that
+17   issued a given payment?
+18       A    Yes.
+19       Q    Across the top, does this document show a range for
+20   the date paid?
+21       A    Yes.
+22       Q    And what is that range?
+23       A    These are for checks that were cut and issued
+24   between -- from and including, January 1st, 2017 through and
+25   including January 5th of 2018.
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

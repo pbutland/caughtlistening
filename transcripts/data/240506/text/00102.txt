@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2350
-1 In this case, it’s run for any entity that pays this
-2 specific vendor, any check that was paid during the period
-3 January 1st, 2017 to January 5th, 2018.
-4 It includes various information, voucher number, which
-5 is a tracking system, the company it was paid from, the
-6 vendor’s name, a small description of what the invoice was for.
-7 The status, you can run it, if the invoice was paid or
-8 unpaid.
-9 You can void it, or you can run multiple options, the
-10 date of the invoice, the invoice amount, the date paid, check
-11 number and a due date, which I think is an automatically
-12 generated date.
-13 Q You mentioned that this report can show payments made
-14 to a particular vendor, is that right?
-15 A Yes.
-16 Q Who is the vendor in this instance?
-17 A Michael D. Cohen, Esquire.
-18 Q Who printed this document?
-19 A I don't know.
-20 Q You said before that you recognized the handwriting on
-21 the right—hand side?
-22 A The handwriting, I assume, she wrote it, but I don’t
-23 know if She did.
-24 Q By, she, you are referring to Deborah Tarasoff?
-25 A Yes. She is the only person in Accounts Payable, so I
-Susan Pearce—Bates, RPR, CCR, RSA
+1            In this case, it's run for any entity that pays this
+2   specific vendor, any check that was paid during the period
+3   January 1st, 2017 to January 5th, 2018.
+4            It includes various information, voucher number, which
+5   is a tracking system, the company it was paid from, the
+6   vendor's name, a small description of what the invoice was for.
+7            The status, you can run it, if the invoice was paid or
+8   unpaid.
+9            You can void it, or you can run multiple options, the
+10   date of the invoice, the invoice amount, the date paid, check
+11   number and a due date, which I think is an automatically
+12   generated date.
+13       Q    You mentioned that this report can show payments made
+14   to a particular vendor, is that right?
+15       A    Yes.
+16       Q    Who is the vendor in this instance?
+17       A    Michael D. Cohen, Esquire.
+18       Q    Who printed this document?
+19       A    I don't know.
+20       Q    You said before that you recognized the handwriting on
+21   the right-hand side?
+22       A    The handwriting, I assume, she wrote it, but I don't
+23   know if she did.
+24       Q    By, she, you are referring to Deborah Tarasoff?
+25       A    Yes.  She is the only person in Accounts Payable, so I
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

@@ -1,29 +1,29 @@
 Jury Charge
 4863
-1 the lack of a motive, may be considered by the jury.
-2 For example, if you find from the evidence that the
-3 Defendant had a motive to commit the crime charged, that is
-4 a circumstance you may wish to consider as tending to
-5 support a finding of guilt.
-6 On the other hand, if the proof establishes that
-7 the Defendant had no motive to commit the crime charged,
-8 that is a circumstance you may wish to consider as tending
-9 to establish that the Defendant is not guilty of a charged
-10 crime.
-11 Your verdict, on each count you consider, whether
-12 guilty or not guilty, must be unanimous, that is, each and
-13 every juror must agree to it.
-14 To reach a unanimous verdict, you must deliberate
-15 with the other jurors.
-16 That means, you should discuss the evidence and
-17 consult with each other, listen to each other, give each
-18 other's views careful consideration, and reason together
-19 when considering the evidence.
-20 And when you deliberate, you should do so with a
-21 view towards reaching an agreement, if that can be done
-22 without surrendering individual judgment.
-23 Each of you must decide the case for yourself, but
-24 only after a fair and impartial consideration of the
-25 evidence with the other jurors.
+1   the lack of a motive, may be considered by the jury.
+2            For example, if you find from the evidence that the
+3   Defendant had a motive to commit the crime charged, that is
+4   a circumstance you may wish to consider as tending to
+5   support a finding of guilt.
+6            On the other hand, if the proof establishes that
+7   the Defendant had no motive to commit the crime charged,
+8   that is a circumstance you may wish to consider as tending
+9   to establish that the Defendant is not guilty of a charged
+10   crime.
+11            Your verdict, on each count you consider, whether
+12   guilty or not guilty, must be unanimous, that is, each and
+13   every juror must agree to it.
+14            To reach a unanimous verdict, you must deliberate
+15   with the other jurors.
+16            That means, you should discuss the evidence and
+17   consult with each other, listen to each other, give each
+18   other's views careful consideration, and reason together
+19   when considering the evidence.
+20            And when you deliberate, you should do so with a
+21   view towards reaching an agreement, if that can be done
+22   without surrendering individual judgment.
+23            Each of you must decide the case for yourself, but
+24   only after a fair and impartial consideration of the
+25   evidence with the other jurors.
 Lisa Kramsky,
 Senior Court Reporter

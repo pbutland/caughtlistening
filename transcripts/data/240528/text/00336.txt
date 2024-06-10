@@ -1,11 +1,10 @@
 Summation/Mr. Steinglass
 4791
-1 or cause false entries in the business records.
+1        or cause false entries in the business records.
 2
 3
 4
-5 (Whereupon, Theresa Magniccari, Senior Court Reporter, was
-relieved by Laurie Eisenberg as Senior Court Reporter.)
+5   (Whereupon, Theresa Magniccari, Senior Court Reporter, was
 6
 7
 8
@@ -26,5 +25,6 @@ relieved by Laurie Eisenberg as Senior Court Reporter.)
 23
 24
 25
-Theresa Magniooari
+relieved by Laurie Eisenberg as Senior Court Reporter.)
+Theresa Magniccari
 Senior Court Reporter

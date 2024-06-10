@@ -1,29 +1,29 @@
-G. Farro — Direct/Mangold
+G. Farro - Direct/Mangold
 Page 1545
-1 Before testifying today, did you have an opportunity to
-2 review files marked for identification as People's Exhibits 361
-3 through 364 and 366 through 379?
-4 A Yes.
-5 Q Do those files contain First Republic Bank emails,
-6 banking documents, and client account records?
-7 A Yes.
-8 Q Were all of those records kept and maintained by First
-9 Republic Bank for the purpose of evidencing or reflecting the
-10 activity of the bank?
-11 A Yes.
-12 Q Did you look at two sets of documents with those file
-13 names, one with redactions and one without redactions?
-14 A Yes.
-15 Q And aside from the redactions, are those two versions
-16 identical?
-17 A Yes.
-18 Q And was the information that was redacted personal
-19 identifying information?
-20 A Can you explain the question, please?
-21 Q Sure.
-22 Was the people's personal phone numbers, email addresses
-23 and the like ——
-24 A Yes. Because it's documentation, yes.
-25 Q —— redacted?
+1       Before testifying today, did you have an opportunity to
+2   review files marked for identification as People's Exhibits 361
+3   through 364 and 366 through 379?
+4       A    Yes.
+5       Q    Do those files contain First Republic Bank emails,
+6   banking documents, and client account records?
+7       A    Yes.
+8       Q    Were all of those records kept and maintained by First
+9   Republic Bank for the purpose of evidencing or reflecting the
+10   activity of the bank?
+11       A    Yes.
+12       Q    Did you look at two sets of documents with those file
+13   names, one with redactions and one without redactions?
+14       A    Yes.
+15       Q    And aside from the redactions, are those two versions
+16   identical?
+17       A    Yes.
+18       Q    And was the information that was redacted personal
+19   identifying information?
+20       A    Can you explain the question, please?
+21       Q    Sure.
+22       Was the people's personal phone numbers, email addresses
+23   and the like --
+24       A    Yes. Because it's documentation, yes.
+25       Q    -- redacted?
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

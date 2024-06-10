@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2080
-1 A To make a recording.
-2 Q And you don't know what he was doing; do you?
-3 A I do not.
-4 Q And this is far from ideal, from a forensic
-5 perspective, if you are trying to determine in a reliable
-6 fashion what went on with this phone in 2016; correct?
-7 A If something happened in 2016 on the device, that file
-8 is going to be saved on that device.
-9 Q Right. And this phone has been synced multiple times,
-10 turned on and off since that time, all sorts of things have
-11 happened that create variables that in your ideal situation
-12 would be investigated; correct?
-13 A Certainly.
-14 Q Including this laptop that Michael Cohen had, what's on
-15 it, what got loaded onto the phone; right?
-16 Those are questions from your perspective?
-17 MR. CONROY: Objection.
-18 THE COURT: Sustained.
-19 Q The things that I've shown you this morning raise some
-20 questions about how this phone was handled; right?
-21 A Yes.
-22 Q And this phone was not handled, through no —— no fault
-23 of your own, you took possession of this phone in January 2023;
-24 right?
-25 A That's correct. 2023.
+1       A    To make a recording.
+2       Q    And you don't know what he was doing; do you?
+3       A    I do not.
+4       Q    And this is far from ideal, from a forensic
+5   perspective, if you are trying to determine in a reliable
+6   fashion what went on with this phone in 2016; correct?
+7       A    If something happened in 2016 on the device, that file
+8   is going to be saved on that device.
+9       Q    Right.  And this phone has been synced multiple times,
+10   turned on and off since that time, all sorts of things have
+11   happened that create variables that in your ideal situation
+12   would be investigated; correct?
+13       A    Certainly.
+14       Q    Including this laptop that Michael Cohen had, what's on
+15   it, what got loaded onto the phone; right?
+16       Those are questions from your perspective?
+17                MR. CONROY:  Objection.
+18                THE COURT:  Sustained.
+19       Q    The things that I've shown you this morning raise some
+20   questions about how this phone was handled; right?
+21       A    Yes.
+22       Q    And this phone was not handled, through no -- no fault
+23   of your own, you took possession of this phone in January 2023;
+24   right?
+25       A    That's correct.  2023.
 Lisa Kramsky,
 Senior Court Reporter

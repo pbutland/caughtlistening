@@ -1,29 +1,29 @@
-D. Tarasoff — Direct/Conroy
+D. Tarasoff - Direct/Conroy
 2429
-1 A. Fifty to sixty, maybe more.
-2 Q. And did you do your job the same way with respect to
-3 all of these entities?
-4 A. Yes.
-5 Q. You explained to us what Accounts Payable is. What is
-6 Accounts Receivable?
-7 A. Accounts Receivable, you get the money in. Accounts
-8 Payable, you give it out.
-9 Q. And are you familiar with the term "General Ledger?"
-10 A. I am.
-11 Q. What is the General Ledger?
-12 A. That's what everything goes into, and they keep track
-13 of things.
-14 Q. When you say "everything goes into ——"
-15 A. Accounts Receivable and Accounts Payable, any
-16 transactions.
-17 Q. Did you make entries yourself through an accounting
-18 system into the General Ledger?
-19 A. Yes, the Accounts Payable.
-20 Q. Do you remember the name of that accounting system?
-21 A. Multi Data, MDS.
-22 Q. Can you briefly describe the process that you would use
-23 back in 2016 and 2017 when you got an invoice to pay in Accounts
-24 Payable?
-25 A. I would —— I would get it when it's approved. I would
+1       A.   Fifty to sixty, maybe more.
+2       Q.   And did you do your job the same way with respect to
+3   all of these entities?
+4       A.   Yes.
+5       Q.   You explained to us what Accounts Payable is.  What is
+6   Accounts Receivable?
+7       A.   Accounts Receivable, you get the money in.  Accounts
+8   Payable, you give it out.
+9       Q.   And are you familiar with the term "General Ledger?"
+10       A.   I am.
+11       Q.   What is the General Ledger?
+12       A.   That's what everything goes into, and they keep track
+13   of things.
+14       Q.   When you say "everything goes into --"
+15       A.   Accounts Receivable and Accounts Payable, any
+16   transactions.
+17       Q.   Did you make entries yourself through an accounting
+18   system into the General Ledger?
+19       A.   Yes, the Accounts Payable.
+20       Q.   Do you remember the name of that accounting system?
+21       A.   Multi Data, MDS.
+22       Q.   Can you briefly describe the process that you would use
+23   back in 2016 and 2017 when you got an invoice to pay in Accounts
+24   Payable?
+25       A.   I would -- I would get it when it's approved.  I would
 Theresa Magniccari
 Senior Court Reporter

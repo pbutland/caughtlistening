@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2071
-1 recording was made.
-2 In this case, it would have been 2016, so September 6th at
-3 approximately 10:56.
-4 So wherever that file existed on an iPhone associated with
-5 that account got restored, as mentioned before, back onto this
-6 device.
-7 One of the columns you look at is that source file
-8 information. When that comes over from the backup, you will see
-9 the same date and time.
-10 If that recording was modified or edited at some point
-11 later, and adding something or deleting something, you would
-12 then have timestamps that reflect that time it was edited, but
-13 in this case, this particular file shows the same metadata
-14 information about the time.
-15 MR. BOVE: Judge, I move to strike all of that as
-16 nonresponsive.
-17 THE COURT: Overruled.
-18 Q You just testified about your theories of the timestamp
-19 on the screen; right?
-20 A I did.
-21 Q That is your hypothesis; correct?
-22 A It's my experience, yes.
-23 Q And, look, you have a ton of experience with forensic
-24 science; right?
-25 A Yes.
+1   recording was made.
+2       In this case, it would have been 2016, so September 6th at
+3   approximately 10:56.
+4       So wherever that file existed on an iPhone associated with
+5   that account got restored, as mentioned before, back onto this
+6   device.
+7       One of the columns you look at is that source file
+8   information.  When that comes over from the backup, you will see
+9   the same date and time.
+10       If that recording was modified or edited at some point
+11   later, and adding something or deleting something, you would
+12   then have timestamps that reflect that time it was edited, but
+13   in this case, this particular file shows the same metadata
+14   information about the time.
+15                MR. BOVE:  Judge, I move to strike all of that as
+16       nonresponsive.
+17                THE COURT:  Overruled.
+18       Q    You just testified about your theories of the timestamp
+19   on the screen; right?
+20       A    I did.
+21       Q    That is your hypothesis; correct?
+22       A    It's my experience, yes.
+23       Q    And, look, you have a ton of experience with forensic
+24   science; right?
+25       A    Yes.
 Lisa Kramsky,
 Senior Court Reporter

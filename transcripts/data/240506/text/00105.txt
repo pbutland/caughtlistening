@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2353
-1 amount that was paid in 2017?
-2 A Yes.
-3 Q What is that total?
-4 A $420,000.
-5 Q You testified earlier that MDS can run reports for
-6 certain expenses in a given account, is that right?
-7 A I am sorry.
-8 Can you ask that again?
-9 Q Can MDS run reports showing payments that were posted
-10 to a particular expense code for a given expense?
-11 A Yes. I mean, given an account with an expense code is
-12 the same thing in my world, in my language.
-13 Q Let me ask that question differently then.
-14 Can MDS run a report showing certain expense types
-15 that were paid from a given entity?
-16 A Yes.
-17 Q So could it run a report showing everything booked to
-18 the account for Legal Expenses for a given entity and year?
-19 A Yes.
-20 Q Please display, only for the Court, the witness and
-21 parties, People’s 54.
-22 Mr. McConney, let me know when you have it on your
-23 screen?
-24 A I have it on the screen.
-25 Q Do you recognize this document?
-Susan Pearce—Bates, RPR, CCR, RSA
+1   amount that was paid in 2017?
+2       A    Yes.
+3       Q    What is that total?
+4       A    $420,000.
+5       Q    You testified earlier that MDS can run reports for
+6   certain expenses in a given account, is that right?
+7       A    I am sorry.
+8            Can you ask that again?
+9       Q    Can MDS run reports showing payments that were posted
+10   to a particular expense code for a given expense?
+11       A    Yes.  I mean, given an account with an expense code is
+12   the same thing in my world, in my language.
+13       Q    Let me ask that question differently then.
+14            Can MDS run a report showing certain expense types
+15   that were paid from a given entity?
+16       A    Yes.
+17       Q    So could it run a report showing everything booked to
+18   the account for Legal Expenses for a given entity and year?
+19       A    Yes.
+20       Q    Please display, only for the Court, the witness and
+21   parties, People's 54.
+22            Mr. McConney, let me know when you have it on your
+23   screen?
+24       A    I have it on the screen.
+25       Q    Do you recognize this document?
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

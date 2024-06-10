@@ -4,7 +4,7 @@ This repository contains transcript data from the Trump New York trial, indictme
 
 The first transcript provided by the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) was originally in PDF format.  However, this was almost immediately taken down and replaced by, what can only be described as, an utterly retarded and almost unusable alternative.  I'm sure that they have their reasons.  Being American probably chief among them.
 
-The way that the transcripts have been published is that each page of a transcript is a separate HTML page and within this page an embedded image displays the text.  As an image!!!
+The way that the transcripts were published is that each page of a transcript is a separate HTML page and within this page an embedded image displays the text.  As an image!!!
 
 This is, of course, extremely unhelpful in many ways.
 For example, some of these ways are:
@@ -16,25 +16,26 @@ To add insult to injury, they are using Cloudflare to verify that users are "hum
 
 This repository is here simply to make the information in the transcripts easier to use by converting the hosted images into text using OCR software.
 
+> **_Note:_** Since the creation of this repository, the transcripts as described above have now been replaced by the original PDF format.  This repository now contains text generated from the PDF files rather than the original HTML files.
+
 ## Directory structure
 
 All transcript data can be found in the `transcripts/data` directory and, under this directory, there is a directory for each day of the trial.
 
 Within each directory for each trial there are the following subdirectories:
 
-| filename        | description                                                              |
-|-----------------|--------------------------------------------------------------------------|
-| `html`          | the content for the original HTML pages as hosted by the NY court system |
-| `images`        | the images that are embedded in the above mentioned HTML files           |
-| `text`          | contains a text file for each of the image files mentioned above         |
+| filename        | description                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------|
+| `html`          | the content for the original HTML pages as hosted by the NY court system                    |
+| `text`          | contains a text file for each page of the a transcript PDF file |
 
 That describes the "raw" data.  However, at the top `transcripts` directory level, there are also the following files:
 
-| filename          | description                                                                             |
-|-------------------|-----------------------------------------------------------------------------------------|
-| `<YY-MM-DD>.txt`  | formatted text combining all of the individual text files for each trial                |
-| `<YY-MM-DD>.pdf`  | PDF file which represents the content of each of the original transcripts in PDF format |
-| `<YY-MM-DD>.json` | json file containing pertinent information for each line in a transcript                |
+| filename           | description                                                                         |
+|--------------------|-------------------------------------------------------------------------------------|
+| `<YYMMDD>.txt`     | formatted text combining all of the individual generated text files for each trial  |
+| `<YYMMDD>.pdf`     | PDF file which is an exact copy of the original transcripts                         |
+| `<YYMMDD>.json`    | json file containing pertinent information for each line in a transcript            |
 
 ## Generated text
 
@@ -56,7 +57,9 @@ Great question!
 
 The original intent of this project was to see if it was possible to generate an audio version of the transcripts using Text-To-Speech (TTS).
 
-A proof of concept (POC) was done based on the data within this repository (hence the reformatting of the text), using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Ideally a different one for each character. Here is a sample of the generated audio [here](transcript-audio-sample.mp3).
+A proof of concept (POC) was done based on the data within this repository, using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. Here is a sample of the generated audio [here](transcript-sample-elevenlabs.mp3).  
+An additional POC was done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  Samples of the generated audio for v1 and v2 can be found [here](transcript-sample-openvoice-v1.mp3) and [here](transcript-sample-openvoice-v2.mp3) respectively.
+Both POCs can be found at [caughtlistening-tools](https://github.com/pbutland/caughtlistening-tools).
 
 ## Disclaimers
 

@@ -1,29 +1,29 @@
-Davidson — Direct/Steinglass
+Davidson - Direct/Steinglass
 Page 1698
-l A. I did.
-2 Q. Does the drive contain various business records,
-3 including emails, notes and client statements?
-4 A. Yes.
-5 Q. As part of your job at Davidson & Associates, do you
-6 make and keep business records?
-7 A. Yes.
-8 Q. Do you send, receive and store work related emails and
-9 email attachments?
-10 A. Yes.
-11 Q. Where are they stored?
-12 A. Within our servers, our computer servers.
-13 Q. And does this range of exhibits contain a series of
-14 emails and attachments between yourself and Michael Cohen from
-15 2016?
-16 A. Yes.
-17 Q. Are they exact copies of emails and attachments that
-18 you sent and received?
-19 A. They are.
-20 Q. Has the substance of these emails been altered in any
-21 way?
-22 A. No.
-23 Q. Do the date and timestamp contained on the emails
-24 accurately reflect the times the messages were sent and
-25 received?
+1       A.   I did.
+2       Q.   Does the drive contain various business records,
+3   including emails, notes and client statements?
+4       A.   Yes.
+5       Q.   As part of your job at Davidson & Associates, do you
+6   make and keep business records?
+7       A.   Yes.
+8       Q.   Do you send, receive and store work related emails and
+9   email attachments?
+10       A.   Yes.
+11       Q.   Where are they stored?
+12       A.   Within our servers, our computer servers.
+13       Q.   And does this range of exhibits contain a series of
+14   emails and attachments between yourself and Michael Cohen from
+15   2016?
+16       A.   Yes.
+17       Q.   Are they exact copies of emails and attachments that
+18   you sent and received?
+19       A.   They are.
+20       Q.   Has the substance of these emails been altered in any
+21   way?
+22       A.   No.
+23       Q.   Do the date and timestamp contained on the emails
+24   accurately reflect the times the messages were sent and
+25   received?
 Theresa Magniccari
 Senior Court Reporter

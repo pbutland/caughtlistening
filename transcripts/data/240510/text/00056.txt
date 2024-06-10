@@ -1,29 +1,29 @@
-D. Dixon — Cross/Bove
+D. Dixon - Cross/Bove
 3144
-1 number was dialing the other?
-2 A Yes.
-3 MR. BOVE: And if we can bring up the redacted
-4 mobility logs that we were looking at.
-5 Thank you.
-6 Q You see on the right side there is a column, IMEI on
-7 there?
-8 A Yes.
-9 Q That’s International Mobile Equipment Identity, right?
-10 A Yes.
-11 Q And that is, actually, a number that is linked to a
-12 physical device, right?
-13 A Yes.
-14 Q So that IMSI, travels with a SIM card you pulled out
-15 from another phone, right?
-16 A Yes.
-17 Q But on this record, where is says IMEI on it, that is
-18 a specific reference to a particular phone, correct?
-19 A A device, yes.
-20 MR. BOVE: There is one unredacted page that I
-21 would like to show just the witness, Judge, if that is all
-22 right.
-23 THE COURT: Sure.
-24 MR. BOVE: So, Mr. Bernik, this is for the
-25 parties, the Court and the witness, part of Government
-Susan Pearce—Bates, RPR, CCR, RSA
+1   number was dialing the other?
+2       A    Yes.
+3                 MR. BOVE:  And if we can bring up the redacted
+4       mobility logs that we were looking at.
+5                 Thank you.
+6       Q    You see on the right side there is a column, IMEI on
+7   there?
+8       A    Yes.
+9       Q    That's International Mobile Equipment Identity, right?
+10       A    Yes.
+11       Q    And that is, actually, a number that is linked to a
+12   physical device, right?
+13       A    Yes.
+14       Q    So that IMSI, travels with a SIM card you pulled out
+15   from another phone, right?
+16       A    Yes.
+17       Q    But on this record, where is says IMEI on it, that is
+18   a specific reference to a particular phone, correct?
+19       A    A device, yes.
+20                 MR. BOVE:  There is one unredacted page that I
+21       would like to show just the witness, Judge, if that is all
+22       right.
+23                 THE COURT:  Sure.
+24                 MR. BOVE:  So, Mr. Bernik, this is for the
+25       parties, the Court and the witness, part of Government
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

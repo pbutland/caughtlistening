@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2019
-1 pictures of what's on the screen?
-2 A Yes.
-3 Q And this is, would you say, the least sophisticated way
-4 to acquire data from an electronic device?
-5 A The less sophisticated.
-6 Q And so you can't access metadata in a meaningful way;
-7 correct?
-8 A No, you can't.
-9 Q And you can't recover items deleted by the user; right?
-10 A You cannot.
-11 Q You can't look at the coding of specific files, like an
-12 image that you see on a phone; right?
-13 A No.
-14 Q So there are other ways to do this; correct?
-15 A There are.
-16 Q And another one is a logical extraction?
-17 A Uh—huh.
-18 Q And so for a logical extraction, you are pulling the
-19 data off of the device, sort of in the same format that it looks
-20 —— the same way Windows looks, right, a folder, a hierarchical
-21 formation; right?
-22 A Files, yes.
-23 Q What was that?
-24 A Files.
-25 Q I didn't hear you.
+1   pictures of what's on the screen?
+2       A    Yes.
+3       Q    And this is, would you say, the least sophisticated way
+4   to acquire data from an electronic device?
+5       A    The less sophisticated.
+6       Q    And so you can't access metadata in a meaningful way;
+7   correct?
+8       A    No, you can't.
+9       Q    And you can't recover items deleted by the user; right?
+10       A    You cannot.
+11       Q    You can't look at the coding of specific files, like an
+12   image that you see on a phone; right?
+13       A    No.
+14       Q    So there are other ways to do this; correct?
+15       A    There are.
+16       Q    And another one is a logical extraction?
+17       A    Uh-huh.
+18       Q    And so for a logical extraction, you are pulling the
+19   data off of the device, sort of in the same format that it looks
+20   -- the same way Windows looks, right, a folder, a hierarchical
+21   formation; right?
+22       A    Files, yes.
+23       Q    What was that?
+24       A    Files.
+25       Q    I didn't hear you.
 Lisa Kramsky,
 Senior Court Reporter

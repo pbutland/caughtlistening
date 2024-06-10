@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3210
-l The second column is the date and time in UTC, which is
-2 how it was originally recorded in the AT&T records.
-3 The "time" column tells whether the call is a text or
-4 voicemail.
-5 The "from" tells you who the call is from, the phone
-6 number.
-7 And the "to" column tells you who the call is to.
-8 The "duration: Is how long the call was, the minutes.
-9 The "source: Column tells you which phone carrier or
-10 where we got the records from.
-ll Q. Thank you.
-12 And, again, I am not going to walk through all of the
-13 exhibits we admitted. Do they all have the same format?
-14 A. Yes.
-15 MR. CONROY: Thank you.
-16 You can take that down.
-17 Could we now pull up what is in evidence as
-18 People's 247.
-19 (Displayed.)
-20 Q. Do you recognize what this is?
-21 A. I do.
-22 Q. What is it?
-23 A. This is a Cellebrite report showing the metadata
-24 associated with the recording that was extracted from Michael
-25 Cohen's phone.
+1            The second column is the date and time in UTC, which is
+2   how it was originally recorded in the AT&T records.
+3            The "time" column tells whether the call is a text or
+4   voicemail.
+5            The "from" tells you who the call is from, the phone
+6   number.
+7            And the "to" column tells you who the call is to.
+8            The "duration:  Is how long the call was, the minutes.
+9            The "source: Column tells you which phone carrier or
+10   where we got the records from.
+11       Q.   Thank you.
+12            And, again, I am not going to walk through all of the
+13   exhibits we admitted.  Do they all have the same format?
+14       A.   Yes.
+15                 MR. CONROY:  Thank you.
+16                 You can take that down.
+17                 Could we now pull up what is in evidence as
+18        People's 247.
+19                 (Displayed.)
+20       Q.   Do you recognize what this is?
+21       A.   I do.
+22       Q.   What is it?
+23       A.   This is a Cellebrite report showing the metadata
+24   associated with the recording that was extracted from Michael
+25   Cohen's phone.
 Theresa Magniccari
 Senior Court Reporter

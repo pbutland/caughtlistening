@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2072
-1 Q And so, you are testifying as a scientist who is trying
-2 to draw some inferences from what you see on the screen; right?
-3 A Correct.
-4 Q This report —— my question was, does this report
-5 reflect a date modified at all?
-6 A No. Just the timestamp when it was created.
-7 Q Now, I would like to look at another metadata report
-8 that's in evidence.
-9 MR. BOVE: So, Mr. Bernik, if we could bring up
-10 Government Exhibit 253 in the top pane and 252 at the
-11 bottom.
-12 (Displayed.)
-13 Q And so, this is the photograph that you testified about
-14 yesterday; right?
-15 A It was.
-16 Q And you said that's Michael Cohen at the top?
-17 A Yes.
-18 Q And in the bottom, Government's 252, that is a report
-19 of the metadata associated with that file; right?
-20 A Yes, it is.
-21 MR. BOVE: And if we could zoom in on the sixth
-22 column beginning "Modified Date," please.
-23 (Displayed.)
-24 Q Do you see those columns?
-25 A I do.
+1       Q    And so, you are testifying as a scientist who is trying
+2   to draw some inferences from what you see on the screen; right?
+3       A    Correct.
+4       Q    This report -- my question was, does this report
+5   reflect a date modified at all?
+6       A    No.  Just the timestamp when it was created.
+7       Q    Now, I would like to look at another metadata report
+8   that's in evidence.
+9                 MR. BOVE:  So, Mr. Bernik, if we could bring up
+10        Government Exhibit 253 in the top pane and 252 at the
+11        bottom.
+12                  (Displayed.)
+13       Q    And so, this is the photograph that you testified about
+14   yesterday; right?
+15       A    It was.
+16       Q    And you said that's Michael Cohen at the top?
+17       A    Yes.
+18       Q    And in the bottom, Government's 252, that is a report
+19   of the metadata associated with that file; right?
+20       A    Yes, it is.
+21                 MR. BOVE:  And if we could zoom in on the sixth
+22        column beginning "Modified Date," please.
+23                 (Displayed.)
+24       Q    Do you see those columns?
+25       A    I do.
 Lisa Kramsky,
 Senior Court Reporter

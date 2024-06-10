@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2024
-1 Q The zip file, that's pulled off of the extraction.
-2 When a file is that big and it's pulled off in that way,
-3 there is some risk that the data can degrade; is that correct?
-4 A So once the data is pulled off, it's then hashed or
-5 checks are done, which means that entire file gets a very unique
-6 number that says this is the hash that contains all these
-7 contents. If anything was affected, that hash file would
-8 change.
-9 Q Thank you. That's right where I was going.
-10 So the hash value associated with the particular giant zip
-11 file is like a digital fingerprint; right?
-12 A It's a digital fingerprint.
-13 Q Maybe even more detailed, like DNA for us; right?
-14 A Sure.
-15 Q If you trust the hash system you are using, if one of
-16 those files with ones or zeroes changes, it's a different hash
-17 value; correct?
-18 A That's correct.
-19 Q And this is a way to check on an ongoing basis the
-20 integrity of the data that you are working with; right?
-21 A Absolutely.
-22 Q And it's a way to ensure that over points in time
-23 during the acquisition and review process that the data itself
-24 has not been manipulated; right?
-25 A Each time you look at it, it hashes or verifies it each
+1       Q    The zip file, that's pulled off of the extraction.
+2       When a file is that big and it's pulled off in that way,
+3   there is some risk that the data can degrade; is that correct?
+4       A    So once the data is pulled off, it's then hashed or
+5   checks are done, which means that entire file gets a very unique
+6   number that says this is the hash that contains all these
+7   contents.  If anything was affected, that hash file would
+8   change.
+9       Q    Thank you.  That's right where I was going.
+10       So the hash value associated with the particular giant zip
+11   file is like a digital fingerprint; right?
+12       A    It's a digital fingerprint.
+13       Q    Maybe even more detailed, like DNA for us; right?
+14       A    Sure.
+15       Q    If you trust the hash system you are using, if one of
+16   those files with ones or zeroes changes, it's a different hash
+17   value; correct?
+18       A    That's correct.
+19       Q    And this is a way to check on an ongoing basis the
+20   integrity of the data that you are working with; right?
+21       A    Absolutely.
+22       Q    And it's a way to ensure that over points in time
+23   during the acquisition and review process that the data itself
+24   has not been manipulated; right?
+25       A    Each time you look at it, it hashes or verifies it each
 Lisa Kramsky,
 Senior Court Reporter

@@ -1,29 +1,29 @@
-D. Daus — Cross/Bove
+D. Daus - Cross/Bove
 2078
-1 A I can see.
-2 Q Okay.
-3 This shows that the phone was not only turned on, but
-4 actually used in 2020; right?
-5 A Yes, it does.
-6 Q September 30, 2020; correct?
-7 A That's correct.
-8 Q And if you look at the source file information, that's
-9 calling for the highlighted cell, there is a file, I can't
-10 really see it?
-11 A Shine2.M4A.
-12 Q Thank you.
-13 That's an audio file; right?
-14 A It is.
-15 Q That's an extension associated with an audio file?
-16 A Yes, it is.
-17 Q And so, in September of 2020, this is well after 2016,
-18 well after the FBI searches in 2018 and long before you were
-19 given the phone, this phone was on —— being used to do something
-20 with the recording; correct?
-21 A It was.
-22 Q And we don't know what; right?
-23 A I do not.
-24 Q And we would have to take Michael Cohen's word for it;
-25 correct?
+1       A    I can see.
+2       Q    Okay.
+3       This shows that the phone was not only turned on, but
+4   actually used in 2020; right?
+5       A    Yes, it does.
+6       Q    September 30, 2020; correct?
+7       A    That's correct.
+8       Q    And if you look at the source file information, that's
+9   calling for the highlighted cell, there is a file, I can't
+10   really see it?
+11       A    Shine2.M4A.
+12       Q    Thank you.
+13       That's an audio file; right?
+14       A    It is.
+15       Q    That's an extension associated with an audio file?
+16       A    Yes, it is.
+17       Q    And so, in September of 2020, this is well after 2016,
+18   well after the FBI searches in 2018 and long before you were
+19   given the phone, this phone was on -- being used to do something
+20   with the recording; correct?
+21       A    It was.
+22       Q    And we don't know what; right?
+23       A    I do not.
+24       Q    And we would have to take Michael Cohen's word for it;
+25   correct?
 Lisa Kramsky,
 Senior Court Reporter

@@ -1,29 +1,29 @@
-J.Jarmel—Schneider — Direct/Conroy
+J.Jarmel-Schneider - Direct/Conroy
 3209
-1 as People's 342 for everybody.
-2 (Displayed.)
-3 Q. And if you could, again, sort of explain to us about
-4 what the different columns are and what we're seeing.
-5 Is this a representative example of one of the
-6 summaries that you created?
-7 A. Somewhat short one, but, yes.
-8 Q. But, basically, they all look the same; some may be
-9 longer?
-10 A. Yes.
-11 Q. Is this call between Michael Cohen and Allen
-12 Weisselberg?
-13 A. Yes.
-14 Q. Do we see that on the top left of the chart?
-15 A. Yes.
-16 Q. We saw some redactions. What is redacted in these
-17 charts?
-18 A. The first six digits of every phone number.
-19 Q. What are the numbers next to Michael Cohen and the name
-20 Allen Weisselberg?
-21 A. Michael Cohen has 0114 and Allen Weisselberg has 7224
-22 and 4509.
-23 Q. Can you walk us through what this chart demonstrates?
-24 A. So the left column is the date and time in Eastern
-25 Time.
+1        as People's 342 for everybody.
+2                 (Displayed.)
+3       Q.   And if you could, again, sort of explain to us about
+4   what the different columns are and what we're seeing.
+5            Is this a representative example of one of the
+6   summaries that you created?
+7       A.   Somewhat short one, but, yes.
+8       Q.   But, basically, they all look the same; some may be
+9   longer?
+10       A.   Yes.
+11       Q.   Is this call between Michael Cohen and Allen
+12   Weisselberg?
+13       A.   Yes.
+14       Q.   Do we see that on the top left of the chart?
+15       A.   Yes.
+16       Q.   We saw some redactions.  What is redacted in these
+17   charts?
+18       A.   The first six digits of every phone number.
+19       Q.   What are the numbers next to Michael Cohen and the name
+20   Allen Weisselberg?
+21       A.   Michael Cohen has 0114 and Allen Weisselberg has 7224
+22   and 4509.
+23       Q.   Can you walk us through what this chart demonstrates?
+24       A.   So the left column is the date and time in Eastern
+25   Time.
 Theresa Magniccari
 Senior Court Reporter

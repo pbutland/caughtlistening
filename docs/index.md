@@ -4,6 +4,20 @@ Your one-stop-shop for fully searchable versions of the court transcripts for th
 
 It appears that the transcripts are getting published on to the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) on the next business day somewhere between 20:00-22:30 UTC time.  We will endeavour to publish them here as soon as possible (usually within a few hours).
 
+## About
+
+This site was originally created because transcripts for the trial were being published as images which made it impossible to search them.  However, since this project started, these original transcripts have now been replaced by PDF versions.  
+The PDFs on this site are simply copies of what has been published on the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) website.  
+
+### Audio
+
+Another goal of this project was to see if it was possible to generate an audio version of the transcripts using Text-To-Speech (TTS).
+
+A proof of concept (POC) was done using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. A sample of the generated audio can be found [here](https://github.com/pbutland/caughtlistening/raw/main/transcript-sample-elevenlabs.mp3).  
+An additional POC was also done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  A sample of the generated audio using v1 can be found [here](https://github.com/pbutland/caughtlistening/raw/main/transcript-sample-openvoice-v1.mp3) and using v2 [here](https://github.com/pbutland/caughtlistening/raw/main/transcript-sample-openvoice-v2.mp3).
+
+The code for the audio generation can be found at the [project site](https://github.com/pbutland/caughtlistening-tools/).  However, with the exception of the last transcript containing the verdict, audio files have not been posted here due to how time consuming that process can be.
+
 ## Transcripts
 
 ### Monday 22<sup>nd</sup> April 2024
@@ -141,4 +155,4 @@ The original transcripts hosted at <https://pdfs.nycourts.gov/PeopleVs.DTrump-71
 
 ## Additional information
 
-For more information on how these files were generated please refer to the [project site](https://github.com/pbutland/caughtlistening/).
+For more information on how these files were generated please refer to the [project site](https://github.com/pbutland/caughtlistening-tools/).

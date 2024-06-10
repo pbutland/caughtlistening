@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 2004
-1 were made.
-2 Q And you said it was from an app called "WhatsApp?"
-3 A That's correct.
-4 Q What is WhatsApp?
-5 A WhatsApp is an app, an encrypted app that users use to
-6 communicate with each other.
-7 Q And you said —— what is an encrypted app?
-8 A It just means that the conversation between you and the
-9 next party is encrypted.
-10 It can't be intercepted and/or vetted.
-11 Q WhatsApp is an example of that type of an app?
-12 A It's an example.
-13 Q Did you find other encrypted apps on either CP1 and/or
-14 CP2?
-15 A I did.
-16 Q Which ones did you find, if you remember?
-17 A Telegram and Signal.
-18 Q Now, if you recall, was People's 265, which is in
-19 evidence and was already in evidence, an audio recording that
-20 you extracted from CP2?
-21 A Yes, it was.
-22 MR. CONROY: Could we pull up what's in evidence as
-23 People's 266.
-24 And if you could blow that up a little bit.
-25 (Displayed.)
+1   were made.
+2       Q    And you said it was from an app called "WhatsApp?"
+3       A    That's correct.
+4       Q    What is WhatsApp?
+5       A    WhatsApp is an app, an encrypted app that users use to
+6   communicate with each other.
+7       Q    And you said -- what is an encrypted app?
+8       A    It just means that the conversation between you and the
+9   next party is encrypted.
+10       It can't be intercepted and/or vetted.
+11       Q    WhatsApp is an example of that type of an app?
+12       A    It's an example.
+13       Q    Did you find other encrypted apps on either CP1 and/or
+14   CP2?
+15       A    I did.
+16       Q    Which ones did you find, if you remember?
+17       A    Telegram and Signal.
+18       Q    Now, if you recall, was People's 265, which is in
+19   evidence and was already in evidence, an audio recording that
+20   you extracted from CP2?
+21       A    Yes, it was.
+22                MR. CONROY:  Could we pull up what's in evidence as
+23       People's 266.
+24                And if you could blow that up a little bit.
+25                (Displayed.)
 Lisa Kramsky,
 Senior Court Reporter

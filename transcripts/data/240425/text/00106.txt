@@ -1,29 +1,29 @@
-D. Pecker — Direct/Steinglass
+D. Pecker - Direct/Steinglass
 Page 1203
-1 A I wanted to be updated about Karen McDougal, since
-2 there was multiple press reports other than The Wall Street
-3 Journal.
-4 Q Just to be clear about that text, when you're asking
-5 for "any updates", was that —— what was the date and time of
-6 that?
-7 A That was November 6th.
-8 Q What was the time?
-9 A That would have been —— this would have been in
-10 Eastern time, New York time, so that would be 9:35.
-11 Q Do you happen to know when Daylight Savings Time ended
-12 in 2016?
-13 A That would be —— sometime in the winter.
-14 Q Okay.
-15 A Yeah.
-16 Q So, is it fair to say that the UTC time is either four
-17 or five hours ——
-18 A Yeah. It's four or five hours ——
-19 Q That's correct?
-20 A —— ahead of the time of New York.
-21 Q That's correct.
-22 When you asked for "any updates", how did Dylan Howard
-23 respond?
-24 A He responded back: "Status quo. Moving forward. No DV
-25 mentions. One day of discomfort and back to the campaign
+1       A    I wanted to be updated about Karen McDougal, since
+2   there was multiple press reports other than The Wall Street
+3   Journal.
+4       Q    Just to be clear about that text, when you're asking
+5   for "any updates", was that -- what was the date and time of
+6   that?
+7       A    That was November 6th.
+8       Q    What was the time?
+9       A    That would have been -- this would have been in
+10   Eastern time, New York time, so that would be 9:35.
+11       Q    Do you happen to know when Daylight Savings Time ended
+12   in 2016?
+13       A    That would be -- sometime in the winter.
+14       Q    Okay.
+15       A    Yeah.
+16       Q    So, is it fair to say that the UTC time is either four
+17   or five hours --
+18       A    Yeah.  It's four or five hours --
+19       Q    That's correct?
+20       A    -- ahead of the time of New York.
+21       Q    That's correct.
+22       When you asked for "any updates", how did Dylan Howard
+23   respond?
+24       A    He responded back:  "Status quo. Moving forward. No DV
+25   mentions. One day of discomfort and back to the campaign
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

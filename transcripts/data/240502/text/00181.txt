@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1984
-1 Q Once the intake has been done, what happens to the
-2 device?
-3 A Once the intake is done, it is assigned an analyst. In
-4 this case, it would have been me. We then look at the Search
-5 Warrant or Consent Form, make sure all the numbers are correct,
-6 and then proceed with the extraction of devices.
-7 Q Would it be fair to say that the person who does the
-8 intake is not always the person that does the analysis of a
-9 particular device?
-10 A Not always, that’s correct.
-11 Q Have you, yourself, extracted data from and performed
-12 analysis on smartphones, including Apple iPhones?
-13 A Yes, I have.
-14 Q Can you tell us a little bit more about the extraction
-15 process, specifically for a cell phone?
-16 A Depending upon whether it's an Android or an Apple
-17 iPhone, we then take it into a particular room. If we have a
-18 PIN code to it, then we’ll proceed with the extraction of the
-19 device.
-20 Q When you say, "If we have a PIN code," what do you
-21 mean?
-22 A In Consents, we are usually provided the PIN code.
-23 Q You mean the password?
-24 A That is correct.
-25 Q What types of tools or programs do you use to extract
+1       Q    Once the intake has been done, what happens to the
+2   device?
+3       A    Once the intake is done, it is assigned an analyst. In
+4   this case, it would have been me. We then look at the Search
+5   Warrant or Consent Form, make sure all the numbers are correct,
+6   and then proceed with the extraction of devices.
+7       Q    Would it be fair to say that the person who does the
+8   intake is not always the person that does the analysis of a
+9   particular device?
+10       A    Not always, that's correct.
+11       Q    Have you, yourself, extracted data from and performed
+12   analysis on smartphones, including Apple iPhones?
+13       A    Yes, I have.
+14       Q    Can you tell us a little bit more about the extraction
+15   process, specifically for a cell phone?
+16       A    Depending upon whether it's an Android or an Apple
+17   iPhone, we then take it into a particular room.  If we have a
+18   PIN code to it, then we'll proceed with the extraction of the
+19   device.
+20       Q    When you say, "If we have a PIN code," what do you
+21   mean?
+22       A    In Consents, we are usually provided the PIN code.
+23       Q    You mean the password?
+24       A    That is correct.
+25       Q    What types of tools or programs do you use to extract
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

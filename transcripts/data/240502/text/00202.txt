@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 2005
-1 Q What is People's 266?
-2 A This is the information about the recording.
-3 Q Is this the metadata for that recording?
-4 A It is.
-5 Q And what's the title of that recording?
-6 A The title was labeled "Keith Davidson, October 16th,
-7 2017."
-8 Q And was that recording made, if you know, on
-9 October 16th, 2017?
-10 A It was.
-11 Q And how do you know that?
-12 A Based upon the application called "Voice Memos," how it
-13 names the file itself and keeps track of the timestamp, that is
-14 embedded within the file.
-15 Q And do we see that same date in some of the other
-16 columns?
-17 A Yes, we do.
-18 Q Including in the timestamp date column?
-19 A That is correct.
-20 Q And also the timestamp time column?
-21 A Yes.
-22 Q And, again, that's all metadata forensically extracted
-23 from CP2?
-24 A That is correct.
-25 Q Now, can we look at People's 247.
+1       Q    What is People's 266?
+2       A    This is the information about the recording.
+3       Q    Is this the metadata for that recording?
+4       A    It is.
+5       Q    And what's the title of that recording?
+6       A    The title was labeled "Keith Davidson, October 16th,
+7   2017."
+8       Q    And was that recording made, if you know, on
+9   October 16th, 2017?
+10       A    It was.
+11       Q    And how do you know that?
+12       A    Based upon the application called "Voice Memos," how it
+13   names the file itself and keeps track of the timestamp, that is
+14   embedded within the file.
+15       Q    And do we see that same date in some of the other
+16   columns?
+17       A    Yes, we do.
+18       Q    Including in the timestamp date column?
+19       A    That is correct.
+20       Q    And also the timestamp time column?
+21       A    Yes.
+22       Q    And, again, that's all metadata forensically extracted
+23   from CP2?
+24       A    That is correct.
+25       Q    Now, can we look at People's 247.
 Lisa Kramsky,
 Senior Court Reporter

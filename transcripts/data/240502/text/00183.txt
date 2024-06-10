@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 1986
-1 smartphone?
-2 A Um, text messages, all types of software, call
-3 history, log files, anything that is normally on a phone.
-4 Q Can you get contact lists?
-5 A You can.
-6 Q Pictures?
-7 A Pictures.
-8 Q Calendar entries?
-9 A Calendar entries.
-10 Q Audio recordings?
-11 A Audios.
-12 Q Can you pull the phone number associated with the
-13 smartphone?
-14 A Absolutely.
-15 Q The user name?
-16 A The user name.
-17 Q Can you get emails?
-18 A You can.
-19 Q And can you get downloaded apps?
-20 A Yes, you may.
-21 Q Can you also get something called metadata?
-22 A You can.
-23 Q Can you tell us a little about what metadata is?
-24 A Simply, metadata is data about data.
-25 To give an analogy, let's say you look at a book. Before
+1   smartphone?
+2       A    Um, text messages, all types of software, call
+3   history, log files, anything that is normally on a phone.
+4       Q    Can you get contact lists?
+5       A    You can.
+6       Q    Pictures?
+7       A    Pictures.
+8       Q    Calendar entries?
+9       A    Calendar entries.
+10       Q    Audio recordings?
+11       A    Audios.
+12       Q    Can you pull the phone number associated with the
+13   smartphone?
+14       A    Absolutely.
+15       Q    The user name?
+16       A    The user name.
+17       Q    Can you get emails?
+18       A    You can.
+19       Q    And can you get downloaded apps?
+20       A    Yes, you may.
+21       Q    Can you also get something called metadata?
+22       A    You can.
+23       Q    Can you tell us a little about what metadata is?
+24       A    Simply, metadata is data about data.
+25       To give an analogy, let's say you look at a book. Before
 Laurie Eisenberg, CSR, RPR
 Senior Court Reporter

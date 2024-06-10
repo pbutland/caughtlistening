@@ -1,29 +1,29 @@
-J. McConney — Direct/Colangelo
+J. McConney - Direct/Colangelo
 2356
-1 A The account code is 51505.
-2 Q What does that account code respond to?
-3 A Legal Expenses.
-4 Q Did you testify that you reviewed this document
-5 earlier?
-6 A Yeah.
-7 Q What does the rest of the document show?
-8 A 1 am not sure I understand your question.
-9 Q Let's take this down and go to page three.
-10 Can you tell us what page three shows?
-11 A They are expenses or payments that were posted to
-12 account 51505, Legal Expense.
-13 Q Does it show them in a particular order?
-14 A They are in date order.
-15 Q Let's display page four.
-16 What does this page show?
-17 A The same thing, the legal expenses posted to account
-18 51505.
-19 Q And is that from the DJT REV entity?
-20 A Yes. So, it's still part of the DJT General Ledger.
-21 Q For 2018?
-22 A This is for part of 2018, yes.
-23 Q Let's advance to the next page.
-24 What does this show?
-25 A The top of the page shows postings to account 51505,
-Susan Pearce—Bates, RPR, CCR, RSA
+1       A    The account code is 51505.
+2       Q    What does that account code respond to?
+3       A    Legal Expenses.
+4       Q    Did you testify that you reviewed this document
+5   earlier?
+6       A    Yeah.
+7       Q    What does the rest of the document show?
+8       A    I am not sure I understand your question.
+9       Q    Let's take this down and go to page three.
+10            Can you tell us what page three shows?
+11       A    They are expenses or payments that were posted to
+12   account 51505, Legal Expense.
+13       Q    Does it show them in a particular order?
+14       A    They are in date order.
+15       Q    Let's display page four.
+16            What does this page show?
+17       A    The same thing, the legal expenses posted to account
+18   51505.
+19       Q    And is that from the DJT REV entity?
+20       A    Yes.  So, it's still part of the DJT General Ledger.
+21       Q    For 2018?
+22       A    This is for part of 2018, yes.
+23       Q    Let's advance to the next page.
+24            What does this show?
+25       A    The top of the page shows postings to account 51505,
+Susan Pearce-Bates, RPR, CCR, RSA
 Principal Court Reporter

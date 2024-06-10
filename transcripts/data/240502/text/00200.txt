@@ -1,29 +1,29 @@
-D. Daus — Direct/Conroy
+D. Daus - Direct/Conroy
 2003
-1 A Yes, it is.
-2 Q Again, a Cellebrite report?
-3 A That's correct.
-4 Q So this was extracted, this is part of your forensic
-5 extraction of the phone?
-6 A Yes, it is.
-7 Q What —— can you tell us again the date, and sort of
-8 walk us through the columns?
-9 A As mentioned before, so date, time, and description,
-10 February 8th, 2017, at 4:30 p.m., of a calendar event.
-11 The description is called "Meeting with POTUS."
-12 Q And, again, up there, can you tell us about the time
-13 zone, you see UTC minus five. Can you tell us what time zone
-14 this is in?
-15 A Eastern Standard Time. This is before the time changes
-16 in March.
-17 This is February, so that's why it's minus five.
-18 MR. CONROY: Could we now look at People's 261 in
-19 evidence.
-20 (Displayed.)
-21 Q What is this report?
-22 A It's another report of a call log from the WhatsApp
-23 application that existed on the device.
-24 Q What is a call log?
-25 A A call log is just a log that identifies when calls
+1       A    Yes, it is.
+2       Q    Again, a Cellebrite report?
+3       A    That's correct.
+4       Q    So this was extracted, this is part of your forensic
+5   extraction of the phone?
+6       A    Yes, it is.
+7       Q    What -- can you tell us again the date, and sort of
+8   walk us through the columns?
+9       A    As mentioned before, so date, time, and description,
+10   February 8th, 2017, at 4:30 p.m., of a calendar event.
+11       The description is called "Meeting with POTUS."
+12       Q    And, again, up there, can you tell us about the time
+13   zone, you see UTC minus five.  Can you tell us what time zone
+14   this is in?
+15       A    Eastern Standard Time.  This is before the time changes
+16   in March.
+17       This is February, so that's why it's minus five.
+18              MR. CONROY:  Could we now look at People's 261 in
+19   evidence.
+20                   (Displayed.)
+21       Q    What is this report?
+22       A    It's another report of a call log from the WhatsApp
+23   application that existed on the device.
+24       Q    What is a call log?
+25       A    A call log is just a log that identifies when calls
 Lisa Kramsky,
 Senior Court Reporter

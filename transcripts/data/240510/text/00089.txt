@@ -1,29 +1,29 @@
-G. Longstreet—Joseph — Direct/Mangold
+G. Longstreet-Joseph - Direct/Mangold
 3177
-1 Q. What is UTC time?
-2 A. UTC time is a standardized time zone for everybody.
-3 So I don't remember exactly what UTC stands for. It's three
-4 hours ahead based —— depending on when Daylight Savings is.
-5 Q. Does it correspond with time zones in London?
-6 A. Yes.
-7 Q. So the New York time zone for these might depend on
-8 whether it was Daylight Savings Time or not?
-9 A. Yes.
-10 MS. MANGOLD: If we can zoom back out.
-11 Q. Do you see there are portions of this exhibit that have
-12 been redacted?
-13 A. Yes.
-14 Q. Who redacted this?
-15 A. I did.
-16 Q. All right.
-17 Now, turning back to the first page of the document.
-18 Focusing on the first five text messages on the right and
-19 showing the "to" and "from" column.
-20 Were all of these text messages sent on the same date?
-21 A. Yes.
-22 Q. What date is that?
-23 A. April 7, 2016.
-24 Q. Can you please read these text messages to the jury
-25 identifying who they're from and who they're to?
+1       Q.   What is UTC time?
+2       A.   UTC time is a standardized time zone for everybody.
+3   So I don't remember exactly what UTC stands for.  It's three
+4   hours ahead based -- depending on when Daylight Savings is.
+5       Q.   Does it correspond with time zones in London?
+6       A.   Yes.
+7       Q.   So the New York time zone for these might depend on
+8   whether it was Daylight Savings Time or not?
+9       A.   Yes.
+10                 MS. MANGOLD:  If we can zoom back out.
+11       Q.   Do you see there are portions of this exhibit that have
+12   been redacted?
+13       A.   Yes.
+14       Q.   Who redacted this?
+15       A.   I did.
+16       Q.   All right.
+17            Now, turning back to the first page of the document.
+18   Focusing on the first five text messages on the right and
+19   showing the "to" and "from" column.
+20            Were all of these text messages sent on the same date?
+21       A.   Yes.
+22       Q.   What date is that?
+23       A.   April 7, 2016.
+24       Q.   Can you please read these text messages to the jury
+25   identifying who they're from and who they're to?
 Theresa Magniccari
 Senior Court Reporter
