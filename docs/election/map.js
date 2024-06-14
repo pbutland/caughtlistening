@@ -45,8 +45,8 @@ async function initChart(data) {
         },
         tooltip: {
             useHTML: true,
-            headerFormat: '<table class="map-tooltip"><caption>{point.key}</caption><tr><th>Party</th><th>Electors</th><th>Votes</th></tr>',
-            pointFormat: '<tr><td>Dem.</td><td>{point.custom.elVotesDem}</td><td>{point.custom.votesDem}%</td></tr>' +
+            headerFormat: '<table class="map-tooltip"><caption>{point.key}</caption>',
+            pointFormat: '<caption>({point.custom.latestPollDate})</caption><tr><th>Party</th><th>Electors</th><th>Votes</th></tr><tr><td>Dem.</td><td>{point.custom.elVotesDem}</td><td>{point.custom.votesDem}%</td></tr>' +
                 '<tr><td>Rep.</td><td>{point.custom.elVotesRep}</td><td>{point.custom.votesRep}%</td></tr>' +
                 '<tr><th colspan="3">{point.custom.winner}</th></tr>',
             footerFormat: '</table>'

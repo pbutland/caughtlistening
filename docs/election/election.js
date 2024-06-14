@@ -50,6 +50,9 @@ async function transform538Data(data) {
         nationalRepElVotes += repElVotes;
         nationalTotalVotes += totalVotes;
 
+        const earliestDate = Math.min.apply(null, state.polls.map(poll => Date.parse(poll.endDate)));
+        const latestDate = Math.max.apply(null, state.polls.map(poll => Date.parse(poll.endDate)));
+
         return {
             ucName: state.ucName,
             value: diff.toFixed(2),
@@ -61,6 +64,7 @@ async function transform538Data(data) {
                 votesRep: repPct.toFixed(2),
                 state_votes: state.state_votes,
                 sample_size: totalVotes,
+                latestPollDate: latestDate === earliestDate ? new Date(latestDate).toLocaleDateString() : `${new Date(earliestDate).toLocaleDateString()} - ${new Date(latestDate).toLocaleDateString()}`,
             }
         };
     }).sort((lhs, rhs) => lhs.ucName.localeCompare(rhs.ucName));
