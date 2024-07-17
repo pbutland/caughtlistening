@@ -31,11 +31,12 @@ Within each directory for each trial there are the following subdirectories:
 
 That describes the "raw" data.  However, at the top `transcripts` directory level, there are also the following files:
 
-| filename           | description                                                                         |
-|--------------------|-------------------------------------------------------------------------------------|
-| `<YYMMDD>.txt`     | formatted text combining all of the individual generated text files for each trial  |
-| `<YYMMDD>.pdf`     | PDF file which is an exact copy of the original transcripts                         |
-| `<YYMMDD>.json`    | json file containing pertinent information for each line in a transcript            |
+| filename                    | description                                                                         |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| `<YYMMDD>.txt`              | formatted text combining all of the individual generated text files for each trial  |
+| `<YYMMDD>.pdf`              | PDF file which is an exact copy of the original transcripts                         |
+| `<YYMMDD>.json`             | json file containing pertinent information for each line in a transcript            |
+| `<YYMMDD>-openvoice-v1.mp3` | MP3 audio file representing a TTS of a transcript using OpenVoice V1                |
 
 ## Generated text
 
