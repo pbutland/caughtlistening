@@ -26,7 +26,7 @@ async function updateResultsBar(data) {
     const repVotes = data.filter(item => item.ucName !== 'NATIONAL').reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
 
     let element = document.getElementById('info-dem1');
-    element.innerHTML = `Biden: ${demVotes}`;
+    element.innerHTML = `Harris: ${demVotes}`;
 
     element = document.getElementById('info-rep1');
     element.innerHTML = `Trump: ${repVotes}`;
