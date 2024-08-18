@@ -307,7 +307,7 @@ async function initDateSlider(data) {
         range: true,
         min: minDate.getTime() / 1000,
         max: maxDate.getTime() / 1000,
-        step: 604800,
+        step: 86400,
         values: [minDate.getTime() / 1000, maxDate.getTime() / 1000],
         slide: function (event, ui) {
             const minDate = new Date(ui.values[0] * 1000);
