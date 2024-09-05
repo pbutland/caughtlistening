@@ -15,9 +15,11 @@ function setBinValue(bins, idx, item, binRange, numBins) {
         bins[idx] = {
             votes: 0,
             range: range,
+            ucNames: ''
         };
     }
     bins[idx].votes = bins[idx].votes + item.custom.state_votes;
+    bins[idx].ucNames += `${item.ucName}<br/>`;
 }
 
 async function updateResultsBar(data) {
@@ -69,7 +71,7 @@ async function updateResultsBar(data) {
             div.innerText = item.votes;
             const span = document.createElement('span');
             span.className = 'bar-segment-tooltip';
-            span.innerText = `${item.range}`;
+            span.innerHTML = `${item.range}<br/><br/>${item.ucNames}`;
             div.appendChild(span);
         }
         div.className = 'bar-segment';
@@ -108,7 +110,7 @@ async function updateResultsBar(data) {
             div.innerText = item.votes;
             const span = document.createElement('span');
             span.className = 'bar-segment-tooltip';
-            span.innerText = `${item.range}`;
+            span.innerHTML = `${item.range}<br/><br/>${item.ucNames}`;
             div.appendChild(span);
         }
         div.className = 'bar-segment';
