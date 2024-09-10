@@ -141,7 +141,7 @@ function getColour(value, winner) {
     }
 
     if (value === 0) {
-        return '#ffffff';
+        return '#cccccc';
     }
 
     if (value >= 20) {
@@ -207,7 +207,10 @@ function updateResultsBarByState(data, demBins, demVotes, repBins, repVotes) {
         series: [
             {
                 name: 'States',
-                data: votes
+                data: votes,
+                dataLabels: {
+                    enabled: true
+                }
             }
         ]
     });
