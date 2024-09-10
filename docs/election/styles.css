@@ -63,7 +63,7 @@ body {
     justify-content: center;
     flex-direction: column;
 
-    height: 100px;
+    height: 400px;
     padding: 15px;
     gap: 5px;
     margin-top: 10px;
@@ -87,7 +87,7 @@ body {
 
     border-radius: 5px;
     background-color: #474554;
-    height: 150px;
+    height: 450px;
     padding: 15px;
     margin: 20px;
     gap: 5px;
@@ -155,6 +155,11 @@ body {
     padding: 0px;
     top: -70px;
     margin: 0px;
+}
+
+#results-chart {
+    border-radius: 5px;
+    background-color: white;
 }
 
 #results-container div {

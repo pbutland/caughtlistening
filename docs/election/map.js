@@ -36,7 +36,8 @@ async function initChart(data) {
             },
             stops: [
                 [0, '#0913df'], // Blue
-                [0.5, '#caccfd'], // Light Blue
+                [0.49, '#caccfd'], // Light Blue
+                [0.5, '#ffffff'], // White
                 [0.51, '#fdccca'], // Light Red
                 [1, '#df1309'] // Red
             ],

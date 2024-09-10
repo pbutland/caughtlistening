@@ -283,6 +283,10 @@ async function addTrend(stateName, polls) {
 }
 
 async function updateDataTableMetaData(data) {
+    const table = document.getElementById('data-table-container');
+    if (table === null) {
+        return;
+    }
     data.forEach(state => {
         addPolls(state.ucName, state.polls);
         addSponsors(state.ucName, state.polls.map(poll => poll.sponsors).flat().filter(sponsors => sponsors !== undefined));
@@ -293,7 +297,11 @@ async function updateDataTableMetaData(data) {
 
 async function updateDataTable(data) {
     // Add data values to data table
-    const table = document.getElementById("data-table").getElementsByTagName('tbody')[0];
+    const table = document.getElementById("data-table")?.getElementsByTagName('tbody')[0];
+    if (table === undefined) {
+        return;
+    }
+
     table.innerHTML = '';
     data.forEach((item, index) => {
         // Add values to data table

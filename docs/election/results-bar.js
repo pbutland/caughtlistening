@@ -28,6 +28,9 @@ async function updateResultsBar(data) {
     const repVotes = data.filter(item => item.ucName !== 'NATIONAL').reduce((partialSum, a) => partialSum + a.custom.elVotesRep, 0);
 
     let element = document.getElementById('info-dem1');
+    if (element === undefined || element == null) {
+        return;
+    }
     element.innerHTML = `Harris: ${demVotes}`;
 
     element = document.getElementById('info-rep1');
@@ -53,9 +56,14 @@ async function updateResultsBar(data) {
         }
     });
 
+    updateResultsBarByState(data, demBins, demVotes, repBins, repVotes);
+
     // create divs for result bar
     let demColour = '#0913df';
     const resultsBar = document.getElementById("results-bar");
+    if (resultsBar === null) {
+        return;
+    }
     resultsBar.innerHTML = '';
     let firstNonZero = true;
     demBins.reverse().forEach((item, index) => {
@@ -119,5 +127,88 @@ async function updateResultsBar(data) {
     });
     repDivs.reverse().forEach(div => {
         resultsBar.appendChild(div);
+    });
+}
+
+function scale (number, inMin, inMax, outMin, outMax) {
+    return (number - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
+}
+
+function getColour(value, winner) {
+    let baseColour = '#0913df';
+    if (winner === 'Republican') {
+        baseColour = '#df1309';
+    }
+
+    if (value === 0) {
+        return '#ffffff';
+    }
+
+    if (value >= 20) {
+        return baseColour; 
+    }
+
+    const multiplier = Math.floor(((20 - value) / 2) * 7);
+    return `#${lightenColour(baseColour, multiplier)}`;
+}
+
+function updateResultsBarByState(data, demBins, demVotes, repBins, repVotes) {
+    const resultsBar = document.getElementById("results-chart");
+    if (resultsBar === null) {
+        return;
+    }
+
+    const filteredData = data.filter(item => item.ucName !== 'NATIONAL').sort((lhs, rhs) => lhs.value - rhs.value);
+    const categories = filteredData.map(item => item.ucName);
+    const votes = filteredData.map((item, idx) => {
+        return { x: idx, y: item.custom.state_votes, color: getColour(Math.abs(item.value), item.custom.winner), diff: Math.abs(item.value) };
+    });
+
+    Highcharts.chart('results-chart', {
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: '',
+        },
+        tooltip: {
+            pointFormat: 'Votes: <b>{point.y}</b><br/>Diff: {point.diff}%'
+        },
+        xAxis: {
+            categories,
+            crosshair: true,
+            tickInterval: 1,
+            labels: {
+                style: {
+                fontSize: '0.6em'
+                },
+                step: 1
+            },
+            title: {
+                text: ''
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Electoral college votes'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            series: {
+                dataLabels: {
+                    allowOverlap: true
+                }
+            }
+        },
+        series: [
+            {
+                name: 'States',
+                data: votes
+            }
+        ]
     });
 }

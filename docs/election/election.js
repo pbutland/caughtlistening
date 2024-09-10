@@ -33,6 +33,20 @@ async function transform538Data(data) {
     let nationalRepElVotes = 0;
     let nationalTotalVotes = 0;
     const transformed = data.map(state => {
+        if (state.polls.length === 0) {
+            return {
+                ucName: state.ucName,
+                value: 0,
+                custom: {
+                    state_votes: state.state_votes,
+                    elVotesDem: 0,
+                    elVotesRep: 0,
+                    votesDem: 0,
+                    votesRep: 0,
+                }
+            }
+        }
+
         // Aggregate votes from all polls
         const demVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Dem').pct) / 100) * parseInt(a.sampleSize), 0);
         const repVotes = state.polls.reduce((partialSum, a) => partialSum + (parseInt(a.answers.find(i => i.party === 'Rep').pct) / 100) * parseInt(a.sampleSize), 0);
@@ -55,7 +69,7 @@ async function transform538Data(data) {
 
         return {
             ucName: state.ucName,
-            value: diff.toFixed(2),
+            value: isNaN(diff) ? 0 : diff.toFixed(2),
             custom: {
                 winner: diff > 0 ? 'Republican' : 'Democrat',
                 elVotesDem: demElVotes,
@@ -116,7 +130,11 @@ async function update(event, includeTableMetaData = true, minDate, maxDate) {
 
     if (minDate && maxDate) {
         data.forEach(state => {
-            state.polls = state.polls.filter(poll => Date.parse(poll.endDate) > minDate && Date.parse(poll.endDate) < maxDate);
+            const polls = state.polls.filter(poll => Date.parse(poll.endDate) > minDate && Date.parse(poll.endDate) < maxDate);
+            if (polls.length !== 0) {
+                // Revert to historical data if no polls within timeframe
+                state.polls = polls;
+            }
         });
     }
 
