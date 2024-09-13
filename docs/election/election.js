@@ -316,10 +316,14 @@ async function addPollsters(data) {
 
 async function initDateSlider(data) {
     const dates = data.map(state => state.polls).flat().map(poll => poll.endDate).map(date => Date.parse(date)).filter(date => date !== undefined).flat();//.getTime());
-    const minDate = new Date(Math.min(...dates));
-    const maxDate = new Date(Math.max(...dates));
+    const minMillis = Math.min(...dates);
+    const maxMillis = Math.max(...dates);
+    const minDate = new Date(minMillis);
+    const maxDate = new Date(maxMillis);
     const timeLineTitle = document.getElementById('time-line-title');
     timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
+    animateMinDate = minMillis;
+    animateMaxDate = maxMillis;
 
     $("#time-line").slider({
         range: true,
@@ -328,17 +332,23 @@ async function initDateSlider(data) {
         step: 86400,
         values: [minDate.getTime() / 1000, maxDate.getTime() / 1000],
         slide: function (event, ui) {
-            const minDate = new Date(ui.values[0] * 1000);
-            const maxDate = new Date(ui.values[1] * 1000);
+            const minMillis = ui.values[0] * 1000;
+            const maxMillis = ui.values[1] * 1000;
+            const minDate = new Date(minMillis);
+            const maxDate = new Date(maxMillis);
             const timeLineTitle = document.getElementById('time-line-title');
             timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
             update(null, false, minDate, maxDate);
         },
         stop: function (event, ui) {
-            const minDate = new Date(ui.values[0] * 1000);
-            const maxDate = new Date(ui.values[1] * 1000);
+            const minMillis = ui.values[0] * 1000;
+            const maxMillis = ui.values[1] * 1000;
+            const minDate = new Date(minMillis);
+            const maxDate = new Date(maxMillis);
             const timeLineTitle = document.getElementById('time-line-title');
             timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
+            animateMinDate = minMillis;
+            animateMaxDate = maxMillis;
             update(null, true, minDate, maxDate);
         }
     });
@@ -350,22 +360,4 @@ async function initDateSlider(data) {
     addPollsters(allData);
     initDateSlider(allData);
     update(undefined, true);
-
-    // animation
-    // let min = 1719756000000;
-    // const max = 1723989600000;
-    // let timerId = setInterval(function() {
-    //     if (min <= (max-(86400000*7))) {
-    //         const minDate = new Date(min);
-    //         const maxDate = new Date(max);
-    //         $("#time-line").slider({
-    //             values: [minDate.getTime() / 1000, maxDate.getTime() / 1000],
-    //         });
-    //         const timeLineTitle = document.getElementById('time-line-title');
-    //         timeLineTitle.innerText = `Timeline (${minDate.toLocaleDateString()} - ${maxDate.toLocaleDateString()})`;
-    //         update(null, true, minDate, maxDate);
-    //         min += 86400000;
-    //     }
-    // }, 500);
-    // setTimeout(() => { if (min >= (max-(86400000*7))) { clearInterval(timerId); }}, 500);
 })();

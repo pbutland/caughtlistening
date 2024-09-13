@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+    <script src="animate.js"></script>
     <script src="election.js"></script>
     <script src="map.js"></script>
     <script src="results-bar.js"></script>
@@ -44,6 +45,11 @@
                         checked><label id="all-polls-label" for="pollster-all"> All polls</label></div>
                 <div id="pollsters">
                 </div>
+            </div>
+            <div id="animate-container">
+                <div id="animate-title" class="options-title">Animation</div>
+                <div><input type="checkbox" id="animate" name="animate" value="animate" onclick="blah()">
+                    <label id="animate-label" for="animate"> Animate</label></div>
             </div>
         </div>
         <div>

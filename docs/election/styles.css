@@ -272,6 +272,11 @@ body {
     overflow: auto;
 }
 
+#animate-container {
+    flex-grow: 1;
+    margin-left: 50px;
+}
+
 .options-title {
     padding-bottom: 12px;
     font-weight: 700;
