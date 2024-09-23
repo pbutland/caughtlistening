@@ -359,5 +359,6 @@ async function initDateSlider(data) {
     updateVoters(allData);
     addPollsters(allData);
     initDateSlider(allData);
-    update(undefined, true);
+    const dates = allData.map(state => state.polls).flat().map(poll => poll.endDate).map(date => Date.parse(date)).filter(date => date !== undefined).flat();//.getTime());
+    update(undefined, true, 1722434400000, Math.max(...dates));
 })();
