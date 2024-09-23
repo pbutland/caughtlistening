@@ -316,7 +316,7 @@ async function addPollsters(data) {
 
 async function initDateSlider(data) {
     const dates = data.map(state => state.polls).flat().map(poll => poll.endDate).map(date => Date.parse(date)).filter(date => date !== undefined).flat();//.getTime());
-    const minMillis = Math.min(...dates);
+    const minMillis = 1722434400000; //Math.min(...dates);
     const maxMillis = Math.max(...dates);
     const minDate = new Date(minMillis);
     const maxDate = new Date(maxMillis);
