@@ -6,7 +6,9 @@ The transcripts are published on the [New York State Unified Court System](https
 
 ## About
 
-This site was originally created because transcripts for the trial were being published as images which made it impossible to search them.  However, since this project started, these original transcripts have now been replaced by PDF versions.  
+This site was created because transcripts for the trial were originally being published as images which made it impossible to search them.
+The original purpose of this site was to use OCR to convert these images into the standard PDF format as used for other court transcripts published by the New York State Unified Court System.
+However, since this project started, these original image based transcripts have now been replaced by PDF versions.  
 The PDFs on this site are simply copies of what has been published on the [New York State Unified Court System](https://ww2.nycourts.gov/press/index.shtml) website.  
 
 ### Audio
@@ -17,6 +19,48 @@ A proof of concept (POC) was done using the [ElevenLabs](https://elevenlabs.io/)
 An additional POC was also done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  A sample of the generated audio using v1 can be found [here](https://github.com/pbutland/caughtlistening/raw/main/transcript-sample-openvoice-v1.mp3) and using v2 [here](https://github.com/pbutland/caughtlistening/raw/main/transcript-sample-openvoice-v2.mp3).
 
 The code for the audio generation can be found at the [project site](https://github.com/pbutland/caughtlistening-tools/).
+
+### Conversion flow
+
+The following flow depicts all of the conversions that are possible using the tools in the project link above.
+
+```
+                       ┌───────┐
+                       │ HTML  │
+                       └───────┘
+                           |
+                           |
+                       (html2png)
+                           |
+                           V
+                       ┌───────┐
+                       │  PNG  │
+                       └───────┘
+                           |
+                           |
+                       (png2txt)
+                           |
+                           V
+┌───────┐              ┌───────┐               ┌───────┐
+│  PDF  │──(pdf2txt)──>│  TXT  │──(txt2pdf)───>│  PDF  │
+└───────┘              └───────┘               └───────┘
+                           |
+                           |
+                       (txt2json)
+                           |
+                           V
+                       ┌───────┐               ┌───────┐
+                       │ JSON  │──(json2txt)──>│  TXT  │
+                       └───────┘               └───────┘
+                           |
+                           |
+                       (json2mp3)
+                           |
+                           V
+                       ┌───────┐
+                       │  MP3  │
+                       └───────┘
+```
 
 ## Transcripts
 
