@@ -58,9 +58,9 @@ Great question!
 
 The original intent of this project was to see if it was possible to generate an audio version of the transcripts using Text-To-Speech (TTS).
 
-A proof of concept (POC) was done based on the data within this repository, using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. Here is a sample of the generated audio [here](transcript-sample-elevenlabs.mp3).  
-An additional POC was done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  Samples of the generated audio for v1 and v2 can be found [here](transcript-sample-openvoice-v1.mp3) and [here](transcript-sample-openvoice-v2.mp3) respectively.
-Both POCs can be found at [caughtlistening-tools](https://github.com/pbutland/caughtlistening-tools).
+A proof of concept (POC) was done based on the data within this repository, using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. Here is a sample of the generated audio [here](transcript-audio-sample.mp3).  
+An additional POC was done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  Finally, audios for all transcripts were generated using OpenVoice (v1) which can be found [here](./transcripts).
+Code for both POCs can be found at [caughtlistening-tools](https://github.com/pbutland/caughtlistening-tools).
 
 ## Disclaimers
 
