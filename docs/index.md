@@ -15,8 +15,8 @@ The PDFs on this site are simply copies of what has been published on the [New Y
 
 Another goal of this project was to see if it was possible to generate an audio version of the transcripts using Text-To-Speech (TTS).
 
-A proof of concept (POC) was done based on the data within this repository, using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. Here is a sample of the generated audio [here](../transcript-audio-sample.mp3).  
-An additional POC was done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  Finally, audios for all transcripts were generated using OpenVoice (v1) which can be found [here](../transcripts).
+A proof of concept (POC) was done based on the data within this repository, using the [ElevenLabs](https://elevenlabs.io/) voice API to synthesize voices.  Allocating a different voice for each character. Here is a sample of the generated audio [here](https://github.com/pbutland/caughtlistening/blob/main/transcript-audio-sample.mp3).  
+An additional POC was done using [OpenVoice](https://github.com/myshell-ai/OpenVoice).  Finally, audios for all transcripts were generated using OpenVoice (v1) which can be found [here](https://github.com/pbutland/caughtlistening/blob/main/transcripts).
 
 The code for the audio generation can be found at the [project site](https://github.com/pbutland/caughtlistening-tools/).
 
